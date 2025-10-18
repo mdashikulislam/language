@@ -1,0 +1,529 @@
+{
+    "common": {
+        "loginAsGuest": "Mehmon sifatida davom etish",
+        "continue": "Davom etish",
+        "apply": "Qo'llash",
+        "save": "Saqlash",
+        "scan": "Hozir skanerlash",
+        "next": "Keyingi",
+        "powered": "Tomonidan quvvatlanadi:",
+        "scan_qr_code": "QR Kodni skanerlash",
+        "or": "yoki",
+        "shop_now": "Hozir xarid qilish",
+        "dermis": "Dermis",
+        "resend_code": "Kodni qayta yuborish",
+        "view_rewards": "Mening mukofotlarimni ko'rish",
+        "change_icon": "Belgini o'zgartirish",
+        "reset_icon": "Belgini tiklash",
+        "my_points": "Mening ballarimni ko'rish",
+        "see_more": "Ko'proq ko'rish",
+        "see_benifits": "Afzalliklarni ko'rish",
+        "show_all": "Barchasini ko'rsatish",
+        "rewards": "Mukofotlar",
+        "cash": "{{amount}}",
+        "discount_cash": "-${{amount}}",
+        "can_convert": "Aylantirish mumkin",
+        "clinic_cash": "{{clinic}} Naqd puli",
+        "checkout": "To'lov",
+        "save_address": "Manzilni hisobimga saqlash",
+        "call_now": "Hozir qo'ng'iroq qilish",
+        "apply_filter": "Filtrni qo'llash",
+        "filter_by": "Bo'yicha filtrlash",
+        "reset_filter": "Filtrni tiklash",
+        "unit_number": "{{quantity}} birlik",
+        "add_to_cart": "Savatga qo'shish",
+        "treatments": "Muolajalar",
+        "products": "Mahsulotlar",
+        "membership": "A'zolik",
+        "treat_today": "Bugun muolaja oling. Keyinroq to'lang.",
+        "earn": " mukofotlar ishlab toping.",
+        "search": "Qidirish",
+        "settings": "Sozlamalar",
+        "save_big": "Katta tejash",
+        "browse_shop": "Do'konni ko'rish",
+        "filter": "Filtr",
+        "sort": "Saralash",
+        "referral": "Tavsiya kodi",
+        "enter_referral": "Tavsiya kodingizni kiriting",
+        "enter_referral_description": "Maxsus imtiyozlar olish uchun tavsiya kodingizni kiriting",
+        "submit": "Yuborish",
+        "skip": "O'tkazib yuborish",
+        "have_referral": "Tavsiya kodingiz bormi?",
+        "ok": "OK",
+        "cancel": "Bekor qilish"
+    },
+    "deleteAccount": {
+        "title": "Hisobni o'chirish",
+        "description": "Hisobingizni o'chirishni xohlaysizmi?",
+        "note": "Barcha ma'lumotlaringiz va obunalaringiz butunlay o'chiriladi.",
+        "yes": "Ha",
+        "no": "Yo'q"
+    },
+    "home": {
+        "last_visited": "{{name}}, sizni {{days_count}} kundan beri ko'rmadik...",
+        "days_count": "Sizni {{days_count}} kundan beri ko'rmadik...",
+        "offer": "Shuning uchun biz rad eta olmaydigan taklif tayyorladik!",
+        "unwrap": "Ochish uchun bosing",
+        "recently_viewed": "Yaqinda ko'rilganlar",
+        "save": "{{amount}} tejash",
+        "save2": " {{clinic}} a'zosi sifatida",
+        "save_paragraph": "Bepul muolajalar. Eksklyuziv afzalliklar.",
+        "ad_title": "Bugun muolaja oling. Keyinroq to'lang. Mukofotlar ishlab toping.",
+        "ad_description": "Kechikish to'lovlarisiz oylik to'lovlarni amalga oshiring",
+        "educate_yourself": "O'zingizni o'qing"
+    },
+    "language": {
+        "english": "Ingliz tili",
+        "french": "Fransuz tili"
+    },
+    "onboarding": {
+        "welcome": "Xush kelibsiz",
+        "welcome_message": "Qonnect'ga xush kelibsiz!",
+        "rewards": "Yangi a'zolar uchun bepul mukofotlar!",
+        "birthdays": "Bepul tug'ilgan kun sovg'alari",
+        "events": "Faqat a'zolar uchun tadbirlar va takliflar",
+        "phone_request": "Telefon raqamingizni olsak bo'ladimi?",
+        "login_with_phone": "Telefon raqamingiz bilan ro'yxatdan o'ting yoki kiring!",
+        "terms": {
+            "agree": "Men ",
+            "terms_of_service": "Xizmat ko'rsatish shartlariga ",
+            "and": " va ",
+            "privacy": "Maxfiylik siyosatiga roziman."
+        },
+        "closeApp": "Ilovani yopish",
+        "andReopen": "va qayta ochish",
+        "otp_title": "SMS orqali yuborilgan OTP kodini kiriting",
+        "sms_sent": "Biz {{phone_number}} raqamiga OTP kodini yubordik",
+        "email_placeholder": "ism@email.com",
+        "well_done": "Ajoyib!",
+        "email_request": "E-pochtangiz haqida nima deysiz?",
+        "last_step": "Oxirgi, ammo eng muhim qadam",
+        "name_request": "Ismingiz nima?",
+        "name_placeholder": "Ali Axmedov",
+        "first_name_placeholder": "Ali",
+        "last_name_placeholder": "Axmedov",
+        "birthday_placeholder": "Kun / Oy / Yil",
+        "birthday_request": "Tug'ilgan kuningiz qachon?",
+        "welcome_message2": "Xush kelibsiz, {{name}}!",
+        "gift_message": "Birinchi QR kodingizni skanerlaganingiz uchun sizga kichik sovg'amiz bor",
+        "find_spa": {
+            "find_medspa": "Provayderingizni toping",
+            "description": "Sevimli xizmatlaringizni xarid qilish va har bir xarid va tashrif uchun mukofotlar ishlab topishni boshlash uchun hoziroq joylashuvingizni toping!",
+            "search": "Ism bo'yicha provayderlarni qidirish",
+            "results_found": "{{quantity}} ta natija topildi"
+        }
+    },
+    "personalInfo": {
+        "title": "Shaxsiy ma'lumotlar",
+        "email_label": "Elektron pochta",
+        "email_placeholder": "ism@email.com",
+        "nickname_label": "Taxallus",
+        "nickname_placeholer": "Ism",
+        "firstname_label": "Ism",
+        "firstname_placeholder": "Ali",
+        "lastname_label": "Familiya",
+        "lastname_placeholder": "Axmedov"
+    },
+    "scan": {
+        "scan_text": "Klinikada skanerlang va ishlab toping",
+        "points": "{{points}} Ball",
+        "cant_scan": "Bu qanday ishlaydi?"
+    },
+    "rewardModal": {
+        "horray": "Qoyil!",
+        "you_earned": "Siz hozirgina ishlab topdingiz",
+        "points": "{{points}}",
+        "clinic_points": " {{clinic}} Balli"
+    },
+    "banked_modal": {
+        "reward_banked": "MUKOFOT BANKKA YOTQIZILDI!",
+        "cash": "{{clinic}} Naqd puli",
+        "view_rewards": "Mukofotlarni ko'rish"
+    },
+    "segment": {
+        "browse": "Ko'rish",
+        "treatments": "Muolajalar",
+        "clinicName": "{{clinicName}}",
+        "active": "Faol",
+        "past": "O'tgan",
+        "products": "Mahsulotlar"
+    },
+    "special_offers": {
+        "expire_in": "{{time_left}} ichida tugaydi",
+        "title": "Maxsus takliflar!",
+        "new_msg": "Sizda {{sender}} dan yangi xabar bor!",
+        "points": "{{points}} Ball"
+    },
+    "shop": {
+        "title": "Do'kon",
+        "treatment": {
+            "learn_more": "Ushbu muolaja haqida ko'proq bilib oling",
+            "see_treatment": "Muolajani ko'rish",
+            "included_treatments_title": "Kiritilgan muolajalar",
+            "chose_treatment": "Har {{month}} bu {{quantity}} muolajalardan birini BEPUL tanlang",
+            "chose_treatment2": "Har {{month}} bulardan {{quantity}} tasini tanlang",
+            "chose_treatment3": "Har {{month}} quyidagilarni oling",
+            "signUpBonus": "Ro'yxatdan o'tish Bonusi",
+            "from_price": "{{price}} dan boshlab",
+            "members_price": " A'zolar uchun {{memberPrice}}",
+            "treatment_fees": " To'lov paytida {{fees}} xizmat haqi qo'llaniladi",
+            "results_title": "Ajoyib natijalar",
+            "results_description": "Boshqalarning bu muolaja haqidagi fikrlari",
+            "select_plan": "Muolaja rejasini tanlash",
+            "before_text": "Muolajangizdan oldin",
+            "after_text": "Muolajangizdan keyin",
+            "members_results": "A'zolar natijalari",
+            "customers_and_clients": "A'zolar nimalarni ko'rdi",
+            "expectations": "Nimani kutish kerak?",
+            "bundles_treatment_title": "Muolajalar soni",
+            "variations_treatments_title": "Muolajalar turlari",
+            "treatments_quantity": "{{quantity}} muolaja",
+            "consultation_required": "Konsultatsiya talab qilinadi!",
+            "scheduling_link": "Rejalashtirish havolasi:",
+            "visit_button": "Havolani ko'rish",
+            "noBooking": "Bu mahsulot band qilishni talab qilmaydi.",
+            "sessions_available": "{{quantity}} seansdan {{remaining}} qoldi",
+            "sessions": "{{quantity}} seans",
+            "expire_in": "Tugash sanasi:",
+            "search_result": "{{quantity}} ta natija topildi",
+            "consultation": "Bu muolaja konsultatsiya talab qiladi",
+            "add_to_cart": "Haqiqatan ham buni savatga qo'shishni xohlaysizmi?"
+        },
+        "product": {
+            "learn_more": "Ushbu mahsulot haqida ko'proq bilib oling",
+            "see_product": "Mahsulotni ko'rish",
+            "included_products_title": "Kiritilgan mahsulotlar",
+            "chose_product": "Har {{month}} bu {{quantity}} mahsulotlardan birini BEPUL tanlang",
+            "chose_product2": "Har {{month}} bulardan {{quantity}} tasini tanlang",
+            "chose_product3": "Har {{month}} quyidagilarni oling",
+            "from_price": "{{price}} dan boshlab",
+            "members_price": " A'zolar uchun {{memberPrice}}",
+            "product_fees": " To'lov paytida {{fees}} xizmat haqi qo'llaniladi",
+            "results_title": "Ajoyib natijalar",
+            "results_description": "Boshqalarning bu mahsulot haqidagi fikrlari",
+            "select_plan": "Mahsulot rejasini tanlash",
+            "before_text": "Mahsulotingizdan oldin",
+            "after_text": "Mahsulotingizdan keyin",
+            "members_results": "A'zolar natijalari",
+            "customers_and_clients": "Boshqalarning bu mahsulot haqidagi fikrlari",
+            "expectations": "Nimani kutish kerak?",
+            "bundles_product_title": "Mahsulotlar soni",
+            "variations_products_title": "Mahsulot turlari",
+            "products_quantity": "{{quantity}} mahsulot",
+            "consultation_required": "Konsultatsiya talab qilinadi!",
+            "scheduling_link": "Rejalashtirish havolasi:",
+            "visit_button": "Havolani ko'rish",
+            "expire_in": "Tugash sanasi:",
+            "sessions_available": "{{quantity}} {{plural}} dan {{remaining}} qoldi",
+            "treatments": "{{quantity}} muolaja"
+        },
+        "save_button": {
+            "text": "Yiliga {{amount}} tejash",
+            "subscribe": "Hozir obuna bo'lish!"
+        },
+        "view_button": {
+            "text": "Ko'rish"
+        },
+        "bonus_card": {
+            "title": "Ro'yxatdan o'ting va darhol oling",
+            "title_bold": " BEPUL {{gifts}}!"
+        },
+        "teamMember": {
+            "title": "Ushbu xaridda sizga kim yordam berdi?",
+            "not_Sure": "Ishonchimiz komil emas"
+        }
+    },
+    "browse": {
+        "gradient_card": {
+            "treat_today": "Bugun muolaja oling. Keyinroq to'lang. Mukofotlar ishlab toping.",
+            "free_treatments": "Bepul muolajalar, eksklyuziv afzalliklar.",
+            "how_it_work": "Bu qanday ishlaydi?"
+        }
+    },
+    "rewards": {
+        "points": "{{points}} BALL",
+        "sinleReward": "Mukofot",
+        "title": "Mukofotlar",
+        "win_points": {
+            "title": "Ko'proq ball kerakmi?",
+            "refer_friend": "Do'stingizni taklif qiling",
+            "purshase_inApp": "Ilova ichida xarid qilish",
+            "google_review": "Google sharhi",
+            "visit": "Klinikamizga tashrif buyuring",
+            "status": {
+                "points_added": "{{points}} ball qo'shildi",
+                "scan": "Skanerlang va ishlab toping",
+                "pending": "Tasdiqlash kutilmoqda",
+                "plus_points": "+{{points}} ball",
+                "done": "Bajarildi"
+            },
+            "loyaltyCard": {
+                "loyaltyPoints": "Sadoqat ballari",
+                "cultPoints": "Kult ballari",
+                "memberShip": "{{clinic}} A'zosi",
+                "joinedOn": "Qo'shilgan sana: {{since}}",
+                "cash": "{{clinic}} Naqd puli"
+            },
+            "reviewSheet": {
+                "title": "Sharh qoldirdingizmi?",
+                "text": "Klinika egasi ballaringizni qo'shish uchun sharhni tekshiradi.",
+                "yesButton": "Ha, qoldirdim!",
+                "noButton": "Hali emas"
+            },
+            "reward_details": {
+                "expire_in": "{{time_left}} kun ichida tugaydi",
+                "redeem_button": "Mukofotni hozir oling",
+                "bank_it": "{{amount}} {{clinic}} Naqd puli uchun bankka yotqizish",
+                "redeemed": "Olingan",
+                "banked": "Bankka yotqizilgan",
+                "locked": "Qulflangan",
+                "expired_at": "Tugagan:",
+                "consumed": "Iste'mol qilingan"
+            },
+            "bank_reward": {
+                "bank_title": "Mukofotingizni {{clinic}} Naqd puli sifatida bankka yotqizishni xohlaysizmi?",
+                "custom_bank_title": "Mukofotni bankka yotqizish",
+                "bank_description": "Siz o'z mukofotingizni, narxi",
+                "bankWorth": " {{currency}}{{amount}} ",
+                "bank_description2": "bo'lganini, ilova ichidagi do'konda sarflash uchun {{clinic}} Naqd pul qiymatiga almashtirasiz. Buni amalga oshirish bilan siz haqiqiy mukofotga kirish huquqini yo'qotasiz.",
+                "yes_button": "Ha, mukofotni bankka yotqizish",
+                "no_button": "Hozir emas"
+            },
+            "congratSheet": {
+                "title": "Tabriklaymiz!",
+                "your_reward": "Sizning mukofotingiz savatga qo'shildi!",
+                "description": "Endi uni buyurtmangizga qo'shish uchun do'konni ko'ring yoki qo'llanilgan chegirma bilan to'lovni zudlik bilan yakunlash uchun savatni ko'ring.",
+                "explore_shop": "Do'konni kashf qilish",
+                "view_cart": "Savatni ko'rish"
+            }
+        }
+    },
+    "emptyState": {
+        "rewards": {
+            "title": "Mukofot topilmadi",
+            "description": "Ko'proq mukofotlar uchun keyinroq qaytib keling."
+        }
+    },
+    "profile": {
+        "screen_title": "Hisob",
+        "logout": "Chiqish",
+        "my-treatment-section": {
+            "my-treatment": "Mening muolajalarim",
+            "used_treatments": "Ishlatilgan muolajalar",
+            "empty_used": "Ishlatilgan muolajalar yo'q",
+            "empty_purshased": "Sotib olingan muolajalar yo'q",
+            "empty_treatment": "Muolajalar yo'q",
+            "remaining_treatments": "{{quantity}} muolajadan {{remaining}} qoldi",
+            "redeemed_on": "Olingan sana: {{date}}",
+            "scan": "Olish uchun klinikada skanerlash",
+            "book": "Band qilish",
+            "callClinic": "Klinikaga qo'ng'iroq qilish"
+        },
+        "my-product-section": {
+            "my-product": "Mening mahsulotlarim",
+            "used_products": "Ishlatilgan mahsulotlar",
+            "empty_used": "Ishlatilgan mahsulotlar yo'q",
+            "empty_purshased": "Sotib olingan mahsulotlar yo'q",
+            "empty_product": "Mahsulotlar yo'q",
+            "remaining_products": "{{quantity}} mahsulotdan {{remaining}} qoldi",
+            "redeemed_on": "Olingan sana: {{date}}",
+            "scan": "Olish uchun klinikada skanerlash",
+            "book": "Band qilish",
+            "callClinic": "Klinikaga qo'ng'iroq qilish"
+        },
+        "quantity_sheet": {
+            "select": "Miqdorni tanlash",
+            "units_left": "{{quantity}} {{units}} qoldi"
+        },
+        "redeem_modal": {
+            "redeemed": "Muolaja olindi",
+            "description": "Endi siz qolgan birliklarni ko'rishingiz va keyingi sessiyalaringizni rejalashtirishingiz mumkin.",
+            "got_it": "Tushundim!",
+            "cant_scan": "Skanerlay olmaysizmi?",
+            "fallback_description": "Bu sizning zaxira kodingiz. Veb ilovaga kiriting:",
+            "time_remaining": "Qolgan vaqt: {{time}}"
+        },
+        "redeem_modal_product": {
+            "redeemed": "Mahsulot olindi",
+            "description": "Endi siz qolgan birliklarni ko'rishingiz va keyingi sessiyalaringizni rejalashtirishingiz mumkin.",
+            "got_it": "Tushundim!",
+            "cant_scan": "Skanerlay olmaysizmi?",
+            "fallback_description": "Bu sizning zaxira kodingiz. Veb ilovaga kiriting:",
+            "time_remaining": "Qolgan vaqt: {{time}}"
+        },
+        "setting_section": {
+            "personal_infos": "Shaxsiy ma'lumotlar",
+            "payment_methods": "To'lov usullari",
+            "payment_method": "To'lov usuli"
+        },
+        "payment_method_card": {
+            "visa": "Karta",
+            "apple": "Apple Pay",
+            "affirm": "Affirm",
+            "card_number": "Karta raqami",
+            "experation": "Tugash muddati",
+            "cvc": "CVC",
+            "select_country": "Mamlakatni tanlash",
+            "select_country_placeholder": "Mamlakatni tanlash...",
+            "contact_details": "Kontakt ma'lumotlari",
+            "confirm_details": "Sotish chekini olish uchun ma'lumotlaringizni tasdiqlang"
+        }
+    },
+    "membership_section": {
+        "joined_on": " Qo'shilgan sana: {{date}}",
+        "cancled_on": " Bekor qilingan: {{date}}",
+        "empty_membership": "Bu yerda a'zolik yo'q",
+        "browse_mebership": "A'zoliklarni ko'rish",
+        "active_membership": "Faol a'zolik",
+        "paused_membership": "To'xtatilgan a'zolik",
+        "active_membership_count": "{{quantity}} ta faol a'zolik",
+        "next_payment_attempt": "A'zolik to'lovingizni amalga oshira olmadik, qayta urinish {{date}} kuni bo'ladi",
+        "update_payment_info": "To'lov usulini yangilash",
+        "retry_payment": "To'lov usulini qayta urinish",
+        "cancel_payment": "A'zolikni bekor qilish",
+        "something_wrong": "Qandaydir xato ro'y berganga o'xshaydi...",
+        "update_payment_method": "To'lovni yangilash",
+        "you_saved": "Siz tejadingiz",
+        "treatments": "({{number}} muolaja)",
+        "products": "({{number}} mahsulot)",
+        "equivalent": {
+            "title": "Ekvivalent qiymat",
+            "quantity": {
+                "lipstick": "{{quantity}} lab bo'yog'i 💄",
+                "bags": "{{quantity}} sumka 👜",
+                "swimsuits": "{{quantity}} suzish kostyumi 👙",
+                "cash": "{{quantity}} 💰"
+            },
+            "amount": "",
+            "lipsticks": " Chanel lab bo'yog'i",
+            "bags": " Chanel sumkasi",
+            "swimsuits": " Gucci suzish kostyumi"
+        },
+        "memberShipPayFor": "O'z-o'zidan to'lanadigan a'zolik",
+        "you_have": "Sizda {{quantity}} muolaja mavjud",
+        "you_have_products": "Sizda {{quantity}} mahsulot mavjud",
+        "available_in": "Keyingi tanlovingizga {{days}} kun qoldi",
+        "available_in_products": "Keyingi mahsulot {{days}} kundan keyin foydalanishga tayyor bo'ladi",
+        "your_benefits": "Sizning afzalliklaringiz",
+        "membership_benefits": "A'zolik afzalliklari",
+        "refresh_on": "Yangilash sanasi: {{date}}",
+        "monthly_treatment_selection": "Oylik muolaja tanlovi",
+        "monthly_product_selection": "Oylik mahsulot tanlovi",
+        "firstDay_treatment_selection": "A'zo bo'lgan birinchi kundan boshlab boshlanadi",
+        "firstDay_product_selection": "A'zo bo'lgan birinchi kundan boshlab boshlanadi",
+        "unknown_treatment_selection": "A'zo sifatida {{period}} keyin boshlanadi",
+        "unknown_product_selection": "A'zo sifatida {{period}} keyin boshlanadi",
+        "select_one": "Har oy quyidagi muolajalardan birini bepul tanlang",
+        "select_one_product": "Har oy quyidagi mahsulotlardan birini bepul tanlang",
+        "select_free_treatment": "Bepul muolajangizni tanlang",
+        "select_free_product": "Bepul mahsulotingizni tanlang",
+        "are_you_sure": "Haqiqatan ham bu muolajani tanlashni xohlaysizmi?",
+        "are_you_sure_product": "Haqiqatan ham bu mahsulotni tanlashni xohlaysizmi?",
+        "are_you_sure_cancel": "Haqiqatan ham a'zoligingizni bekor qilishni xohlaysizmi?",
+        "sure": "Ha, ishonchim komil",
+        "no": "Yo'q, adashdim",
+        "number_updated": "Ushbu muolaja uchun birliklar soni muvaffaqiyatli yangilandi",
+        "number_updated_product": "Ushbu mahsulot uchun birliklar soni muvaffaqiyatli yangilandi",
+        "you_can_see": "Endi siz qolgan birliklarni ko'rishingiz va keyingi sessiyalaringizni rejalashtirishingiz mumkin.",
+        "you_can_see_product": "Endi siz qolgan birliklarni ko'rishingiz va keyingi sessiyalaringizni rejalashtirishingiz mumkin."
+    },
+    "cart_screen": {
+        "screen_title": "Savat",
+        "clinic_price_applied": "{{clinic}} Narxi qo'llaniladi",
+        "summury": "Xulosa",
+        "promo_code": "Promo kod",
+        "add_promo_code": "Promo kod qo'shish",
+        "order_summury": "BUYURTMA XULOSASI",
+        "subtotal": "Qisman jami",
+        "cash_wallet": "Naqd pul hamyoni",
+        "rewardDiscount": "Mukofot chegirmasi",
+        "membership_discount": "A'zolik chegirmasi",
+        "tax": "Soliq va Xizmat haqi",
+        "total": "Buyurtma Jami",
+        "totalMaj": "BUYURTMA JAMI",
+        "clinic_cash": "{{amount}} {{clinic}}",
+        "checkout": "Hozir to'lash",
+        "place_order": "Buyurtma berish",
+        "order_confirmed": "Tabriklaymiz, buyurtmangiz tasdiqlandi!",
+        "points_tracker": "Ballar kuzatuvchisi",
+        "your_purchance": "Sizning xaridingiz keyingi mukofotingizga erishishga yordam beradi!",
+        "reward_unlocked": "Mukofot qulfdan ochildi",
+        "rewards_unlocked": "MUKOFOTLAR QULFDAN OCHILDI",
+        "amount_unlocked": "Uning birinchi ilova ichidagi xaridi uchun ${{amount}}",
+        "can_convert_amount": "${{amount}} Naqd pulga aylantirilishi mumkin",
+        "edit_product": "Mahsulotni tahrirlash",
+        "delete": "O'chirish",
+        "empty_cart": "Savat bo'sh, iltimos, ba'zi mahsulotlarni qo'shing",
+        "cashExceeds": "Kechirasiz, naqd pul balansi savatning umumiy qiymatining ({{allowedMerchantCashPercentage}}%) dan oshmasligi kerak",
+        "loseMoney": "Pul yo'qotamiz 😞",
+        "useOnly": "Siz savatga ko'proq muolajalar qo'shishingiz yoki mavjud naqd pul balansingizdan faqat {{amount}} ni ushbu muolaja uchun ishlatishingiz mumkin.",
+        "disallowed": "Kechirasiz, sizning naqd pul balansingiz {{number}} muolajalar uchun ishlatilishi mumkin emas",
+        "removeFromCart": "Savatdan olib tashlash"
+    },
+    "dates": {
+        "minute": "daqiqada",
+        "minutes": "daqiqada",
+        "hour": "soat",
+        "hours": "soat",
+        "day": "kun",
+        "days": "kun",
+        "month": "oy",
+        "months": "oylar",
+        "year": "yil",
+        "years": "yil",
+        "now": "hozir",
+        "invalid": ""
+    },
+    "errors": {
+        "email_already_used": "Bu elektron pochta allaqachon ishlatilgan. Iltimos, boshqa elektron pochta manzilini ishlating.",
+        "login_error": "Kirish muvaffaqiyatsiz. Iltimos, raqamingizni tekshiring va qayta urinib ko'ring.",
+        "signup_error": "Ro'yxatdan o'tish muvaffaqiyatsiz. Iltimos, ma'lumotlaringiz to'g'ri ekanligiga ishonch hosil qiling va qayta urinib ko'ring.",
+        "undifined_error": "Voy! Kutilmagan xato.",
+        "otp_not_valid": "Siz kiritgan kod to'g'ri emas. Iltimos, tekshiring va qayta urinib ko'ring.",
+        "create_account": "Hisobingizni yaratolmadik. Iltimos, ma'lumotlaringizni tekshiring va qayta urinib ko'ring.",
+        "date": {
+            "invalid_date": "Sana formati noto'g'ri. Iltimos, KK/OO/YYYY formatini ishlating.",
+            "invalid_month": "Iltimos, to'g'ri tug'ilgan sanasini tanlang.",
+            "invalid_day": "Iltimos, to'g'ri tug'ilgan sanasini tanlang.",
+            "invalid_birthdate": "Sizning tug'ilgan kuningiz kelajakda bo'lishi mumkin emas. Iltimos, to'g'ri tug'ilgan sanasini tanlang."
+        }
+    },
+    "noDataFound": {
+        "treatment": "Muolaja yo'q",
+        "treatmentSearch": "Muolaja topilmadi",
+        "product": "Mahsulot yo'q"
+    },
+    "subscription_confirmation": {
+        "this_will_charge": "Bu kartangizdan to'g'ridan-to'g'ri {{amount}} yechib olinadi. Davom etishni xohlaysizmi?",
+        "add_card_note": "Eslatma: To'lov usuli hisobingizga qo'shilgan bo'lishi kerak",
+        "confirm_subscription": "Obunani tasdiqlash",
+        "yes": "Ha, davom etish",
+        "no": "Yo'q, bekor qilish"
+    },
+    "taxSheet": {
+        "title": "2.5% Soliq va Xizmat haqi",
+        "description": "Bu to'lov muolajangiz yoki xizmatingiz bilan bog'liq ma'muriy xarajatlarni qoplash uchun ishlatiladi.",
+        "button": "Tushundim"
+    },
+    "payment": {
+        "retry_failed_title": "To'lov muvaffaqiyatsiz",
+        "retry_failed_message": "To'lovingizni amalga oshira olmadik. Davom etish uchun iltimos, to'lov usulini yangilang."
+    },
+    "treatments": {
+        "redeem_multiple": "{{count}} Muolaja olish"
+    },
+    "products": {
+        "redeem_multiple": "{{count}} Mahsulot olish"
+    },
+    "custom_plan": {
+        "delete_title": "Maxsus rejani o'chirish",
+        "delete_description": "Haqiqatan ham bu maxsus rejani o'chirishni xohlaysizmi?",
+        "delete": "O'chirish",
+        "cancel": "Bekor qilish"
+    },
+    "no_search_results": {
+        "title": "Qidiruv natijalari topilmadi",
+        "description": "Aftidan, biz sizning qidiruvingizga mos keladigan hech narsa topmadik.",
+        "try_new": "Boshqa kalit so'zlarni ishlatib ko'ring yoki imlo xatolarini tekshiring."
+    }
+}

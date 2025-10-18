@@ -2,50 +2,50 @@
   "common": {
     "loginAsGuest": "המשך כאורח",
     "continue": "המשך",
-    "apply": "החל קלט",
+    "apply": "החל כניסה",
     "save": "שמור",
     "scan": "סרוק עכשיו",
     "next": "הבא",
-    "powered": "מופעל על ידי ",
+    "powered": "מופעל על ידי",
     "scan_qr_code": "סרוק קוד QR",
     "or": "או",
     "shop_now": "קנה עכשיו",
-    "dermis": "DERMIS",
-    "resend_code": "שלח קוד שוב",
+    "dermis": "דרמיס",
+    "resend_code": "שלח קוד מחדש",
     "view_rewards": "צפה בפרסים שלי",
     "change_icon": "שנה סמל",
     "reset_icon": "אפס סמל",
     "my_points": "ראה את הנקודות שלי",
     "see_more": "ראה עוד",
-    "see_benifits": "ראה יתרונות",
-    "show_all": "הצג הכול",
+    "see_benifits": "ראה הטבות",
+    "show_all": "הצג הכל",
     "rewards": "פרסים",
     "cash": "{{amount}}",
     "discount_cash": "-${{amount}}",
-    "can_convert": "ניתן להמיר ל־",
-    "clinic_cash": "{{clinic}} מזומן",
-    "checkout": "לקופה",
-    "save_address": "שמור כתובת לחשבונך",
+    "can_convert": "ניתן להמיר ל",
+    "clinic_cash": "מזומן {{clinic}}",
+    "checkout": "לתשלום",
+    "save_address": "שמור כתובת בחשבון שלך",
     "call_now": "התקשר עכשיו",
     "apply_filter": "החל",
     "filter_by": "סנן לפי",
-    "reset_filter": "אפס סינון",
+    "reset_filter": "אפס מסנן",
     "unit_number": "{{quantity}} יחידה",
     "add_to_cart": "הוסף לעגלה",
     "treatments": "טיפולים",
     "products": "מוצרים",
-    "membership": "מנוי",
+    "membership": "חברות",
     "treat_today": "טפל היום. שלם מאוחר יותר.",
     "earn": " הרווח פרסים.",
-    "search": "חפש",
+    "search": "חיפוש",
     "settings": "הגדרות",
-    "save_big": "חסוך הרבה כסף",
+    "save_big": "חסוך בגדול",
     "browse_shop": "עיין בחנות",
-    "filter": "סינון",
-    "sort": "מיון",
+    "filter": "מסנן",
+    "sort": "מיין",
     "referral": "קוד הפניה",
     "enter_referral": "הזן את קוד ההפניה שלך",
-    "enter_referral_description": "הזן את קוד ההפניה שלך כדי לקבל יתרונות מיוחדים",
+    "enter_referral_description": "הזן את קוד ההפניה שלך כדי לקבל הטבות מיוחדות",
     "submit": "שלח",
     "skip": "דלג",
     "have_referral": "יש לך קוד הפניה?",
@@ -55,62 +55,62 @@
   "deleteAccount": {
     "title": "מחק חשבון",
     "description": "האם אתה בטוח שברצונך למחוק את חשבונך?",
-    "note": "כל הנתונים וההרשמות שלך יימחקו לצמיתות.",
+    "note": "כל הנתונים והמנוי שלך יימחקו לצמיתות.",
     "yes": "כן",
     "no": "לא"
   },
   "home": {
-    "last_visited": "{{name}}, לא ביקרת במשך",
-    "days_count": "{{days_count}}...",
-    "offer": "אז יצרנו עבורך הצעה שלא תוכל לסרב לה!",
+    "last_visited": "{{name}}, לא ביקרת כבר",
+    "days_count": "{{days_count}} ימים...",
+    "offer": "אז עשינו לך הצעה שאי אפשר לסרב לה!",
     "unwrap": "הקש כדי לפתוח",
-    "recently_viewed": "נצפו לאחרונה",
+    "recently_viewed": "נצפה לאחרונה",
     "save": "חסוך {{amount}}",
     "save2": " כחבר {{clinic}}",
-    "save_paragraph": "טיפולים חינם. הטבות בלעדיות.",
+    "save_paragraph": "טיפולים בחינם. הטבות בלעדיות.",
     "ad_title": "טפל היום. שלם מאוחר יותר. הרווח פרסים.",
-    "ad_description": "בצע תשלומים חודשיים ללא עמלות איחור",
-    "educate_yourself": "למד עוד"
+    "ad_description": "בצע תשלומים חודשיים ללא קנסות איחור",
+    "educate_yourself": "חנך את עצמך"
   },
   "language": {
     "english": "אנגלית",
     "french": "צרפתית"
   },
   "onboarding": {
-    "welcome": "ברוך הבא",
-    "welcome_message": "ברוך הבא ל־Qonnect!",
+    "welcome": "ברוך הבא לכאן",
+    "welcome_message": "ברוך הבא ל-Qonnect!",
     "rewards": "פרס חינם לחברים חדשים!",
-    "birthdays": "מתנות חינם לימי הולדת",
-    "events": "אירועים והצעות לחברים בלבד",
-    "phone_request": "האם נוכל לקבל את מספר הטלפון שלך?",
-    "login_with_phone": "הירשם או התחבר באמצעות מספר טלפון!",
+    "birthdays": "מתנות יום הולדת חינם",
+    "events": "אירועים ומבצעים לחברים בלבד",
+    "phone_request": "אפשר לקבל את מספר הטלפון שלך?",
+    "login_with_phone": "הירשם או התחבר באמצעות מספר הטלפון שלך!",
     "terms": {
-      "agree": "אני מסכים ל־",
-      "terms_of_service": "תנאי השירות ",
-      "and": "ו־",
+      "agree": "אני מסכים ל",
+      "terms_of_service": "תנאי השירות",
+      "and": "ו",
       "privacy": "מדיניות הפרטיות."
     },
     "closeApp": "סגור את האפליקציה",
     "andReopen": "ופתח אותה מחדש",
-    "otp_title": "הזן את הקוד שנשלח ב־SMS",
-    "sms_sent": "שלחנו קוד ל־{{phone_number}}",
+    "otp_title": "הזן את ה-OTP שנשלח באמצעות SMS",
+    "sms_sent": "שלחנו OTP ל-{{phone_number}}",
     "email_placeholder": "name@email.com",
     "well_done": "כל הכבוד!",
-    "email_request": "ומה כתובת האימייל שלך?",
-    "last_step": "שלב אחרון",
+    "email_request": "ומה האימייל שלך?",
+    "last_step": "אחרון חביב",
     "name_request": "מה שמך?",
-    "name_placeholder": "jhon doe",
-    "first_name_placeholder": "Jhon",
-    "last_name_placeholder": "Doe",
+    "name_placeholder": "ג'ון דו",
+    "first_name_placeholder": "ג'ון",
+    "last_name_placeholder": "דו",
     "birthday_placeholder": "יום / חודש / שנה",
     "birthday_request": "מתי יום ההולדת שלך?",
     "welcome_message2": "ברוך הבא {{name}}!",
-    "gift_message": "קיבלת מתנה קטנה על סריקת קוד ה־QR הראשון שלך",
+    "gift_message": "נתנו לך מתנה קטנה על סריקת קוד ה-QR הראשון שלך",
     "find_spa": {
       "find_medspa": "מצא את ההצעה שלך",
-      "description": "מצא את המיקום שלך כדי לקנות את השירותים האהובים עליך ולהתחיל להרוויח פרסים בכל רכישה וביקור!",
+      "description": "מצא את המיקום שלך עכשיו כדי לקנות את השירותים האהובים עליך ולהתחיל להרוויח פרסים בכל רכישה וביקור!",
       "search": "חפש הצעה לפי שם",
-      "results_found": "נמצאו {{quantity}} תוצאות"
+      "results_found": "{{quantity}} תוצאות נמצאו"
     }
   },
   "personalInfo": {
@@ -120,24 +120,409 @@
     "nickname_label": "כינוי",
     "nickname_placeholer": "שם",
     "firstname_label": "שם פרטי",
-    "firstname_placeholder": "John",
+    "firstname_placeholder": "ג'ון",
     "lastname_label": "שם משפחה",
-    "lastname_placeholder": "Doe"
+    "lastname_placeholder": "דו"
   },
   "scan": {
-    "scan_text": "סרוק במרפאה עבור",
+    "scan_text": "סרוק במשרד עבור",
     "points": "{{points}} נקודות",
     "cant_scan": "איך זה עובד?"
   },
   "rewardModal": {
-    "horray": "כל הכבוד!",
-    "you_earned": "הרווחת",
+    "horray": "הידד!",
+    "you_earned": "זה עתה הרווחת",
     "points": "{{points}}",
-    "clinic_points": "{{clinic}} נקודות"
+    "clinic_points": "נקודות {{clinic}}"
   },
   "banked_modal": {
-    "reward_banked": "הפרס נשמר!",
-    "cash": "{{clinic}} מזומן",
+    "reward_banked": "הפרס הופקד!",
+    "cash": "מזומן {{clinic}}",
     "view_rewards": "צפה בפרסים"
+  },
+  "segment": {
+    "browse": "עיין",
+    "treatments": "טיפולים",
+    "clinicName": "{{clinicName}}",
+    "active": "פעיל",
+    "past": "עבר",
+    "products": "מוצרים"
+  },
+  "special_offers": {
+    "expire_in": "פג תוקף בעוד {{time_left}}",
+    "title": "הצעה מיוחדת!",
+    "new_msg": "יש לך הודעה מ-{{sender}}!"
+  },
+  "shop": {
+    "title": "חנות",
+    "treatment": {
+      "learn_more": "למד עוד על טיפול זה",
+      "see_treatment": "צפה בטיפול",
+      "included_treatments_title": "טיפולים כלולים",
+      "chose_treatment": "בחר {{quantity}} מהבאים בכל {{month}}",
+      "chose_treatment2": "בחר {{quantity}} מהרשימה למטה בכל {{month}}",
+      "chose_treatment3": "קבל את הבאים בכל {{month}}",
+      "signUpBonus": "בונוס הרשמה",
+      "from_price": "מ-{{price}}",
+      "members_price": "{{memberPrice}} לחברים",
+      "treatment_fees": "עמלת שירות של {{fees}} חלה בקופה",
+      "results_title": "תוצאות מהממות",
+      "results_description": "מה אחרים הרגישו לגבי טיפול זה",
+      "select_plan": "בחר תוכנית טיפול",
+      "before_text": "לפני הטיפול שלך",
+      "after_text": "לאחר הטיפול שלך",
+      "members_results": "תוצאות חברים",
+      "customers_and_clients": "מה ראו חברים",
+      "expectations": "למה לצפות?",
+      "bundles_treatment_title": "מספר הטיפולים",
+      "variations_treatments_title": "סוגי טיפולים",
+      "treatments_quantity": "{{quantity}} טיפולים",
+      "consultation_required": "נדרשת התייעצות!",
+      "scheduling_link": "קישור לתזמון:",
+      "visit_button": "בקר בקישור",
+      "noBooking": "אין צורך בהזמנה עבור מוצר זה.",
+      "sessions_available": "{{quantity}} מתוך {{remaining}} סשן{{plural}}",
+      "sessions": "{{quantity}} סשן{{plural}}",
+      "expire_in": "פג תוקף ב",
+      "search_result": "{{quantity}} תוצאות{{plural}} נמצאו",
+      "consultation": "טיפול זה דורש התייעצות",
+      "add_to_cart": "האם אתה בטוח שברצונך להוסיף זאת לעגלתך?"
+    },
+    "product": {
+      "learn_more": "למד עוד על מוצר זה",
+      "see_product": "צפה במוצר",
+      "included_products_title": "מוצרים כלולים",
+      "chose_product": "בחר {{quantity}} מהבאים בכל {{month}}",
+      "chose_product2": "בחר {{quantity}} מהרשימה למטה בכל {{month}}",
+      "chose_product3": "קבל את הבאים בכל {{month}}",
+      "from_price": "מ-{{price}}",
+      "members_price": " {{memberPrice}} לחברים",
+      "product_fees": " {{fees}} עמלת שירות חלה בקופה",
+      "results_title": "תוצאות מהממות",
+      "results_description": "מה אחרים הרגישו לגבי מוצר זה",
+      "select_plan": "בחר תוכנית מוצר",
+      "before_text": "לפני המוצר שלך",
+      "after_text": "לאחר המוצר שלך",
+      "members_results": "תוצאות חברים",
+      "customers_and_clients": "מה אחרים הרגישו לגבי מוצר זה",
+      "expectations": "למה לצפות?",
+      "bundles_product_title": "מספר המוצרים",
+      "variations_products_title": "סוגי מוצרים",
+      "products_quantity": "{{quantity}} מוצרים",
+      "consultation_required": "נדרשת התייעצות!",
+      "scheduling_link": "קישור לתזמון:",
+      "visit_button": "בקר בקישור",
+      "expire_in": "פג תוקף ב",
+      "sessions_available": "{{quantity}} מתוך {{remaining}} {{plural}} נשארו",
+      "treatments": "{{quantity}} טיפול{{plural}}"
+    },
+    "save_button": {
+      "text": "חסוך {{amount}} שנתי",
+      "subscribe": "הירשם עכשיו!"
+    },
+    "view_button": {
+      "text": "צפה"
+    },
+    "bonus_card": {
+      "title": "הירשם כדי לתבוע באופן מיידי",
+      "title_bold": " {{gifts}} חינם!"
+    },
+    "teamMember": {
+      "title": "מי עזר לך ברכישה זו?",
+      "not_Sure": "לא בטוח"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "טפל היום. שלם מאוחר יותר. הרווח פרסים.",
+      "free_treatments": "טיפולים בחינם, הטבות בלעדיות.",
+      "how_it_work": "איך זה עובד?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} נקודות",
+    "sinleReward": "פרס",
+    "title": "פרסים",
+    "win_points": {
+      "title": "צריך עוד נקודות?",
+      "refer_friend": "הפנה חבר",
+      "purshase_inApp": "רכישה בתוך האפליקציה",
+      "google_review": "ביקורת ב-Google",
+      "visit": "בקר במרפאה שלנו",
+      "status": {
+        "points_added": "{{points}} נקודות נוספו",
+        "scan": "סרוק כדי להרוויח",
+        "pending": "ממתין לאישור",
+        "plus_points": "+{{points}} נקודות",
+        "done": "בוצע"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "נקודות נאמנות",
+        "cultPoints": "נקודות Cult",
+        "memberShip": "חבר {{clinic}}",
+        "joinedOn": "הצטרף ב-{{since}}",
+        "cash": "מזומן {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "השארת ביקורת?",
+        "text": "בעל המרפאה שלנו יאמת את הביקורת כדי להוסיף לך נקודות.",
+        "yesButton": "כן, השארתי!",
+        "noButton": "עדיין לא"
+      },
+      "reward_details": {
+        "expire_in": "פג תוקף בעוד {{time_left}} ימים",
+        "redeem_button": "ממש פרס עכשיו",
+        "bank_it": "הפקד עבור {{amount}} {{clinic}}",
+        "redeemed": "מומש",
+        "banked": "הופקד",
+        "locked": "נעול",
+        "expired_at": "פג תוקף ב",
+        "consumed": "נצרך"
+      },
+      "bank_reward": {
+        "bank_title": "להפקיד את הפרס שלך כמזומן {{clinic}}?",
+        "custom_bank_title": "הפקד את הפרס שלך",
+        "bank_description": "תחליף את הפרס שלך ששווה",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "למזומן {{clinic}} שניתן להוציא בחנות בתוך האפליקציה. על ידי כך, תאבד גישה לפרס עצמו.",
+        "yes_button": "כן, הפקד פרס",
+        "no_button": "לא עכשיו"
+      },
+      "congratSheet": {
+        "title": "מזל טוב!",
+        "your_reward": "הפרס שלך נוסף לעגלה!",
+        "description": "חקור את החנות שלנו עכשיו כדי להוסיף להזמנה שלך או צפה בעגלה כדי לבצע את התשלום שלך עכשיו עם ההנחה שלך.",
+        "explore_shop": "חקור את החנות",
+        "view_cart": "צפה בעגלה"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "לורם איפסום",
+      "description": "לורם איפסום דולור סיט אמט, קונסקטטור אדיפיסינג אליט. פוסק ביבנדום אוקטור מאסה"
+    }
+  },
+  "profile": {
+    "screen_title": "חשבון",
+    "logout": "התנתק",
+    "my-treatment-section": {
+      "my-treatment": "הטיפולים שלי",
+      "used_treatments": "טיפולים שנוצלו",
+      "empty_used": "אין טיפול שנוצל",
+      "empty_purshased": "לא נרכש טיפול",
+      "empty_treatment": "אין טיפולים",
+      "remaining_treatments": "{{remaining}} מתוך {{quantity}} טיפול{{plural}} נותרו",
+      "redeemed_on": "מומש ב: {{date}}",
+      "scan": "סרוק במשרד למימוש",
+      "book": "הזמן פגישה",
+      "callClinic": "התקשר למרפאה"
+    },
+    "my-product-section": {
+      "my-product": "המוצרים שלי",
+      "used_products": "מוצרים שנוצלו",
+      "empty_used": "אין מוצר שנוצל",
+      "empty_purshased": "לא נרכש מוצר",
+      "empty_product": "אין מוצרים",
+      "remaining_products": "{{remaining}} מתוך {{quantity}} מוצר{{plural}} נותרו",
+      "redeemed_on": "מומש ב: {{date}}",
+      "scan": "סרוק במשרד למימוש",
+      "book": "הזמן פגישה",
+      "callClinic": "התקשר למרפאה"
+    },
+    "quantity_sheet": {
+      "select": "בחר כמות",
+      "units_left": "{{quantity}} {{units}} זמינים"
+    },
+    "redeem_modal": {
+      "redeemed": "הטיפול מומש",
+      "description": "כעת תוכל לראות את היחידות הנותרות ולתזמן את הפגישות הבאות שלך.",
+      "got_it": "הבנתי!",
+      "cant_scan": "לא מצליח לסרוק?",
+      "fallback_description": "הנה קוד הגיבוי שלך. הזן אותו ביישום האינטרנט:",
+      "time_remaining": "זמן שנותר: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "המוצר מומש",
+      "description": "כעת תוכל לראות את היחידות הנותרות ולתזמן את הפגישות הבאות שלך.",
+      "got_it": "הבנתי!",
+      "cant_scan": "לא מצליח לסרוק?",
+      "fallback_description": "הנה קוד הגיבוי שלך. הזן אותו ביישום האינטרנט:",
+      "time_remaining": "זמן שנותר: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "מידע אישי",
+      "payment_methods": "אמצעי תשלום",
+      "payment_method": "אמצעי תשלום"
+    },
+    "payment_method_card": {
+      "visa": "כרטיס",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "מספר כרטיס",
+      "experation": "תפוגה",
+      "cvc": "CVC",
+      "select_country": "בחר מדינה",
+      "select_country_placeholder": "בחר מדינה...",
+      "contact_details": "פרטי התקשרות",
+      "confirm_details": "אשר את פרטיך כדי לקבל את קבלה המכירה שלך"
+    }
+  },
+  "membership_section": {
+    "joined_on": " הצטרף ב-{{date}}",
+    "cancled_on": " בוטל ב-{{date}}",
+    "empty_membership": "אין חברות כאן",
+    "browse_mebership": "עיין בחברות",
+    "active_membership": "חברות פעילה",
+    "paused_membership": "חברות מושהית",
+    "active_membership_count": "{{quantity}} חברות פעילה",
+    "next_payment_attempt": "ניסינו לעבד את תשלום החברות שלך, ננסה שוב ב-{{date}}",
+    "update_payment_info": "עדכן אמצעי תשלום",
+    "retry_payment": "נסה שוב אמצעי תשלום",
+    "cancel_payment": "בטל חברות",
+    "something_wrong": "נראה שמשהו השתבש...",
+    "update_payment_method": "עדכן תשלום",
+    "you_saved": "חסכת",
+    "treatments": "({{number}} טיפול{{plural}})",
+    "products": "({{number}} מוצר{{plural}})",
+    "equivalent": {
+      "title": "שווה ערך",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " שפתון(ים) של שאנל",
+      "bags": " תיק(ים) של שאנל",
+      "swimsuits": " בגד(י) ים של גוצ'י"
+    },
+    "memberShipPayFor": "החברות שמשלמת על עצמה",
+    "you_have": "יש לך {{quantity}} טיפולים זמינים",
+    "you_have_products": "יש לך {{quantity}} מוצרים זמינים",
+    "available_in": "{{days}} ימים נותרו לבחירה הבאה",
+    "available_in_products": "המוצרים הבאים יהיו זמינים בעוד {{days}} ימים",
+    "your_benefits": "ההטבות שלך",
+    "membership_benefits": "הטבות חברות",
+    "refresh_on": "מתרענן ב-{{date}}",
+    "monthly_treatment_selection": "בחירת טיפול חודשית",
+    "monthly_product_selection": "בחירת מוצר חודשית",
+    "firstDay_treatment_selection": "החל מהיום הראשון שלך כחבר",
+    "firstDay_product_selection": "החל מהיום הראשון שלך כחבר",
+    "unknown_treatment_selection": "החל לאחר {{period}} כחבר",
+    "unknown_product_selection": "החל לאחר {{period}} כחבר",
+    "select_one": "בחר 1 מהטיפולים הבאים בחינם בכל חודש",
+    "select_one_product": "בחר 1 מהמוצרים הבאים בחינם בכל חודש",
+    "select_free_treatment": "בחר את הטיפול החינמי שלך",
+    "select_free_product": "בחר את המוצר החינמי שלך",
+    "are_you_sure": "האם אתה בטוח שברצונך לבחור בטיפול זה?",
+    "are_you_sure_product": "האם אתה בטוח שברצונך לבחור במוצר זה?",
+    "are_you_sure_cancel": "האם אתה בטוח שברצונך לבטל את החברות שלך?",
+    "sure": "כן, אני בטוח",
+    "no": "לא, טעיתי",
+    "number_updated": "כמות היחידות עודכנה בהצלחה עבור טיפול זה",
+    "number_updated_product": "כמות היחידות עודכנה בהצלחה עבור מוצר זה",
+    "you_can_see": "כעת תוכל לראות את היחידות הנותרות ולתזמן את הפגישות הבאות שלך.",
+    "you_can_see_product": "כעת תוכל לראות את היחידות הנותרות ולתזמן את הפגישות הבאות שלך."
+  },
+  "cart_screen": {
+    "screen_title": "עגלת קניות",
+    "clinic_price_applied": "תמחור {{clinic}} הוחל",
+    "summury": "סיכום",
+    "promo_code": "קוד פרומו",
+    "add_promo_code": "הוסף קוד פרומו",
+    "order_summury": "סיכום הזמנה",
+    "subtotal": "סכום ביניים",
+    "cash_wallet": "ארנק מזומן",
+    "rewardDiscount": "הנחת פרס",
+    "membership_discount": "הנחת חברות",
+    "tax": "מס ועמלת שירות",
+    "total": "סך ההזמנה",
+    "totalMaj": "סך ההזמנה",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "לתשלום עכשיו",
+    "place_order": "בצע הזמנה",
+    "order_confirmed": "התרגש, ההזמנה שלך אושרה!",
+    "points_tracker": "מעקב נקודות",
+    "your_purchance": "הרכישה שלך עזרה לך להרוויח לקראת הפרס הבא שלך!",
+    "reward_unlocked": "הפרס נפתח",
+    "rewards_unlocked": "פרסים נפתחו",
+    "amount_unlocked": "${{amount}} לקראת הרכישה הראשונה שלהם בתוך האפליקציה",
+    "can_convert_amount": "ניתן להמיר ל-{{amount}} $ במזומן",
+    "edit_product": "ערוך מוצר",
+    "delete": "מחק",
+    "empty_cart": "העגלה ריקה, הוסף כמה מוצרים",
+    "cashExceeds": "מצטערים, יתרת המזומנים אינה יכולה לעלות על ({{allowedMerchantCashPercentage}}%) מהערך הכולל של העגלה",
+    "loseMoney": "אנחנו נפסיד כסף 😞",
+    "useOnly": "אתה יכול להוסיף עוד טיפולים לעגלת הקניות שלך, או להשתמש רק ב-{{amount}} מיתרת המזומנים הזמינה שלך עבור טיפול זה כרגע.",
+    "disallowed": "מצטערים, לא ניתן להשתמש ביתרת המזומנים שלך עבור {{number}} טיפול(ים)",
+    "removeFromCart": "הסר מהעגלה"
+  },
+  "dates": {
+    "minute": "דקה",
+    "minutes": "דקות",
+    "hour": "שעה",
+    "hours": "שעות",
+    "day": "יום",
+    "days": "ימים",
+    "month": "חודש",
+    "months": "חודשים",
+    "year": "שנה",
+    "years": "שנים",
+    "now": "עכשיו",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "אימייל זה כבר נמצא בשימוש. אנא השתמש באימייל אחר.",
+    "login_error": "ההתחברות נכשלה. בדוק את המספר שלך, ואז נסה שוב.",
+    "signup_error": "ההרשמה נכשלה. ודא שהמידע שלך נכון ונסה שוב.",
+    "undifined_error": "אופס! משהו השתבש.",
+    "otp_not_valid": "הקוד שהזנת שגוי. אנא בדוק אותו ונסה שוב.",
+    "create_account": "לא הצלחנו ליצור את חשבונך. אנא בדוק את פרטיך ונסה שוב.",
+    "date": {
+      "invalid_date": "התאריך אינו בפורמט הנכון. השתמש ב-DD/MM/YYYY.",
+      "invalid_month": "אנא בחר תאריך לידה חוקי.",
+      "invalid_day": "אנא בחר תאריך לידה חוקי.",
+      "invalid_birthdate": "יום ההולדת שלך לא יכול להיות בעתיד. אנא בחר תאריך לידה חוקי."
+    }
+  },
+  "noDataFound": {
+    "treatment": "אין טיפולים זמינים",
+    "treatmentSearch": "אין טיפולים זמינים",
+    "product": "אין מוצרים זמינים"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "זה יחייב {{amount}} ישירות מכרטיסך. האם אתה בטוח שברצונך להמשיך?",
+    "add_card_note": "הערה: עליך להוסיף אמצעי תשלום לחשבונך",
+    "confirm_subscription": "אשר מנוי",
+    "yes": "כן, המשך",
+    "no": "לא, בטל"
+  },
+  "taxSheet": {
+    "title": "2.5% מס ועמלת שירות",
+    "description": "עמלה זו משמשת לקיזוז עלויות אדמיניסטרטיביות הקשורות לטיפול או לשירות שלך.",
+    "button": "הבנתי"
+  },
+  "payment": {
+    "retry_failed_title": "התשלום נכשל",
+    "retry_failed_message": "לא הצלחנו לעבד את התשלום שלך. אנא עדכן את אמצעי התשלום שלך כדי להמשיך."
+  },
+  "treatments": {
+    "redeem_multiple": "ממש {{count}} טיפולים"
+  },
+  "products": {
+    "redeem_multiple": "ממש {{count}} מוצרים"
+  },
+  "custom_plan": {
+    "delete_title": "מחק תוכנית מותאמת אישית",
+    "delete_description": "האם אתה בטוח שברצונך למחוק תוכנית מותאמת אישית זו?",
+    "delete": "מחק",
+    "cancel": "בטל"
+  },
+  "no_search_results": {
+    "title": "לא נמצאו תוצאות",
+    "description": "נראה שלא הצלחנו למצוא שום דבר שתואם לחיפוש שלך.",
+    "try_new": "נסה מילות מפתח אחרות או בדוק שגיאות הקלדה."
   }
 }

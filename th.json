@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "ดำเนินการต่อในฐานะแขก",
+    "continue": "ดำเนินการต่อ",
+    "apply": "ใช้",
+    "save": "บันทึก",
+    "scan": "สแกนทันที",
+    "next": "ถัดไป",
+    "powered": "ขับเคลื่อนโดย:",
+    "scan_qr_code": "สแกนคิวอาร์โค้ด",
+    "or": "หรือ",
+    "shop_now": "ช้อปเลย",
+    "dermis": "เดอร์มิส (Dermis)",
+    "resend_code": "ส่งรหัสอีกครั้ง",
+    "view_rewards": "ดูรางวัลของฉัน",
+    "change_icon": "เปลี่ยนไอคอน",
+    "reset_icon": "รีเซ็ตไอคอน",
+    "my_points": "ดูคะแนนของฉัน",
+    "see_more": "ดูเพิ่มเติม",
+    "see_benifits": "ดูสิทธิประโยชน์",
+    "show_all": "แสดงทั้งหมด",
+    "rewards": "รางวัล",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "สามารถแปลงได้",
+    "clinic_cash": "เงินสด {{clinic}}",
+    "checkout": "ชำระเงิน",
+    "save_address": "บันทึกที่อยู่ในบัญชีของฉัน",
+    "call_now": "โทรเลย",
+    "apply_filter": "ใช้ตัวกรอง",
+    "filter_by": "กรองตาม",
+    "reset_filter": "รีเซ็ตตัวกรอง",
+    "unit_number": "{{quantity}} หน่วย",
+    "add_to_cart": "เพิ่มลงในตะกร้า",
+    "treatments": "ทรีตเมนต์",
+    "products": "ผลิตภัณฑ์",
+    "membership": "สมาชิก",
+    "treat_today": "รับทรีตเมนต์วันนี้ จ่ายทีหลัง",
+    "earn": " รับรางวัล",
+    "search": "ค้นหา",
+    "settings": "การตั้งค่า",
+    "save_big": "ประหยัดสุดคุ้ม",
+    "browse_shop": "เลือกดูร้านค้า",
+    "filter": "ตัวกรอง",
+    "sort": "จัดเรียง",
+    "referral": "รหัสแนะนำ",
+    "enter_referral": "กรอกรหัสแนะนำของคุณ",
+    "enter_referral_description": "กรอกรหัสแนะนำของคุณเพื่อรับสิทธิประโยชน์พิเศษ",
+    "submit": "ส่ง",
+    "skip": "ข้าม",
+    "have_referral": "มีรหัสแนะนำหรือไม่?",
+    "ok": "ตกลง",
+    "cancel": "ยกเลิก"
+  },
+  "deleteAccount": {
+    "title": "ลบบัญชี",
+    "description": "คุณแน่ใจหรือไม่ว่าต้องการลบบัญชีของคุณ?",
+    "note": "ข้อมูลและการสมัครสมาชิกทั้งหมดของคุณจะถูกลบอย่างถาวร",
+    "yes": "ใช่",
+    "no": "ไม่"
+  },
+  "home": {
+    "last_visited": "{{name}}, เราไม่เห็นคุณมา {{days_count}} วันแล้ว...",
+    "days_count": "ไม่เห็นคุณมา {{days_count}} วันแล้ว...",
+    "offer": "ดังนั้น เราจึงได้เตรียมข้อเสนอที่คุณไม่สามารถปฏิเสธได้!",
+    "unwrap": "แตะเพื่อเปิด",
+    "recently_viewed": "ที่ดูเมื่อเร็วๆ นี้",
+    "save": "ประหยัด {{amount}}",
+    "save2": " ในฐานะสมาชิก {{clinic}}",
+    "save_paragraph": "ทรีตเมนต์ฟรี สิทธิประโยชน์สุดพิเศษ",
+    "ad_title": "รับทรีตเมนต์วันนี้ จ่ายทีหลัง รับรางวัล",
+    "ad_description": "ชำระเป็นรายเดือนโดยไม่มีค่าปรับล่าช้า",
+    "educate_yourself": "ให้ความรู้แก่ตัวเอง"
+  },
+  "language": {
+    "english": "อังกฤษ",
+    "french": "ฝรั่งเศส"
+  },
+  "onboarding": {
+    "welcome": "ยินดีต้อนรับ",
+    "welcome_message": "ยินดีต้อนรับสู่ Qonnect!",
+    "rewards": "รางวัลฟรีสำหรับสมาชิกใหม่!",
+    "birthdays": "ของขวัญวันเกิดฟรี",
+    "events": "กิจกรรมและข้อเสนอพิเศษสำหรับสมาชิกเท่านั้น",
+    "phone_request": "ขอเบอร์โทรศัพท์ของคุณหน่อยได้ไหม?",
+    "login_with_phone": "ลงทะเบียนหรือเข้าสู่ระบบด้วยเบอร์โทรศัพท์ของคุณ!",
+    "terms": {
+      "agree": "ฉันยอมรับ ",
+      "terms_of_service": "ข้อกำหนดในการให้บริการ ",
+      "and": "และ ",
+      "privacy": "นโยบายความเป็นส่วนตัว"
+    },
+    "closeApp": "ปิดแอป",
+    "andReopen": "และเปิดใหม่",
+    "otp_title": "กรอกรหัส OTP ที่ส่งทาง SMS",
+    "sms_sent": "เราได้ส่งรหัส OTP ไปที่ {{phone_number}} แล้ว",
+    "email_placeholder": "ชื่อ@อีเมล.com",
+    "well_done": "ทำได้ดีมาก!",
+    "email_request": "แล้วอีเมลของคุณล่ะ?",
+    "last_step": "ขั้นตอนสุดท้ายแต่สำคัญที่สุด",
+    "name_request": "คุณชื่ออะไร?",
+    "name_placeholder": "สมชาย",
+    "first_name_placeholder": "สม",
+    "last_name_placeholder": "ชาย",
+    "birthday_placeholder": "วัน / เดือน / ปี",
+    "birthday_request": "วันเกิดของคุณคือเมื่อไหร่?",
+    "welcome_message2": "ยินดีต้อนรับ, {{name}}!",
+    "gift_message": "เรามีของขวัญเล็กน้อยสำหรับคุณที่สแกน QR โค้ดแรกของคุณ",
+    "find_spa": {
+      "find_medspa": "ค้นหาผู้ให้บริการของคุณ",
+      "description": "ค้นหาสถานที่ของคุณตอนนี้เพื่อซื้อบริการที่คุณชื่นชอบและเริ่มรับรางวัลจากการซื้อและการเยี่ยมชมทุกครั้ง!",
+      "search": "ค้นหาผู้ให้บริการตามชื่อ",
+      "results_found": "พบ {{quantity}} ผลลัพธ์"
+    }
+  },
+  "personalInfo": {
+    "title": "ข้อมูลส่วนตัว",
+    "email_label": "อีเมล",
+    "email_placeholder": "ชื่อ@อีเมล.com",
+    "nickname_label": "ชื่อเล่น",
+    "nickname_placeholer": "ชื่อ",
+    "firstname_label": "ชื่อจริง",
+    "firstname_placeholder": "สม",
+    "lastname_label": "นามสกุล",
+    "lastname_placeholder": "ชาย"
+  },
+  "scan": {
+    "scan_text": "สแกนที่คลินิกเพื่อรับ",
+    "points": "{{points}} คะแนน",
+    "cant_scan": "วิธีการทำงานนี้เป็นอย่างไร?"
+  },
+  "rewardModal": {
+    "horray": "ไชโย!",
+    "you_earned": "คุณเพิ่งได้รับ",
+    "points": "{{points}}",
+    "clinic_points": " คะแนน {{clinic}}"
+  },
+  "banked_modal": {
+    "reward_banked": "รางวัลถูกโอนเข้าธนาคารแล้ว!",
+    "cash": "เงินสด {{clinic}}",
+    "view_rewards": "ดูรางวัล"
+  },
+  "segment": {
+    "browse": "เลือกดู",
+    "treatments": "ทรีตเมนต์",
+    "clinicName": "{{clinicName}}",
+    "active": "ใช้งานอยู่",
+    "past": "ที่ผ่านมา",
+    "products": "ผลิตภัณฑ์"
+  },
+  "special_offers": {
+    "expire_in": "หมดอายุใน {{time_left}}",
+    "title": "ข้อเสนอพิเศษ!",
+    "new_msg": "คุณมีข้อความใหม่จาก {{sender}}!"
+  },
+  "shop": {
+    "title": "ร้านค้า",
+    "treatment": {
+      "learn_more": "เรียนรู้เพิ่มเติมเกี่ยวกับทรีตเมนต์นี้",
+      "see_treatment": "ดูทรีตเมนต์",
+      "included_treatments_title": "ทรีตเมนต์ที่รวม",
+      "chose_treatment": "เลือกหนึ่งใน {{quantity}} ทรีตเมนต์นี้ฟรีทุก {{month}}",
+      "chose_treatment2": "เลือก {{quantity}} รายการเหล่านี้ทุก {{month}}",
+      "chose_treatment3": "รับรายการต่อไปนี้ทุก {{month}}",
+      "signUpBonus": "โบนัสสมัครสมาชิก",
+      "from_price": "เริ่มต้นที่ {{price}}",
+      "members_price": " {{memberPrice}} สำหรับสมาชิก",
+      "treatment_fees": " มีค่าธรรมเนียมบริการ {{fees}} เมื่อชำระเงิน",
+      "results_title": "ผลลัพธ์ที่น่าทึ่ง",
+      "results_description": "ความรู้สึกของผู้อื่นเกี่ยวกับทรีตเมนต์นี้",
+      "select_plan": "เลือกแผนทรีตเมนต์",
+      "before_text": "ก่อนการทำทรีตเมนต์",
+      "after_text": "หลังการทำทรีตเมนต์",
+      "members_results": "ผลลัพธ์ของสมาชิก",
+      "customers_and_clients": "สิ่งที่สมาชิกได้เห็น",
+      "expectations": "คาดหวังอะไรได้บ้าง?",
+      "bundles_treatment_title": "จำนวนทรีตเมนต์",
+      "variations_treatments_title": "การเปลี่ยนแปลงทรีตเมนต์",
+      "treatments_quantity": "{{quantity}} ทรีตเมนต์",
+      "consultation_required": "จำเป็นต้องปรึกษา!",
+      "scheduling_link": "ลิงก์การนัดหมาย:",
+      "visit_button": "เยี่ยมชมลิงก์",
+      "noBooking": "ผลิตภัณฑ์นี้ไม่จำเป็นต้องมีการจอง",
+      "sessions_available": "เหลือ {{remaining}} จาก {{quantity}} เซสชัน",
+      "sessions": "{{quantity}} เซสชัน",
+      "expire_in": "หมดอายุใน",
+      "search_result": "พบ {{quantity}} ผลลัพธ์",
+      "consultation": "ทรีตเมนต์นี้ต้องมีการปรึกษา",
+      "add_to_cart": "คุณแน่ใจหรือไม่ว่าต้องการเพิ่มสิ่งนี้ลงในตะกร้า?"
+    },
+    "product": {
+      "learn_more": "เรียนรู้เพิ่มเติมเกี่ยวกับผลิตภัณฑ์นี้",
+      "see_product": "ดูผลิตภัณฑ์",
+      "included_products_title": "ผลิตภัณฑ์ที่รวม",
+      "chose_product": "เลือกหนึ่งใน {{quantity}} ผลิตภัณฑ์นี้ฟรีทุก {{month}}",
+      "chose_product2": "เลือก {{quantity}} รายการเหล่านี้ทุก {{month}}",
+      "chose_product3": "รับรายการต่อไปนี้ทุก {{month}}",
+      "from_price": "เริ่มต้นที่ {{price}}",
+      "members_price": " {{memberPrice}} สำหรับสมาชิก",
+      "product_fees": " มีค่าธรรมเนียมบริการ {{fees}} เมื่อชำระเงิน",
+      "results_title": "ผลลัพธ์ที่น่าทึ่ง",
+      "results_description": "ความรู้สึกของผู้อื่นเกี่ยวกับผลิตภัณฑ์นี้",
+      "select_plan": "เลือกแผนผลิตภัณฑ์",
+      "before_text": "ก่อนผลิตภัณฑ์ของคุณ",
+      "after_text": "หลังผลิตภัณฑ์ของคุณ",
+      "members_results": "ผลลัพธ์ของสมาชิก",
+      "customers_and_clients": "ความรู้สึกของผู้อื่นเกี่ยวกับผลิตภัณฑ์นี้",
+      "expectations": "คาดหวังอะไรได้บ้าง?",
+      "bundles_product_title": "จำนวนผลิตภัณฑ์",
+      "variations_products_title": "การเปลี่ยนแปลงผลิตภัณฑ์",
+      "products_quantity": "{{quantity}} ผลิตภัณฑ์",
+      "consultation_required": "จำเป็นต้องปรึกษา!",
+      "scheduling_link": "ลิงก์การนัดหมาย:",
+      "visit_button": "เยี่ยมชมลิงก์",
+      "expire_in": "หมดอายุใน",
+      "sessions_available": "เหลือ {{remaining}} จาก {{quantity}} {{plural}}",
+      "treatments": "{{quantity}} ทรีตเมนต์"
+    },
+    "save_button": {
+      "text": "ประหยัด {{amount}} ต่อปี",
+      "subscribe": "สมัครสมาชิกเลย!"
+    },
+    "view_button": {
+      "text": "ดู"
+    },
+    "bonus_card": {
+      "title": "ลงทะเบียนเพื่อรับทันที",
+      "title_bold": " {{gifts}} ฟรี!"
+    },
+    "teamMember": {
+      "title": "ใครเป็นผู้ช่วยคุณในการซื้อครั้งนี้?",
+      "not_Sure": "ไม่แน่ใจ"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "รับทรีตเมนต์วันนี้ จ่ายทีหลัง รับรางวัล",
+      "free_treatments": "ทรีตเมนต์ฟรี สิทธิประโยชน์สุดพิเศษ",
+      "how_it_work": "วิธีการทำงานนี้เป็นอย่างไร?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} คะแนน",
+    "sinleReward": "รางวัล",
+    "title": "รางวัล",
+    "win_points": {
+      "title": "ต้องการคะแนนเพิ่มหรือไม่?",
+      "refer_friend": "แนะนำเพื่อน",
+      "purshase_inApp": "ซื้อในแอป",
+      "google_review": "รีวิว Google",
+      "visit": "เยี่ยมชมคลินิกของเรา",
+      "status": {
+        "points_added": "เพิ่ม {{points}} คะแนนแล้ว",
+        "scan": "สแกนเพื่อรับ",
+        "pending": "รอการอนุมัติ",
+        "plus_points": "+{{points}} คะแนน",
+        "done": "เสร็จสิ้น"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "คะแนนความภักดี",
+        "cultPoints": "คะแนนคลับ",
+        "memberShip": "สมาชิก {{clinic}}",
+        "joinedOn": "เข้าร่วมเมื่อ: {{since}}",
+        "cash": "เงินสด {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "คุณได้แสดงความคิดเห็นแล้วหรือยัง?",
+        "text": "เจ้าของคลินิกของเราจะตรวจสอบความคิดเห็นเพื่อเพิ่มคะแนนให้คุณ",
+        "yesButton": "ใช่ ฉันได้ทำแล้ว!",
+        "noButton": "ยังไม่ถึงเวลา"
+      },
+      "reward_details": {
+        "expire_in": "หมดอายุใน {{time_left}} วัน",
+        "redeem_button": "แลกรับรางวัลตอนนี้",
+        "bank_it": "โอนเข้าธนาคารเพื่อรับ {{amount}} เงินสด {{clinic}}",
+        "redeemed": "แลกรับแล้ว",
+        "banked": "โอนเข้าธนาคารแล้ว",
+        "locked": "ถูกล็อค",
+        "expired_at": "หมดอายุ:",
+        "consumed": "ใช้ไปแล้ว"
+      },
+      "bank_reward": {
+        "bank_title": "คุณต้องการโอนรางวัลของคุณเข้าธนาคารเป็นเงินสด {{clinic}} หรือไม่?",
+        "custom_bank_title": "โอนรางวัลเข้าธนาคาร",
+        "bank_description": "คุณกำลังจะแลกรางวัลของคุณซึ่งมีมูลค่า",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "เป็นมูลค่าเงินสด {{clinic}} เพื่อใช้จ่ายในร้านค้าในแอป การดำเนินการนี้จะทำให้คุณเสียสิทธิ์ในการเข้าถึงรางวัลจริง",
+        "yes_button": "ใช่ โอนรางวัลเข้าธนาคาร",
+        "no_button": "ไม่ใช่ตอนนี้"
+      },
+      "congratSheet": {
+        "title": "ขอแสดงความยินดี!",
+        "your_reward": "รางวัลของคุณถูกเพิ่มลงในตะกร้าแล้ว!",
+        "description": "ตอนนี้เลือกดูร้านค้าเพื่อเพิ่มลงในคำสั่งซื้อของคุณ หรือดูตะกร้าเพื่อดำเนินการชำระเงินให้เสร็จสิ้นพร้อมส่วนลดที่ใช้ทันที",
+        "explore_shop": "สำรวจร้านค้า",
+        "view_cart": "ดูตะกร้า"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "ไม่พบรางวัล",
+      "description": "โปรดกลับมาตรวจสอบภายหลังสำหรับรางวัลเพิ่มเติม"
+    }
+  },
+  "profile": {
+    "screen_title": "บัญชี",
+    "logout": "ออกจากระบบ",
+    "my-treatment-section": {
+      "my-treatment": "ทรีตเมนต์ของฉัน",
+      "used_treatments": "ทรีตเมนต์ที่ใช้แล้ว",
+      "empty_used": "ไม่มีทรีตเมนต์ที่ใช้แล้ว",
+      "empty_purshased": "ไม่มีทรีตเมนต์ที่ซื้อ",
+      "empty_treatment": "ไม่มีทรีตเมนต์",
+      "remaining_treatments": "เหลือ {{remaining}} จาก {{quantity}} ทรีตเมนต์",
+      "redeemed_on": "แลกรับเมื่อ: {{date}}",
+      "scan": "สแกนที่คลินิกเพื่อแลกรับ",
+      "book": "นัดหมาย",
+      "callClinic": "โทรหาคลินิก"
+    },
+    "my-product-section": {
+      "my-product": "ผลิตภัณฑ์ของฉัน",
+      "used_products": "ผลิตภัณฑ์ที่ใช้แล้ว",
+      "empty_used": "ไม่มีผลิตภัณฑ์ที่ใช้แล้ว",
+      "empty_purshased": "ไม่มีผลิตภัณฑ์ที่ซื้อ",
+      "empty_product": "ไม่มีผลิตภัณฑ์",
+      "remaining_products": "เหลือ {{remaining}} จาก {{quantity}} ผลิตภัณฑ์",
+      "redeemed_on": "แลกรับเมื่อ: {{date}}",
+      "scan": "สแกนที่คลินิกเพื่อแลกรับ",
+      "book": "นัดหมาย",
+      "callClinic": "โทรหาคลินิก"
+    },
+    "quantity_sheet": {
+      "select": "เลือกปริมาณ",
+      "units_left": "เหลือ {{quantity}} {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "ทรีตเมนต์แลกรับแล้ว",
+      "description": "ตอนนี้คุณสามารถดูหน่วยที่เหลือและกำหนดเวลาเซสชันถัดไปของคุณได้",
+      "got_it": "เข้าใจแล้ว!",
+      "cant_scan": "สแกนไม่ได้?",
+      "fallback_description": "นี่คือรหัสสำรองของคุณ กรอกในเว็บแอป:",
+      "time_remaining": "เวลาที่เหลือ: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "ผลิตภัณฑ์แลกรับแล้ว",
+      "description": "ตอนนี้คุณสามารถดูหน่วยที่เหลือและกำหนดเวลาเซสชันถัดไปของคุณได้",
+      "got_it": "เข้าใจแล้ว!",
+      "cant_scan": "สแกนไม่ได้?",
+      "fallback_description": "นี่คือรหัสสำรองของคุณ กรอกในเว็บแอป:",
+      "time_remaining": "เวลาที่เหลือ: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "ข้อมูลส่วนตัว",
+      "payment_methods": "วิธีการชำระเงิน",
+      "payment_method": "วิธีการชำระเงิน"
+    },
+    "payment_method_card": {
+      "visa": "บัตร",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "หมายเลขบัตร",
+      "experation": "วันหมดอายุ",
+      "cvc": "CVC",
+      "select_country": "เลือกประเทศ",
+      "select_country_placeholder": "เลือกประเทศ...",
+      "contact_details": "รายละเอียดการติดต่อ",
+      "confirm_details": "ยืนยันรายละเอียดของคุณเพื่อรับใบเสร็จการขาย"
+    }
+  },
+  "membership_section": {
+    "joined_on": " เข้าร่วมเมื่อ: {{date}}",
+    "cancled_on": " ยกเลิกเมื่อ: {{date}}",
+    "empty_membership": "ไม่มีสมาชิกที่นี่",
+    "browse_mebership": "เลือกดูสมาชิก",
+    "active_membership": "สมาชิกที่ใช้งานอยู่",
+    "paused_membership": "สมาชิกที่หยุดชั่วคราว",
+    "active_membership_count": "สมาชิกที่ใช้งานอยู่ {{quantity}} รายการ",
+    "next_payment_attempt": "เราไม่สามารถดำเนินการชำระเงินค่าสมาชิกของคุณได้ เราจะลองอีกครั้งในวันที่ {{date}}",
+    "update_payment_info": "อัปเดตวิธีการชำระเงิน",
+    "retry_payment": "ลองวิธีการชำระเงินอีกครั้ง",
+    "cancel_payment": "ยกเลิกสมาชิก",
+    "something_wrong": "ดูเหมือนว่ามีบางอย่างผิดพลาด...",
+    "update_payment_method": "อัปเดตการชำระเงิน",
+    "you_saved": "คุณประหยัดได้",
+    "treatments": "(ทรีตเมนต์ {{number}} รายการ)",
+    "products": "(ผลิตภัณฑ์ {{number}} รายการ)",
+    "equivalent": {
+      "title": "มูลค่าเทียบเท่ากับ",
+      "quantity": {
+        "lipstick": "ลิปสติก {{quantity}} แท่ง 💄",
+        "bags": "กระเป๋า {{quantity}} ใบ 👜",
+        "swimsuits": "ชุดว่ายน้ำ {{quantity}} ชุด 👙",
+        "cash": "เงินสด {{quantity}} 💰"
+      },
+      "amount": "",
+      "lipsticks": " ลิปสติก Chanel",
+      "bags": " กระเป๋าถือ Chanel",
+      "swimsuits": " ชุดว่ายน้ำ Gucci"
+    },
+    "memberShipPayFor": "สมาชิกแบบชำระเงินด้วยตนเอง",
+    "you_have": "คุณมีทรีตเมนต์ {{quantity}} รายการ",
+    "you_have_products": "คุณมีผลิตภัณฑ์ {{quantity}} รายการ",
+    "available_in": "เหลือ {{days}} วันจนถึงการเลือกครั้งต่อไปของคุณ",
+    "available_in_products": "ผลิตภัณฑ์ถัดไปจะพร้อมใช้งานใน {{days}} วัน",
+    "your_benefits": "สิทธิประโยชน์ของคุณ",
+    "membership_benefits": "สิทธิประโยชน์สำหรับสมาชิก",
+    "refresh_on": "รีเฟรชเมื่อ: {{date}}",
+    "monthly_treatment_selection": "การเลือกทรีตเมนต์รายเดือน",
+    "monthly_product_selection": "การเลือกผลิตภัณฑ์รายเดือน",
+    "firstDay_treatment_selection": "เริ่มต้นตั้งแต่วันที่ 1 ในฐานะสมาชิก",
+    "firstDay_product_selection": "เริ่มต้นตั้งแต่วันที่ 1 ในฐานะสมาชิก",
+    "unknown_treatment_selection": "เริ่มต้นหลังจาก {{period}} ในฐานะสมาชิก",
+    "unknown_product_selection": "เริ่มต้นหลังจาก {{period}} ในฐานะสมาชิก",
+    "select_one": "เลือกหนึ่งในทรีตเมนต์ต่อไปนี้ฟรีทุกเดือน",
+    "select_one_product": "เลือกหนึ่งในผลิตภัณฑ์ต่อไปนี้ฟรีทุกเดือน",
+    "select_free_treatment": "เลือกทรีตเมนต์ฟรีของคุณ",
+    "select_free_product": "เลือกผลิตภัณฑ์ฟรีของคุณ",
+    "are_you_sure": "คุณแน่ใจหรือไม่ว่าต้องการเลือกทรีตเมนต์นี้?",
+    "are_you_sure_product": "คุณแน่ใจหรือไม่ว่าต้องการเลือกผลิตภัณฑ์นี้?",
+    "are_you_sure_cancel": "คุณแน่ใจหรือไม่ว่าต้องการยกเลิกการเป็นสมาชิกของคุณ?",
+    "sure": "ใช่ ฉันแน่ใจ",
+    "no": "ไม่ ฉันเข้าใจผิด",
+    "number_updated": "จำนวนหน่วยสำหรับทรีตเมนต์นี้ได้รับการอัปเดตเรียบร้อยแล้ว",
+    "number_updated_product": "จำนวนหน่วยสำหรับผลิตภัณฑ์นี้ได้รับการอัปเดตเรียบร้อยแล้ว",
+    "you_can_see": "ตอนนี้คุณสามารถดูหน่วยที่เหลือและกำหนดเวลาเซสชันถัดไปของคุณได้",
+    "you_can_see_product": "ตอนนี้คุณสามารถดูหน่วยที่เหลือและกำหนดเวลาเซสชันถัดไปของคุณได้"
+  },
+  "cart_screen": {
+    "screen_title": "ตะกร้าสินค้า",
+    "clinic_price_applied": "ใช้ราคา {{clinic}} แล้ว",
+    "summury": "สรุป",
+    "promo_code": "รหัสโปรโมชั่น",
+    "add_promo_code": "เพิ่มรหัสโปรโมชั่น",
+    "order_summury": "สรุปคำสั่งซื้อ",
+    "subtotal": "ยอดรวมย่อย",
+    "cash_wallet": "กระเป๋าเงินสด",
+    "rewardDiscount": "ส่วนลดจากรางวัล",
+    "membership_discount": "ส่วนลดสำหรับสมาชิก",
+    "tax": "ภาษีและค่าธรรมเนียมบริการ",
+    "total": "ยอดรวมคำสั่งซื้อ",
+    "totalMaj": "ยอดรวมคำสั่งซื้อ",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "ชำระเงินเลย",
+    "place_order": "ทำการสั่งซื้อ",
+    "order_confirmed": "ขอแสดงความยินดี คำสั่งซื้อของคุณได้รับการยืนยันแล้ว!",
+    "points_tracker": "ตัวติดตามคะแนน",
+    "your_purchance": "การซื้อของคุณช่วยให้คุณได้รับรางวัลถัดไป!",
+    "reward_unlocked": "ปลดล็อกรางวัลแล้ว",
+    "rewards_unlocked": "ปลดล็อกรางวัลแล้ว",
+    "amount_unlocked": "${{amount}} สำหรับการซื้อครั้งแรกในแอป",
+    "can_convert_amount": "สามารถแปลง ${{amount}} เป็นเงินสดได้",
+    "edit_product": "แก้ไขผลิตภัณฑ์",
+    "delete": "ลบ",
+    "empty_cart": "ตะกร้าว่างเปล่า โปรดเพิ่มผลิตภัณฑ์บางรายการ",
+    "cashExceeds": "ขออภัย ยอดเงินสดไม่สามารถเกิน ({{allowedMerchantCashPercentage}}%) ของมูลค่าตะกร้าทั้งหมด",
+    "loseMoney": "เรากำลังจะเสียเงิน 😞",
+    "useOnly": "คุณสามารถเพิ่มทรีตเมนต์ในตะกร้าได้อีก หรือใช้เพียง {{amount}} ของยอดเงินสดที่คุณมีอยู่สำหรับทรีตเมนต์นี้เท่านั้น",
+    "disallowed": "ขออภัย ยอดเงินสดของคุณไม่สามารถใช้สำหรับทรีตเมนต์ {{number}} รายการได้",
+    "removeFromCart": "นำออกจากตะกร้า"
+  },
+  "dates": {
+    "minute": "นาที",
+    "minutes": "นาที",
+    "hour": "ชั่วโมง",
+    "hours": "ชั่วโมง",
+    "day": "วัน",
+    "days": "วัน",
+    "month": "เดือน",
+    "months": "เดือน",
+    "year": "ปี",
+    "years": "ปี",
+    "now": "ตอนนี้",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "อีเมลนี้ถูกใช้แล้ว โปรดใช้อีเมลอื่น",
+    "login_error": "เข้าสู่ระบบล้มเหลว โปรดตรวจสอบหมายเลขของคุณแล้วลองอีกครั้ง",
+    "signup_error": "การลงทะเบียนล้มเหลว โปรดตรวจสอบให้แน่ใจว่าข้อมูลของคุณถูกต้องแล้วลองอีกครั้ง",
+    "undifined_error": "อุ๊ย! มีบางอย่างผิดพลาด",
+    "otp_not_valid": "รหัสที่คุณกรอกไม่ถูกต้อง โปรดตรวจสอบแล้วลองอีกครั้ง",
+    "create_account": "เราไม่สามารถสร้างบัญชีของคุณได้ โปรดตรวจสอบข้อมูลของคุณแล้วลองอีกครั้ง",
+    "date": {
+      "invalid_date": "รูปแบบวันที่ไม่ถูกต้อง โปรดใช้รูปแบบ วัน/เดือน/ปี",
+      "invalid_month": "โปรดเลือกวันเกิดที่ถูกต้อง",
+      "invalid_day": "โปรดเลือกวันเกิดที่ถูกต้อง",
+      "invalid_birthdate": "วันเกิดของคุณไม่สามารถอยู่ในอนาคตได้ โปรดเลือกวันเกิดที่ถูกต้อง"
+    }
+  },
+  "noDataFound": {
+    "treatment": "ไม่มีทรีตเมนต์",
+    "treatmentSearch": "ไม่มีทรีตเมนต์",
+    "product": "ไม่มีผลิตภัณฑ์"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "การดำเนินการนี้จะเรียกเก็บเงิน {{amount}} จากบัตรของคุณโดยตรง คุณแน่ใจหรือไม่ว่าต้องการดำเนินการต่อ?",
+    "add_card_note": "หมายเหตุ: วิธีการชำระเงินจะต้องเพิ่มในบัญชีของคุณ",
+    "confirm_subscription": "ยืนยันการสมัครสมาชิก",
+    "yes": "ใช่ ดำเนินการต่อ",
+    "no": "ไม่ ยกเลิก"
+  },
+  "taxSheet": {
+    "title": "ภาษี 2.5% และค่าธรรมเนียมบริการ",
+    "description": "ค่าธรรมเนียมนี้ใช้เพื่อครอบคลุมค่าใช้จ่ายด้านการบริหารที่เกี่ยวข้องกับทรีตเมนต์หรือบริการของคุณ",
+    "button": "เข้าใจแล้ว"
+  },
+  "payment": {
+    "retry_failed_title": "การชำระเงินล้มเหลว",
+    "retry_failed_message": "เราไม่สามารถดำเนินการชำระเงินของคุณได้ โปรดอัปเดตวิธีการชำระเงินของคุณเพื่อดำเนินการต่อ"
+  },
+  "treatments": {
+    "redeem_multiple": "แลกรับทรีตเมนต์ {{count}} รายการ"
+  },
+  "products": {
+    "redeem_multiple": "แลกรับผลิตภัณฑ์ {{count}} รายการ"
+  },
+  "custom_plan": {
+    "delete_title": "ลบแผนที่กำหนดเอง",
+    "delete_description": "คุณแน่ใจหรือไม่ว่าต้องการลบแผนที่กำหนดเองนี้?",
+    "delete": "ลบ",
+    "cancel": "ยกเลิก"
+  },
+  "no_search_results": {
+    "title": "ไม่พบผลการค้นหา",
+    "description": "ดูเหมือนว่าเราไม่พบรายการใดที่ตรงกับการค้นหาของคุณ",
+    "try_new": "ลองใช้คำหลักอื่นหรือตรวจสอบการสะกดผิด"
+  }
+}

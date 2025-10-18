@@ -1,20 +1,20 @@
 {
   "common": {
-    "loginAsGuest": "게스트로 계속하기",
+    "loginAsGuest": "게스트로 계속",
     "continue": "계속",
     "apply": "입력 적용",
     "save": "저장",
     "scan": "지금 스캔",
     "next": "다음",
-    "powered": "제공: ",
+    "powered": "제공:",
     "scan_qr_code": "QR 코드 스캔",
     "or": "또는",
     "shop_now": "지금 쇼핑하기",
-    "dermis": "DERMIS",
-    "resend_code": "코드 다시 보내기",
+    "dermis": "더미스",
+    "resend_code": "코드 재전송",
     "view_rewards": "내 리워드 보기",
     "change_icon": "아이콘 변경",
-    "reset_icon": "아이콘 초기화",
+    "reset_icon": "아이콘 재설정",
     "my_points": "내 포인트 보기",
     "see_more": "더 보기",
     "see_benifits": "혜택 보기",
@@ -22,30 +22,30 @@
     "rewards": "리워드",
     "cash": "{{amount}}",
     "discount_cash": "-${{amount}}",
-    "can_convert": "다음으로 전환 가능: ",
+    "can_convert": "로 전환 가능",
     "clinic_cash": "{{clinic}} 캐시",
-    "checkout": "결제하기",
+    "checkout": "결제",
     "save_address": "주소를 계정에 저장",
-    "call_now": "지금 전화하기",
+    "call_now": "지금 전화 걸기",
     "apply_filter": "적용",
     "filter_by": "필터 기준",
-    "reset_filter": "필터 초기화",
-    "unit_number": "{{quantity}} 단위",
+    "reset_filter": "필터 재설정",
+    "unit_number": "{{quantity}} 유닛",
     "add_to_cart": "장바구니에 추가",
-    "treatments": "치료",
+    "treatments": "시술",
     "products": "제품",
     "membership": "멤버십",
-    "treat_today": "오늘 치료하고 나중에 결제하세요.",
+    "treat_today": "오늘 시술받고 나중에 결제하세요.",
     "earn": " 리워드를 적립하세요.",
     "search": "검색",
     "settings": "설정",
-    "save_big": "큰 금액 절약하기",
-    "browse_shop": "상점 둘러보기",
+    "save_big": "크게 절약하기",
+    "browse_shop": "스토어 둘러보기",
     "filter": "필터",
     "sort": "정렬",
     "referral": "추천 코드",
     "enter_referral": "추천 코드를 입력하세요",
-    "enter_referral_description": "추천 코드를 입력하면 특별 혜택을 받을 수 있습니다",
+    "enter_referral_description": "특별 혜택을 받으려면 추천 코드를 입력하세요",
     "submit": "제출",
     "skip": "건너뛰기",
     "have_referral": "추천 코드가 있나요?",
@@ -57,20 +57,20 @@
     "description": "정말로 계정을 삭제하시겠습니까?",
     "note": "모든 데이터와 구독이 영구적으로 삭제됩니다.",
     "yes": "예",
-    "no": "아니오"
+    "no": "아니요"
   },
   "home": {
-    "last_visited": "{{name}}님, 마지막 방문 이후",
-    "days_count": "{{days_count}}...",
-    "offer": "거절할 수 없는 제안을 준비했습니다!",
+    "last_visited": "{{name}}님, 방문하지 않으신지",
+    "days_count": "{{days_count}}일이 지났습니다...",
+    "offer": "그래서 거부할 수 없는 제안을 준비했습니다!",
     "unwrap": "탭하여 열기",
-    "recently_viewed": "최근 본 항목",
+    "recently_viewed": "최근에 본 항목",
     "save": "{{amount}} 절약",
     "save2": " {{clinic}} 회원으로서",
-    "save_paragraph": "무료 치료. 독점 혜택.",
-    "ad_title": "오늘 치료하고, 나중에 결제하고, 리워드 적립.",
-    "ad_description": "연체료 없이 월별 결제 가능",
-    "educate_yourself": "더 알아보기"
+    "save_paragraph": "무료 시술. 독점 혜택.",
+    "ad_title": "오늘 시술받고 나중에 결제하세요. 리워드를 적립하세요.",
+    "ad_description": "연체료 없이 월별 결제하기",
+    "educate_yourself": "스스로 교육하기"
   },
   "language": {
     "english": "영어",
@@ -82,35 +82,35 @@
     "rewards": "신규 회원을 위한 무료 리워드!",
     "birthdays": "무료 생일 선물",
     "events": "회원 전용 이벤트 및 혜택",
-    "phone_request": "전화번호를 알려주실 수 있나요?",
-    "login_with_phone": "전화번호로 회원가입 또는 로그인하세요!",
+    "phone_request": "전화번호를 알려주시겠어요?",
+    "login_with_phone": "전화번호를 사용하여 가입하거나 로그인하세요!",
     "terms": {
-      "agree": "나는 동의합니다 ",
-      "terms_of_service": "이용 약관 ",
-      "and": "및 ",
-      "privacy": "개인정보 보호정책."
+      "agree": "저는 ",
+      "terms_of_service": "서비스 약관",
+      "and": " 및 ",
+      "privacy": "개인 정보 보호 정책에 동의합니다."
     },
-    "closeApp": "앱을 닫고",
-    "andReopen": "다시 여세요",
-    "otp_title": "SMS로 전송된 OTP 입력",
-    "sms_sent": "{{phone_number}}로 OTP를 보냈습니다",
+    "closeApp": "앱 닫기",
+    "andReopen": "후 다시 열기",
+    "otp_title": "SMS로 전송된 OTP를 입력하세요",
+    "sms_sent": "저희가 {{phone_number}}로 OTP를 보냈습니다",
     "email_placeholder": "name@email.com",
-    "well_done": "잘하셨습니다!",
-    "email_request": "그리고 이메일 주소는요?",
-    "last_step": "마지막 단계",
-    "name_request": "이름이 무엇인가요?",
-    "name_placeholder": "jhon doe",
-    "first_name_placeholder": "Jhon",
-    "last_name_placeholder": "Doe",
+    "well_done": "잘하셨어요!",
+    "email_request": "이메일 주소는요?",
+    "last_step": "마지막으로 중요한 단계",
+    "name_request": "성함이 어떻게 되세요?",
+    "name_placeholder": "홍길동",
+    "first_name_placeholder": "길동",
+    "last_name_placeholder": "홍",
     "birthday_placeholder": "일 / 월 / 년",
     "birthday_request": "생일이 언제인가요?",
-    "welcome_message2": "환영합니다, {{name}}님!",
-    "gift_message": "첫 번째 QR 코드를 스캔하여 작은 선물을 받으세요",
+    "welcome_message2": "{{name}}님, 환영합니다!",
+    "gift_message": "첫 QR 코드 스캔을 위한 작은 선물을 준비했습니다",
     "find_spa": {
-      "find_medspa": "나의 제안을 찾기",
-      "description": "지금 위치를 찾아 좋아하는 서비스를 쇼핑하고, 구매 및 방문마다 리워드를 적립하세요!",
-      "search": "이름으로 제안 검색",
-      "results_found": "{{quantity}}개의 결과가 발견됨"
+      "find_medspa": "혜택 찾기",
+      "description": "지금 위치를 찾아 좋아하는 서비스를 쇼핑하고 모든 구매 및 방문으로 리워드를 적립하기 시작하세요!",
+      "search": "이름으로 혜택 검색",
+      "results_found": "{{quantity}}개 결과 발견"
     }
   },
   "personalInfo": {
@@ -125,19 +125,404 @@
     "lastname_placeholder": "Doe"
   },
   "scan": {
-    "scan_text": "클리닉에서 스캔하여",
+    "scan_text": "적립을 위해 사무실에서 스캔",
     "points": "{{points}} 포인트",
     "cant_scan": "어떻게 작동하나요?"
   },
   "rewardModal": {
-    "horray": "축하합니다!",
-    "you_earned": "당신은 획득했습니다",
+    "horray": "만세!",
+    "you_earned": "방금 적립하셨습니다",
     "points": "{{points}}",
-    "clinic_points": "{{clinic}} 포인트"
+    "clinic_points": " {{clinic}} 포인트"
   },
   "banked_modal": {
-    "reward_banked": "리워드가 저장되었습니다!",
+    "reward_banked": "리워드 입금 완료!",
     "cash": "{{clinic}} 캐시",
     "view_rewards": "리워드 보기"
+  },
+  "segment": {
+    "browse": "둘러보기",
+    "treatments": "시술",
+    "clinicName": "{{clinicName}}",
+    "active": "활성",
+    "past": "과거",
+    "products": "제품"
+  },
+  "special_offers": {
+    "expire_in": "{{time_left}} 후 만료",
+    "title": "특별 혜택!",
+    "new_msg": "{{sender}}로부터 메시지가 도착했습니다!"
+  },
+  "shop": {
+    "title": "스토어",
+    "treatment": {
+      "learn_more": "이 시술에 대해 자세히 알아보기",
+      "see_treatment": "시술 보기",
+      "included_treatments_title": "포함된 시술",
+      "chose_treatment": "다음 중 {{quantity}}개를 매월 {{month}}에 선택하세요",
+      "chose_treatment2": "아래 항목 중 {{quantity}}개를 매월 {{month}}에 선택하세요",
+      "chose_treatment3": "다음 항목을 매월 {{month}}에 받으세요",
+      "signUpBonus": "가입 보너스",
+      "from_price": "{{price}}부터",
+      "members_price": "회원가 {{memberPrice}}",
+      "treatment_fees": " 결제 시 {{fees}}의 서비스 수수료가 부과됩니다",
+      "results_title": "놀라운 결과",
+      "results_description": "다른 사람들은 이 시술에 대해 어떻게 생각했나요",
+      "select_plan": "시술 플랜 선택",
+      "before_text": "시술 전",
+      "after_text": "시술 후",
+      "members_results": "회원 결과",
+      "customers_and_clients": "회원이 본 내용",
+      "expectations": "무엇을 기대할 수 있나요?",
+      "bundles_treatment_title": "시술 횟수",
+      "variations_treatments_title": "시술 유형",
+      "treatments_quantity": "{{quantity}} 시술",
+      "consultation_required": "상담 필요!",
+      "scheduling_link": "예약 링크:",
+      "visit_button": "링크 방문",
+      "noBooking": "이 제품은 예약이 필요하지 않습니다.",
+      "sessions_available": "남은 {{remaining}} 세션{{plural}} 중 {{quantity}}",
+      "sessions": "{{quantity}} 세션{{plural}}",
+      "expire_in": "만료일:",
+      "search_result": "{{quantity}}개 결과{{plural}} 발견",
+      "consultation": "이 시술에는 상담이 필요합니다",
+      "add_to_cart": "정말로 장바구니에 추가하시겠습니까?"
+    },
+    "product": {
+      "learn_more": "이 제품에 대해 자세히 알아보기",
+      "see_product": "제품 보기",
+      "included_products_title": "포함된 제품",
+      "chose_product": "다음 중 {{quantity}}개를 매월 {{month}}에 선택하세요",
+      "chose_product2": "아래 항목 중 {{quantity}}개를 매월 {{month}}에 선택하세요",
+      "chose_product3": "다음 항목을 매월 {{month}}에 받으세요",
+      "from_price": "{{price}}부터",
+      "members_price": " 회원가 {{memberPrice}}",
+      "product_fees": " 결제 시 {{fees}}의 서비스 수수료가 부과됩니다",
+      "results_title": "놀라운 결과",
+      "results_description": "다른 사람들은 이 제품에 대해 어떻게 생각했나요",
+      "select_plan": "제품 플랜 선택",
+      "before_text": "제품 전",
+      "after_text": "제품 후",
+      "members_results": "회원 결과",
+      "customers_and_clients": "다른 사람들은 이 제품에 대해 어떻게 생각했나요",
+      "expectations": "무엇을 기대할 수 있나요?",
+      "bundles_product_title": "제품 수",
+      "variations_products_title": "제품 유형",
+      "products_quantity": "{{quantity}} 제품",
+      "consultation_required": "상담 필요!",
+      "scheduling_link": "예약 링크:",
+      "visit_button": "링크 방문",
+      "expire_in": "만료일:",
+      "sessions_available": "남은 {{remaining}} {{plural}} 중 {{quantity}}",
+      "treatments": "{{quantity}} 시술{{plural}}"
+    },
+    "save_button": {
+      "text": "연간 {{amount}} 절약",
+      "subscribe": "지금 구독하세요!"
+    },
+    "view_button": {
+      "text": "보기"
+    },
+    "bonus_card": {
+      "title": "가입하고 즉시",
+      "title_bold": " 무료 {{gifts}}를 청구하세요!"
+    },
+    "teamMember": {
+      "title": "이 구매를 누가 도와주었나요?",
+      "not_Sure": "잘 모르겠어요"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "오늘 시술받고 나중에 결제하세요. 리워드를 적립하세요.",
+      "free_treatments": "무료 시술, 독점 혜택.",
+      "how_it_work": "어떻게 작동하나요?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} 포인트",
+    "sinleReward": "리워드",
+    "title": "리워드",
+    "win_points": {
+      "title": "더 많은 포인트가 필요하세요?",
+      "refer_friend": "친구 추천",
+      "purshase_inApp": "인앱 구매",
+      "google_review": "Google 리뷰",
+      "visit": "클리닉 방문",
+      "status": {
+        "points_added": "{{points}} 포인트 추가됨",
+        "scan": "적립을 위해 스캔",
+        "pending": "승인 대기 중",
+        "plus_points": "+{{points}} 포인트",
+        "done": "완료"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "로열티 포인트",
+        "cultPoints": "컬트 포인트",
+        "memberShip": "{{clinic}} 회원",
+        "joinedOn": "가입일: {{since}}",
+        "cash": "{{clinic}} 캐시"
+      },
+      "reviewSheet": {
+        "title": "리뷰를 남기셨나요?",
+        "text": "저희 클리닉 소유자가 리뷰를 확인하고 포인트를 추가해 드릴 것입니다.",
+        "yesButton": "예, 남겼어요!",
+        "noButton": "아직이요"
+      },
+      "reward_details": {
+        "expire_in": "{{time_left}}일 후 만료",
+        "redeem_button": "지금 리워드 사용",
+        "bank_it": "{{amount}} {{clinic}} 캐시로 입금",
+        "redeemed": "사용됨",
+        "banked": "입금됨",
+        "locked": "잠김",
+        "expired_at": "만료일:",
+        "consumed": "소비됨"
+      },
+      "bank_reward": {
+        "bank_title": "리워드를 {{clinic}} 캐시로 입금하시겠습니까?",
+        "custom_bank_title": "리워드 입금",
+        "bank_description": "리워드를 다음 가치의 것으로 교환하게 됩니다:",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "인앱 스토어에서 사용할 수 있는 {{clinic}} 캐시 가치. 이렇게 하면 리워드 자체에 대한 접근 권한을 잃게 됩니다.",
+        "yes_button": "예, 리워드 입금",
+        "no_button": "지금은 안 할게요"
+      },
+      "congratSheet": {
+        "title": "축하합니다!",
+        "your_reward": "리워드가 장바구니에 추가되었습니다!",
+        "description": "지금 저희 스토어를 둘러보고 주문에 추가하거나 장바구니를 보고 할인된 가격으로 지금 결제를 완료하세요.",
+        "explore_shop": "스토어 둘러보기",
+        "view_cart": "장바구니 보기"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "계정",
+    "logout": "로그아웃",
+    "my-treatment-section": {
+      "my-treatment": "내 시술",
+      "used_treatments": "사용된 시술",
+      "empty_used": "사용된 시술 없음",
+      "empty_purshased": "구매한 시술 없음",
+      "empty_treatment": "시술 없음",
+      "remaining_treatments": "남은 {{quantity}}개 시술{{plural}} 중 {{remaining}}",
+      "redeemed_on": "사용일: {{date}}",
+      "scan": "사용하려면 사무실에서 스캔",
+      "book": "예약하기",
+      "callClinic": "클리닉에 전화하기"
+    },
+    "my-product-section": {
+      "my-product": "내 제품",
+      "used_products": "사용된 제품",
+      "empty_used": "사용된 제품 없음",
+      "empty_purshased": "구매한 제품 없음",
+      "empty_product": "제품 없음",
+      "remaining_products": "남은 {{quantity}}개 제품{{plural}} 중 {{remaining}}",
+      "redeemed_on": "사용일: {{date}}",
+      "scan": "사용하려면 사무실에서 스캔",
+      "book": "예약하기",
+      "callClinic": "클리닉에 전화하기"
+    },
+    "quantity_sheet": {
+      "select": "수량 선택",
+      "units_left": "{{quantity}} {{units}} 사용 가능"
+    },
+    "redeem_modal": {
+      "redeemed": "시술 사용됨",
+      "description": "이제 남은 유닛을 확인하고 다음 세션을 예약할 수 있습니다.",
+      "got_it": "알겠습니다!",
+      "cant_scan": "스캔할 수 없나요?",
+      "fallback_description": "여기에 대체 코드가 있습니다. 웹 앱에 입력하세요:",
+      "time_remaining": "남은 시간: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "제품 사용됨",
+      "description": "이제 남은 유닛을 확인하고 다음 세션을 예약할 수 있습니다.",
+      "got_it": "알겠습니다!",
+      "cant_scan": "스캔할 수 없나요?",
+      "fallback_description": "여기에 대체 코드가 있습니다. 웹 앱에 입력하세요:",
+      "time_remaining": "남은 시간: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "개인 정보",
+      "payment_methods": "결제 방법",
+      "payment_method": "결제 방법"
+    },
+    "payment_method_card": {
+      "visa": "카드",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "카드 번호",
+      "experation": "만료일",
+      "cvc": "CVC",
+      "select_country": "국가 선택",
+      "select_country_placeholder": "국가를 선택하세요...",
+      "contact_details": "연락처 세부 정보",
+      "confirm_details": "판매 영수증을 받으려면 세부 정보를 확인하세요"
+    }
+  },
+  "membership_section": {
+    "joined_on": " 가입일: {{date}}",
+    "cancled_on": " 취소일: {{date}}",
+    "empty_membership": "여기에 멤버십 없음",
+    "browse_mebership": "멤버십 둘러보기",
+    "active_membership": "활성 멤버십",
+    "paused_membership": "일시 중지된 멤버십",
+    "active_membership_count": "활성 멤버십 {{quantity}}개",
+    "next_payment_attempt": "회원 결제를 처리하려고 했으며, {{date}}에 다시 시도합니다",
+    "update_payment_info": "결제 방법 업데이트",
+    "retry_payment": "결제 방법 재시도",
+    "cancel_payment": "멤버십 취소",
+    "something_wrong": "문제가 발생한 것 같습니다...",
+    "update_payment_method": "결제 업데이트",
+    "you_saved": "당신이 절약한 금액",
+    "treatments": "({{number}}개 시술{{plural}})",
+    "products": "({{number}}개 제품{{plural}})",
+    "equivalent": {
+      "title": "동등한 가치",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " 샤넬 립스틱",
+      "bags": " 샤넬 가방",
+      "swimsuits": " 구찌 수영복"
+    },
+    "memberShipPayFor": "스스로 돈을 버는 멤버십",
+    "you_have": "사용 가능한 시술이 {{quantity}}개 있습니다",
+    "you_have_products": "사용 가능한 제품이 {{quantity}}개 있습니다",
+    "available_in": "다음 선택까지 {{days}}일 남음",
+    "available_in_products": "다음 제품은 {{days}}일 후에 사용 가능합니다",
+    "your_benefits": "귀하의 혜택",
+    "membership_benefits": "멤버십 혜택",
+    "refresh_on": "새로 고침: {{date}}",
+    "monthly_treatment_selection": "월별 시술 선택",
+    "monthly_product_selection": "월별 제품 선택",
+    "firstDay_treatment_selection": "회원으로서 첫날부터 시작",
+    "firstDay_product_selection": "회원으로서 첫날부터 시작",
+    "unknown_treatment_selection": "회원으로서 {{period}} 후에 시작",
+    "unknown_product_selection": "회원으로서 {{period}} 후에 시작",
+    "select_one": "매월 아래 시술 중 1개를 무료로 선택하세요",
+    "select_one_product": "매월 아래 제품 중 1개를 무료로 선택하세요",
+    "select_free_treatment": "무료 시술 선택",
+    "select_free_product": "무료 제품 선택",
+    "are_you_sure": "정말로 이 시술을 선택하시겠습니까?",
+    "are_you_sure_product": "정말로 이 제품을 선택하시겠습니까?",
+    "are_you_sure_cancel": "정말로 멤버십을 취소하시겠습니까?",
+    "sure": "예, 확실합니다",
+    "no": "아니요, 실수했습니다",
+    "number_updated": "이 시술의 유닛 수가 성공적으로 업데이트되었습니다",
+    "number_updated_product": "이 제품의 유닛 수가 성공적으로 업데이트되었습니다",
+    "you_can_see": "이제 남은 유닛을 확인하고 다음 세션을 예약할 수 있습니다.",
+    "you_can_see_product": "이제 남은 유닛을 확인하고 다음 세션을 예약할 수 있습니다."
+  },
+  "cart_screen": {
+    "screen_title": "장바구니",
+    "clinic_price_applied": "{{clinic}} 가격 적용됨",
+    "summury": "요약",
+    "promo_code": "프로모션 코드",
+    "add_promo_code": "프로모션 코드 추가",
+    "order_summury": "주문 요약",
+    "subtotal": "소계",
+    "cash_wallet": "캐시 지갑",
+    "rewardDiscount": "리워드 할인",
+    "membership_discount": "멤버십 할인",
+    "tax": "세금 및 서비스 수수료",
+    "total": "주문 총액",
+    "totalMaj": "주문 총액",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "지금 결제",
+    "place_order": "주문하기",
+    "order_confirmed": "축하합니다. 주문이 확정되었습니다!",
+    "points_tracker": "포인트 추적기",
+    "your_purchance": "구매를 통해 다음 리워드에 가까워졌습니다!",
+    "reward_unlocked": "리워드 잠금 해제됨",
+    "rewards_unlocked": "리워드 잠금 해제됨",
+    "amount_unlocked": "첫 인앱 구매 시 ${{amount}}",
+    "can_convert_amount": "${{amount}} 캐시로 전환 가능",
+    "edit_product": "제품 편집",
+    "delete": "삭제",
+    "empty_cart": "장바구니가 비어 있습니다. 제품을 추가하세요",
+    "cashExceeds": "죄송합니다. 캐시 잔액은 장바구니 총 가치의 ({{allowedMerchantCashPercentage}}%)를 초과하여 사용할 수 없습니다",
+    "loseMoney": "저희가 손해를 볼 수 있습니다 😞",
+    "useOnly": "장바구니에 시술을 더 추가하거나, 이 시술에는 현재 사용 가능한 캐시 잔액 중 {{amount}}만 사용할 수 있습니다.",
+    "disallowed": "죄송합니다. 캐시 잔액은 {{number}}개 시술에 사용할 수 없습니다",
+    "removeFromCart": "장바구니에서 제거"
+  },
+  "dates": {
+    "minute": "분",
+    "minutes": "분",
+    "hour": "시간",
+    "hours": "시간",
+    "day": "일",
+    "days": "일",
+    "month": "월",
+    "months": "개월",
+    "year": "년",
+    "years": "년",
+    "now": "지금",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "이 이메일은 이미 사용 중입니다. 다른 이메일을 사용해 주세요.",
+    "login_error": "로그인에 실패했습니다. 번호를 확인하고 다시 시도하세요.",
+    "signup_error": "가입에 실패했습니다. 정보가 올바른지 확인하고 다시 시도하세요.",
+    "undifined_error": "앗! 문제가 발생했습니다.",
+    "otp_not_valid": "입력하신 코드가 잘못되었습니다. 확인하고 다시 시도하세요.",
+    "create_account": "계정을 만들 수 없었습니다. 세부 정보를 확인하고 다시 시도하세요.",
+    "date": {
+      "invalid_date": "날짜 형식이 잘못되었습니다. 일/월/년 형식을 사용하세요.",
+      "invalid_month": "유효한 생년월일을 선택하세요.",
+      "invalid_day": "유효한 생년월일을 선택하세요.",
+      "invalid_birthdate": "생일은 미래일 수 없습니다. 유효한 생년월일을 선택하세요."
+    }
+  },
+  "noDataFound": {
+    "treatment": "사용 가능한 시술 없음",
+    "treatmentSearch": "사용 가능한 시술 없음",
+    "product": "사용 가능한 제품 없음"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "이것은 카드에서 직접 {{amount}}를 청구합니다. 계속하시겠습니까?",
+    "add_card_note": "참고: 계정에 결제 방법이 추가되어 있어야 합니다",
+    "confirm_subscription": "구독 확인",
+    "yes": "예, 계속합니다",
+    "no": "아니요, 취소합니다"
+  },
+  "taxSheet": {
+    "title": "2.5% 세금 및 서비스 수수료",
+    "description": "이 요금은 귀하의 시술 또는 서비스와 관련된 관리 비용을 상쇄하는 데 사용됩니다.",
+    "button": "알겠습니다"
+  },
+  "payment": {
+    "retry_failed_title": "결제 실패",
+    "retry_failed_message": "결제를 처리할 수 없었습니다. 계속하려면 결제 방법을 업데이트하세요."
+  },
+  "treatments": {
+    "redeem_multiple": "시술 {{count}}개 사용"
+  },
+  "products": {
+    "redeem_multiple": "제품 {{count}}개 사용"
+  },
+  "custom_plan": {
+    "delete_title": "맞춤 플랜 삭제",
+    "delete_description": "정말로 이 맞춤 플랜을 삭제하시겠습니까?",
+    "delete": "삭제",
+    "cancel": "취소"
+  },
+  "no_search_results": {
+    "title": "검색 결과 없음",
+    "description": "귀하의 검색과 일치하는 항목을 찾지 못한 것 같습니다.",
+    "try_new": "다른 키워드를 시도하거나 오타를 확인하세요."
   }
 }

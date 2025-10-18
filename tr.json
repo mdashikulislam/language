@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Misafir Olarak Devam Et",
+    "continue": "Devam Et",
+    "apply": "UYGULA",
+    "save": "Kaydet",
+    "scan": "Şimdi Tara",
+    "next": "İleri",
+    "powered": "Güç Kaynağı:",
+    "scan_qr_code": "QR Kodu Tara",
+    "or": "veya",
+    "shop_now": "Şimdi Alışveriş Yap",
+    "dermis": "Dermis",
+    "resend_code": "Kodu Tekrar Gönder",
+    "view_rewards": "Ödüllerimi Gör",
+    "change_icon": "İkonu Değiştir",
+    "reset_icon": "İkonu Sıfırla",
+    "my_points": "Puanlarımı Gör",
+    "see_more": "Daha Fazla Gör",
+    "see_benifits": "Avantajları Gör",
+    "show_all": "Tümünü Göster",
+    "rewards": "Ödüller",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Dönüştürülebilir",
+    "clinic_cash": "{{clinic}} Nakit",
+    "checkout": "Ödeme",
+    "save_address": "Adresi Hesabıma Kaydet",
+    "call_now": "Şimdi Ara",
+    "apply_filter": "Filtreyi Uygula",
+    "filter_by": "Şuna Göre Filtrele",
+    "reset_filter": "Filtreyi Sıfırla",
+    "unit_number": "{{quantity}} ünite(ler)",
+    "add_to_cart": "Sepete Ekle",
+    "treatments": "Tedaviler",
+    "products": "Ürünler",
+    "membership": "Üyelik",
+    "treat_today": "Tedaviyi Bugün Yaptır. Sonra Öde.",
+    "earn": " ödüller kazan.",
+    "search": "Ara",
+    "settings": "Ayarlar",
+    "save_big": "Büyük Tasarruf Et",
+    "browse_shop": "Mağazaya Göz At",
+    "filter": "Filtre",
+    "sort": "Sırala",
+    "referral": "Tavsiye Kodu",
+    "enter_referral": "Tavsiye Kodunuzu Girin",
+    "enter_referral_description": "Özel avantajlar için tavsiye kodunuzu girin",
+    "submit": "Gönder",
+    "skip": "Atla",
+    "have_referral": "Tavsiye Kodunuz Var mı?",
+    "ok": "TAMAM",
+    "cancel": "İptal Et"
+  },
+  "deleteAccount": {
+    "title": "Hesabı Sil",
+    "description": "Hesabınızı silmek istediğinizden emin misiniz?",
+    "note": "Tüm verileriniz ve abonelikleriniz kalıcı olarak silinecektir.",
+    "yes": "Evet",
+    "no": "Hayır"
+  },
+  "home": {
+    "last_visited": "{{name}}, sizi {{days_count}} gündür görmedik...",
+    "days_count": "{{days_count}} gündür sizi görmedik...",
+    "offer": "Bu yüzden reddedemeyeceğiniz bir teklif hazırladık!",
+    "unwrap": "Açmak için dokunun",
+    "recently_viewed": "Son Görüntülenenler",
+    "save": "{{amount}} Tasarruf Edin",
+    "save2": " bir {{clinic}} Üyesi olarak",
+    "save_paragraph": "Ücretsiz Tedaviler. Özel Avantajlar.",
+    "ad_title": "Tedaviyi Bugün Yaptır. Sonra Öde. Ödüller Kazan.",
+    "ad_description": "Gecikme ücreti olmadan aylık ödeme yapın",
+    "educate_yourself": "Kendinizi Eğitin"
+  },
+  "language": {
+    "english": "İngilizce",
+    "french": "Fransızca"
+  },
+  "onboarding": {
+    "welcome": "Hoş Geldiniz",
+    "welcome_message": "Qonnect'e Hoş Geldiniz!",
+    "rewards": "Yeni üyeler için ücretsiz ödüller!",
+    "birthdays": "Ücretsiz Doğum Günü Hediyeleri",
+    "events": "Yalnızca Üyelere Özel Etkinlikler ve Teklifler",
+    "phone_request": "Telefon numaranızı alabilir miyiz?",
+    "login_with_phone": "Telefon Numaranızla Kaydolun veya Giriş Yapın!",
+    "terms": {
+      "agree": " Kabul ediyorum ",
+      "terms_of_service": "Hizmet Şartları",
+      "and": " ve ",
+      "privacy": "Gizlilik Politikası."
+    },
+    "closeApp": "Uygulamayı Kapat",
+    "andReopen": "ve Tekrar Aç",
+    "otp_title": "SMS ile Gönderilen OTP Kodunu Girin",
+    "sms_sent": "{{phone_number}} adresine bir OTP kodu gönderdik",
+    "email_placeholder": "isim@eposta.com",
+    "well_done": "Aferin!",
+    "email_request": "Peki ya e-postanız?",
+    "last_step": "Son Ama En Önemli Adım",
+    "name_request": "Adınız ne?",
+    "name_placeholder": "Ahmet Yılmaz",
+    "first_name_placeholder": "Ahmet",
+    "last_name_placeholder": "Yılmaz",
+    "birthday_placeholder": "GG / AA / YYYY",
+    "birthday_request": "Doğum gününüz ne zaman?",
+    "welcome_message2": "Hoş geldiniz, {{name}}!",
+    "gift_message": "İlk QR kodunuzu taradığınız için size küçük bir hediye hazırladık",
+    "find_spa": {
+      "find_medspa": "Sağlayıcınızı Bulun",
+      "description": "Şimdi konumunuzu bulun, en sevdiğiniz hizmetleri satın alın ve her satın alma ve ziyarette ödüller kazanmaya başlayın!",
+      "search": "İsime Göre Sağlayıcıları Ara",
+      "results_found": "{{quantity}} Sonuç Bulundu"
+    }
+  },
+  "personalInfo": {
+    "title": "Kişisel Bilgiler",
+    "email_label": "E-posta",
+    "email_placeholder": "isim@eposta.com",
+    "nickname_label": "Takma Ad",
+    "nickname_placeholer": "isim",
+    "firstname_label": "Ad",
+    "firstname_placeholder": "Ahmet",
+    "lastname_label": "Soyad",
+    "lastname_placeholder": "Yılmaz"
+  },
+  "scan": {
+    "scan_text": "Klinikte Tara ve Kazan",
+    "points": "{{points}} Puan",
+    "cant_scan": "Bu Nasıl Çalışır?"
+  },
+  "rewardModal": {
+    "horray": "Yaşasın!",
+    "you_earned": "Az Önce Kazandınız",
+    "points": "{{points}}",
+    "clinic_points": " {{clinic}} Puanı"
+  },
+  "banked_modal": {
+    "reward_banked": "ÖDÜL BANKAYA YATIRILDI!",
+    "cash": "{{clinic}} Nakit",
+    "view_rewards": "Ödülleri Görüntüle"
+  },
+  "segment": {
+    "browse": "Göz At",
+    "treatments": "Tedaviler",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktif",
+    "past": "Geçmiş",
+    "products": "Ürünler"
+  },
+  "special_offers": {
+    "expire_in": "{{time_left}} içinde sona eriyor",
+    "title": "Özel Teklifler!",
+    "new_msg": "{{sender}} 'dan yeni bir mesajınız var!"
+  },
+  "shop": {
+    "title": "Mağaza",
+    "treatment": {
+      "learn_more": "Bu Tedavi Hakkında Daha Fazla Bilgi Edinin",
+      "see_treatment": "Tedaviyi Gör",
+      "included_treatments_title": "Dahil Olan Tedaviler",
+      "chose_treatment": "Bu {{quantity}} tedaviden birini her {{month}} ÜCRETSİZ seçin",
+      "chose_treatment2": "Bunlardan {{quantity}} tanesini her {{month}} seçin",
+      "chose_treatment3": "Aşağıdakileri her {{month}} alın",
+      "signUpBonus": "Kayıt Bonusu",
+      "from_price": "Başlangıç Fiyatı {{price}}",
+      "members_price": " Üyeler İçin {{memberPrice}}",
+      "treatment_fees": " Ödeme sırasında {{fees}} servis ücreti uygulanacaktır",
+      "results_title": "Şaşırtıcı Sonuçlar",
+      "results_description": "Diğerlerinin bu tedavi hakkındaki düşünceleri",
+      "select_plan": "Tedavi Planı Seç",
+      "before_text": "Tedavinizden Önce",
+      "after_text": "Tedavinizden Sonra",
+      "members_results": "Üye Sonuçları",
+      "customers_and_clients": "Üyelerin Gördükleri",
+      "expectations": "Neler Beklenmeli?",
+      "bundles_treatment_title": "Tedavi Sayısı",
+      "variations_treatments_title": "Tedavi Çeşitleri",
+      "treatments_quantity": "{{quantity}} Tedavi(ler)",
+      "consultation_required": "Danışmanlık Gerekli!",
+      "scheduling_link": "Randevu Bağlantısı:",
+      "visit_button": "Bağlantıyı Ziyaret Et",
+      "noBooking": "Bu ürün randevu gerektirmez.",
+      "sessions_available": "{{quantity}} seansstan {{remaining}} kaldı",
+      "sessions": "{{quantity}} seans(lar)",
+      "expire_in": "Sona Erme:",
+      "search_result": "{{quantity}} Sonuç Bulundu",
+      "consultation": "Bu tedavi danışmanlık gerektirir",
+      "add_to_cart": "Bunu sepete eklemek istediğinizden emin misiniz?"
+    },
+    "product": {
+      "learn_more": "Bu Ürün Hakkında Daha Fazla Bilgi Edinin",
+      "see_product": "Ürünü Gör",
+      "included_products_title": "Dahil Olan Ürünler",
+      "chose_product": "Bu {{quantity}} üründen birini her {{month}} ÜCRETSİZ seçin",
+      "chose_product2": "Bunlardan {{quantity}} tanesini her {{month}} seçin",
+      "chose_product3": "Aşağıdakileri her {{month}} alın",
+      "from_price": "Başlangıç Fiyatı {{price}}",
+      "members_price": " Üyeler İçin {{memberPrice}}",
+      "product_fees": " Ödeme sırasında {{fees}} servis ücreti uygulanacaktır",
+      "results_title": "Şaşırtıcı Sonuçlar",
+      "results_description": "Diğerlerinin bu ürün hakkındaki düşünceleri",
+      "select_plan": "Ürün Planı Seç",
+      "before_text": "Ürününüzden Önce",
+      "after_text": "Ürününüzden Sonra",
+      "members_results": "Üye Sonuçları",
+      "customers_and_clients": "Diğerlerinin bu ürün hakkındaki düşünceleri",
+      "expectations": "Neler Beklenmeli?",
+      "bundles_product_title": "Ürün Sayısı",
+      "variations_products_title": "Ürün Çeşitleri",
+      "products_quantity": "{{quantity}} Ürün(ler)",
+      "consultation_required": "Danışmanlık Gerekli!",
+      "scheduling_link": "Randevu Bağlantısı:",
+      "visit_button": "Bağlantıyı Ziyaret Et",
+      "expire_in": "Sona Erme:",
+      "sessions_available": "{{quantity}} {{plural}} arasından {{remaining}} kaldı",
+      "treatments": "{{quantity}} Tedavi(ler)"
+    },
+    "save_button": {
+      "text": "Yılda {{amount}} Tasarruf Edin",
+      "subscribe": "Şimdi Abone Ol!"
+    },
+    "view_button": {
+      "text": "Gör"
+    },
+    "bonus_card": {
+      "title": "Kayıt Olun ve Anında",
+      "title_bold": " Ücretsiz {{gifts}} Alın!"
+    },
+    "teamMember": {
+      "title": "Bu Satın Alma İşleminde Size Kim Yardımcı Oldu?",
+      "not_Sure": "Emin Değilim"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Tedaviyi Bugün Yaptır. Sonra Öde. Ödüller Kazan.",
+      "free_treatments": "Ücretsiz Tedaviler, Özel Avantajlar.",
+      "how_it_work": "Bu Nasıl Çalışır?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PUAN",
+    "sinleReward": "Ödül",
+    "title": "Ödüller",
+    "win_points": {
+      "title": "Daha Fazla Puana mı İhtiyacınız Var?",
+      "refer_friend": "Arkadaşını Tavsiye Et",
+      "purshase_inApp": "Uygulama İçi Satın Alma",
+      "google_review": "Google Yorumu",
+      "visit": "Kliniğimizi Ziyaret Edin",
+      "status": {
+        "points_added": "{{points}} Puan Eklendi",
+        "scan": "Tara ve Kazan",
+        "pending": "Onay Bekliyor",
+        "plus_points": "+{{points}} Puan",
+        "done": "Tamamlandı"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Sadakat Puanları",
+        "cultPoints": "Kült Puanları",
+        "memberShip": "{{clinic}} Üyesi",
+        "joinedOn": "Katılma Tarihi: {{since}}",
+        "cash": "{{clinic}} Nakit"
+      },
+      "reviewSheet": {
+        "title": "Yorum Bıraktınız mı?",
+        "text": "Klinik sahibimiz puanlarınızı eklemek için yorumu inceleyecektir.",
+        "yesButton": "Evet, bıraktım!",
+        "noButton": "Henüz Değil"
+      },
+      "reward_details": {
+        "expire_in": "{{time_left}} gün içinde sona eriyor",
+        "redeem_button": "Şimdi Ödülü Kullan",
+        "bank_it": "{{amount}} {{clinic}} Nakit için Bankaya Yatır",
+        "redeemed": "Kullanıldı",
+        "banked": "Bankaya Yatırıldı",
+        "locked": "Kilitli",
+        "expired_at": "Sona Erdi:",
+        "consumed": "Tüketildi"
+      },
+      "bank_reward": {
+        "bank_title": "Ödülünüzü {{clinic}} Nakit olarak Bankaya Yatırmak İster misiniz?",
+        "custom_bank_title": "Ödülü Bankaya Yatır",
+        "bank_description": "Değeri",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "olan ödülünüzü, uygulama içi mağazada harcamak üzere {{clinic}} Nakit değeriyle değiştireceksiniz. Bunu yaparak gerçek ödüle erişiminizi kaybedersiniz.",
+        "yes_button": "Evet, Ödülü Bankaya Yatır",
+        "no_button": "Şimdi Değil"
+      },
+      "congratSheet": {
+        "title": "Tebrikler!",
+        "your_reward": "Ödülünüz sepete eklendi!",
+        "description": "Şimdi siparişinize eklemek için mağazaya göz atın veya uygulanan indirimle ödemeyi hemen tamamlamak için sepeti görüntüleyin.",
+        "explore_shop": "Mağazayı Keşfet",
+        "view_cart": "Sepeti Görüntüle"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Ödül Bulunamadı",
+      "description": "Daha fazla ödül için lütfen daha sonra tekrar kontrol edin."
+    }
+  },
+  "profile": {
+    "screen_title": "Hesap",
+    "logout": "Çıkış Yap",
+    "my-treatment-section": {
+      "my-treatment": "Tedavilerim",
+      "used_treatments": "Kullanılan Tedaviler",
+      "empty_used": "Kullanılmış tedavi yok",
+      "empty_purshased": "Satın alınmış tedavi yok",
+      "empty_treatment": "Tedavi Yok",
+      "remaining_treatments": "{{quantity}} tedaviden {{remaining}} kaldı",
+      "redeemed_on": "Kullanım Tarihi: {{date}}",
+      "scan": "Kullanmak için Klinikte Tara",
+      "book": "Randevu Al",
+      "callClinic": "Kliniği Ara"
+    },
+    "my-product-section": {
+      "my-product": "Ürünlerim",
+      "used_products": "Kullanılan Ürünler",
+      "empty_used": "Kullanılmış ürün yok",
+      "empty_purshased": "Satın alınmış ürün yok",
+      "empty_product": "Ürün Yok",
+      "remaining_products": "{{quantity}} üründen {{remaining}} kaldı",
+      "redeemed_on": "Kullanım Tarihi: {{date}}",
+      "scan": "Kullanmak için Klinikte Tara",
+      "book": "Randevu Al",
+      "callClinic": "Kliniği Ara"
+    },
+    "quantity_sheet": {
+      "select": "Miktarı Seç",
+      "units_left": "{{quantity}} {{units}} Kaldı"
+    },
+    "redeem_modal": {
+      "redeemed": "Tedavi Kullanıldı",
+      "description": "Artık kalan üniteleri görebilir ve bir sonraki seansınızı planlayabilirsiniz.",
+      "got_it": "Anladım!",
+      "cant_scan": "Taranamıyor mu?",
+      "fallback_description": "Bu sizin yedek kodunuzdur. Web uygulamasına girin:",
+      "time_remaining": "Kalan Süre: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Ürün Kullanıldı",
+      "description": "Artık kalan üniteleri görebilir ve bir sonraki seansınızı planlayabilirsiniz.",
+      "got_it": "Anladım!",
+      "cant_scan": "Taranamıyor mu?",
+      "fallback_description": "Bu sizin yedek kodunuzdur. Web uygulamasına girin:",
+      "time_remaining": "Kalan Süre: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Kişisel Bilgiler",
+      "payment_methods": "Ödeme Yöntemleri",
+      "payment_method": "Ödeme Yöntemi"
+    },
+    "payment_method_card": {
+      "visa": "Kart",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Kart Numarası",
+      "experation": "Son Kullanma",
+      "cvc": "CVC",
+      "select_country": "Ülke Seçin",
+      "select_country_placeholder": "Ülke Seçin...",
+      "contact_details": "İletişim Bilgileri",
+      "confirm_details": "Satış makbuzunu almak için bilgilerinizi onaylayın"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Katılma Tarihi: {{date}}",
+    "cancled_on": " İptal Tarihi: {{date}}",
+    "empty_membership": "Burada üyelik yok",
+    "browse_mebership": "Üyeliklere Göz At",
+    "active_membership": "Aktif Üyelik",
+    "paused_membership": "Duraklatılmış Üyelik",
+    "active_membership_count": "{{quantity}} Aktif Üyelik",
+    "next_payment_attempt": "Üyelik ödemenizi işleyemedik, tekrar deneme {{date}} tarihinde yapılacak",
+    "update_payment_info": "Ödeme Yöntemini Güncelle",
+    "retry_payment": "Ödeme Yöntemini Tekrar Dene",
+    "cancel_payment": "Üyeliği İptal Et",
+    "something_wrong": "Bir şeyler yanlış gitti gibi görünüyor...",
+    "update_payment_method": "Ödemeyi Güncelle",
+    "you_saved": "Tasarruf Ettiniz",
+    "treatments": "({{number}} Tedavi)",
+    "products": "({{number}} Ürün)",
+    "equivalent": {
+      "title": "Şuna Eşdeğer",
+      "quantity": {
+        "lipstick": "{{quantity}} Ruj 💄",
+        "bags": "{{quantity}} Çanta 👜",
+        "swimsuits": "{{quantity}} Mayo 👙",
+        "cash": "{{quantity}} 💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel Ruj",
+      "bags": " Chanel Çanta",
+      "swimsuits": " Gucci Mayo"
+    },
+    "memberShipPayFor": "Kendi Kendine Ödenen Üyelik",
+    "you_have": "{{quantity}} Tedaviniz Var",
+    "you_have_products": "{{quantity}} Ürününüz Var",
+    "available_in": "Bir Sonraki Seçiminize {{days}} Gün Kaldı",
+    "available_in_products": "Bir Sonraki Ürünler {{days}} gün içinde kullanıma hazır olacak",
+    "your_benefits": "Avantajlarınız",
+    "membership_benefits": "Üyelik Avantajları",
+    "refresh_on": "Yenileme Tarihi: {{date}}",
+    "monthly_treatment_selection": "Aylık Tedavi Seçimi",
+    "monthly_product_selection": "Aylık Ürün Seçimi",
+    "firstDay_treatment_selection": "Üye Olduğunuz Günden İtibaren Başlar",
+    "firstDay_product_selection": "Üye Olduğunuz Günden İtibaren Başlar",
+    "unknown_treatment_selection": "Üye Olarak {{period}} Sonra Başlar",
+    "unknown_product_selection": "Üye Olarak {{period}} Sonra Başlar",
+    "select_one": "Aşağıdaki tedavilerden birini her ay ücretsiz seçin",
+    "select_one_product": "Aşağıdaki ürünlerden birini her ay ücretsiz seçin",
+    "select_free_treatment": "Ücretsiz Tedavinizi Seçin",
+    "select_free_product": "Ücretsiz Ürününüzü Seçin",
+    "are_you_sure": "Bu tedaviyi seçmek istediğinizden emin misiniz?",
+    "are_you_sure_product": "Bu ürünü seçmek istediğinizden emin misiniz?",
+    "are_you_sure_cancel": "Üyeliğinizi iptal etmek istediğinizden emin misiniz?",
+    "sure": "Evet, eminim",
+    "no": "Hayır, yanılmışım",
+    "number_updated": "Bu tedavi için ünite sayısı başarıyla güncellendi",
+    "number_updated_product": "Bu ürün için ünite sayısı başarıyla güncellendi",
+    "you_can_see": "Artık kalan üniteleri görebilir ve bir sonraki seansınızı planlayabilirsiniz.",
+    "you_can_see_product": "Artık kalan üniteleri görebilir ve bir sonraki seansınızı planlayabilirsiniz."
+  },
+  "cart_screen": {
+    "screen_title": "Sepet",
+    "clinic_price_applied": "{{clinic}} Fiyatı Uygulandı",
+    "summury": "Özet",
+    "promo_code": "Promosyon Kodu",
+    "add_promo_code": "Promosyon Kodu Ekle",
+    "order_summury": "SİPARİŞ ÖZETİ",
+    "subtotal": "Ara Toplam",
+    "cash_wallet": "Nakit Cüzdan",
+    "rewardDiscount": "Ödül İndirimi",
+    "membership_discount": "Üyelik İndirimi",
+    "tax": "Vergi ve Hizmet Ücreti",
+    "total": "Sipariş Toplamı",
+    "totalMaj": "SİPARİŞ TOPLAMI",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Şimdi Ödeme Yap",
+    "place_order": "Sipariş Ver",
+    "order_confirmed": "Tebrikler, Siparişiniz Onaylandı!",
+    "points_tracker": "Puan Takipçisi",
+    "your_purchance": "Satın almanız bir sonraki ödülünüze ulaşmanıza yardımcı oluyor!",
+    "reward_unlocked": "Ödülün Kilidi Açıldı",
+    "rewards_unlocked": "ÖDÜLLERİN KİLİDİ AÇILDI",
+    "amount_unlocked": "İlk Uygulama İçi Satın Almaları İçin ${{amount}}",
+    "can_convert_amount": "${{amount}} Nakite Dönüştürülebilir",
+    "edit_product": "Ürünü Düzenle",
+    "delete": "Sil",
+    "empty_cart": "Sepetiniz boş, lütfen bazı ürünler ekleyin",
+    "cashExceeds": "Üzgünüz, nakit bakiye sepetin toplam değerinin ({{allowedMerchantCashPercentage}}%)'sini aşamaz",
+    "loseMoney": "Para kaybedeceğiz 😞",
+    "useOnly": "Sepete daha fazla tedavi ekleyebilir veya mevcut nakit bakiyenizden yalnızca {{amount}}'ü bu tedavi için kullanabilirsiniz.",
+    "disallowed": "Üzgünüz, nakit bakiyeniz {{number}} tedavi için kullanılamaz",
+    "removeFromCart": "Sepetten Kaldır"
+  },
+  "dates": {
+    "minute": "dakika",
+    "minutes": "dakika",
+    "hour": "saat",
+    "hours": "saat",
+    "day": "gün",
+    "days": "gün",
+    "month": "ay",
+    "months": "ay",
+    "year": "yıl",
+    "years": "yıl",
+    "now": "şimdi",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Bu e-posta zaten kullanılıyor. Lütfen başka bir e-posta kullanın.",
+    "login_error": "Giriş Başarısız. Lütfen numaranızı kontrol edin ve tekrar deneyin.",
+    "signup_error": "Kaydolma Başarısız. Lütfen bilgilerinizin doğru olduğundan emin olun ve tekrar deneyin.",
+    "undifined_error": "Hata! Bir şeyler yanlış gitti.",
+    "otp_not_valid": "Girdiğiniz kod doğru değil. Lütfen kontrol edin ve tekrar deneyin.",
+    "create_account": "Hesabınızı oluşturamadık. Lütfen bilgilerinizi kontrol edin ve tekrar deneyin.",
+    "date": {
+      "invalid_date": "Tarih formatı yanlış. Lütfen GG/AA/YYYY formatını kullanın.",
+      "invalid_month": "Lütfen geçerli bir doğum tarihi seçin.",
+      "invalid_day": "Lütfen geçerli bir doğum tarihi seçin.",
+      "invalid_birthdate": "Doğum gününüz gelecekte olamaz. Lütfen geçerli bir doğum tarihi seçin."
+    }
+  },
+  "noDataFound": {
+    "treatment": "Tedavi Yok",
+    "treatmentSearch": "Tedavi Bulunamadı",
+    "product": "Ürün Yok"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Bu işlem kartınızdan doğrudan {{amount}} çekecektir. Devam etmek istediğinizden emin misiniz?",
+    "add_card_note": "Not: Ödeme yöntemi hesabınıza eklenmiş olmalıdır",
+    "confirm_subscription": "Aboneliği Onayla",
+    "yes": "Evet, Devam Et",
+    "no": "Hayır, İptal Et"
+  },
+  "taxSheet": {
+    "title": "%2.5 Vergi ve Hizmet Ücreti",
+    "description": "Bu ücret, tedaviniz veya hizmetinizle ilgili idari maliyetleri karşılamak için kullanılır.",
+    "button": "Anladım"
+  },
+  "payment": {
+    "retry_failed_title": "Ödeme Başarısız",
+    "retry_failed_message": "Ödemenizi işleyemedik. Devam etmek için lütfen ödeme yönteminizi güncelleyin."
+  },
+  "treatments": {
+    "redeem_multiple": "{{count}} Tedavi(ler)i Kullan"
+  },
+  "products": {
+    "redeem_multiple": "{{count}} Ürün(ler)i Kullan"
+  },
+  "custom_plan": {
+    "delete_title": "Özel Planı Sil",
+    "delete_description": "Bu özel planı silmek istediğinizden emin misiniz?",
+    "delete": "Sil",
+    "cancel": "İptal Et"
+  },
+  "no_search_results": {
+    "title": "Arama Sonucu Bulunamadı",
+    "description": "Aramanızla eşleşen herhangi bir şey bulamadık gibi görünüyor.",
+    "try_new": "Farklı anahtar kelimeler kullanmayı veya yazım hatalarını kontrol etmeyi deneyin."
+  }
+}

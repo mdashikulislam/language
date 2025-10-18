@@ -1,42 +1,42 @@
 {
   "common": {
-    "loginAsGuest": "Tęsti kaip svečias",
+    "loginAsGuest": "Tęsti kaip svečiui",
     "continue": "Tęsti",
-    "apply": "TAIKYTI ĮVESTĮ",
+    "apply": "TAIKYTI",
     "save": "Išsaugoti",
-    "scan": "Skenuoti dabar",
+    "scan": "Nuskaityti dabar",
     "next": "Kitas",
-    "powered": "Sukurta naudojant ",
-    "scan_qr_code": "Skenuoti QR kodą",
+    "powered": "Teikia:",
+    "scan_qr_code": "Nuskaityti QR kodą",
     "or": "arba",
     "shop_now": "Pirkti dabar",
-    "dermis": "DERMIS",
-    "resend_code": "Siųsti kodą dar kartą",
-    "view_rewards": "Peržiūrėti mano atlygius",
-    "change_icon": "Keisti piktogramą",
+    "dermis": "Derma",
+    "resend_code": "Pakartotinai siųsti kodą",
+    "view_rewards": "Peržiūrėti mano apdovanojimus",
+    "change_icon": "Pakeisti piktogramą",
     "reset_icon": "Atstatyti piktogramą",
     "my_points": "Peržiūrėti mano taškus",
     "see_more": "Rodyti daugiau",
-    "see_benifits": "Peržiūrėti privalumus",
-    "show_all": "Rodyti viską",
-    "rewards": "Atlygis",
+    "see_benifits": "Peržiūrėti naudą",
+    "show_all": "Rodyti visus",
+    "rewards": "Apdovanojimai",
     "cash": "{{amount}}",
     "discount_cash": "-${{amount}}",
-    "can_convert": "Gali būti konvertuota į ",
+    "can_convert": "Galima konvertuoti",
     "clinic_cash": "{{clinic}} pinigai",
-    "checkout": "Apmokėti",
+    "checkout": "Atsiskaityti",
     "save_address": "Išsaugoti adresą paskyroje",
     "call_now": "Skambinti dabar",
-    "apply_filter": "Taikyti",
+    "apply_filter": "Taikyti filtrą",
     "filter_by": "Filtruoti pagal",
-    "reset_filter": "Išvalyti filtrą",
-    "unit_number": "{{quantity}} vienetas",
+    "reset_filter": "Atstatyti filtrą",
+    "unit_number": "{{quantity}} vnt.",
     "add_to_cart": "Pridėti į krepšelį",
     "treatments": "Procedūros",
     "products": "Produktai",
     "membership": "Narystė",
-    "treat_today": "Paslaugos šiandien. Mokėkite vėliau.",
-    "earn": " Uždirbkite atlygius.",
+    "treat_today": "Pasigydyk šiandien. Mokėk vėliau.",
+    "earn": " uždirbk apdovanojimų.",
     "search": "Ieškoti",
     "settings": "Nustatymai",
     "save_big": "Sutaupykite daug",
@@ -44,8 +44,8 @@
     "filter": "Filtras",
     "sort": "Rūšiuoti",
     "referral": "Rekomendacijos kodas",
-    "enter_referral": "Įveskite rekomendacijos kodą",
-    "enter_referral_description": "Įveskite rekomendacijos kodą, kad gautumėte specialių privalumų",
+    "enter_referral": "Įveskite savo rekomendacijos kodą",
+    "enter_referral_description": "Įveskite savo rekomendacijos kodą, kad gautumėte specialių privilegijų",
     "submit": "Pateikti",
     "skip": "Praleisti",
     "have_referral": "Turite rekomendacijos kodą?",
@@ -60,17 +60,17 @@
     "no": "Ne"
   },
   "home": {
-    "last_visited": "{{name}}, jūs nesilankėte jau",
-    "days_count": "{{days_count}}...",
-    "offer": "Paruošėme jums pasiūlymą, kurio negalite atsisakyti!",
-    "unwrap": "Palieskite, kad atidarytumėte",
+    "last_visited": "{{name}}, jau",
+    "days_count": "{{days_count}} dienos, kai jūsų nematėme...",
+    "offer": "Todėl parengėme pasiūlymą, kuriam negalėsite atsispirti!",
+    "unwrap": "Bakstelėkite, kad atidarytumėte",
     "recently_viewed": "Neseniai peržiūrėta",
     "save": "Sutaupykite {{amount}}",
     "save2": " kaip {{clinic}} narys",
-    "save_paragraph": "Nemokamos procedūros. Išskirtiniai privalumai.",
-    "ad_title": "Paslaugos šiandien. Mokėkite vėliau. Uždirbkite atlygius.",
-    "ad_description": "Mokėkite kas mėnesį be vėlavimo mokesčių",
-    "educate_yourself": "Sužinokite daugiau"
+    "save_paragraph": "Nemokamos procedūros. Išskirtinės privilegijos.",
+    "ad_title": "Pasigydyk šiandien. Mokėk vėliau. Uždirbk apdovanojimų.",
+    "ad_description": "Mokėkite kas mėnesį be delspinigių",
+    "educate_yourself": "Mokykitės patys"
   },
   "language": {
     "english": "Anglų",
@@ -79,65 +79,450 @@
   "onboarding": {
     "welcome": "Sveiki atvykę",
     "welcome_message": "Sveiki atvykę į Qonnect!",
-    "rewards": "Nemokamas atlygis naujiems nariams!",
+    "rewards": "Nemokami apdovanojimai naujiems nariams!",
     "birthdays": "Nemokamos gimtadienio dovanos",
     "events": "Tik nariams skirti renginiai ir pasiūlymai",
     "phone_request": "Ar galime gauti jūsų telefono numerį?",
-    "login_with_phone": "Prisijunkite arba užsiregistruokite naudodami telefono numerį!",
+    "login_with_phone": "Prisiregistruokite arba prisijunkite naudodami savo telefono numerį!",
     "terms": {
-      "agree": "Aš sutinku su ",
-      "terms_of_service": "Paslaugų teikimo sąlygomis ",
-      "and": "ir ",
+      "agree": "Sutinku su ",
+      "terms_of_service": "Paslaugų teikimo sąlygomis",
+      "and": " ir ",
       "privacy": "Privatumo politika."
     },
-    "closeApp": "Uždarykite programėlę",
-    "andReopen": "ir atidarykite ją iš naujo",
-    "otp_title": "Įveskite SMS atsiųstą OTP kodą",
-    "sms_sent": "OTP išsiųstas į {{phone_number}}",
-    "email_placeholder": "name@email.com",
+    "closeApp": "Uždaryti programėlę",
+    "andReopen": "ir atidaryti iš naujo",
+    "otp_title": "Įveskite OTP, atsiųstą SMS žinute",
+    "sms_sent": "Išsiuntėme OTP į {{phone_number}}",
+    "email_placeholder": "vardas@paštas.lt",
     "well_done": "Puiku!",
-    "email_request": "Ir jūsų el. paštas?",
-    "last_step": "Paskutinis žingsnis",
+    "email_request": "O jūsų el. paštas?",
+    "last_step": "Paskutinis, bet ne mažiau svarbus žingsnis",
     "name_request": "Koks jūsų vardas?",
-    "name_placeholder": "jhon doe",
-    "first_name_placeholder": "Jhon",
-    "last_name_placeholder": "Doe",
+    "name_placeholder": "Jonas Jonaitis",
+    "first_name_placeholder": "Jonas",
+    "last_name_placeholder": "Jonaitis",
     "birthday_placeholder": "DD / MM / MMMM",
     "birthday_request": "Kada jūsų gimtadienis?",
     "welcome_message2": "Sveiki atvykę, {{name}}!",
-    "gift_message": "Turime jums dovaną už pirmojo QR kodo nuskaitymą",
+    "gift_message": "Mes turime mažą dovanėlę jums už pirmojo QR kodo nuskaitymą",
     "find_spa": {
-      "find_medspa": "Raskite savo pasiūlymą",
-      "description": "Raskite savo vietą, įsigykite mėgstamas paslaugas ir gaukite atlygius už kiekvieną pirkimą ir apsilankymą!",
-      "search": "Ieškoti pasiūlymo pagal pavadinimą",
-      "results_found": "Rasta {{quantity}} rezultatų"
+      "find_medspa": "Raskite savo paslaugų teikėją",
+      "description": "Raskite savo vietą dabar, kad galėtumėte įsigyti mėgstamiausių paslaugų ir pradėti uždirbti apdovanojimus su kiekvienu pirkiniu ir apsilankymu!",
+      "search": "Ieškoti paslaugų teikėjų pagal pavadinimą",
+      "results_found": "Rasta {{quantity}} rezultatas{{plural}}"
     }
   },
   "personalInfo": {
     "title": "Asmeninė informacija",
     "email_label": "El. paštas",
-    "email_placeholder": "name@email.com",
+    "email_placeholder": "vardas@paštas.lt",
     "nickname_label": "Slapyvardis",
     "nickname_placeholer": "vardas",
     "firstname_label": "Vardas",
-    "firstname_placeholder": "John",
+    "firstname_placeholder": "Jonas",
     "lastname_label": "Pavardė",
-    "lastname_placeholder": "Doe"
+    "lastname_placeholder": "Jonaitis"
   },
   "scan": {
-    "scan_text": "Skenuokite klinikoje, kad gautumėte",
+    "scan_text": "Nuskaitykite biure, kad uždirbtumėte",
     "points": "{{points}} taškai",
     "cant_scan": "Kaip tai veikia?"
   },
   "rewardModal": {
-    "horray": "Sveikiname!",
+    "horray": "Valio!",
     "you_earned": "Jūs ką tik uždirbote",
     "points": "{{points}}",
-    "clinic_points": "{{clinic}} taškai"
+    "clinic_points": " {{clinic}} taškai"
   },
   "banked_modal": {
-    "reward_banked": "ATLYGIS IŠSAUGOTAS!",
+    "reward_banked": "APDOVANOJIMAS ĮSKAITYTAS Į BANKĄ!",
     "cash": "{{clinic}} pinigai",
-    "view_rewards": "Peržiūrėti atlygius"
+    "view_rewards": "Peržiūrėti apdovanojimus"
+  },
+  "segment": {
+    "browse": "Naršyti",
+    "treatments": "Procedūros",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktyvus",
+    "past": "Praėjęs",
+    "products": "Produktai"
+  },
+  "special_offers": {
+    "expire_in": "Baigiasi po {{time_left}}",
+    "title": "Specialūs pasiūlymai!",
+    "new_msg": "Gavote naują pranešimą iš {{sender}}!"
+  },
+  "shop": {
+    "title": "Parduotuvė",
+    "treatment": {
+      "learn_more": "Sužinoti daugiau apie šią procedūrą",
+      "see_treatment": "Peržiūrėti procedūrą",
+      "included_treatments_title": "Įskaičiuotos procedūros",
+      "chose_treatment": "Kiekvieną {{month}} pasirinkite vieną iš šių {{quantity}} procedūrų",
+      "chose_treatment2": "Kiekvieną {{month}} pasirinkite {{quantity}} iš šių",
+      "chose_treatment3": "Kiekvieną {{month}} gaukite šiuos",
+      "signUpBonus": "Registracijos premija",
+      "from_price": "Nuo {{price}}",
+      "members_price": " {{memberPrice}} nariams",
+      "treatment_fees": " Apmokėjimo metu taikomas {{fees}} paslaugos mokestis",
+      "results_title": "Nuostabūs rezultatai",
+      "results_description": "Kaip kiti įvertino šią procedūrą",
+      "select_plan": "Pasirinkti procedūros planą",
+      "before_text": "Prieš jūsų procedūrą",
+      "after_text": "Po jūsų procedūros",
+      "members_results": "Narių rezultatai",
+      "customers_and_clients": "Ką matė nariai",
+      "expectations": "Ko tikėtis?",
+      "bundles_treatment_title": "Procedūrų skaičius",
+      "variations_treatments_title": "Procedūrų variantai",
+      "treatments_quantity": "{{quantity}} procedūra{{plural}}",
+      "consultation_required": "Būtina konsultacija!",
+      "scheduling_link": "Planavimo nuoroda:",
+      "visit_button": "Aplankyti nuorodą",
+      "noBooking": "Šiam produktui nereikia registracijos.",
+      "sessions_available": "Liko {{remaining}} iš {{quantity}} sesijų",
+      "sessions": "{{quantity}} sesija{{plural}}",
+      "expire_in": "Baigiasi:",
+      "search_result": "Rasta {{quantity}} rezultatas{{plural}}",
+      "consultation": "Šiai procedūrai reikalinga konsultacija",
+      "add_to_cart": "Ar tikrai norite pridėti tai į krepšelį?"
+    },
+    "product": {
+      "learn_more": "Sužinoti daugiau apie šį produktą",
+      "see_product": "Peržiūrėti produktą",
+      "included_products_title": "Įskaičiuoti produktai",
+      "chose_product": "Kiekvieną {{month}} pasirinkite vieną iš šių {{quantity}} produktų",
+      "chose_product2": "Kiekvieną {{month}} pasirinkite {{quantity}} iš šių",
+      "chose_product3": "Kiekvieną {{month}} gaukite šiuos",
+      "from_price": "Nuo {{price}}",
+      "members_price": " {{memberPrice}} nariams",
+      "product_fees": " Apmokėjimo metu taikomas {{fees}} paslaugos mokestis",
+      "results_title": "Nuostabūs rezultatai",
+      "results_description": "Kaip kiti įvertino šį produktą",
+      "select_plan": "Pasirinkti produkto planą",
+      "before_text": "Prieš jūsų produktą",
+      "after_text": "Po jūsų produkto",
+      "members_results": "Narių rezultatai",
+      "customers_and_clients": "Kaip kiti įvertino šį produktą",
+      "expectations": "Ko tikėtis?",
+      "bundles_product_title": "Produktų skaičius",
+      "variations_products_title": "Produktų variantai",
+      "products_quantity": "{{quantity}} produktas{{plural}}",
+      "consultation_required": "Būtina konsultacija!",
+      "scheduling_link": "Planavimo nuoroda:",
+      "visit_button": "Aplankyti nuorodą",
+      "expire_in": "Baigiasi:",
+      "sessions_available": "Liko {{remaining}} iš {{quantity}} {{plural}}",
+      "treatments": "{{quantity}} procedūra{{plural}}"
+    },
+    "save_button": {
+      "text": "Sutaupykite {{amount}} per metus",
+      "subscribe": "Prenumeruoti dabar!"
+    },
+    "view_button": {
+      "text": "Peržiūrėti"
+    },
+    "bonus_card": {
+      "title": "Prisiregistruokite, kad iš karto gautumėte",
+      "title_bold": " nemokamą {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Kas jums padėjo atlikti šį pirkimą?",
+      "not_Sure": "Nežinau"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Pasigydyk šiandien. Mokėk vėliau. Uždirbk apdovanojimų.",
+      "free_treatments": "Nemokamos procedūros, išskirtinės privilegijos.",
+      "how_it_work": "Kaip tai veikia?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} TAŠKAI",
+    "sinleReward": "Apdovanojimas",
+    "title": "Apdovanojimai",
+    "win_points": {
+      "title": "Reikia daugiau taškų?",
+      "refer_friend": "Rekomenduoti draugą",
+      "purshase_inApp": "Pirkimas programėlėje",
+      "google_review": "Google apžvalga",
+      "visit": "Apsilankymas klinikoje",
+      "status": {
+        "points_added": "Pridėta {{points}} taškai",
+        "scan": "Nuskaityti, kad uždirbtumėte",
+        "pending": "Laukia patvirtinimo",
+        "plus_points": "+{{points}} taškai",
+        "done": "Atlikta"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Lojalumo taškai",
+        "cultPoints": "Kulto taškai",
+        "memberShip": "{{clinic}} narys",
+        "joinedOn": "Prisijungė: {{since}}",
+        "cash": "{{clinic}} pinigai"
+      },
+      "reviewSheet": {
+        "title": "Ar palikote atsiliepimą?",
+        "text": "Mūsų klinikos savininkas patikrins atsiliepimą, kad pridėtų jums taškų.",
+        "yesButton": "Taip, palikau!",
+        "noButton": "Dar ne"
+      },
+      "reward_details": {
+        "expire_in": "Baigiasi po {{time_left}} dienų",
+        "redeem_button": "Panaudoti apdovanojimą dabar",
+        "bank_it": "Įskaityti į banką kaip {{amount}} {{clinic}} pinigų",
+        "redeemed": "Panaudota",
+        "banked": "Įskaityta į banką",
+        "locked": "Užrakinta",
+        "expired_at": "Baigiasi:",
+        "consumed": "Išnaudota"
+      },
+      "bank_reward": {
+        "bank_title": "Ar norite įskaityti savo apdovanojimą į banką kaip {{clinic}} pinigus?",
+        "custom_bank_title": "Įskaityti apdovanojimą į banką",
+        "bank_description": "Jūs iškeisite savo apdovanojimą, kurio vertė yra",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "į {{clinic}} pinigų vertę, kurią galėsite išleisti programėlės parduotuvėje. Tai darydami prarasite prieigą prie faktinio apdovanojimo.",
+        "yes_button": "Taip, įskaityti apdovanojimą į banką",
+        "no_button": "Ne dabar"
+      },
+      "congratSheet": {
+        "title": "Sveikiname!",
+        "your_reward": "Jūsų apdovanojimas pridėtas į krepšelį!",
+        "description": "Dabar naršykite mūsų parduotuvę, kad pridėtumėte jį prie savo užsakymo, arba peržiūrėkite krepšelį, kad iškart užbaigtumėte atsiskaitymą su pritaikyta nuolaida.",
+        "explore_shop": "Naršyti parduotuvę",
+        "view_cart": "Peržiūrėti krepšelį"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Apdovanojimų nerasta",
+      "description": "Patikrinkite vėliau, kad gautumėte daugiau apdovanojimų."
+    }
+  },
+  "profile": {
+    "screen_title": "Paskyra",
+    "logout": "Atsijungti",
+    "my-treatment-section": {
+      "my-treatment": "Mano procedūros",
+      "used_treatments": "Panaudotos procedūros",
+      "empty_used": "Nėra panaudotų procedūrų",
+      "empty_purshased": "Nėra įsigytų procedūrų",
+      "empty_treatment": "Nėra procedūrų",
+      "remaining_treatments": "Liko {{remaining}} iš {{quantity}} procedūrų",
+      "redeemed_on": "Panaudota: {{date}}",
+      "scan": "Nuskaityti biure, kad panaudotumėte",
+      "book": "Užsiregistruoti",
+      "callClinic": "Skambinti klinikai"
+    },
+    "my-product-section": {
+      "my-product": "Mano produktai",
+      "used_products": "Panaudoti produktai",
+      "empty_used": "Nėra panaudotų produktų",
+      "empty_purshased": "Nėra įsigytų produktų",
+      "empty_product": "Nėra produktų",
+      "remaining_products": "Liko {{remaining}} iš {{quantity}} produktų",
+      "redeemed_on": "Panaudota: {{date}}",
+      "scan": "Nuskaityti biure, kad panaudotumėte",
+      "book": "Užsiregistruoti",
+      "callClinic": "Skambinti klinikai"
+    },
+    "quantity_sheet": {
+      "select": "Pasirinkti kiekį",
+      "units_left": "Liko {{quantity}} {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "Procedūra panaudota",
+      "description": "Dabar galite matyti likusias vienetas ir planuoti savo kitas sesijas.",
+      "got_it": "Supratau!",
+      "cant_scan": "Negalite nuskaityti?",
+      "fallback_description": "Čia yra jūsų atsarginis kodas. Įveskite jį interneto programėlėje:",
+      "time_remaining": "Liko laiko: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produktas panaudotas",
+      "description": "Dabar galite matyti likusias vienetas ir planuoti savo kitas sesijas.",
+      "got_it": "Supratau!",
+      "cant_scan": "Negalite nuskaityti?",
+      "fallback_description": "Čia yra jūsų atsarginis kodas. Įveskite jį interneto programėlėje:",
+      "time_remaining": "Liko laiko: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Asmeninė informacija",
+      "payment_methods": "Mokėjimo būdai",
+      "payment_method": "Mokėjimo būdas"
+    },
+    "payment_method_card": {
+      "visa": "Kortelė",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Kortelės numeris",
+      "experation": "Galiojimo laikas",
+      "cvc": "CVC",
+      "select_country": "Pasirinkti šalį",
+      "select_country_placeholder": "Pasirinkite šalį...",
+      "contact_details": "Kontaktinė informacija",
+      "confirm_details": "Patvirtinkite savo duomenis, kad gautumėte pardavimo kvitą"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Prisijungė: {{date}}",
+    "cancled_on": " Atšaukta: {{date}}",
+    "empty_membership": "Čia nėra narysčių",
+    "browse_mebership": "Naršyti narystes",
+    "active_membership": "Aktyvi narystė",
+    "paused_membership": "Pristabdyta narystė",
+    "active_membership_count": "{{quantity}} aktyvi narystė{{plural}}",
+    "next_payment_attempt": "Bandėme apdoroti jūsų narystės mokėjimą, bandysime dar kartą {{date}}",
+    "update_payment_info": "Atnaujinti mokėjimo būdą",
+    "retry_payment": "Pakartoti mokėjimo būdą",
+    "cancel_payment": "Atšaukti narystę",
+    "something_wrong": "Panašu, kad kažkas negerai...",
+    "update_payment_method": "Atnaujinti mokėjimą",
+    "you_saved": "Jūs sutaupėte",
+    "treatments": "({{number}} procedūra{{plural}})",
+    "products": "({{number}} produktas{{plural}})",
+    "equivalent": {
+      "title": "Ekvivalenti vertė",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel lūpų dažai",
+      "bags": " Chanel rankinė",
+      "swimsuits": " Gucci maudymosi kostiumėlis"
+    },
+    "memberShipPayFor": "Savarankiškai apmokėta narystė",
+    "you_have": "Jūs turite {{quantity}} procedūrą{{plural}}",
+    "you_have_products": "Jūs turite {{quantity}} produktą{{plural}}",
+    "available_in": "Liko {{days}} dienų iki kito pasirinkimo",
+    "available_in_products": "Kiti produktai bus prieinami po {{days}} dienų",
+    "your_benefits": "Jūsų privalumai",
+    "membership_benefits": "Narystės privalumai",
+    "refresh_on": "Atnaujinimas: {{date}}",
+    "monthly_treatment_selection": "Mėnesinis procedūrų pasirinkimas",
+    "monthly_product_selection": "Mėnesinis produktų pasirinkimas",
+    "firstDay_treatment_selection": "Prasideda nuo 1-osios dienos kaip nariui",
+    "firstDay_product_selection": "Prasideda nuo 1-osios dienos kaip nariui",
+    "unknown_treatment_selection": "Prasideda po {{period}} kaip nariui",
+    "unknown_product_selection": "Prasideda po {{period}} kaip nariui",
+    "select_one": "Kiekvieną mėnesį nemokamai pasirinkite vieną iš šių procedūrų",
+    "select_one_product": "Kiekvieną mėnesį nemokamai pasirinkite vieną iš šių produktų",
+    "select_free_treatment": "Pasirinkite savo nemokamą procedūrą",
+    "select_free_product": "Pasirinkite savo nemokamą produktą",
+    "are_you_sure": "Ar tikrai norite pasirinkti šią procedūrą?",
+    "are_you_sure_product": "Ar tikrai norite pasirinkti šį produktą?",
+    "are_you_sure_cancel": "Ar tikrai norite atšaukti savo narystę?",
+    "sure": "Taip, esu tikras",
+    "no": "Ne, padariau klaidą",
+    "number_updated": "Vienetų skaičius šiai procedūrai sėkmingai atnaujintas",
+    "number_updated_product": "Vienetų skaičius šiam produktui sėkmingai atnaujintas",
+    "you_can_see": "Dabar galite matyti likusias vienetas ir planuoti savo kitas sesijas.",
+    "you_can_see_product": "Dabar galite matyti likusias vienetas ir planuoti savo kitas sesijas."
+  },
+  "cart_screen": {
+    "screen_title": "Krepšelis",
+    "clinic_price_applied": "Taikoma {{clinic}} kaina",
+    "summury": "Santrauka",
+    "promo_code": "Promo kodas",
+    "add_promo_code": "Pridėti promo kodą",
+    "order_summury": "UŽSAKYMO SANTRAUKA",
+    "subtotal": "Tarpinė suma",
+    "cash_wallet": "Pinigų piniginė",
+    "rewardDiscount": "Apdovanojimo nuolaida",
+    "membership_discount": "Narystės nuolaida",
+    "tax": "Mokesčiai ir paslaugos mokestis",
+    "total": "Bendra užsakymo suma",
+    "totalMaj": "BENDRA UŽSAKYMO SUMA",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Atsiskaityti dabar",
+    "place_order": "Pateikti užsakymą",
+    "order_confirmed": "Sveikiname, jūsų užsakymas patvirtintas!",
+    "points_tracker": "Taškų sekimas",
+    "your_purchance": "Jūsų pirkinys priartino jus prie kito apdovanojimo!",
+    "reward_unlocked": "Apdovanojimas atrakintas",
+    "rewards_unlocked": "APDOVANOJIMAI ATRAKINTI",
+    "amount_unlocked": "${{amount}} už pirmąjį pirkimą programėlėje",
+    "can_convert_amount": "Galima konvertuoti ${{amount}} į pinigus",
+    "edit_product": "Redaguoti produktą",
+    "delete": "Ištrinti",
+    "empty_cart": "Krepšelis tuščias, pridėkite produktų",
+    "cashExceeds": "Atsiprašome, pinigų balansas negali viršyti ({{allowedMerchantCashPercentage}}%) bendros krepšelio vertės",
+    "loseMoney": "Mes prarasime pinigus 😞",
+    "useOnly": "Galite pridėti daugiau procedūrų į krepšelį arba naudoti tik {{amount}} iš savo esamo pinigų balanso šiai procedūrai dabar.",
+    "disallowed": "Atsiprašome, pinigų balansas nenaudojamas {{number}} procedūroms",
+    "removeFromCart": "Pašalinti iš krepšelio"
+  },
+  "dates": {
+    "minute": "minutė",
+    "minutes": "minutės",
+    "hour": "valanda",
+    "hours": "valandos",
+    "day": "diena",
+    "days": "dienos",
+    "month": "mėnuo",
+    "months": "mėnesiai",
+    "year": "metai",
+    "years": "metai",
+    "now": "dabar",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Šis el. paštas jau naudojamas. Prašome naudoti kitą el. paštą.",
+    "login_error": "Prisijungimas nepavyko. Patikrinkite savo numerį ir bandykite dar kartą.",
+    "signup_error": "Registracija nepavyko. Įsitikinkite, kad jūsų informacija yra teisinga, ir bandykite dar kartą.",
+    "undifined_error": "Oho! Kažkas negerai.",
+    "otp_not_valid": "Jūsų įvestas kodas yra neteisingas. Prašome patikrinti ir bandyti dar kartą.",
+    "create_account": "Mums nepavyko sukurti jūsų paskyros. Prašome patikrinti savo duomenis ir bandyti dar kartą.",
+    "date": {
+      "invalid_date": "Neteisingas datos formatas. Naudokite DD/MM/MMMM formatą.",
+      "invalid_month": "Prašome pasirinkti galiojančią gimimo datą.",
+      "invalid_day": "Prašome pasirinkti galiojančią gimimo datą.",
+      "invalid_birthdate": "Jūsų gimimo data negali būti ateityje. Prašome pasirinkti galiojančią gimimo datą."
+    }
+  },
+  "noDataFound": {
+    "treatment": "Nėra procedūrų",
+    "treatmentSearch": "Procedūrų nerasta",
+    "product": "Nėra produktų"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Tai tiesiogiai nurašys {{amount}} iš jūsų kortelės. Ar tikrai norite tęsti?",
+    "add_card_note": "Pastaba: mokėjimo būdas turi būti pridėtas prie jūsų paskyros",
+    "confirm_subscription": "Patvirtinti prenumeratą",
+    "yes": "Taip, tęsti",
+    "no": "Ne, atšaukti"
+  },
+  "taxSheet": {
+    "title": "2.5% Mokesčiai ir paslaugos mokestis",
+    "description": "Šis mokestis naudojamas padengti administracines išlaidas, susijusias su jūsų procedūra ar paslauga.",
+    "button": "Supratau"
+  },
+  "payment": {
+    "retry_failed_title": "Mokėjimas nepavyko",
+    "retry_failed_message": "Mums nepavyko apdoroti jūsų mokėjimo. Prašome atnaujinti savo mokėjimo būdą, kad tęstumėte."
+  },
+  "treatments": {
+    "redeem_multiple": "Panaudoti {{count}} procedūras"
+  },
+  "products": {
+    "redeem_multiple": "Panaudoti {{count}} produktus"
+  },
+  "custom_plan": {
+    "delete_title": "Ištrinti pasirinktinį planą",
+    "delete_description": "Ar tikrai norite ištrinti šį pasirinktinį planą?",
+    "delete": "Ištrinti",
+    "cancel": "Atšaukti"
+  },
+  "no_search_results": {
+    "title": "Meklēšanas rezultatai nerasti",
+    "description": "Panašu, kad nieko neatradome, kas atitiktų jūsų paiešką.",
+    "try_new": "Pabandykite naudoti kitus raktažodžius arba patikrinkite, ar nėra klaidų."
   }
 }

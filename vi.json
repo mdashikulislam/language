@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Tiếp tục với tư cách Khách",
+    "continue": "Tiếp tục",
+    "apply": "Áp dụng",
+    "save": "Lưu",
+    "scan": "Quét ngay",
+    "next": "Tiếp theo",
+    "powered": "Được cung cấp bởi:",
+    "scan_qr_code": "Quét Mã QR",
+    "or": "hoặc",
+    "shop_now": "Mua sắm ngay",
+    "dermis": "Dermis",
+    "resend_code": "Gửi lại mã",
+    "view_rewards": "Xem phần thưởng của tôi",
+    "change_icon": "Đổi biểu tượng",
+    "reset_icon": "Đặt lại biểu tượng",
+    "my_points": "Xem điểm của tôi",
+    "see_more": "Xem thêm",
+    "see_benifits": "Xem lợi ích",
+    "show_all": "Hiển thị tất cả",
+    "rewards": "Phần thưởng",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Có thể chuyển đổi",
+    "clinic_cash": "Tiền mặt {{clinic}}",
+    "checkout": "Thanh toán",
+    "save_address": "Lưu địa chỉ vào tài khoản của tôi",
+    "call_now": "Gọi ngay",
+    "apply_filter": "Áp dụng bộ lọc",
+    "filter_by": "Lọc theo",
+    "reset_filter": "Đặt lại bộ lọc",
+    "unit_number": "{{quantity}} Đơn vị",
+    "add_to_cart": "Thêm vào giỏ hàng",
+    "treatments": "Các liệu trình",
+    "products": "Sản phẩm",
+    "membership": "Tư cách thành viên",
+    "treat_today": "Trị liệu ngay hôm nay. Thanh toán sau.",
+    "earn": " kiếm được phần thưởng.",
+    "search": "Tìm kiếm",
+    "settings": "Cài đặt",
+    "save_big": "Tiết kiệm lớn",
+    "browse_shop": "Duyệt cửa hàng",
+    "filter": "Bộ lọc",
+    "sort": "Sắp xếp",
+    "referral": "Mã giới thiệu",
+    "enter_referral": "Nhập mã giới thiệu của bạn",
+    "enter_referral_description": "Nhập mã giới thiệu của bạn để nhận các lợi ích đặc biệt",
+    "submit": "Gửi",
+    "skip": "Bỏ qua",
+    "have_referral": "Bạn có mã giới thiệu không?",
+    "ok": "Đồng ý",
+    "cancel": "Hủy"
+  },
+  "deleteAccount": {
+    "title": "Xóa tài khoản",
+    "description": "Bạn có chắc chắn muốn xóa tài khoản của mình không?",
+    "note": "Tất cả dữ liệu và đăng ký của bạn sẽ bị xóa vĩnh viễn.",
+    "yes": "Có",
+    "no": "Không"
+  },
+  "home": {
+    "last_visited": "{{name}}, chúng tôi đã không gặp bạn {{days_count}} ngày rồi...",
+    "days_count": "Chúng tôi đã không gặp bạn {{days_count}} ngày rồi...",
+    "offer": "Vì vậy, chúng tôi đã chuẩn bị một ưu đãi không thể chối từ!",
+    "unwrap": "Nhấp để mở",
+    "recently_viewed": "Đã xem gần đây",
+    "save": "Tiết kiệm {{amount}}",
+    "save2": " với tư cách là Thành viên {{clinic}}",
+    "save_paragraph": "Liệu trình miễn phí. Lợi ích độc quyền.",
+    "ad_title": "Trị liệu ngay hôm nay. Thanh toán sau. Kiếm phần thưởng.",
+    "ad_description": "Thực hiện thanh toán hàng tháng mà không bị phí trả chậm",
+    "educate_yourself": "Tự tìm hiểu"
+  },
+  "language": {
+    "english": "Tiếng Anh",
+    "french": "Tiếng Pháp"
+  },
+  "onboarding": {
+    "welcome": "Chào mừng",
+    "welcome_message": "Chào mừng đến với Qonnect!",
+    "rewards": "Phần thưởng miễn phí cho thành viên mới!",
+    "birthdays": "Quà sinh nhật miễn phí",
+    "events": "Sự kiện và ưu đãi chỉ dành cho thành viên",
+    "phone_request": "Chúng tôi có thể lấy số điện thoại của bạn không?",
+    "login_with_phone": "Đăng ký hoặc Đăng nhập bằng số điện thoại của bạn!",
+    "terms": {
+      "agree": "Tôi đồng ý với ",
+      "terms_of_service": "Điều khoản Dịch vụ ",
+      "and": " và ",
+      "privacy": "Chính sách Quyền riêng tư."
+    },
+    "closeApp": "Đóng ứng dụng",
+    "andReopen": "và mở lại",
+    "otp_title": "Nhập mã OTP được gửi qua SMS",
+    "sms_sent": "Chúng tôi đã gửi mã OTP đến {{phone_number}}",
+    "email_placeholder": "ten@email.com",
+    "well_done": "Làm tốt lắm!",
+    "email_request": "Còn email của bạn thì sao?",
+    "last_step": "Bước cuối cùng nhưng quan trọng nhất",
+    "name_request": "Tên bạn là gì?",
+    "name_placeholder": "Nguyễn Văn A",
+    "first_name_placeholder": "Văn A",
+    "last_name_placeholder": "Nguyễn",
+    "birthday_placeholder": "Ngày / Tháng / Năm",
+    "birthday_request": "Sinh nhật của bạn là khi nào?",
+    "welcome_message2": "Chào mừng, {{name}}!",
+    "gift_message": "Chúng tôi có một món quà nhỏ cho bạn vì đã quét mã QR đầu tiên của mình",
+    "find_spa": {
+      "find_medspa": "Tìm nhà cung cấp của bạn",
+      "description": "Tìm địa điểm của bạn ngay bây giờ để bắt đầu mua sắm các dịch vụ yêu thích và kiếm phần thưởng cho mỗi lần mua hàng và ghé thăm!",
+      "search": "Tìm kiếm nhà cung cấp theo tên",
+      "results_found": "Đã tìm thấy {{quantity}} kết quả"
+    }
+  },
+  "personalInfo": {
+    "title": "Thông tin cá nhân",
+    "email_label": "Email",
+    "email_placeholder": "ten@email.com",
+    "nickname_label": "Biệt danh",
+    "nickname_placeholer": "Tên",
+    "firstname_label": "Tên",
+    "firstname_placeholder": "Văn A",
+    "lastname_label": "Họ",
+    "lastname_placeholder": "Nguyễn"
+  },
+  "scan": {
+    "scan_text": "Quét và kiếm tiền tại phòng khám",
+    "points": "{{points}} Điểm",
+    "cant_scan": "Cái này hoạt động như thế nào?"
+  },
+  "rewardModal": {
+    "horray": "Hoan hô!",
+    "you_earned": "Bạn vừa kiếm được",
+    "points": "{{points}}",
+    "clinic_points": " Điểm {{clinic}}"
+  },
+  "banked_modal": {
+    "reward_banked": "PHẦN THƯỞNG ĐÃ ĐƯỢC GỬI VÀO NGÂN HÀNG!",
+    "cash": "Tiền mặt {{clinic}}",
+    "view_rewards": "Xem phần thưởng"
+  },
+  "segment": {
+    "browse": "Duyệt",
+    "treatments": "Các liệu trình",
+    "clinicName": "{{clinicName}}",
+    "active": "Hoạt động",
+    "past": "Quá khứ",
+    "products": "Sản phẩm"
+  },
+  "special_offers": {
+    "expire_in": "Hết hạn trong {{time_left}}",
+    "title": "Ưu đãi đặc biệt!",
+    "new_msg": "Bạn có một tin nhắn mới từ {{sender}}!"
+  },
+  "shop": {
+    "title": "Cửa hàng",
+    "treatment": {
+      "learn_more": "Tìm hiểu thêm về liệu trình này",
+      "see_treatment": "Xem Liệu trình",
+      "included_treatments_title": "Các liệu trình đi kèm",
+      "chose_treatment": "Chọn một trong {{quantity}} liệu trình này MIỄN PHÍ mỗi {{month}}",
+      "chose_treatment2": "Chọn {{quantity}} trong số này mỗi {{month}}",
+      "chose_treatment3": "Nhận những điều sau mỗi {{month}}",
+      "signUpBonus": "Thưởng Đăng ký",
+      "from_price": "Từ {{price}}",
+      "members_price": " {{memberPrice}} cho Thành viên",
+      "treatment_fees": " Phí dịch vụ {{fees}} áp dụng khi thanh toán",
+      "results_title": "Kết quả đáng kinh ngạc",
+      "results_description": "Những người khác nói gì về liệu trình này",
+      "select_plan": "Chọn gói liệu trình",
+      "before_text": "Trước liệu trình của bạn",
+      "after_text": "Sau liệu trình của bạn",
+      "members_results": "Kết quả của thành viên",
+      "customers_and_clients": "Những gì thành viên đã thấy",
+      "expectations": "Nên mong đợi điều gì?",
+      "bundles_treatment_title": "Số lượng liệu trình",
+      "variations_treatments_title": "Các biến thể liệu trình",
+      "treatments_quantity": "{{quantity}} Liệu trình",
+      "consultation_required": "Cần tư vấn!",
+      "scheduling_link": "Liên kết lên lịch:",
+      "visit_button": "Truy cập liên kết",
+      "noBooking": "Sản phẩm này không yêu cầu đặt lịch.",
+      "sessions_available": "Còn lại {{remaining}} trong số {{quantity}} buổi",
+      "sessions": "{{quantity}} Buổi",
+      "expire_in": "Ngày hết hạn:",
+      "search_result": "Đã tìm thấy {{quantity}} kết quả",
+      "consultation": "Liệu trình này yêu cầu tư vấn",
+      "add_to_cart": "Bạn có chắc chắn muốn thêm mục này vào giỏ hàng không?"
+    },
+    "product": {
+      "learn_more": "Tìm hiểu thêm về sản phẩm này",
+      "see_product": "Xem Sản phẩm",
+      "included_products_title": "Các sản phẩm đi kèm",
+      "chose_product": "Chọn một trong {{quantity}} sản phẩm này MIỄN PHÍ mỗi {{month}}",
+      "chose_product2": "Chọn {{quantity}} trong số này mỗi {{month}}",
+      "chose_product3": "Nhận những điều sau mỗi {{month}}",
+      "from_price": "Từ {{price}}",
+      "members_price": " {{memberPrice}} cho Thành viên",
+      "product_fees": " Phí dịch vụ {{fees}} áp dụng khi thanh toán",
+      "results_title": "Kết quả đáng kinh ngạc",
+      "results_description": "Những người khác nói gì về sản phẩm này",
+      "select_plan": "Chọn gói sản phẩm",
+      "before_text": "Trước khi dùng sản phẩm của bạn",
+      "after_text": "Sau khi dùng sản phẩm của bạn",
+      "members_results": "Kết quả của thành viên",
+      "customers_and_clients": "Những người khác nói gì về sản phẩm này",
+      "expectations": "Nên mong đợi điều gì?",
+      "bundles_product_title": "Số lượng sản phẩm",
+      "variations_products_title": "Các biến thể sản phẩm",
+      "products_quantity": "{{quantity}} Sản phẩm",
+      "consultation_required": "Cần tư vấn!",
+      "scheduling_link": "Liên kết lên lịch:",
+      "visit_button": "Truy cập liên kết",
+      "expire_in": "Ngày hết hạn:",
+      "sessions_available": "Còn lại {{remaining}} trong số {{quantity}} {{plural}}",
+      "treatments": "{{quantity}} Liệu trình"
+    },
+    "save_button": {
+      "text": "Tiết kiệm {{amount}} mỗi năm",
+      "subscribe": "Đăng ký ngay!"
+    },
+    "view_button": {
+      "text": "Xem"
+    },
+    "bonus_card": {
+      "title": "Đăng ký và nhận ngay",
+      "title_bold": " {{gifts}} MIỄN PHÍ!"
+    },
+    "teamMember": {
+      "title": "Ai đã giúp bạn mua hàng này?",
+      "not_Sure": "Không chắc chắn"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Trị liệu ngay hôm nay. Thanh toán sau. Kiếm phần thưởng.",
+      "free_treatments": "Liệu trình miễn phí, lợi ích độc quyền.",
+      "how_it_work": "Cái này hoạt động như thế nào?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} ĐIỂM",
+    "sinleReward": "Phần thưởng",
+    "title": "Phần thưởng",
+    "win_points": {
+      "title": "Cần thêm điểm?",
+      "refer_friend": "Giới thiệu một người bạn",
+      "purshase_inApp": "Mua hàng trong ứng dụng",
+      "google_review": "Đánh giá trên Google",
+      "visit": "Ghé thăm phòng khám của chúng tôi",
+      "status": {
+        "points_added": "Đã thêm {{points}} điểm",
+        "scan": "Quét và kiếm tiền",
+        "pending": "Đang chờ xác nhận",
+        "plus_points": "+{{points}} Điểm",
+        "done": "Hoàn tất"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Điểm thân thiết",
+        "cultPoints": "Điểm Cult",
+        "memberShip": "Thành viên {{clinic}}",
+        "joinedOn": "Tham gia vào: {{since}}",
+        "cash": "Tiền mặt {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "Bạn đã để lại đánh giá chưa?",
+        "text": "Chủ phòng khám sẽ xác minh đánh giá để thêm điểm cho bạn.",
+        "yesButton": "Rồi, tôi đã làm!",
+        "noButton": "Chưa"
+      },
+      "reward_details": {
+        "expire_in": "Hết hạn trong {{time_left}} ngày",
+        "redeem_button": "Đổi phần thưởng ngay",
+        "bank_it": "Gửi vào ngân hàng để nhận {{amount}} Tiền mặt {{clinic}}",
+        "redeemed": "Đã đổi",
+        "banked": "Đã gửi vào ngân hàng",
+        "locked": "Đã khóa",
+        "expired_at": "Hết hạn:",
+        "consumed": "Đã sử dụng"
+      },
+      "bank_reward": {
+        "bank_title": "Bạn có muốn gửi phần thưởng của mình vào ngân hàng dưới dạng Tiền mặt {{clinic}} không?",
+        "custom_bank_title": "Gửi phần thưởng vào ngân hàng",
+        "bank_description": "Bạn sẽ đổi phần thưởng của mình, trị giá",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "để lấy giá trị Tiền mặt {{clinic}} chi tiêu tại cửa hàng trong ứng dụng. Bằng cách thực hiện điều này, bạn sẽ mất quyền truy cập vào phần thưởng thực tế.",
+        "yes_button": "Có, gửi phần thưởng vào ngân hàng",
+        "no_button": "Không, chưa phải bây giờ"
+      },
+      "congratSheet": {
+        "title": "Chúc mừng!",
+        "your_reward": "Phần thưởng của bạn đã được thêm vào giỏ hàng!",
+        "description": "Bây giờ, hãy duyệt qua cửa hàng để thêm vào đơn hàng của bạn hoặc xem giỏ hàng để hoàn tất thanh toán ngay lập tức với chiết khấu đã được áp dụng.",
+        "explore_shop": "Khám phá cửa hàng",
+        "view_cart": "Xem giỏ hàng"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Không tìm thấy phần thưởng nào",
+      "description": "Quay lại sau để biết thêm phần thưởng."
+    }
+  },
+  "profile": {
+    "screen_title": "Tài khoản",
+    "logout": "Đăng xuất",
+    "my-treatment-section": {
+      "my-treatment": "Các liệu trình của tôi",
+      "used_treatments": "Các liệu trình đã sử dụng",
+      "empty_used": "Không có liệu trình đã sử dụng",
+      "empty_purshased": "Không có liệu trình đã mua",
+      "empty_treatment": "Không có liệu trình",
+      "remaining_treatments": "Còn lại {{remaining}} trong số {{quantity}} liệu trình",
+      "redeemed_on": "Ngày đổi: {{date}}",
+      "scan": "Quét tại phòng khám để đổi",
+      "book": "Đặt lịch",
+      "callClinic": "Gọi phòng khám"
+    },
+    "my-product-section": {
+      "my-product": "Sản phẩm của tôi",
+      "used_products": "Sản phẩm đã sử dụng",
+      "empty_used": "Không có sản phẩm đã sử dụng",
+      "empty_purshased": "Không có sản phẩm đã mua",
+      "empty_product": "Không có sản phẩm",
+      "remaining_products": "Còn lại {{remaining}} trong số {{quantity}} sản phẩm",
+      "redeemed_on": "Ngày đổi: {{date}}",
+      "scan": "Quét tại phòng khám để đổi",
+      "book": "Đặt lịch",
+      "callClinic": "Gọi phòng khám"
+    },
+    "quantity_sheet": {
+      "select": "Chọn số lượng",
+      "units_left": "Còn lại {{quantity}} {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "Liệu trình đã được đổi",
+      "description": "Bây giờ bạn có thể xem các đơn vị còn lại và lên lịch cho các buổi tiếp theo của mình.",
+      "got_it": "Đã hiểu!",
+      "cant_scan": "Không thể quét?",
+      "fallback_description": "Đây là mã dự phòng của bạn. Nhập nó vào ứng dụng web:",
+      "time_remaining": "Thời gian còn lại: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Sản phẩm đã được đổi",
+      "description": "Bây giờ bạn có thể xem các đơn vị còn lại và lên lịch cho các buổi tiếp theo của mình.",
+      "got_it": "Đã hiểu!",
+      "cant_scan": "Không thể quét?",
+      "fallback_description": "Đây là mã dự phòng của bạn. Nhập nó vào ứng dụng web:",
+      "time_remaining": "Thời gian còn lại: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Thông tin cá nhân",
+      "payment_methods": "Phương thức thanh toán",
+      "payment_method": "Phương thức thanh toán"
+    },
+    "payment_method_card": {
+      "visa": "Thẻ",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Số thẻ",
+      "experation": "Ngày hết hạn",
+      "cvc": "CVC",
+      "select_country": "Chọn quốc gia",
+      "select_country_placeholder": "Chọn một quốc gia...",
+      "contact_details": "Thông tin liên hệ",
+      "confirm_details": "Xác nhận chi tiết của bạn để nhận biên lai bán hàng"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Tham gia vào: {{date}}",
+    "cancled_on": " Đã hủy: {{date}}",
+    "empty_membership": "Không có tư cách thành viên ở đây",
+    "browse_mebership": "Duyệt tư cách thành viên",
+    "active_membership": "Tư cách thành viên đang hoạt động",
+    "paused_membership": "Tư cách thành viên đã tạm dừng",
+    "active_membership_count": "{{quantity}} Tư cách thành viên đang hoạt động",
+    "next_payment_attempt": "Chúng tôi không thể xử lý khoản thanh toán thành viên của bạn, lần thử lại sẽ là vào {{date}}",
+    "update_payment_info": "Cập nhật thông tin thanh toán",
+    "retry_payment": "Thử lại phương thức thanh toán",
+    "cancel_payment": "Hủy tư cách thành viên",
+    "something_wrong": "Có vẻ như có gì đó không ổn...",
+    "update_payment_method": "Cập nhật thanh toán",
+    "you_saved": "Bạn đã tiết kiệm",
+    "treatments": "({{number}} liệu trình)",
+    "products": "({{number}} sản phẩm)",
+    "equivalent": {
+      "title": "Giá trị tương đương",
+      "quantity": {
+        "lipstick": "{{quantity}} thỏi son 💄",
+        "bags": "{{quantity}} túi xách 👜",
+        "swimsuits": "{{quantity}} bộ đồ bơi 👙",
+        "cash": "{{quantity}} 💰"
+      },
+      "amount": "",
+      "lipsticks": " thỏi son Chanel",
+      "bags": " túi xách Chanel",
+      "swimsuits": " bộ đồ bơi Gucci"
+    },
+    "memberShipPayFor": "Tư cách thành viên tự trả tiền",
+    "you_have": "Bạn có {{quantity}} Liệu trình",
+    "you_have_products": "Bạn có {{quantity}} Sản phẩm",
+    "available_in": "Lựa chọn tiếp theo của bạn còn {{days}} ngày",
+    "available_in_products": "Sản phẩm tiếp theo sẽ có sẵn sau {{days}} ngày",
+    "your_benefits": "Lợi ích của bạn",
+    "membership_benefits": "Lợi ích thành viên",
+    "refresh_on": "Làm mới vào: {{date}}",
+    "monthly_treatment_selection": "Lựa chọn liệu trình hàng tháng",
+    "monthly_product_selection": "Lựa chọn sản phẩm hàng tháng",
+    "firstDay_treatment_selection": "Bắt đầu từ ngày đầu tiên bạn trở thành thành viên",
+    "firstDay_product_selection": "Bắt đầu từ ngày đầu tiên bạn trở thành thành viên",
+    "unknown_treatment_selection": "Bắt đầu sau {{period}} với tư cách thành viên",
+    "unknown_product_selection": "Bắt đầu sau {{period}} với tư cách thành viên",
+    "select_one": "Chọn một trong các liệu trình sau miễn phí mỗi tháng",
+    "select_one_product": "Chọn một trong các sản phẩm sau miễn phí mỗi tháng",
+    "select_free_treatment": "Chọn liệu trình miễn phí của bạn",
+    "select_free_product": "Chọn sản phẩm miễn phí của bạn",
+    "are_you_sure": "Bạn có chắc chắn muốn chọn liệu trình này không?",
+    "are_you_sure_product": "Bạn có chắc chắn muốn chọn sản phẩm này không?",
+    "are_you_sure_cancel": "Bạn có chắc chắn muốn hủy tư cách thành viên của mình không?",
+    "sure": "Có, tôi chắc chắn",
+    "no": "Không, tôi đã nhầm",
+    "number_updated": "Số lượng đơn vị cho liệu trình này đã được cập nhật thành công",
+    "number_updated_product": "Số lượng đơn vị cho sản phẩm này đã được cập nhật thành công",
+    "you_can_see": "Bây giờ bạn có thể xem các đơn vị còn lại và lên lịch cho các buổi tiếp theo của mình.",
+    "you_can_see_product": "Bây giờ bạn có thể xem các đơn vị còn lại và lên lịch cho các buổi tiếp theo của mình."
+  },
+  "cart_screen": {
+    "screen_title": "Giỏ hàng",
+    "clinic_price_applied": "Giá {{clinic}} được áp dụng",
+    "summury": "Tóm tắt",
+    "promo_code": "Mã khuyến mãi",
+    "add_promo_code": "Thêm mã khuyến mãi",
+    "order_summury": "TÓM TẮT ĐƠN HÀNG",
+    "subtotal": "Tổng phụ",
+    "cash_wallet": "Ví tiền mặt",
+    "rewardDiscount": "Giảm giá phần thưởng",
+    "membership_discount": "Giảm giá thành viên",
+    "tax": "Thuế và Phí dịch vụ",
+    "total": "Tổng đơn hàng",
+    "totalMaj": "TỔNG ĐƠN HÀNG",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Thanh toán ngay",
+    "place_order": "Đặt hàng",
+    "order_confirmed": "Chúc mừng, đơn hàng của bạn đã được xác nhận!",
+    "points_tracker": "Theo dõi điểm",
+    "your_purchance": "Giao dịch mua của bạn giúp bạn đạt được phần thưởng tiếp theo!",
+    "reward_unlocked": "Phần thưởng đã được mở khóa",
+    "rewards_unlocked": "PHẦN THƯỞNG ĐÃ ĐƯỢC MỞ KHÓA",
+    "amount_unlocked": "${{amount}} cho lần mua hàng trong ứng dụng đầu tiên của họ",
+    "can_convert_amount": "${{amount}} có thể được chuyển đổi thành Tiền mặt",
+    "edit_product": "Chỉnh sửa sản phẩm",
+    "delete": "Xóa",
+    "empty_cart": "Giỏ hàng trống, vui lòng thêm một số mục",
+    "cashExceeds": "Rất tiếc, số dư tiền mặt không được vượt quá ({{allowedMerchantCashPercentage}}%) tổng giá trị giỏ hàng",
+    "loseMoney": "Chúng ta sẽ mất tiền 😞",
+    "useOnly": "Bạn có thể thêm nhiều liệu trình hơn vào giỏ hàng hoặc chỉ sử dụng {{amount}} từ số dư tiền mặt hiện tại của mình cho liệu trình này.",
+    "disallowed": "Rất tiếc, số dư tiền mặt của bạn không thể được sử dụng cho {{number}} liệu trình",
+    "removeFromCart": "Xóa khỏi giỏ hàng"
+  },
+  "dates": {
+    "minute": "phút",
+    "minutes": "phút",
+    "hour": "giờ",
+    "hours": "giờ",
+    "day": "ngày",
+    "days": "ngày",
+    "month": "tháng",
+    "months": "tháng",
+    "year": "năm",
+    "years": "năm",
+    "now": "ngay bây giờ",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Email này đã được sử dụng. Vui lòng sử dụng một địa chỉ email khác.",
+    "login_error": "Đăng nhập không thành công. Vui lòng kiểm tra số của bạn và thử lại.",
+    "signup_error": "Đăng ký không thành công. Vui lòng đảm bảo thông tin của bạn là chính xác và thử lại.",
+    "undifined_error": "Rất tiếc! Một lỗi không mong muốn.",
+    "otp_not_valid": "Mã bạn đã nhập không đúng. Vui lòng kiểm tra và thử lại.",
+    "create_account": "Chúng tôi không thể tạo tài khoản của bạn. Vui lòng kiểm tra thông tin của bạn và thử lại.",
+    "date": {
+      "invalid_date": "Định dạng ngày không hợp lệ. Vui lòng sử dụng định dạng DD/MM/YYYY.",
+      "invalid_month": "Vui lòng chọn ngày sinh hợp lệ.",
+      "invalid_day": "Vui lòng chọn ngày sinh hợp lệ.",
+      "invalid_birthdate": "Ngày sinh của bạn không thể ở tương lai. Vui lòng chọn ngày sinh hợp lệ."
+    }
+  },
+  "noDataFound": {
+    "treatment": "Không có liệu trình",
+    "treatmentSearch": "Không tìm thấy liệu trình",
+    "product": "Không có sản phẩm"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Thao tác này sẽ tính phí trực tiếp {{amount}} vào thẻ của bạn. Bạn có muốn tiếp tục không?",
+    "add_card_note": "Lưu ý: Phương thức thanh toán phải được thêm vào tài khoản của bạn",
+    "confirm_subscription": "Xác nhận đăng ký",
+    "yes": "Có, tiếp tục",
+    "no": "Không, hủy bỏ"
+  },
+  "taxSheet": {
+    "title": "2.5% Thuế và Phí dịch vụ",
+    "description": "Khoản phí này được sử dụng để bù đắp các chi phí hành chính liên quan đến liệu trình hoặc dịch vụ của bạn.",
+    "button": "Đã hiểu"
+  },
+  "payment": {
+    "retry_failed_title": "Thanh toán không thành công",
+    "retry_failed_message": "Chúng tôi không thể xử lý khoản thanh toán của bạn. Vui lòng cập nhật phương thức thanh toán của bạn để tiếp tục."
+  },
+  "treatments": {
+    "redeem_multiple": "Đổi {{count}} Liệu trình"
+  },
+  "products": {
+    "redeem_multiple": "Đổi {{count}} Sản phẩm"
+  },
+  "custom_plan": {
+    "delete_title": "Xóa gói tùy chỉnh",
+    "delete_description": "Bạn có chắc chắn muốn xóa gói tùy chỉnh này không?",
+    "delete": "Xóa",
+    "cancel": "Hủy"
+  },
+  "no_search_results": {
+    "title": "Không tìm thấy kết quả tìm kiếm",
+    "description": "Có vẻ như chúng tôi không tìm thấy gì phù hợp với tìm kiếm của bạn.",
+    "try_new": "Hãy thử sử dụng các từ khóa khác hoặc kiểm tra lỗi chính tả."
+  }
+}
