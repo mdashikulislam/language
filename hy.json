@@ -2,15 +2,15 @@
   "common": {
     "loginAsGuest": "Շարունակել որպես հյուր",
     "continue": "Շարունակել",
-    "apply": "ԿԻՐԱՌԵԼ ՄՏԵՐՔԸ",
+    "apply": "ԿԻՐԱՌԵԼ ՄՈՒՏՔԸ",
     "save": "Պահպանել",
     "scan": "Սկանավորել հիմա",
     "next": "Հաջորդը",
-    "powered": "Աշխատում է՝ ",
+    "powered": "Սնուցվում է ",
     "scan_qr_code": "Սկանավորել QR կոդը",
     "or": "կամ",
-    "shop_now": "Գնել հիմա",
-    "dermis": "DERMIS",
+    "shop_now": "Գնումներ կատարել հիմա",
+    "dermis": "ԴԵՐՄԻՍ",
     "resend_code": "Կրկին ուղարկել կոդը",
     "view_rewards": "Դիտել իմ պարգևները",
     "change_icon": "Փոխել պատկերակը",
@@ -18,14 +18,14 @@
     "my_points": "Տեսնել իմ միավորները",
     "see_more": "Տեսնել ավելին",
     "see_benifits": "Տեսնել առավելությունները",
-    "show_all": "Ցուցադրել բոլորը",
+    "show_all": "Ցույց տալ բոլորը",
     "rewards": "Պարգևներ",
     "cash": "{{amount}}",
     "discount_cash": "-${{amount}}",
-    "can_convert": "Կարելի է փոխարկել ",
-    "clinic_cash": "{{clinic}} կանխիկ",
-    "checkout": "Գնել հիմա",
-    "save_address": "Պահպանել հասցեն ձեր հաշվին",
+    "can_convert": "Կարող է փոխակերպվել ",
+    "clinic_cash": "{{clinic}} կանխիկ գումար",
+    "checkout": "Վճարում",
+    "save_address": "Պահպանել հասցեն ձեր հաշվում",
     "call_now": "Զանգահարել հիմա",
     "apply_filter": "Կիրառել",
     "filter_by": "Զտել ըստ",
@@ -33,111 +33,496 @@
     "unit_number": "{{quantity}} միավոր",
     "add_to_cart": "Ավելացնել զամբյուղում",
     "treatments": "Բուժումներ",
-    "products": "Արտադրանքներ",
+    "products": "Ապրանքներ",
     "membership": "Անդամակցություն",
-    "treat_today": "Բուժվիր այսօր։ Վճարիր հետո։",
+    "treat_today": "Բուժվիր այսօր։ Վճարիր ավելի ուշ։",
     "earn": " Վաստակիր պարգևներ։",
-    "search": "Փնտրել",
+    "search": "Որոնում",
     "settings": "Կարգավորումներ",
     "save_big": "Խնայիր մեծ գումար",
     "browse_shop": "Դիտել խանութը",
-    "filter": "Զտել",
+    "filter": "Զտիչ",
     "sort": "Տեսակավորել",
-    "referral": "Ռեֆերալ կոդ",
-    "enter_referral": "Մուտքագրիր քո ռեֆերալ կոդը",
-    "enter_referral_description": "Մուտքագրիր քո կոդը՝ հատուկ առավելություններ ստանալու համար",
-    "submit": "Ներկայացնել",
+    "referral": "Ուղղորդման կոդ",
+    "enter_referral": "Մուտքագրեք ձեր ուղղորդման կոդը",
+    "enter_referral_description": "Մուտքագրեք ձեր ուղղորդման կոդը հատուկ առավելություններ ստանալու համար",
+    "submit": "Հաստատել",
     "skip": "Բաց թողնել",
-    "have_referral": "Ունե՞ս ռեֆերալ կոդ:",
+    "have_referral": "Ունե՞ք ուղղորդման կոդ:",
     "ok": "ԼԱՎ",
     "cancel": "Չեղարկել"
   },
   "deleteAccount": {
     "title": "Ջնջել հաշիվը",
-    "description": "Վստա՞հ ես, որ ցանկանում ես ջնջել քո հաշիվը:",
-    "note": "Քո բոլոր տվյալներն ու բաժանորդագրությունը կջնջվեն մշտապես։",
+    "description": "Վստա՞հ եք, որ ցանկանում եք ջնջել ձեր հաշիվը:",
+    "note": "Ձեր բոլոր տվյալները և բաժանորդագրությունը մշտապես կջնջվեն։",
     "yes": "Այո",
     "no": "Ոչ"
   },
   "home": {
-    "last_visited": "{{name}}, դու չես այցելել արդեն",
-    "days_count": "{{days_count}}...",
-    "offer": "Այսպիսով, մենք քեզ առաջարկ ենք արել, որից չես կարող հրաժարվել։",
-    "unwrap": "Սեղմիր բացելու համար",
+    "last_visited": "{{name}}, դուք չեք այցելել արդեն",
+    "days_count": "{{days_count}} օր...",
+    "offer": "Այնպես որ, մենք ձեզ առաջարկ արեցինք, որից չեք կարող հրաժարվել։",
+    "unwrap": "Հպեք՝ բացելու համար",
     "recently_viewed": "Վերջերս դիտված",
-    "save": "Խնայիր {{amount}}",
+    "save": "Խնայեք {{amount}}",
     "save2": " որպես {{clinic}} անդամ",
-    "save_paragraph": "Անվճար բուժումներ։ Էքսկլյուզիվ առավելություններ։",
-    "ad_title": "Բուժվիր այսօր։ Վճարիր հետո։ Վաստակիր պարգևներ։",
-    "ad_description": "Կատարիր ամսական վճարումներ՝ առանց ուշացման տուգանքների",
-    "educate_yourself": "Իմացիր ավելին"
+    "save_paragraph": "Անվճար բուժումներ։ Բացառիկ արտոնություններ։",
+    "ad_title": "Բուժվիր այսօր։ Վճարիր ավելի ուշ։ Վաստակիր պարգևներ։",
+    "ad_description": "Կատարեք ամսական վճարումներ առանց ուշացման տույժերի",
+    "educate_yourself": "Կրթվեք"
   },
   "language": {
     "english": "Անգլերեն",
     "french": "Ֆրանսերեն"
   },
   "onboarding": {
-    "welcome": "Բարի գալուստ",
-    "welcome_message": "Բարի գալուստ Qonnect!",
+    "welcome": "Բարի գալուստ այստեղ",
+    "welcome_message": "Բարի գալուստ Qonnect։",
     "rewards": "Անվճար պարգև նոր անդամների համար։",
     "birthdays": "Անվճար ծննդյան նվերներ",
-    "events": "Միայն անդամների համար միջոցառումներ և առաջարկներ",
-    "phone_request": "Կարո՞ղ ենք ստանալ քո հեռախոսահամարը։",
-    "login_with_phone": "Մուտք գործիր կամ գրանցվիր քո հեռախոսահամարով։",
+    "events": "Միայն անդամների համար նախատեսված իրադարձություններ և առաջարկներ",
+    "phone_request": "Կարո՞ղ ենք ունենալ ձեր հեռախոսահամարը։",
+    "login_with_phone": "Գրանցվեք կամ մուտք գործեք ձեր հեռախոսահամարով։",
     "terms": {
       "agree": "Ես համաձայն եմ ",
-      "terms_of_service": "Օգտագործման պայմաններին ",
-      "and": " և ",
+      "terms_of_service": "Ծառայությունների մատուցման պայմաններին ",
+      "and": "և ",
       "privacy": "Գաղտնիության քաղաքականությանը։"
     },
-    "closeApp": "Փակիր հավելվածը",
-    "andReopen": "և նորից բացիր այն",
-    "otp_title": "Մուտքագրիր SMS-ով ուղարկված կոդը",
-    "sms_sent": "Մենք ուղարկել ենք կոդը՝ {{phone_number}}",
-    "email_placeholder": "name@email.com",
-    "well_done": "Շատ լավ!",
-    "email_request": "Այժմ քո էլ. փոստը?",
-    "last_step": "Վերջին քայլը",
-    "name_request": "Ինչպե՞ս է քո անունը։",
-    "name_placeholder": "jhon doe",
-    "first_name_placeholder": "Jhon",
-    "last_name_placeholder": "Doe",
+    "closeApp": "Փակել հավելվածը",
+    "andReopen": "և նորից բացել այն",
+    "otp_title": "Մուտքագրեք SMS-ի միջոցով ուղարկված OTP-ն",
+    "sms_sent": "Մենք OTP-ն ուղարկել ենք {{phone_number}}",
+    "email_placeholder": "անուն@էլ.փոստ.հասցե",
+    "well_done": "Ապրեք։",
+    "email_request": "Իսկ ձեր էլ. փոստը՞:",
+    "last_step": "Վերջինը, բայց ոչ պակաս կարևորը",
+    "name_request": "Ո՞րն է ձեր անունը:",
+    "name_placeholder": "ջոն դոու",
+    "first_name_placeholder": "Ջոն",
+    "last_name_placeholder": "Դոու",
     "birthday_placeholder": "ՕՕ / ԱԱ / ՏՏՏՏ",
-    "birthday_request": "Ե՞րբ է քո ծննդյան օրը։",
-    "welcome_message2": "Բարի գալուստ {{name}}!",
-    "gift_message": "Մենք քեզ փոքրիկ նվեր ենք պատրաստել՝ սկանավորելու համար քո առաջին QR կոդը",
+    "birthday_request": "Ե՞րբ է ձեր ծնունդը:",
+    "welcome_message2": "Բարի գալուստ {{name}}։ ",
+    "gift_message": "Մենք ձեզ մի փոքրիկ նվեր տվեցինք՝ սկանավորելով ձեր առաջին QR կոդը",
     "find_spa": {
-      "find_medspa": "Գտիր քո առաջարկը",
-      "description": "Գտիր քո գտնվելու վայրը՝ գնելու սիրած ծառայությունները և վաստակելու պարգևներ յուրաքանչյուր գնման և այցի համար։",
-      "search": "Փնտրիր առաջարկ ըստ անվանման",
-      "results_found": "{{quantity}} արդյունք գտնվեց"
+      "find_medspa": "Գտեք ձեր առաջարկը",
+      "description": "Գտեք ձեր գտնվելու վայրը հիմա՝ ձեր նախընտրած ծառայությունները գնելու և յուրաքանչյուր գնման և այցելության դեպքում պարգևներ վաստակելու համար:",
+      "search": "Որոնել առաջարկն ըստ անվան",
+      "results_found": "Գտնվել է {{quantity}} արդյունք"
     }
   },
   "personalInfo": {
     "title": "Անձնական տվյալներ",
     "email_label": "Էլ. փոստ",
-    "email_placeholder": "name@email.com",
+    "email_placeholder": "անուն@էլ.փոստ.հասցե",
     "nickname_label": "Մականուն",
     "nickname_placeholer": "անուն",
     "firstname_label": "Անուն",
-    "firstname_placeholder": "John",
+    "firstname_placeholder": "Ջոն",
     "lastname_label": "Ազգանուն",
-    "lastname_placeholder": "Doe"
+    "lastname_placeholder": "Դոու"
   },
   "scan": {
-    "scan_text": "Սկանավորիր կլինիկայում՝ ստանալու համար",
+    "scan_text": "Սկանավորել գրասենյակում ՝",
     "points": "{{points}} միավոր",
-    "cant_scan": "Ինչպե՞ս է գործում։"
+    "cant_scan": "Ինչպե՞ս է դա աշխատում:"
   },
   "rewardModal": {
-    "horray": "Ուրա՛հ։",
-    "you_earned": "Դու վաստակեցիր",
+    "horray": "Ուռա՜։ ",
+    "you_earned": "Դուք հենց նոր վաստակեցիք",
     "points": "{{points}}",
     "clinic_points": "{{clinic}} միավոր"
   },
   "banked_modal": {
-    "reward_banked": "ՊԱՐԳԵՎԸ ՊԱՀՎԵՑԵԼ Է։",
-    "cash": "{{clinic}} կանխիկ",
+    "reward_banked": "ՊԱՐԳԵՎԸ ԲԱՆԿՎԱԾ Է:",
+    "cash": "{{clinic}} կանխիկ գումար",
     "view_rewards": "Դիտել պարգևները"
+  },
+  "segment": {
+    "browse": "Դիտել",
+    "treatments": "Բուժումներ",
+    "clinicName": "{{clinicName}}",
+    "active": "Ակտիվ",
+    "past": "Անցյալ",
+    "products": "Ապրանքներ"
+  },
+  "special_offers": {
+    "expire_in": "Սպառվում է {{time_left}} հետո ",
+    "title": "Հատուկ առաջարկ։",
+    "new_msg": "Դուք հաղորդագրություն ունեք {{sender}}-ից։"
+  },
+  "shop": {
+    "title": "Խանութ",
+    "treatment": {
+      "learn_more": "Իմացեք ավելին այս բուժման մասին",
+      "see_treatment": "Դիտել բուժումը",
+      "included_treatments_title": "Ներառված բուժումներ",
+      "chose_treatment": "Ընտրեք հետևյալներից {{quantity}}-ը ամեն {{month}}",
+      "chose_treatment2": "Ընտրեք {{quantity}} ստորև նշվածներից ամեն {{month}}",
+      "chose_treatment3": "Ստացեք հետևյալները ամեն {{month}}",
+      "signUpBonus": "Գրանցման բոնուս",
+      "from_price": "Սկսած {{price}}-ից",
+      "members_price": "{{memberPrice}} անդամների համար",
+      "treatment_fees": " {{fees}} սպասարկման վճար կիրառվում է վճարման ժամանակ",
+      "results_title": "Հրաշալի արդյունքներ",
+      "results_description": "Ինչպես են մյուսներն զգացել այս բուժման մասին",
+      "select_plan": "Ընտրեք բուժման պլան",
+      "before_text": "Ձեր բուժումից առաջ",
+      "after_text": "Ձեր բուժումից հետո",
+      "members_results": "Անդամների արդյունքները",
+      "customers_and_clients": "Ինչ են տեսել անդամները",
+      "expectations": "Ի՞նչ սպասել:",
+      "bundles_treatment_title": "Բուժումների քանակը",
+      "variations_treatments_title": "Բուժման տեսակները",
+      "treatments_quantity": "{{quantity}} բուժումներ",
+      "consultation_required": "Խորհրդատվությունը պարտադիր է:",
+      "scheduling_link": "ժամանակացույցի հղումը։ ",
+      "visit_button": "Այցելել հղումը",
+      "noBooking": "Այս ապրանքի համար ամրագրում չի պահանջվում։",
+      "sessions_available": "{{quantity}} -ը {{remaining}} նիստ{{plural}}-ից",
+      "sessions": "{{quantity}} նիստ{{plural}}",
+      "expire_in": "Սպառվում է ",
+      "search_result": "Գտնվել է {{quantity}} արդյունք{{plural}}",
+      "consultation": "Այս բուժումը պահանջում է խորհրդատվություն",
+      "add_to_cart": "Վստա՞հ եք, որ ցանկանում եք ավելացնել այն ձեր զամբյուղում:"
+    },
+    "product": {
+      "learn_more": "Իմացեք ավելին այս ապրանքի մասին",
+      "see_product": "Դիտել ապրանքը",
+      "included_products_title": "Ներառված ապրանքներ",
+      "chose_product": "Ընտրեք հետևյալներից {{quantity}}-ը ամեն {{month}}",
+      "chose_product2": "Ընտրեք {{quantity}} ստորև նշվածներից ամեն {{month}}",
+      "chose_product3": "Ստացեք հետևյալները ամեն {{month}}",
+      "from_price": "Սկսած {{price}}-ից",
+      "members_price": " {{memberPrice}} անդամների համար",
+      "product_fees": " {{fees}} սպասարկման վճար կիրառվում է վճարման ժամանակ",
+      "results_title": "Հրաշալի արդյունքներ",
+      "results_description": "Ինչպես են մյուսներն զգացել այս ապրանքի մասին",
+      "select_plan": "Ընտրեք ապրանքի պլան",
+      "before_text": "Ձեր ապրանքից առաջ",
+      "after_text": "Ձեր ապրանքից հետո",
+      "members_results": "Անդամների արդյունքները",
+      "customers_and_clients": "Ինչպես են մյուսներն զգացել այս ապրանքի մասին",
+      "expectations": "Ի՞նչ սպասել:",
+      "bundles_product_title": "Ապրանքների քանակը",
+      "variations_products_title": "Ապրանքի տեսակները",
+      "products_quantity": "{{quantity}} ապրանքներ",
+      "consultation_required": "Խորհրդատվությունը պարտադիր է:",
+      "scheduling_link": "ժամանակացույցի հղումը։ ",
+      "visit_button": "Այցելել հղումը",
+      "expire_in": "Սպառվում է ",
+      "sessions_available": "{{remaining}} {{plural}}-ից {{quantity}} մնացել է",
+      "treatments": "{{quantity}} բուժում{{plural}}"
+    },
+    "save_button": {
+      "text": "Խնայեք {{amount}} տարեկան",
+      "subscribe": "Բաժանորդագրվեք հիմա։"
+    },
+    "view_button": {
+      "text": "Դիտել"
+    },
+    "bonus_card": {
+      "title": "Գրանցվեք անմիջապես",
+      "title_bold": " պահանջելու անվճար {{gifts}}։"
+    },
+    "teamMember": {
+      "title": "Ո՞վ է ձեզ օգնել այս գնումների հարցում:",
+      "not_Sure": "Վստահ չեմ"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Բուժվիր այսօր։ Վճարիր ավելի ուշ։ Վաստակիր պարգևներ։",
+      "free_treatments": "Անվճար բուժումներ, բացառիկ արտոնություններ։",
+      "how_it_work": "Ինչպե՞ս է դա աշխատում:"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} ՄԻԱՎՈՐ",
+    "sinleReward": "Պարգև",
+    "title": "Պարգևներ",
+    "win_points": {
+      "title": "Ավելի շատ միավորների կարիք ունե՞ք:",
+      "refer_friend": "Ուղղորդել ընկերոջը",
+      "purshase_inApp": "Գնում կատարել հավելվածում",
+      "google_review": "Կարծիք թողնել Google-ում",
+      "visit": "Այցելել մեր կլինիկա",
+      "status": {
+        "points_added": "Ավելացվել է {{points}} միավոր",
+        "scan": "Սկանավորել՝ վաստակելու համար",
+        "pending": "Սպասում է հաստատման",
+        "plus_points": "+{{points}} միավոր",
+        "done": "Կատարված է"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Հավատարմության միավորներ",
+        "cultPoints": "Cult միավորներ",
+        "memberShip": "{{clinic}} անդամ",
+        "joinedOn": "Միացել է {{since}}-ից",
+        "cash": "{{clinic}} կանխիկ գումար"
+      },
+      "reviewSheet": {
+        "title": "Դուք կարծիք թողե՞լ եք:",
+        "text": "Մեր կլինիկայի սեփականատերը կստուգի կարծիքը՝ ձեզ միավորներ ավելացնելու համար։",
+        "yesButton": "Այո, ես թողել եմ:",
+        "noButton": "Դեռ ոչ"
+      },
+      "reward_details": {
+        "expire_in": "Սպառվում է {{time_left}} օր հետո",
+        "redeem_button": "Մարել պարգևը հիմա",
+        "bank_it": "Բանկել {{amount}} {{clinic}}-ի համար",
+        "redeemed": "Մարված է",
+        "banked": "Բանկված է",
+        "locked": "Կողպված է",
+        "expired_at": "Սպառվել է",
+        "consumed": "Սպառված է"
+      },
+      "bank_reward": {
+        "bank_title": "Բանկե՞լ ձեր պարգևը {{clinic}} կանխիկ գումարով:",
+        "custom_bank_title": "Բանկել ձեր պարգևը",
+        "bank_description": "Դուք կփոխանակեք ձեր պարգևը",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "արժողությամբ {{clinic}} կանխիկ գումարով, որը կարող եք ծախսել հավելվածի խանութում։ Այսպիսով, դուք կկորցնեք հասանելիությունը բուն պարգևին:",
+        "yes_button": "Այո, բանկել պարգևը",
+        "no_button": "Հիմա ոչ"
+      },
+      "congratSheet": {
+        "title": "Շնորհավորում ենք։",
+        "your_reward": "Ձեր պարգևն ավելացվել է զամբյուղում։",
+        "description": "Դիտեք մեր խանութը հիմա՝ ձեր պատվերին ավելացնելու կամ դիտեք զամբյուղը՝ անմիջապես վճարելու ձեր զեղչի կիրառմամբ։",
+        "explore_shop": "Դիտել խանութը",
+        "view_cart": "Դիտել զամբյուղը"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Լորեմ Իփսում",
+      "description": "Լորեմ իփսում դոլոր սիթ ամեթ, կոնսեկտետուր ադիփիսցինգ էլիթ։ Ֆուսցե բիբենդում աուկտոր մասսա"
+    }
+  },
+  "profile": {
+    "screen_title": "Հաշիվ",
+    "logout": "Ելք",
+    "my-treatment-section": {
+      "my-treatment": "Իմ բուժումները",
+      "used_treatments": "Օգտագործված բուժումներ",
+      "empty_used": "Օգտագործված բուժում չկա",
+      "empty_purshased": "Գնված բուժում չկա",
+      "empty_treatment": "Բուժումներ չկան",
+      "remaining_treatments": "{{remaining}}-ը {{quantity}} բուժումներից մնացել է",
+      "redeemed_on": "Մարված է։ {{date}}",
+      "scan": "Սկանավորել գրասենյակում՝ մարելու համար",
+      "book": "Ամրագրել հանդիպում",
+      "callClinic": "Զանգահարել կլինիկա"
+    },
+    "my-product-section": {
+      "my-product": "Իմ ապրանքները",
+      "used_products": "Օգտագործված ապրանքներ",
+      "empty_used": "Օգտագործված ապրանք չկա",
+      "empty_purshased": "Գնված ապրանք չկա",
+      "empty_product": "Ապրանքներ չկան",
+      "remaining_products": "{{remaining}}-ը {{quantity}} ապրանքներից մնացել է",
+      "redeemed_on": "Մարված է։ {{date}}",
+      "scan": "Սկանավորել գրասենյակում՝ մարելու համար",
+      "book": "Ամրագրել հանդիպում",
+      "callClinic": "Զանգահարել կլինիկա"
+    },
+    "quantity_sheet": {
+      "select": "Ընտրել քանակը",
+      "units_left": "Առկա է {{quantity}} {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "Բուժումը մարված է",
+      "description": "Դուք կարող եք հիմա տեսնել մնացած միավորները և պլանավորել ձեր հաջորդ նիստերը։",
+      "got_it": "Հասկացա։",
+      "cant_scan": "Չե՞ք կարողանում սկանավորել:",
+      "fallback_description": "Ահա ձեր պահեստային կոդը։ Մուտքագրեք այն վեբ հավելվածում։",
+      "time_remaining": "Մնացած ժամանակը։ {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Ապրանքը մարված է",
+      "description": "Դուք կարող եք հիմա տեսնել մնացած միավորները և պլանավորել ձեր հաջորդ նիստերը։",
+      "got_it": "Հասկացա։",
+      "cant_scan": "Չե՞ք կարողանում սկանավորել:",
+      "fallback_description": "Ահա ձեր պահեստային կոդը։ Մուտքագրեք այն վեբ հավելվածում։",
+      "time_remaining": "Մնացած ժամանակը։ {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Անձնական տվյալներ",
+      "payment_methods": "Վճարման եղանակներ",
+      "payment_method": "Վճարման եղանակ"
+    },
+    "payment_method_card": {
+      "visa": "Քարտ",
+      "apple": "Apple pay",
+      "affirm": "Affirm",
+      "card_number": "Քարտի համար",
+      "experation": "Ժամկետի ավարտ",
+      "cvc": "CVC",
+      "select_country": "Ընտրել երկիրը",
+      "select_country_placeholder": "Ընտրեք երկիր...",
+      "contact_details": "Կոնտակտային տվյալներ",
+      "confirm_details": "Հաստատեք ձեր տվյալները՝ վաճառքի անդորրագիրը ստանալու համար"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Միացել է {{date}}-ից",
+    "cancled_on": " Չեղարկվել է {{date}}-ին",
+    "empty_membership": "Այստեղ բաժանորդագրություն չկա",
+    "browse_mebership": "Դիտել անդամակցությունները",
+    "active_membership": "Ակտիվ անդամակցություն",
+    "paused_membership": "Դադարեցված անդամակցություն",
+    "active_membership_count": "{{quantity}} ակտիվ անդամակցություն",
+    "next_payment_attempt": "Մենք փորձել ենք մշակել ձեր անդամակցության վճարումը, կփորձենք նորից {{date}}-ին",
+    "update_payment_info": "Թարմացնել վճարման եղանակը",
+    "retry_payment": "Կրկին փորձել վճարման եղանակը",
+    "cancel_payment": "Չեղարկել անդամակցությունը",
+    "something_wrong": "Թվում է, թե ինչ-որ բան սխալ է գնացել...",
+    "update_payment_method": "Թարմացնել վճարումը",
+    "you_saved": "Դուք խնայել եք",
+    "treatments": "({{number}} Բուժում{{plural}})",
+    "products": "({{number}} Ապրանք{{plural}})",
+    "equivalent": {
+      "title": "Համարժեք",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel շրթներկ(ներ)",
+      "bags": " Chanel պայուսակ(ներ)",
+      "swimsuits": " Gucci լողազգեստ(ներ)"
+    },
+    "memberShipPayFor": "Անդամակցությունը, որը վճարում է ինքն իր համար",
+    "you_have": "Դուք ունեք {{quantity}} մատչելի բուժումներ",
+    "you_have_products": "Դուք ունեք {{quantity}} մատչելի ապրանքներ",
+    "available_in": "Մնացել է {{days}} օր մինչև հաջորդ ընտրությունը",
+    "available_in_products": "Հաջորդ ապրանքները հասանելի կլինեն {{days}} օրից",
+    "your_benefits": "Ձեր առավելությունները",
+    "membership_benefits": "Անդամակցության առավելությունները",
+    "refresh_on": "Թարմացվում է {{date}}-ին",
+    "monthly_treatment_selection": "Ամսական բուժման ընտրություն",
+    "monthly_product_selection": "Ամսական ապրանքի ընտրություն",
+    "firstDay_treatment_selection": "Սկսած ձեր 1-ին օրվանից որպես անդամ",
+    "firstDay_product_selection": "Սկսած ձեր 1-ին օրվանից որպես անդամ",
+    "unknown_treatment_selection": "Սկսած {{period}}-ից որպես անդամ",
+    "unknown_product_selection": "Սկսած {{period}}-ից որպես անդամ",
+    "select_one": "Ընտրեք 1-ը ստորև նշված բուժումներից անվճար ամեն ամիս",
+    "select_one_product": "Ընտրեք 1-ը ստորև նշված ապրանքներից անվճար ամեն ամիս",
+    "select_free_treatment": "Ընտրեք ձեր անվճար բուժումը",
+    "select_free_product": "Ընտրեք ձեր անվճար ապրանքը",
+    "are_you_sure": "Վստա՞հ եք, որ ցանկանում եք ընտրել այս բուժումը:",
+    "are_you_sure_product": "Վստա՞հ եք, որ ցանկանում եք ընտրել այս ապրանքը:",
+    "are_you_sure_cancel": "Վստա՞հ եք, որ ցանկանում եք չեղարկել ձեր անդամակցությունը:",
+    "sure": "Այո, վստահ եմ",
+    "no": "Ոչ, ես սխալվեցի",
+    "number_updated": "Միավորների քանակը հաջողությամբ թարմացվել է այս բուժման համար ",
+    "number_updated_product": "Միավորների քանակը հաջողությամբ թարմացվել է այս ապրանքի համար ",
+    "you_can_see": "Դուք կարող եք հիմա տեսնել մնացած միավորները և պլանավորել ձեր հաջորդ նիստերը։",
+    "you_can_see_product": "Դուք կարող եք հիմա տեսնել մնացած միավորները և պլանավորել ձեր հաջորդ նիստերը։"
+  },
+  "cart_screen": {
+    "screen_title": "Գնումների զամբյուղ",
+    "clinic_price_applied": "{{clinic}} գնագոյացումը կիրառված է",
+    "summury": "Ամփոփում",
+    "promo_code": "Պրոմո կոդ",
+    "add_promo_code": "Ավելացնել պրոմո կոդ",
+    "order_summury": "ՊԱՏՎԵՐԻ ԱՄՓՈՓՈՒՄ",
+    "subtotal": "Ենթագումար",
+    "cash_wallet": "Կանխիկ դրամապանակ",
+    "rewardDiscount": "Պարգևի զեղչ",
+    "membership_discount": "Անդամակցության զեղչ",
+    "tax": "Հարկ և սպասարկման վճար",
+    "total": "Պատվերի ընդհանուր գումարը",
+    "totalMaj": "ՊԱՏՎԵՐԻ ԸՆԴՀԱՆՈՒՐ ԳՈՒՄԱՐԸ",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Անցնել վճարմանը հիմա",
+    "place_order": "Տեղադրել պատվերը",
+    "order_confirmed": "Ուրախացեք, ձեր պատվերը հաստատված է։",
+    "points_tracker": "Միավորների հետագծիչ",
+    "your_purchance": "Ձեր գնումը օգնել է ձեզ վաստակել դեպի ձեր հաջորդ պարգևը։",
+    "reward_unlocked": "պարգևը բացված է",
+    "rewards_unlocked": "ՊԱՐԳԵՎՆԵՐԸ ԲԱՑՎԱԾ ԵՆ",
+    "amount_unlocked": "${{amount}} դեպի իրենց առաջին գնումը հավելվածում",
+    "can_convert_amount": "Կարող է փոխակերպվել ${{amount}} կանխիկի",
+    "edit_product": "Խմբագրել ապրանքը",
+    "delete": "Ջնջել",
+    "empty_cart": "Զամբյուղը դատարկ է, ավելացրեք որոշ ապրանքներ",
+    "cashExceeds": "Ցավոք, կանխիկի մնացորդը չի կարող գերազանցել զամբյուղի ընդհանուր արժեքի ({{allowedMerchantCashPercentage}}%)-ը",
+    "loseMoney": "Մենք կկորցնենք գումար 😞",
+    "useOnly": "Դուք կարող եք ավելացնել ավելի շատ բուժումներ ձեր զամբյուղում կամ օգտագործել միայն {{amount}} ձեր առկա կանխիկ մնացորդից այս բուժման համար հենց հիմա։",
+    "disallowed": "Ցավոք, ձեր կանխիկ մնացորդը չի կարող օգտագործվել {{number}} բուժում(ներ)ի համար",
+    "removeFromCart": "Հեռացնել զամբյուղից"
+  },
+  "dates": {
+    "minute": "րոպե",
+    "minutes": "րոպե",
+    "hour": "ժամ",
+    "hours": "ժամ",
+    "day": "օր",
+    "days": "օր",
+    "month": "ամիս",
+    "months": "ամիս",
+    "year": "տարի",
+    "years": "տարիներ",
+    "now": "հիմա",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Այս էլ. փոստը արդեն օգտագործվում է։ Խնդրում ենք օգտագործել այլ էլ. փոստ։",
+    "login_error": "Մուտքը ձախողվեց։ Ստուգեք ձեր համարը, ապա նորից փորձեք։",
+    "signup_error": "Գրանցումը ձախողվեց։ Համոզվեք, որ ձեր տվյալները ճիշտ են և նորից փորձեք։",
+    "undifined_error": "Ուփս։ Ինչ-որ բան սխալ է գնացել։",
+    "otp_not_valid": "Ձեր մուտքագրած կոդը սխալ է։ Խնդրում ենք ստուգել այն և նորից փորձել։",
+    "create_account": "Մենք չկարողացանք ստեղծել ձեր հաշիվը։ Խնդրում ենք ստուգել ձեր տվյալները և նորից փորձել։",
+    "date": {
+      "invalid_date": "Ամսաթիվը սխալ ձևաչափով է։ Օգտագործեք ՕՕ/ԱԱ/ՏՏՏՏ։",
+      "invalid_month": "Խնդրում ենք ընտրել ծննդյան վավեր ամսաթիվ։",
+      "invalid_day": "Խնդրում ենք ընտրել ծննդյան վավեր ամսաթիվ։",
+      "invalid_birthdate": "Ձեր ծնունդը չի կարող լինել ապագայում։ Խնդրում ենք ընտրել ծննդյան վավեր ամսաթիվ։"
+    }
+  },
+  "noDataFound": {
+    "treatment": "բուժումներ մատչելի չեն",
+    "treatmentSearch": "բուժումներ մատչելի չեն",
+    "product": "ապրանքներ մատչելի չեն"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Սա կգանձի {{amount}} անմիջապես ձեր քարտից։ Վստա՞հ եք, որ ցանկանում եք շարունակել:",
+    "add_card_note": "Նշում։ Դուք պետք է ունենաք վճարման եղանակ ավելացված ձեր հաշվում",
+    "confirm_subscription": "Հաստատել բաժանորդագրությունը",
+    "yes": "Այո, Շարունակել",
+    "no": "Ոչ, Չեղարկել"
+  },
+  "taxSheet": {
+    "title": "2.5% Հարկ և սպասարկման վճար",
+    "description": "Այս վճարն օգտագործվում է ձեր բուժման կամ ծառայության հետ կապված վարչական ծախսերը փոխհատուցելու համար։",
+    "button": "Հասկացա"
+  },
+  "payment": {
+    "retry_failed_title": "Վճարումը ձախողվեց",
+    "retry_failed_message": "Մենք չկարողացանք մշակել ձեր վճարումը։ Խնդրում ենք թարմացնել ձեր վճարման եղանակը՝ շարունակելու համար։"
+  },
+  "treatments": {
+    "redeem_multiple": "Մարել {{count}} Բուժում"
+  },
+  "products": {
+    "redeem_multiple": "Մարել {{count}} Ապրանք"
+  },
+  "custom_plan": {
+    "delete_title": "Ջնջել անհատականացված պլանը",
+    "delete_description": "Վստա՞հ եք, որ ցանկանում եք ջնջել այս անհատականացված պլանը:",
+    "delete": "Ջնջել",
+    "cancel": "Չեղարկել"
+  },
+  "no_search_results": {
+    "title": "Արդյունքներ չեն գտնվել",
+    "description": "Թվում է, թե մենք չենք կարողացել գտնել որևէ բան, որը համապատասխանի ձեր որոնմանը։",
+    "try_new": "Փորձեք այլ հիմնաբառեր կամ ստուգեք ուղղագրական սխալները։"
   }
 }

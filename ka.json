@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "გაგრძელება როგორც სტუმარი",
+    "continue": "გაგრძელება",
+    "apply": "შეტანის გამოყენება",
+    "save": "შენახვა",
+    "scan": "სკანირება ახლა",
+    "next": "შემდეგი",
+    "powered": "უზრუნველყოფილია",
+    "scan_qr_code": "QR კოდის სკანირება",
+    "or": "ან",
+    "shop_now": "შეიძინეთ ახლა",
+    "dermis": "დერმისი",
+    "resend_code": "კოდის ხელახლა გაგზავნა",
+    "view_rewards": "ჩემი ჯილდოების ნახვა",
+    "change_icon": "ხატულის შეცვლა",
+    "reset_icon": "ხატულის აღდგენა",
+    "my_points": "ჩემი ქულების ნახვა",
+    "see_more": "მეტის ნახვა",
+    "see_benifits": "სარგებლის ნახვა",
+    "show_all": "ყველას ჩვენება",
+    "rewards": "ჯილდოები",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "შესაძლებელია გადაკეთდეს",
+    "clinic_cash": "{{clinic}} ქეში",
+    "checkout": "გადახდა",
+    "save_address": "მისამართის შენახვა თქვენს ანგარიშზე",
+    "call_now": "დარეკვა ახლა",
+    "apply_filter": "გამოყენება",
+    "filter_by": "გაფილტვრა",
+    "reset_filter": "ფილტრის აღდგენა",
+    "unit_number": "{{quantity}} ერთეული",
+    "add_to_cart": "კალათაში დამატება",
+    "treatments": "პროცედურები",
+    "products": "პროდუქტები",
+    "membership": "წევრობა",
+    "treat_today": "იმკურნალე დღეს. გადაიხადე მოგვიანებით.",
+    "earn": " მიიღეთ ჯილდოები.",
+    "search": "ძებნა",
+    "settings": "პარამეტრები",
+    "save_big": "დიდი ფულის დაზოგვა",
+    "browse_shop": "მაღაზიის დათვალიერება",
+    "filter": "ფილტრი",
+    "sort": "დახარისხება",
+    "referral": "რეფერალური კოდი",
+    "enter_referral": "შეიყვანეთ თქვენი რეფერალური კოდი",
+    "enter_referral_description": "შეიყვანეთ თქვენი რეფერალური კოდი სპეციალური შეღავათების მისაღებად",
+    "submit": "გაგზავნა",
+    "skip": "გამოტოვება",
+    "have_referral": "გაქვთ რეფერალური კოდი?",
+    "ok": "კარგი",
+    "cancel": "გაუქმება"
+  },
+  "deleteAccount": {
+    "title": "ანგარიშის წაშლა",
+    "description": "დარწმუნებული ხართ, რომ გსურთ თქვენი ანგარიშის წაშლა?",
+    "note": "ყველა თქვენი მონაცემი და ხელმოწერა სამუდამოდ წაიშლება.",
+    "yes": "დიახ",
+    "no": "არა"
+  },
+  "home": {
+    "last_visited": "{{name}}, თქვენ არ გესტუმრათ არ",
+    "days_count": "{{days_count}} დღე...",
+    "offer": "ასე რომ, ჩვენ შემოგთავაზეთ ისეთი შეთავაზება, რომელზეც უარს ვერ იტყვით!",
+    "unwrap": "შეეხეთ გასახსნელად",
+    "recently_viewed": "ახლახან ნანახი",
+    "save": "დაზოგე {{amount}}",
+    "save2": " როგორც {{clinic}} წევრი",
+    "save_paragraph": "უფასო პროცედურები. ექსკლუზიური შეღავათები.",
+    "ad_title": "იმკურნალე დღეს. გადაიხადე მოგვიანებით. მიიღეთ ჯილდოები.",
+    "ad_description": "განახორციელეთ ყოველთვიური გადახდები დაგვიანების გარეშე",
+    "educate_yourself": "გაანათლეთ საკუთარი თავი"
+  },
+  "language": {
+    "english": "ინგლისური",
+    "french": "ფრანგული"
+  },
+  "onboarding": {
+    "welcome": "მოგესალმებით",
+    "welcome_message": "მოგესალმებით Qonnect-ში!",
+    "rewards": "უფასო ჯილდო ახალი წევრებისთვის!",
+    "birthdays": "უფასო დაბადების დღის საჩუქრები",
+    "events": "მხოლოდ წევრებისთვის განკუთვნილი ღონისძიებები და შეთავაზებები",
+    "phone_request": "შეგვიძლია მივიღოთ თქვენი ტელეფონის ნომერი?",
+    "login_with_phone": "დარეგისტრირდით ან შედით თქვენი ტელეფონის ნომრის გამოყენებით!",
+    "terms": {
+      "agree": "ვეთანხმები ",
+      "terms_of_service": "მომსახურების პირობებს ",
+      "and": "და ",
+      "privacy": "კონფიდენციალურობის პოლიტიკას."
+    },
+    "closeApp": "დახურეთ აპლიკაცია",
+    "andReopen": "და ხელახლა გახსენით",
+    "otp_title": "შეიყვანეთ SMS-ით გამოგზავნილი OTP",
+    "sms_sent": "ჩვენ გამოვგზავნეთ OTP {{phone_number}}-ზე",
+    "email_placeholder": "name@email.com",
+    "well_done": "ყოჩაღ!",
+    "email_request": "და, თქვენი ელ.ფოსტა?",
+    "last_step": "ბოლოს, მაგრამ არანაკლებ მნიშვნელოვანი",
+    "name_request": "რა გქვიათ?",
+    "name_placeholder": "ჯონ დოუ",
+    "first_name_placeholder": "ჯონ",
+    "last_name_placeholder": "დოუ",
+    "birthday_placeholder": "დდ / თთ / წწწწ",
+    "birthday_request": "როდის არის თქვენი დაბადების დღე?",
+    "welcome_message2": "მოგესალმებით {{name}}!",
+    "gift_message": "ჩვენ მოგიმზადეთ პატარა საჩუქარი თქვენი პირველი QR კოდის სკანირებისთვის",
+    "find_spa": {
+      "find_medspa": "იპოვეთ თქვენი შეთავაზება",
+      "description": "იპოვეთ თქვენი ლოკაცია ახლა, რათა შეიძინოთ თქვენი საყვარელი სერვისები და დაიწყოთ ჯილდოების მიღება ყოველი შესყიდვით და ვიზიტით!",
+      "search": "მოძებნეთ შეთავაზება სახელის მიხედვით",
+      "results_found": "{{quantity}} ნაპოვნი შედეგი"
+    }
+  },
+  "personalInfo": {
+    "title": "პირადი ინფორმაცია",
+    "email_label": "ელ.ფოსტა",
+    "email_placeholder": "name@email.com",
+    "nickname_label": "მეტსახელი",
+    "nickname_placeholer": "სახელი",
+    "firstname_label": "სახელი",
+    "firstname_placeholder": "ჯონ",
+    "lastname_label": "გვარი",
+    "lastname_placeholder": "დოუ"
+  },
+  "scan": {
+    "scan_text": "სკანირება ოფისში",
+    "points": "{{points}} ქულა",
+    "cant_scan": "როგორ მუშაობს?"
+  },
+  "rewardModal": {
+    "horray": "ჰურა!",
+    "you_earned": "თქვენ ახლახან მიიღეთ",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} ქულა"
+  },
+  "banked_modal": {
+    "reward_banked": "ჯილდო დაბანკდა!",
+    "cash": "{{clinic}} ქეში",
+    "view_rewards": "ჯილდოების ნახვა"
+  },
+  "segment": {
+    "browse": "დათვალიერება",
+    "treatments": "პროცედურები",
+    "clinicName": "{{clinicName}}",
+    "active": "აქტიური",
+    "past": "წარსული",
+    "products": "პროდუქტები"
+  },
+  "special_offers": {
+    "expire_in": "იწურება {{time_left}}-ში",
+    "title": "სპეციალური შეთავაზება!",
+    "new_msg": "თქვენ გაქვთ შეტყობინება {{sender}}-ისგან!"
+  },
+  "shop": {
+    "title": "მაღაზია",
+    "treatment": {
+      "learn_more": "შეიტყვეთ მეტი ამ პროცედურის შესახებ",
+      "see_treatment": "პროცედურის ნახვა",
+      "included_treatments_title": "ჩართული პროცედურები",
+      "chose_treatment": "აირჩიეთ {{quantity}} შემდეგიდან ყოველ {{month}}-ში",
+      "chose_treatment2": "აირჩიეთ {{quantity}} ქვემოთ მოცემულიდან ყოველ {{month}}-ში",
+      "chose_treatment3": "მიიღეთ შემდეგი ყოველ {{month}}-ში",
+      "signUpBonus": "რეგისტრაციის ბონუსი",
+      "from_price": "{{price}}-დან",
+      "members_price": "{{memberPrice}} წევრებისთვის",
+      "treatment_fees": "{{fees}} მომსახურების საკომისიო დარიცხულია გადახდისას",
+      "results_title": "მომხიბლავი შედეგები",
+      "results_description": "რას ფიქრობდნენ სხვები ამ პროცედურის შესახებ",
+      "select_plan": "აირჩიეთ პროცედურის გეგმა",
+      "before_text": "თქვენს პროცედურამდე",
+      "after_text": "თქვენი პროცედურის შემდეგ",
+      "members_results": "წევრების შედეგები",
+      "customers_and_clients": "რა ნახეს წევრებმა",
+      "expectations": "რას უნდა ელოდოთ?",
+      "bundles_treatment_title": "პროცედურების რაოდენობა",
+      "variations_treatments_title": "პროცედურის ტიპები",
+      "treatments_quantity": "{{quantity}} პროცედურა",
+      "consultation_required": "კონსულტაცია საჭიროა!",
+      "scheduling_link": "განრიგის ბმული:",
+      "visit_button": "ბმულის ნახვა",
+      "noBooking": "ამ პროდუქტისთვის დაჯავშნა არ არის საჭირო.",
+      "sessions_available": "{{quantity}} {{remaining}} სესია{{plural}}-დან",
+      "sessions": "{{quantity}} სესია{{plural}}",
+      "expire_in": "იწურება",
+      "search_result": "{{quantity}} ნაპოვნი შედეგი{{plural}}",
+      "consultation": "ეს პროცედურა მოითხოვს კონსულტაციას",
+      "add_to_cart": "დარწმუნებული ხართ, რომ გსურთ მისი დამატება კალათაში?"
+    },
+    "product": {
+      "learn_more": "შეიტყვეთ მეტი ამ პროდუქტის შესახებ",
+      "see_product": "პროდუქტის ნახვა",
+      "included_products_title": "ჩართული პროდუქტები",
+      "chose_product": "აირჩიეთ {{quantity}} შემდეგიდან ყოველ {{month}}-ში",
+      "chose_product2": "აირჩიეთ {{quantity}} ქვემოთ მოცემულიდან ყოველ {{month}}-ში",
+      "chose_product3": "მიიღეთ შემდეგი ყოველ {{month}}-ში",
+      "from_price": "{{price}}-დან",
+      "members_price": " {{memberPrice}} წევრებისთვის",
+      "product_fees": " {{fees}} მომსახურების საკომისიო დარიცხულია გადახდისას",
+      "results_title": "მომხიბლავი შედეგები",
+      "results_description": "რას ფიქრობდნენ სხვები ამ პროდუქტის შესახებ",
+      "select_plan": "აირჩიეთ პროდუქტის გეგმა",
+      "before_text": "თქვენს პროდუქტამდე",
+      "after_text": "თქვენი პროდუქტის შემდეგ",
+      "members_results": "წევრების შედეგები",
+      "customers_and_clients": "რას ფიქრობდნენ სხვები ამ პროდუქტის შესახებ",
+      "expectations": "რას უნდა ელოდოთ?",
+      "bundles_product_title": "პროდუქტების რაოდენობა",
+      "variations_products_title": "პროდუქტის ტიპები",
+      "products_quantity": "{{quantity}} პროდუქტი",
+      "consultation_required": "კონსულტაცია საჭიროა!",
+      "scheduling_link": "განრიგის ბმული:",
+      "visit_button": "ბმულის ნახვა",
+      "expire_in": "იწურება",
+      "sessions_available": "{{quantity}} {{remaining}} {{plural}}-დან დარჩენილი",
+      "treatments": "{{quantity}} პროცედურა{{plural}}"
+    },
+    "save_button": {
+      "text": "დაზოგე {{amount}} წლიურად",
+      "subscribe": "გამოიწერეთ ახლა!"
+    },
+    "view_button": {
+      "text": "ნახვა"
+    },
+    "bonus_card": {
+      "title": "დარეგისტრირდით, რომ დაუყოვნებლივ",
+      "title_bold": " მიიღოთ კომპლიმენტური {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "ვინ დაგეხმარათ ამ შესყიდვაში?",
+      "not_Sure": "არ ვარ დარწმუნებული"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "იმკურნალე დღეს. გადაიხადე მოგვიანებით. მიიღეთ ჯილდოები.",
+      "free_treatments": "უფასო პროცედურები ექსკლუზიური შეღავათებით.",
+      "how_it_work": "როგორ მუშაობს?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} ქულა",
+    "sinleReward": "ჯილდო",
+    "title": "ჯილდოები",
+    "win_points": {
+      "title": "მეტი ქულა გჭირდებათ?",
+      "refer_friend": "მეგობრის მოწვევა",
+      "purshase_inApp": "შესყიდვა აპლიკაციაში",
+      "google_review": "მიმოხილვა Google-ზე",
+      "visit": "ეწვიეთ ჩვენს კლინიკას",
+      "status": {
+        "points_added": "{{points}} ქულა დამატებულია",
+        "scan": "სკანირება ქულის მოსაპოვებლად",
+        "pending": "ელოდება დამტკიცებას",
+        "plus_points": "+{{points}} ქულა",
+        "done": "შესრულებულია"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "ლოიალურობის ქულები",
+        "cultPoints": "Cult ქულები",
+        "memberShip": "{{clinic}} წევრი",
+        "joinedOn": "შემოუერთდა {{since}}-დან",
+        "cash": "{{clinic}} ქეში"
+      },
+      "reviewSheet": {
+        "title": "დატოვეთ მიმოხილვა?",
+        "text": "ჩვენი კლინიკის მფლობელი გადაამოწმებს მიმოხილვას ქულების დასამატებლად.",
+        "yesButton": "დიახ, დავტოვე!",
+        "noButton": "ჯერ არა"
+      },
+      "reward_details": {
+        "expire_in": "იწურება {{time_left}} დღეში",
+        "redeem_button": "ჯილდოს დახარჯვა ახლა",
+        "bank_it": "ბანკირება {{amount}} {{clinic}}-ად",
+        "redeemed": "დახარჯული",
+        "banked": "დაბანკებული",
+        "locked": "ჩაკეტილი",
+        "expired_at": "ვადა ამოიწურა",
+        "consumed": "მოხმარებული"
+      },
+      "bank_reward": {
+        "bank_title": "დაბანკოთ თქვენი ჯილდო {{clinic}} ქეშად?",
+        "custom_bank_title": "დაბანკოთ თქვენი ჯილდო",
+        "bank_description": "თქვენ გაცვლით თქვენს ჯილდოს",
+        "bankWorth": " {{currency}}{{amount}} ღირებულების",
+        "bank_description2": " {{clinic}} ქეშზე, რომელიც შეგიძლიათ დახარჯოთ აპლიკაციის მაღაზიაში. ამით თქვენ დაკარგავთ წვდომას თავად ჯილდოზე.",
+        "yes_button": "დიახ, ჯილდოს დაბანკვა",
+        "no_button": "ახლა არა"
+      },
+      "congratSheet": {
+        "title": "გილოცავთ!",
+        "your_reward": "თქვენი ჯილდო დაემატა კალათას!",
+        "description": "დაათვალიერეთ ჩვენი მაღაზია, რომ დაამატოთ თქვენს შეკვეთას ან ნახეთ კალათა, რომ გადახდა გააკეთოთ თქვენი ფასდაკლებით.",
+        "explore_shop": "მაღაზიის დათვალიერება",
+        "view_cart": "კალათის ნახვა"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "ლორემ იპსუმი",
+      "description": "ლორემ იპსუმ დოლორ სიტ ამეთ, კონსექთეთურ ადიფისცინგ ელით. ფუსცე ბიბენდუმ აუქთორ მასსა"
+    }
+  },
+  "profile": {
+    "screen_title": "ანგარიში",
+    "logout": "გამოსვლა",
+    "my-treatment-section": {
+      "my-treatment": "ჩემი პროცედურები",
+      "used_treatments": "გამოყენებული პროცედურები",
+      "empty_used": "გამოყენებული პროცედურა არ არის",
+      "empty_purshased": "შეძენილი პროცედურა არ არის",
+      "empty_treatment": "პროცედურები არ არის",
+      "remaining_treatments": "{{remaining}} {{quantity}} პროცედურა{{plural}} დარჩენილი",
+      "redeemed_on": "დახარჯულია: {{date}}",
+      "scan": "სკანირება ოფისში დახარჯვისთვის",
+      "book": "შეხვედრის დაჯავშნა",
+      "callClinic": "დარეკვა კლინიკაში"
+    },
+    "my-product-section": {
+      "my-product": "ჩემი პროდუქტები",
+      "used_products": "გამოყენებული პროდუქტები",
+      "empty_used": "გამოყენებული პროდუქტი არ არის",
+      "empty_purshased": "შეძენილი პროდუქტი არ არის",
+      "empty_product": "პროდუქტები არ არის",
+      "remaining_products": "{{remaining}} {{quantity}} პროდუქტი{{plural}} დარჩენილი",
+      "redeemed_on": "დახარჯულია: {{date}}",
+      "scan": "სკანირება ოფისში დახარჯვისთვის",
+      "book": "შეხვედრის დაჯავშნა",
+      "callClinic": "დარეკვა კლინიკაში"
+    },
+    "quantity_sheet": {
+      "select": "აირჩიეთ რაოდენობა",
+      "units_left": "ხელმისაწვდომია {{quantity}} {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "პროცედურა დახარჯულია",
+      "description": "ახლა შეგიძლიათ ნახოთ დარჩენილი ერთეულები და დაგეგმოთ თქვენი შემდეგი სესიები.",
+      "got_it": "გავიგე!",
+      "cant_scan": "ვერ სკანირებთ?",
+      "fallback_description": "აი თქვენი სარეზერვო კოდი. ჩადეთ იგი ვებ აპლიკაციაში:",
+      "time_remaining": "დარჩენილი დრო: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "პროდუქტი დახარჯულია",
+      "description": "ახლა შეგიძლიათ ნახოთ დარჩენილი ერთეულები და დაგეგმოთ თქვენი შემდეგი სესიები.",
+      "got_it": "გავიგე!",
+      "cant_scan": "ვერ სკანირებთ?",
+      "fallback_description": "აი თქვენი სარეზერვო კოდი. ჩადეთ იგი ვებ აპლიკაციაში:",
+      "time_remaining": "დარჩენილი დრო: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "პირადი ინფორმაცია",
+      "payment_methods": "გადახდის მეთოდები",
+      "payment_method": "გადახდის მეთოდი"
+    },
+    "payment_method_card": {
+      "visa": "ბარათი",
+      "apple": "Apple pay",
+      "affirm": "Affirm",
+      "card_number": "ბარათის ნომერი",
+      "experation": "ვარგისიანობის ვადა",
+      "cvc": "CVC",
+      "select_country": "აირჩიეთ ქვეყანა",
+      "select_country_placeholder": "აირჩიეთ ქვეყანა...",
+      "contact_details": "საკონტაქტო მონაცემები",
+      "confirm_details": "დაადასტურეთ თქვენი დეტალები, რომ მიიღოთ გაყიდვის ქვითარი"
+    }
+  },
+  "membership_section": {
+    "joined_on": " შემოუერთდა {{date}}-დან",
+    "cancled_on": " გაუქმდა {{date}}-ზე",
+    "empty_membership": "არავითარი ხელმოწერა აქ",
+    "browse_mebership": "წევრობის დათვალიერება",
+    "active_membership": "აქტიური წევრობა",
+    "paused_membership": "შეჩერებული წევრობა",
+    "active_membership_count": "{{quantity}} აქტიური წევრობა",
+    "next_payment_attempt": "ჩვენ ვცადეთ თქვენი წევრობის გადახდის დამუშავება, ხელახლა ვცდით {{date}}-ზე",
+    "update_payment_info": "გადახდის მეთოდის განახლება",
+    "retry_payment": "გადახდის მეთოდის ხელახლა ცდა",
+    "cancel_payment": "წევრობის გაუქმება",
+    "something_wrong": "როგორც ჩანს, რაღაც შეცდომა მოხდა...",
+    "update_payment_method": "გადახდის განახლება",
+    "you_saved": "თქვენ დაზოგეთ",
+    "treatments": "({{number}} პროცედურა{{plural}})",
+    "products": "({{number}} პროდუქტი{{plural}})",
+    "equivalent": {
+      "title": "ექვივალენტი",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel-ის ტუჩსაცხი(ები)",
+      "bags": " Chanel-ის ჩანთა(ები)",
+      "swimsuits": " Gucci-ს საცურაო კოსტიუმი(ები)"
+    },
+    "memberShipPayFor": "წევრობა, რომელიც თავის თავს იხდის",
+    "you_have": "თქვენ გაქვთ {{quantity}} ხელმისაწვდომი პროცედურა",
+    "you_have_products": "თქვენ გაქვთ {{quantity}} ხელმისაწვდომი პროდუქტი",
+    "available_in": "{{days}} დღე დარჩა შემდეგ შერჩევამდე",
+    "available_in_products": "შემდეგი პროდუქტები ხელმისაწვდომია {{days}} დღეში",
+    "your_benefits": "თქვენი შეღავათები",
+    "membership_benefits": "წევრობის შეღავათები",
+    "refresh_on": "განახლდება {{date}}-ზე",
+    "monthly_treatment_selection": "ყოველთვიური პროცედურის შერჩევა",
+    "monthly_product_selection": "ყოველთვიური პროდუქტის შერჩევა",
+    "firstDay_treatment_selection": "იწყება თქვენი, როგორც წევრის, 1-ლი დღიდან",
+    "firstDay_product_selection": "იწყება თქვენი, როგორც წევრის, 1-ლი დღიდან",
+    "unknown_treatment_selection": "იწყება {{period}}-ის შემდეგ, როგორც წევრი",
+    "unknown_product_selection": "იწყება {{period}}-ის შემდეგ, როგორც წევრი",
+    "select_one": "აირჩიეთ 1 ქვემოთ მოცემული პროცედურიდან უფასოდ ყოველ თვე",
+    "select_one_product": "აირჩიეთ 1 ქვემოთ მოცემული პროდუქტიდან უფასოდ ყოველ თვე",
+    "select_free_treatment": "აირჩიეთ თქვენი უფასო პროცედურა",
+    "select_free_product": "აირჩიეთ თქვენი უფასო პროდუქტი",
+    "are_you_sure": "დარწმუნებული ხართ, რომ გსურთ აირჩიოთ ეს პროცედურა?",
+    "are_you_sure_product": "დარწმუნებული ხართ, რომ გსურთ აირჩიოთ ეს პროდუქტი?",
+    "are_you_sure_cancel": "დარწმუნებული ხართ, რომ გსურთ თქვენი წევრობის გაუქმება?",
+    "sure": "დიახ, რა თქმა უნდა",
+    "no": "არა, შევცდი",
+    "number_updated": "ერთეულების რაოდენობა წარმატებით განახლდა ამ პროცედურისთვის",
+    "number_updated_product": "ერთეულების რაოდენობა წარმატებით განახლდა ამ პროდუქტისთვის",
+    "you_can_see": "ახლა შეგიძლიათ ნახოთ დარჩენილი ერთეულები და დაგეგმოთ თქვენი შემდეგი სესიები.",
+    "you_can_see_product": "ახლა შეგიძლიათ ნახოთ დარჩენილი ერთეულები და დაგეგმოთ თქვენი შემდეგი სესიები."
+  },
+  "cart_screen": {
+    "screen_title": "სავაჭრო კალათა",
+    "clinic_price_applied": "{{clinic}} ფასი კირებულია",
+    "summury": "შეჯამება",
+    "promo_code": "პრომო კოდი",
+    "add_promo_code": "პრომო კოდის დამატება",
+    "order_summury": "შეკვეთის შეჯამება",
+    "subtotal": "ქვეჯამი",
+    "cash_wallet": "ქეშის საფულე",
+    "rewardDiscount": "ჯილდოს ფასდაკლება",
+    "membership_discount": "წევრობის ფასდაკლება",
+    "tax": "გადასახადი და მომსახურების საკომისიო",
+    "total": "შეკვეთის სულ",
+    "totalMaj": "შეკვეთის სულ",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "გადახდა ახლა",
+    "place_order": "შეკვეთის განთავსება",
+    "order_confirmed": "გაიხარეთ, თქვენი შეკვეთა დადასტურებულია!",
+    "points_tracker": "ქულების ტრეკერი",
+    "your_purchance": "თქვენი შესყიდვა დაგეხმარათ, რომ მიიღოთ თქვენი შემდეგი ჯილდო!",
+    "reward_unlocked": "ჯილდო გახსნილია",
+    "rewards_unlocked": "ჯილდოები გახსნილია",
+    "amount_unlocked": "${{amount}} მათი პირველი შესყიდვისთვის აპლიკაციაში",
+    "can_convert_amount": "შესაძლებელია გადაკეთდეს ${{amount}} ქეშად",
+    "edit_product": "პროდუქტის რედაქტირება",
+    "delete": "წაშლა",
+    "empty_cart": "კალათა ცარიელია, დაამატეთ პროდუქტები",
+    "cashExceeds": "ბოდიში, ქეშის ბალანსი არ შეიძლება აღემატებოდეს კალათის მთლიანი ღირებულების ({{allowedMerchantCashPercentage}}%)-ს",
+    "loseMoney": "ჩვენ დავკარგავთ ფულს 😞",
+    "useOnly": "შეგიძლიათ დაამატოთ მეტი პროცედურა თქვენს კალათაში, ან გამოიყენოთ მხოლოდ {{amount}} თქვენი ხელმისაწვდომი ქეშის ბალანსიდან ამ პროცედურისთვის ახლავე.",
+    "disallowed": "ბოდიში, თქვენი ქეშის ბალანსი არ შეიძლება გამოყენებულ იქნას {{number}} პროცედურა(ებ)ისთვის",
+    "removeFromCart": "კალათიდან ამოღება"
+  },
+  "dates": {
+    "minute": "წუთი",
+    "minutes": "წუთი",
+    "hour": "საათი",
+    "hours": "საათი",
+    "day": "დღე",
+    "days": "დღე",
+    "month": "თვე",
+    "months": "თვე",
+    "year": "წელი",
+    "years": "წელი",
+    "now": "ახლა",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "ეს ელ.ფოსტა უკვე გამოიყენება. გთხოვთ, გამოიყენოთ სხვა ელ.ფოსტა.",
+    "login_error": "შესვლა ვერ მოხერხდა. შეამოწმეთ თქვენი ნომერი, შემდეგ სცადეთ ხელახლა.",
+    "signup_error": "რეგისტრაცია ვერ მოხერხდა. დარწმუნდით, რომ თქვენი ინფორმაცია სწორია და სცადეთ ხელახლა.",
+    "undifined_error": "უი! რაღაც შეცდომა მოხდა.",
+    "otp_not_valid": "თქვენს მიერ შეყვანილი კოდი არასწორია. გთხოვთ, შეამოწმოთ და სცადოთ ხელახლა.",
+    "create_account": "ჩვენ ვერ შევქმენით თქვენი ანგარიში. გთხოვთ, შეამოწმოთ თქვენი დეტალები და სცადოთ ხელახლა.",
+    "date": {
+      "invalid_date": "თარიღი არასწორ ფორმატშია. გამოიყენეთ დდ/თთ/წწწწ.",
+      "invalid_month": "გთხოვთ, აირჩიოთ დაბადების სწორი თარიღი.",
+      "invalid_day": "გთხოვთ, აირჩიოთ დაბადების სწორი თარიღი.",
+      "invalid_birthdate": "თქვენი დაბადების დღე არ შეიძლება იყოს მომავალში. გთხოვთ, აირჩიოთ დაბადების სწორი თარიღი."
+    }
+  },
+  "noDataFound": {
+    "treatment": "პროცედურები ხელმისაწვდომი არ არის",
+    "treatmentSearch": "პროცედურები ხელმისაწვდომი არ არის",
+    "product": "პროდუქტები ხელმისაწვდომი არ არის"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "ეს ჩამოგეჭრებათ {{amount}} პირდაპირ თქვენი ბარათიდან. დარწმუნებული ხართ, რომ გსურთ გაგრძელება?",
+    "add_card_note": "შენიშვნა: თქვენ უნდა გქონდეთ გადახდის მეთოდი დამატებული თქვენს ანგარიშზე",
+    "confirm_subscription": "ხელმოწერის დადასტურება",
+    "yes": "დიახ, გაგრძელება",
+    "no": "არა, გაუქმება"
+  },
+  "taxSheet": {
+    "title": "2.5% გადასახადი და მომსახურების საკომისიო",
+    "description": "ეს საკომისიო გამოიყენება თქვენს პროცედურასთან ან სერვისთან დაკავშირებული ადმინისტრაციული ხარჯების დასაფარად.",
+    "button": "გავიგე"
+  },
+  "payment": {
+    "retry_failed_title": "გადახდა ვერ მოხერხდა",
+    "retry_failed_message": "ჩვენ ვერ შევძელით თქვენი გადახდის დამუშავება. გთხოვთ, განაახლოთ თქვენი გადახდის მეთოდი გასაგრძელებლად."
+  },
+  "treatments": {
+    "redeem_multiple": "დახარჯვა {{count}} პროცედურის"
+  },
+  "products": {
+    "redeem_multiple": "დახარჯვა {{count}} პროდუქტის"
+  },
+  "custom_plan": {
+    "delete_title": "პერსონალური გეგმის წაშლა",
+    "delete_description": "დარწმუნებული ხართ, რომ გსურთ ამ პერსონალური გეგმის წაშლა?",
+    "delete": "წაშლა",
+    "cancel": "გაუქმება"
+  },
+  "no_search_results": {
+    "title": "შედეგები არ მოიძებნა",
+    "description": "როგორც ჩანს, ჩვენ ვერ ვიპოვეთ ვერაფერი, რაც შეესაბამება თქვენს ძიებას.",
+    "try_new": "სცადეთ სხვა საკვანძო სიტყვები ან შეამოწმეთ შეცდომები."
+  }
+}

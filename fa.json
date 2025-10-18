@@ -2,32 +2,32 @@
   "common": {
     "loginAsGuest": "ادامه به عنوان مهمان",
     "continue": "ادامه",
-    "apply": "اعمال ورودی",
+    "apply": "اعمال",
     "save": "ذخیره",
-    "scan": "اکنون اسکن کنید",
+    "scan": "اسکن کن",
     "next": "بعدی",
-    "powered": "قدرت گرفته از ",
+    "powered": "ارائه شده توسط:",
     "scan_qr_code": "اسکن کد QR",
     "or": "یا",
     "shop_now": "اکنون خرید کنید",
-    "dermis": "DERMIS",
+    "dermis": "درمیس",
     "resend_code": "ارسال مجدد کد",
     "view_rewards": "مشاهده پاداش‌های من",
     "change_icon": "تغییر آیکون",
     "reset_icon": "بازنشانی آیکون",
-    "my_points": "مشاهده امتیازهای من",
+    "my_points": "مشاهده امتیازات من",
     "see_more": "مشاهده بیشتر",
     "see_benifits": "مشاهده مزایا",
     "show_all": "نمایش همه",
     "rewards": "پاداش‌ها",
     "cash": "{{amount}}",
     "discount_cash": "-${{amount}}",
-    "can_convert": "می‌تواند تبدیل شود به ",
-    "clinic_cash": "{{clinic}} نقدی",
-    "checkout": "تسویه حساب",
-    "save_address": "ذخیره آدرس در حساب شما",
-    "call_now": "اکنون تماس بگیرید",
-    "apply_filter": "اعمال",
+    "can_convert": "قابل تبدیل",
+    "clinic_cash": "وجه نقد {{clinic}}",
+    "checkout": "پرداخت",
+    "save_address": "ذخیره آدرس در حساب من",
+    "call_now": "همین حالا تماس بگیرید",
+    "apply_filter": "اعمال فیلتر",
     "filter_by": "فیلتر بر اساس",
     "reset_filter": "بازنشانی فیلتر",
     "unit_number": "{{quantity}} واحد",
@@ -35,42 +35,42 @@
     "treatments": "درمان‌ها",
     "products": "محصولات",
     "membership": "عضویت",
-    "treat_today": "امروز درمان کن. بعداً پرداخت کن.",
-    "earn": " پاداش کسب کن.",
+    "treat_today": "همین امروز درمان شوید. بعداً پرداخت کنید.",
+    "earn": " پاداش کسب کنید.",
     "search": "جستجو",
     "settings": "تنظیمات",
-    "save_big": "صرفه‌جویی بزرگ",
+    "save_big": "صرفه جویی بزرگ",
     "browse_shop": "مرور فروشگاه",
     "filter": "فیلتر",
-    "sort": "مرتب‌سازی",
-    "referral": "کد معرفی",
-    "enter_referral": "کد معرفی خود را وارد کنید",
-    "enter_referral_description": "کد معرفی خود را برای دریافت مزایای ویژه وارد کنید",
+    "sort": "مرتب سازی",
+    "referral": "کد معرف",
+    "enter_referral": "کد معرف خود را وارد کنید",
+    "enter_referral_description": "کد معرف خود را وارد کنید تا از امتیازات ویژه برخوردار شوید",
     "submit": "ارسال",
-    "skip": "رد کردن",
-    "have_referral": "کد معرفی دارید؟",
+    "skip": "رد شدن",
+    "have_referral": "کد معرف دارید؟",
     "ok": "باشه",
     "cancel": "لغو"
   },
   "deleteAccount": {
-    "title": "حذف حساب کاربری",
-    "description": "آیا مطمئن هستید که می‌خواهید حساب خود را حذف کنید؟",
+    "title": "حذف حساب",
+    "description": "آیا مطمئن هستید که می‌خواهید حساب کاربری خود را حذف کنید؟",
     "note": "تمام داده‌ها و اشتراک‌های شما برای همیشه حذف خواهند شد.",
     "yes": "بله",
     "no": "خیر"
   },
   "home": {
-    "last_visited": "{{name}}، شما مدت زیادی است که بازدید نکرده‌اید",
-    "days_count": "{{days_count}}...",
-    "offer": "پیشنهادی برایتان داریم که نمی‌توانید رد کنید!",
+    "last_visited": "{{name}}، {{days_count}} روز است که ندیدیمتان...",
+    "days_count": "{{days_count}} روز است که ندیدیمتان...",
+    "offer": "بنابراین، ما پیشنهادی آماده کرده‌ایم که نمی‌توانید رد کنید!",
     "unwrap": "برای باز کردن ضربه بزنید",
     "recently_viewed": "اخیراً مشاهده شده",
-    "save": "صرفه‌جویی {{amount}}",
+    "save": "صرفه جویی {{amount}}",
     "save2": " به عنوان عضو {{clinic}}",
-    "save_paragraph": "درمان رایگان. مزایای انحصاری.",
-    "ad_title": "امروز درمان کن. بعداً پرداخت کن. پاداش بگیر.",
-    "ad_description": "پرداخت ماهانه بدون جریمه تأخیر",
-    "educate_yourself": "بیشتر بدانید"
+    "save_paragraph": "درمان‌های رایگان. امتیازات انحصاری.",
+    "ad_title": "همین امروز درمان شوید. بعداً پرداخت کنید. پاداش کسب کنید.",
+    "ad_description": "ماهانه و بدون جریمه دیرکرد پرداخت کنید",
+    "educate_yourself": "خودتان را آموزش دهید"
   },
   "language": {
     "english": "انگلیسی",
@@ -79,65 +79,450 @@
   "onboarding": {
     "welcome": "خوش آمدید",
     "welcome_message": "به Qonnect خوش آمدید!",
-    "rewards": "پاداش رایگان برای اعضای جدید!",
-    "birthdays": "هدایای رایگان تولد",
-    "events": "رویدادها و پیشنهادهای ویژه اعضا",
-    "phone_request": "آیا می‌توانیم شماره تلفن شما را دریافت کنیم؟",
-    "login_with_phone": "با شماره تلفن خود ثبت‌نام یا وارد شوید!",
+    "rewards": "پاداش‌های رایگان برای اعضای جدید!",
+    "birthdays": "هدایای تولد رایگان",
+    "events": "رویدادها و پیشنهادات فقط برای اعضا",
+    "phone_request": "آیا می‌توانیم شماره تلفن شما را بگیریم؟",
+    "login_with_phone": "ثبت نام یا ورود با شماره تلفن شما!",
     "terms": {
-      "agree": "من موافقم با ",
+      "agree": "من با ",
       "terms_of_service": "شرایط خدمات ",
       "and": "و ",
-      "privacy": "سیاست حفظ حریم خصوصی."
+      "privacy": "سیاست حفظ حریم خصوصی موافقم."
     },
-    "closeApp": "برنامه را ببندید",
-    "andReopen": "و دوباره باز کنید",
-    "otp_title": "کد ارسال‌شده از طریق پیامک را وارد کنید",
-    "sms_sent": "ما کد OTP را به {{phone_number}} ارسال کرده‌ایم",
-    "email_placeholder": "name@email.com",
+    "closeApp": "بستن برنامه",
+    "andReopen": "و بازگشایی مجدد",
+    "otp_title": "کد OTP ارسال شده از طریق پیامک را وارد کنید",
+    "sms_sent": "یک کد OTP به {{phone_number}} ارسال کردیم",
+    "email_placeholder": "نام@ایمیل.کام",
     "well_done": "آفرین!",
     "email_request": "و ایمیل شما؟",
-    "last_step": "آخرین مرحله",
+    "last_step": "آخرین، اما نه کم‌اهمیت‌ترین، مرحله",
     "name_request": "نام شما چیست؟",
-    "name_placeholder": "jhon doe",
-    "first_name_placeholder": "Jhon",
-    "last_name_placeholder": "Doe",
+    "name_placeholder": "علی احمدی",
+    "first_name_placeholder": "علی",
+    "last_name_placeholder": "احمدی",
     "birthday_placeholder": "روز / ماه / سال",
-    "birthday_request": "تاریخ تولد شما کی است؟",
+    "birthday_request": "تاریخ تولد شما چه زمانی است؟",
     "welcome_message2": "خوش آمدید، {{name}}!",
-    "gift_message": "با اسکن اولین کد QR خود، هدیه کوچکی برای شما داریم",
+    "gift_message": "ما یک هدیه کوچک برای شما به خاطر اسکن اولین کد QR داریم",
     "find_spa": {
-      "find_medspa": "پیشنهاد خود را پیدا کنید",
-      "description": "مکان خود را پیدا کنید تا خدمات مورد علاقه‌تان را خریداری کرده و با هر خرید و بازدید پاداش بگیرید!",
-      "search": "جستجو بر اساس نام پیشنهاد",
-      "results_found": "{{quantity}} نتیجه یافت شد"
+      "find_medspa": "ارائه دهنده خود را پیدا کنید",
+      "description": "همین حالا مکان خود را پیدا کنید تا خدمات مورد علاقه خود را خریداری کرده و با هر خرید و بازدید، کسب پاداش را شروع کنید!",
+      "search": "جستجوی ارائه دهندگان بر اساس نام",
+      "results_found": "{{quantity}} نتیجه پیدا شد"
     }
   },
   "personalInfo": {
     "title": "اطلاعات شخصی",
     "email_label": "ایمیل",
-    "email_placeholder": "name@email.com",
+    "email_placeholder": "نام@ایمیل.کام",
     "nickname_label": "نام مستعار",
     "nickname_placeholer": "نام",
-    "firstname_label": "نام",
-    "firstname_placeholder": "John",
+    "firstname_label": "نام کوچک",
+    "firstname_placeholder": "علی",
     "lastname_label": "نام خانوادگی",
-    "lastname_placeholder": "Doe"
+    "lastname_placeholder": "احمدی"
   },
   "scan": {
-    "scan_text": "در مطب برای دریافت امتیاز اسکن کنید",
+    "scan_text": "برای کسب امتیاز در مطب اسکن کنید",
     "points": "{{points}} امتیاز",
-    "cant_scan": "چگونه کار می‌کند؟"
+    "cant_scan": "این چگونه کار می‌کند؟"
   },
   "rewardModal": {
-    "horray": "تبریک!",
-    "you_earned": "شما به دست آوردید",
+    "horray": "هورا!",
+    "you_earned": "شما به تازگی کسب کردید",
     "points": "{{points}}",
-    "clinic_points": "{{clinic}} امتیاز"
+    "clinic_points": " امتیاز {{clinic}}"
   },
   "banked_modal": {
-    "reward_banked": "پاداش ذخیره شد!",
-    "cash": "{{clinic}} نقدی",
+    "reward_banked": "پاداش به بانک منتقل شد!",
+    "cash": "وجه نقد {{clinic}}",
     "view_rewards": "مشاهده پاداش‌ها"
+  },
+  "segment": {
+    "browse": "مرور",
+    "treatments": "درمان‌ها",
+    "clinicName": "{{clinicName}}",
+    "active": "فعال",
+    "past": "گذشته",
+    "products": "محصولات"
+  },
+  "special_offers": {
+    "expire_in": "منقضی می‌شود در {{time_left}}",
+    "title": "پیشنهادات ویژه!",
+    "new_msg": "شما یک پیام جدید از {{sender}} دارید!"
+  },
+  "shop": {
+    "title": "فروشگاه",
+    "treatment": {
+      "learn_more": "بیشتر در مورد این درمان بدانید",
+      "see_treatment": "مشاهده درمان",
+      "included_treatments_title": "درمان‌های شامل",
+      "chose_treatment": "هر {{month}} یکی از این {{quantity}} درمان را به صورت رایگان انتخاب کنید",
+      "chose_treatment2": "هر {{month}} {{quantity}} از اینها را انتخاب کنید",
+      "chose_treatment3": "هر {{month}} موارد زیر را دریافت کنید",
+      "signUpBonus": "پاداش ثبت نام",
+      "from_price": "شروع از {{price}}",
+      "members_price": " {{memberPrice}} برای اعضا",
+      "treatment_fees": " هزینه خدمات {{fees}} در هنگام پرداخت اعمال می‌شود",
+      "results_title": "نتایج شگفت انگیز",
+      "results_description": "نظر دیگران در مورد این درمان",
+      "select_plan": "انتخاب طرح درمان",
+      "before_text": "قبل از درمان شما",
+      "after_text": "بعد از درمان شما",
+      "members_results": "نتایج اعضا",
+      "customers_and_clients": "آنچه اعضا دیدند",
+      "expectations": "چه انتظاری باید داشت؟",
+      "bundles_treatment_title": "تعداد درمان‌ها",
+      "variations_treatments_title": "تغییرات درمان",
+      "treatments_quantity": "{{quantity}} درمان",
+      "consultation_required": "مشاوره الزامی است!",
+      "scheduling_link": "لینک زمان بندی:",
+      "visit_button": "بازدید از لینک",
+      "noBooking": "این محصول نیازی به رزرو ندارد.",
+      "sessions_available": "{{remaining}} از {{quantity}} جلسه باقی مانده",
+      "sessions": "{{quantity}} جلسه",
+      "expire_in": "منقضی می‌شود در:",
+      "search_result": "{{quantity}} نتیجه پیدا شد",
+      "consultation": "این درمان نیاز به مشاوره دارد",
+      "add_to_cart": "آیا مطمئن هستید که می‌خواهید این را به سبد خرید اضافه کنید؟"
+    },
+    "product": {
+      "learn_more": "بیشتر در مورد این محصول بدانید",
+      "see_product": "مشاهده محصول",
+      "included_products_title": "محصولات شامل",
+      "chose_product": "هر {{month}} یکی از این {{quantity}} محصول را به صورت رایگان انتخاب کنید",
+      "chose_product2": "هر {{month}} {{quantity}} از اینها را انتخاب کنید",
+      "chose_product3": "هر {{month}} موارد زیر را دریافت کنید",
+      "from_price": "شروع از {{price}}",
+      "members_price": " {{memberPrice}} برای اعضا",
+      "product_fees": " هزینه خدمات {{fees}} در هنگام پرداخت اعمال می‌شود",
+      "results_title": "نتایج شگفت انگیز",
+      "results_description": "نظر دیگران در مورد این محصول",
+      "select_plan": "انتخاب طرح محصول",
+      "before_text": "قبل از محصول شما",
+      "after_text": "بعد از محصول شما",
+      "members_results": "نتایج اعضا",
+      "customers_and_clients": "نظر دیگران در مورد این محصول",
+      "expectations": "چه انتظاری باید داشت؟",
+      "bundles_product_title": "تعداد محصولات",
+      "variations_products_title": "تغییرات محصول",
+      "products_quantity": "{{quantity}} محصول",
+      "consultation_required": "مشاوره الزامی است!",
+      "scheduling_link": "لینک زمان بندی:",
+      "visit_button": "بازدید از لینک",
+      "expire_in": "منقضی می‌شود در:",
+      "sessions_available": "{{remaining}} از {{quantity}} {{plural}} باقی مانده",
+      "treatments": "{{quantity}} درمان"
+    },
+    "save_button": {
+      "text": "صرفه جویی {{amount}} در سال",
+      "subscribe": "همین حالا مشترک شوید!"
+    },
+    "view_button": {
+      "text": "مشاهده"
+    },
+    "bonus_card": {
+      "title": "ثبت نام کنید تا فوراً ",
+      "title_bold": "{{gifts}} رایگان دریافت کنید!"
+    },
+    "teamMember": {
+      "title": "چه کسی در این خرید به شما کمک کرد؟",
+      "not_Sure": "مطمئن نیستم"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "همین امروز درمان شوید. بعداً پرداخت کنید. پاداش کسب کنید.",
+      "free_treatments": "درمان‌های رایگان، امتیازات انحصاری.",
+      "how_it_work": "چگونه کار می‌کند؟"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} امتیاز",
+    "sinleReward": "پاداش",
+    "title": "پاداش‌ها",
+    "win_points": {
+      "title": "به امتیاز بیشتری نیاز دارید؟",
+      "refer_friend": "معرفی یک دوست",
+      "purshase_inApp": "خرید درون برنامه ای",
+      "google_review": "بررسی گوگل",
+      "visit": "بازدید از کلینیک ما",
+      "status": {
+        "points_added": "{{points}} امتیاز اضافه شد",
+        "scan": "اسکن برای کسب",
+        "pending": "در انتظار تأیید",
+        "plus_points": "+{{points}} امتیاز",
+        "done": "انجام شد"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "امتیازات وفاداری",
+        "cultPoints": "امتیازات فرقه",
+        "memberShip": "عضو {{clinic}}",
+        "joinedOn": "تاریخ عضویت: {{since}}",
+        "cash": "وجه نقد {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "آیا نظر خود را ثبت کرده‌اید؟",
+        "text": "صاحب کلینیک ما نظر را بررسی می‌کند تا امتیازات شما را اضافه کند.",
+        "yesButton": "بله، ثبت کردم!",
+        "noButton": "هنوز نه"
+      },
+      "reward_details": {
+        "expire_in": "منقضی می‌شود در {{time_left}} روز",
+        "redeem_button": "همین حالا پاداش را بازخرید کنید",
+        "bank_it": "آن را به مبلغ {{amount}} وجه نقد {{clinic}} بانکی کنید",
+        "redeemed": "بازخرید شده",
+        "banked": "بانکی شده",
+        "locked": "قفل شده",
+        "expired_at": "منقضی شده:",
+        "consumed": "مصرف شده"
+      },
+      "bank_reward": {
+        "bank_title": "آیا می‌خواهید پاداش خود را به عنوان وجه نقد {{clinic}} بانکی کنید؟",
+        "custom_bank_title": "پاداش را بانکی کنید",
+        "bank_description": "شما پاداش خود را که ارزش آن",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "است، با ارزش وجه نقد {{clinic}} برای خرج کردن در فروشگاه درون برنامه مبادله خواهید کرد. با این کار، دسترسی به پاداش واقعی را از دست خواهید داد.",
+        "yes_button": "بله، پاداش را بانکی کنید",
+        "no_button": "نه حالا"
+      },
+      "congratSheet": {
+        "title": "تبریک!",
+        "your_reward": "پاداش شما به سبد خرید اضافه شد!",
+        "description": "اکنون فروشگاه را مرور کنید تا آن را به سفارش خود اضافه کنید، یا سبد خرید را مشاهده کنید تا پرداخت را با تخفیف اعمال شده هم اکنون نهایی کنید.",
+        "explore_shop": "کاوش فروشگاه",
+        "view_cart": "مشاهده سبد خرید"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "پاداشی پیدا نشد",
+      "description": "لطفاً برای پاداش‌های بیشتر بعداً دوباره بررسی کنید."
+    }
+  },
+  "profile": {
+    "screen_title": "حساب",
+    "logout": "خروج از سیستم",
+    "my-treatment-section": {
+      "my-treatment": "درمان‌های من",
+      "used_treatments": "درمان‌های استفاده شده",
+      "empty_used": "درمان استفاده شده‌ای وجود ندارد",
+      "empty_purshased": "درمان خریداری شده‌ای وجود ندارد",
+      "empty_treatment": "درمانی وجود ندارد",
+      "remaining_treatments": "{{remaining}} از {{quantity}} درمان باقی مانده",
+      "redeemed_on": "بازخرید شده در: {{date}}",
+      "scan": "برای بازخرید در مطب اسکن کنید",
+      "book": "رزرو نوبت",
+      "callClinic": "تماس با کلینیک"
+    },
+    "my-product-section": {
+      "my-product": "محصولات من",
+      "used_products": "محصولات استفاده شده",
+      "empty_used": "محصول استفاده شده‌ای وجود ندارد",
+      "empty_purshased": "محصول خریداری شده‌ای وجود ندارد",
+      "empty_product": "محصولی وجود ندارد",
+      "remaining_products": "{{remaining}} از {{quantity}} محصول باقی مانده",
+      "redeemed_on": "بازخرید شده در: {{date}}",
+      "scan": "برای بازخرید در مطب اسکن کنید",
+      "book": "رزرو نوبت",
+      "callClinic": "تماس با کلینیک"
+    },
+    "quantity_sheet": {
+      "select": "انتخاب مقدار",
+      "units_left": "{{quantity}} واحد باقی مانده"
+    },
+    "redeem_modal": {
+      "redeemed": "درمان بازخرید شد",
+      "description": "اکنون می‌توانید واحدهای باقیمانده را مشاهده کرده و جلسات بعدی خود را برنامه ریزی کنید.",
+      "got_it": "فهمیدم!",
+      "cant_scan": "نمی‌توانید اسکن کنید؟",
+      "fallback_description": "این کد پشتیبان شماست. آن را در برنامه وب وارد کنید:",
+      "time_remaining": "زمان باقی مانده: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "محصول بازخرید شد",
+      "description": "اکنون می‌توانید واحدهای باقیمانده را مشاهده کرده و جلسات بعدی خود را برنامه ریزی کنید.",
+      "got_it": "فهمیدم!",
+      "cant_scan": "نمی‌توانید اسکن کنید؟",
+      "fallback_description": "این کد پشتیبان شماست. آن را در برنامه وب وارد کنید:",
+      "time_remaining": "زمان باقی مانده: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "اطلاعات شخصی",
+      "payment_methods": "روش‌های پرداخت",
+      "payment_method": "روش پرداخت"
+    },
+    "payment_method_card": {
+      "visa": "کارت",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "شماره کارت",
+      "experation": "تاریخ انقضا",
+      "cvc": "CVC",
+      "select_country": "انتخاب کشور",
+      "select_country_placeholder": "انتخاب کشور...",
+      "contact_details": "جزئیات تماس",
+      "confirm_details": "جزئیات خود را برای دریافت رسید فروش تأیید کنید"
+    }
+  },
+  "membership_section": {
+    "joined_on": " تاریخ عضویت: {{date}}",
+    "cancled_on": " لغو شده: {{date}}",
+    "empty_membership": "هیچ عضویت در اینجا وجود ندارد",
+    "browse_mebership": "مرور عضویت‌ها",
+    "active_membership": "عضویت فعال",
+    "paused_membership": "عضویت متوقف شده",
+    "active_membership_count": "{{quantity}} عضویت فعال",
+    "next_payment_attempt": "ما نتوانستیم پرداخت عضویت شما را پردازش کنیم، در تاریخ {{date}} دوباره امتحان خواهیم کرد",
+    "update_payment_info": "به روز رسانی روش پرداخت",
+    "retry_payment": "تلاش مجدد روش پرداخت",
+    "cancel_payment": "لغو عضویت",
+    "something_wrong": "به نظر می‌رسد مشکلی پیش آمده است...",
+    "update_payment_method": "به روز رسانی پرداخت",
+    "you_saved": "شما صرفه جویی کردید",
+    "treatments": "({{number}} درمان)",
+    "products": "({{number}} محصول)",
+    "equivalent": {
+      "title": "ارزش معادل",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " رژ لب شنل",
+      "bags": " کیف دستی شنل",
+      "swimsuits": " لباس شنا گوچی"
+    },
+    "memberShipPayFor": "عضویت با پرداخت شخصی",
+    "you_have": "شما {{quantity}} درمان دارید",
+    "you_have_products": "شما {{quantity}} محصول دارید",
+    "available_in": "{{days}} روز باقی مانده تا انتخاب بعدی",
+    "available_in_products": "محصولات بعدی در {{days}} روز در دسترس خواهند بود",
+    "your_benefits": "مزایای شما",
+    "membership_benefits": "مزایای عضویت",
+    "refresh_on": "به روز رسانی در: {{date}}",
+    "monthly_treatment_selection": "انتخاب ماهانه درمان",
+    "monthly_product_selection": "انتخاب ماهانه محصول",
+    "firstDay_treatment_selection": "شروع از روز اول به عنوان عضو",
+    "firstDay_product_selection": "شروع از روز اول به عنوان عضو",
+    "unknown_treatment_selection": "شروع پس از {{period}} به عنوان عضو",
+    "unknown_product_selection": "شروع پس از {{period}} به عنوان عضو",
+    "select_one": "هر ماه یکی از درمان‌های زیر را به صورت رایگان انتخاب کنید",
+    "select_one_product": "هر ماه یکی از محصولات زیر را به صورت رایگان انتخاب کنید",
+    "select_free_treatment": "درمان رایگان خود را انتخاب کنید",
+    "select_free_product": "محصول رایگان خود را انتخاب کنید",
+    "are_you_sure": "آیا مطمئن هستید که می‌خواهید این درمان را انتخاب کنید؟",
+    "are_you_sure_product": "آیا مطمئن هستید که می‌خواهید این محصول را انتخاب کنید؟",
+    "are_you_sure_cancel": "آیا مطمئن هستید که می‌خواهید عضویت خود را لغو کنید؟",
+    "sure": "بله، مطمئنم",
+    "no": "نه، اشتباه کردم",
+    "number_updated": "تعداد واحدهای این درمان با موفقیت به روز شد",
+    "number_updated_product": "تعداد واحدهای این محصول با موفقیت به روز شد",
+    "you_can_see": "اکنون می‌توانید واحدهای باقیمانده را مشاهده کرده و جلسات بعدی خود را برنامه ریزی کنید.",
+    "you_can_see_product": "اکنون می‌توانید واحدهای باقیمانده را مشاهده کرده و جلسات بعدی خود را برنامه ریزی کنید."
+  },
+  "cart_screen": {
+    "screen_title": "سبد خرید",
+    "clinic_price_applied": "قیمت {{clinic}} اعمال شد",
+    "summury": "خلاصه",
+    "promo_code": "کد تخفیف",
+    "add_promo_code": "افزودن کد تخفیف",
+    "order_summury": "خلاصه سفارش",
+    "subtotal": "مجموع فرعی",
+    "cash_wallet": "کیف پول نقدی",
+    "rewardDiscount": "تخفیف پاداش",
+    "membership_discount": "تخفیف عضویت",
+    "tax": "مالیات و هزینه خدمات",
+    "total": "کل سفارش",
+    "totalMaj": "کل سفارش",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "پرداخت نهایی",
+    "place_order": "ثبت سفارش",
+    "order_confirmed": "تبریک، سفارش شما تأیید شد!",
+    "points_tracker": "ردیاب امتیاز",
+    "your_purchance": "خرید شما به شما کمک می‌کند تا به پاداش بعدی خود برسید!",
+    "reward_unlocked": "پاداش باز شد",
+    "rewards_unlocked": "پاداش‌ها باز شدند",
+    "amount_unlocked": "${{amount}} برای اولین خرید درون برنامه ای آنها",
+    "can_convert_amount": "قابل تبدیل ${{amount}} به وجه نقد",
+    "edit_product": "ویرایش محصول",
+    "delete": "حذف",
+    "empty_cart": "سبد خرید خالی است، لطفاً چند محصول اضافه کنید",
+    "cashExceeds": "متأسفیم، موجودی وجه نقد نمی‌تواند از ({{allowedMerchantCashPercentage}}%) کل ارزش سبد خرید بیشتر باشد",
+    "loseMoney": "ما پول از دست می‌دهیم 😞",
+    "useOnly": "شما می‌توانید درمان‌های بیشتری را به سبد خرید اضافه کنید یا فقط {{amount}} از موجودی وجه نقد موجود خود را برای این درمان در حال حاضر استفاده کنید.",
+    "disallowed": "متأسفیم، موجودی وجه نقد شما برای {{number}} درمان قابل استفاده نیست",
+    "removeFromCart": "حذف از سبد خرید"
+  },
+  "dates": {
+    "minute": "دقیقه",
+    "minutes": "دقیقه",
+    "hour": "ساعت",
+    "hours": "ساعت",
+    "day": "روز",
+    "days": "روز",
+    "month": "ماه",
+    "months": "ماه",
+    "year": "سال",
+    "years": "سال",
+    "now": "اکنون",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "این ایمیل قبلاً استفاده شده است. لطفاً از ایمیل دیگری استفاده کنید.",
+    "login_error": "ورود ناموفق بود. لطفاً شماره خود را بررسی کنید و دوباره امتحان کنید.",
+    "signup_error": "ثبت نام ناموفق بود. لطفاً مطمئن شوید که اطلاعات شما صحیح است و دوباره امتحان کنید.",
+    "undifined_error": "اوه! مشکلی پیش آمده است.",
+    "otp_not_valid": "کدی که وارد کردید صحیح نیست. لطفاً بررسی کنید و دوباره امتحان کنید.",
+    "create_account": "ما نتوانستیم حساب شما را ایجاد کنیم. لطفاً اطلاعات خود را بررسی کنید و دوباره امتحان کنید.",
+    "date": {
+      "invalid_date": "قالب تاریخ اشتباه است. از قالب روز/ماه/سال استفاده کنید.",
+      "invalid_month": "لطفاً تاریخ تولد معتبری را انتخاب کنید.",
+      "invalid_day": "لطفاً تاریخ تولد معتبری را انتخاب کنید.",
+      "invalid_birthdate": "تاریخ تولد شما نمی‌تواند در آینده باشد. لطفاً تاریخ تولد معتبری را انتخاب کنید."
+    }
+  },
+  "noDataFound": {
+    "treatment": "درمانی وجود ندارد",
+    "treatmentSearch": "درمانی پیدا نشد",
+    "product": "محصولی وجود ندارد"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "این مبلغ {{amount}} را مستقیماً از کارت شما کسر می‌کند. آیا مطمئن هستید که می‌خواهید ادامه دهید؟",
+    "add_card_note": "توجه: روش پرداخت باید به حساب شما اضافه شده باشد",
+    "confirm_subscription": "تأیید اشتراک",
+    "yes": "بله، ادامه دهید",
+    "no": "خیر، لغو کنید"
+  },
+  "taxSheet": {
+    "title": "2.5% مالیات و هزینه خدمات",
+    "description": "این هزینه برای پوشش هزینه‌های اداری مربوط به درمان یا خدمات شما استفاده می‌شود.",
+    "button": "فهمیدم"
+  },
+  "payment": {
+    "retry_failed_title": "پرداخت ناموفق بود",
+    "retry_failed_message": "ما نتوانستیم پرداخت شما را پردازش کنیم. لطفاً روش پرداخت خود را به روز کنید تا ادامه دهید."
+  },
+  "treatments": {
+    "redeem_multiple": "بازخرید {{count}} درمان"
+  },
+  "products": {
+    "redeem_multiple": "بازخرید {{count}} محصول"
+  },
+  "custom_plan": {
+    "delete_title": "حذف طرح سفارشی",
+    "delete_description": "آیا مطمئن هستید که می‌خواهید این طرح سفارشی را حذف کنید؟",
+    "delete": "حذف",
+    "cancel": "لغو"
+  },
+  "no_search_results": {
+    "title": "نتیجه‌ای برای جستجو پیدا نشد",
+    "description": "به نظر می‌رسد چیزی مطابق با جستجوی شما پیدا نکردیم.",
+    "try_new": "سعی کنید از کلمات کلیدی دیگر استفاده کنید یا اشتباهات املایی را بررسی کنید."
   }
 }

@@ -1,55 +1,55 @@
 {
   "common": {
-    "loginAsGuest": "Lanjutkan sebagai tamu",
+    "loginAsGuest": "Lanjutkan sebagai Tamu",
     "continue": "Lanjutkan",
-    "apply": "TERAPKAN INPUT",
+    "apply": "TERAPKAN ENTRI",
     "save": "Simpan",
-    "scan": "Pindai sekarang",
+    "scan": "Pindai Sekarang",
     "next": "Berikutnya",
-    "powered": "Didukung oleh ",
+    "powered": "Didukung oleh",
     "scan_qr_code": "Pindai Kode QR",
     "or": "atau",
-    "shop_now": "Belanja sekarang",
-    "dermis": "DERMIS",
-    "resend_code": "Kirim ulang kode",
-    "view_rewards": "Lihat hadiah saya",
-    "change_icon": "Ubah ikon",
-    "reset_icon": "Atur ulang ikon",
-    "my_points": "Lihat poin saya",
-    "see_more": "Lihat lebih banyak",
-    "see_benifits": "Lihat manfaat",
-    "show_all": "Tampilkan semua",
+    "shop_now": "Belanja Sekarang",
+    "dermis": "Dermis",
+    "resend_code": "Kirim Ulang Kode",
+    "view_rewards": "Lihat Hadiah Saya",
+    "change_icon": "Ubah Ikon",
+    "reset_icon": "Atur Ulang Ikon",
+    "my_points": "Lihat Poin Saya",
+    "see_more": "Lihat Lebih Banyak",
+    "see_benifits": "Lihat Manfaat",
+    "show_all": "Tampilkan Semua",
     "rewards": "Hadiah",
     "cash": "{{amount}}",
     "discount_cash": "-${{amount}}",
-    "can_convert": "Dapat dikonversi menjadi ",
-    "clinic_cash": "{{clinic}} tunai",
-    "checkout": "Pembayaran",
+    "can_convert": "Dapat dikonversi ke",
+    "clinic_cash": "Uang Tunai {{clinic}}",
+    "checkout": "Selesaikan Pembayaran",
     "save_address": "Simpan alamat ke akun Anda",
-    "call_now": "Hubungi sekarang",
+    "call_now": "Telepon Sekarang",
     "apply_filter": "Terapkan",
-    "filter_by": "Saring berdasarkan",
-    "reset_filter": "Atur ulang filter",
+    "filter_by": "Saring Berdasarkan",
+    "reset_filter": "Atur Ulang Filter",
     "unit_number": "{{quantity}} unit",
-    "add_to_cart": "Tambahkan ke keranjang",
+    "add_to_cart": "Tambahkan ke Keranjang",
     "treatments": "Perawatan",
     "products": "Produk",
     "membership": "Keanggotaan",
-    "treat_today": "Perawatan hari ini. Bayar nanti.",
-    "earn": " Dapatkan hadiah.",
+    "treat_today": "Lakukan Perawatan Hari Ini. Bayar Nanti.",
+    "earn": " Dapatkan Hadiah.",
     "search": "Cari",
     "settings": "Pengaturan",
-    "save_big": "Hemat besar",
-    "browse_shop": "Jelajahi toko",
-    "filter": "Saring",
+    "save_big": "Hemat Besar",
+    "browse_shop": "Telusuri Toko",
+    "filter": "Filter",
     "sort": "Urutkan",
     "referral": "Kode Referensi",
-    "enter_referral": "Masukkan kode referensi Anda",
+    "enter_referral": "Masukkan Kode Referensi Anda",
     "enter_referral_description": "Masukkan kode referensi Anda untuk menerima manfaat khusus",
     "submit": "Kirim",
     "skip": "Lewati",
     "have_referral": "Punya kode referensi?",
-    "ok": "OK",
+    "ok": "Oke",
     "cancel": "Batal"
   },
   "deleteAccount": {
@@ -60,28 +60,28 @@
     "no": "Tidak"
   },
   "home": {
-    "last_visited": "{{name}}, Anda belum berkunjung selama",
-    "days_count": "{{days_count}}...",
-    "offer": "Kami telah membuatkan Anda penawaran yang tidak bisa Anda tolak!",
-    "unwrap": "Ketuk untuk membuka",
-    "recently_viewed": "Baru saja dilihat",
+    "last_visited": "{{name}}, Anda sudah tidak mengunjungi kami selama",
+    "days_count": "{{days_count}} hari...",
+    "offer": "Jadi kami memberikan penawaran yang tidak bisa Anda tolak!",
+    "unwrap": "Ketuk untuk Membuka",
+    "recently_viewed": "Baru Dilihat",
     "save": "Hemat {{amount}}",
     "save2": " sebagai anggota {{clinic}}",
-    "save_paragraph": "Perawatan gratis. Keuntungan eksklusif.",
-    "ad_title": "Perawatan hari ini. Bayar nanti. Dapatkan hadiah.",
-    "ad_description": "Lakukan pembayaran bulanan tanpa biaya keterlambatan",
-    "educate_yourself": "Pelajari lebih lanjut"
+    "save_paragraph": "Perawatan Gratis. Keistimewaan Eksklusif.",
+    "ad_title": "Lakukan Perawatan Hari Ini. Bayar Nanti. Dapatkan Hadiah.",
+    "ad_description": "Lakukan pembayaran bulanan tanpa denda keterlambatan",
+    "educate_yourself": "Edukasi Diri Anda"
   },
   "language": {
-    "english": "Bahasa Inggris",
-    "french": "Bahasa Prancis"
+    "english": "Inggris",
+    "french": "Prancis"
   },
   "onboarding": {
-    "welcome": "Selamat datang",
+    "welcome": "Selamat Datang di Sini",
     "welcome_message": "Selamat datang di Qonnect!",
-    "rewards": "Hadiah gratis untuk anggota baru!",
-    "birthdays": "Hadiah ulang tahun gratis",
-    "events": "Acara dan penawaran khusus anggota",
+    "rewards": "Hadiah Gratis untuk Anggota Baru!",
+    "birthdays": "Hadiah Ulang Tahun Gratis",
+    "events": "Acara & Penawaran Khusus Anggota",
     "phone_request": "Bolehkah kami mendapatkan nomor telepon Anda?",
     "login_with_phone": "Daftar atau masuk menggunakan nomor telepon Anda!",
     "terms": {
@@ -90,14 +90,14 @@
       "and": "dan ",
       "privacy": "Kebijakan Privasi."
     },
-    "closeApp": "Tutup aplikasi",
-    "andReopen": "dan buka kembali",
+    "closeApp": "Tutup Aplikasi",
+    "andReopen": "dan Buka Kembali",
     "otp_title": "Masukkan OTP yang dikirim melalui SMS",
-    "sms_sent": "Kami telah mengirim OTP ke {{phone_number}}",
-    "email_placeholder": "name@email.com",
-    "well_done": "Bagus sekali!",
-    "email_request": "Dan, alamat email Anda?",
-    "last_step": "Langkah terakhir",
+    "sms_sent": "Kami mengirimkan OTP ke {{phone_number}}",
+    "email_placeholder": "nama@email.com",
+    "well_done": "Kerja bagus!",
+    "email_request": "Dan, email Anda?",
+    "last_step": "Terakhir tetapi tidak kalah pentingnya",
     "name_request": "Siapa nama Anda?",
     "name_placeholder": "jhon doe",
     "first_name_placeholder": "Jhon",
@@ -105,18 +105,18 @@
     "birthday_placeholder": "HH / BB / TTTT",
     "birthday_request": "Kapan ulang tahun Anda?",
     "welcome_message2": "Selamat datang {{name}}!",
-    "gift_message": "Kami punya hadiah kecil untuk Anda setelah memindai kode QR pertama Anda",
+    "gift_message": "Kami punya hadiah kecil untuk Anda dengan memindai kode QR pertama Anda",
     "find_spa": {
       "find_medspa": "Temukan Penawaran Anda",
-      "description": "Temukan lokasi Anda untuk berbelanja layanan favorit Anda, dan mulai dapatkan hadiah untuk setiap pembelian dan kunjungan!",
+      "description": "Temukan lokasi Anda sekarang untuk berbelanja layanan favorit Anda dan mulai dapatkan hadiah dengan setiap pembelian dan kunjungan!",
       "search": "Cari penawaran berdasarkan nama",
       "results_found": "{{quantity}} hasil ditemukan"
     }
   },
   "personalInfo": {
     "title": "Informasi Pribadi",
-    "email_label": "E-mail",
-    "email_placeholder": "name@email.com",
+    "email_label": "Email",
+    "email_placeholder": "nama@email.com",
     "nickname_label": "Nama Panggilan",
     "nickname_placeholer": "nama",
     "firstname_label": "Nama Depan",
@@ -125,19 +125,404 @@
     "lastname_placeholder": "Doe"
   },
   "scan": {
-    "scan_text": "Pindai di klinik untuk",
+    "scan_text": "Pindai di kantor untuk",
     "points": "{{points}} poin",
     "cant_scan": "Bagaimana cara kerjanya?"
   },
   "rewardModal": {
-    "horray": "Hebat!",
+    "horray": "Hore!",
     "you_earned": "Anda baru saja mendapatkan",
     "points": "{{points}}",
-    "clinic_points": "{{clinic}} poin"
+    "clinic_points": "poin {{clinic}}"
   },
   "banked_modal": {
-    "reward_banked": "HADIAH DISIMPAN!",
-    "cash": "{{clinic}} tunai",
-    "view_rewards": "Lihat hadiah"
+    "reward_banked": "HADIAH TERSIMPAN!",
+    "cash": "uang tunai {{clinic}}",
+    "view_rewards": "Lihat Hadiah"
+  },
+  "segment": {
+    "browse": "Telusuri",
+    "treatments": "Perawatan",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktif",
+    "past": "Masa Lalu",
+    "products": "Produk"
+  },
+  "special_offers": {
+    "expire_in": "Kedaluwarsa dalam {{time_left}}",
+    "title": "Penawaran Khusus!",
+    "new_msg": "Anda punya pesan dari {{sender}}!"
+  },
+  "shop": {
+    "title": "Toko",
+    "treatment": {
+      "learn_more": "Pelajari lebih lanjut tentang perawatan ini",
+      "see_treatment": "Lihat Perawatan",
+      "included_treatments_title": "Perawatan yang Termasuk",
+      "chose_treatment": "Pilih {{quantity}} dari yang berikut setiap {{month}}",
+      "chose_treatment2": "Pilih {{quantity}} di bawah ini setiap {{month}}",
+      "chose_treatment3": "Dapatkan yang berikut setiap {{month}}",
+      "signUpBonus": "Bonus Pendaftaran",
+      "from_price": "Mulai dari {{price}}",
+      "members_price": "{{memberPrice}} untuk Anggota",
+      "treatment_fees": " Biaya Layanan {{fees}} berlaku saat checkout",
+      "results_title": "Hasil yang Menakjubkan",
+      "results_description": "Apa yang orang lain rasakan tentang perawatan ini",
+      "select_plan": "Pilih Paket Perawatan",
+      "before_text": "Sebelum Perawatan Anda",
+      "after_text": "Setelah Perawatan Anda",
+      "members_results": "Hasil Anggota",
+      "customers_and_clients": "Apa yang telah dilihat anggota",
+      "expectations": "Apa yang Diharapkan?",
+      "bundles_treatment_title": "Jumlah Perawatan",
+      "variations_treatments_title": "Jenis Perawatan",
+      "treatments_quantity": "{{quantity}} perawatan",
+      "consultation_required": "Konsultasi Diperlukan!",
+      "scheduling_link": "tautan penjadwalan:",
+      "visit_button": "Kunjungi Tautan",
+      "noBooking": "Tidak perlu reservasi untuk produk ini.",
+      "sessions_available": "{{quantity}} dari {{remaining}} sesi{{plural}} tersisa",
+      "sessions": "{{quantity}} sesi{{plural}}",
+      "expire_in": "Kedaluwarsa dalam",
+      "search_result": "{{quantity}} hasil{{plural}} ditemukan",
+      "consultation": "Perawatan ini memerlukan konsultasi",
+      "add_to_cart": "Apakah Anda yakin ingin menambahkannya ke keranjang Anda?"
+    },
+    "product": {
+      "learn_more": "Pelajari lebih lanjut tentang produk ini",
+      "see_product": "Lihat Produk",
+      "included_products_title": "Produk yang Termasuk",
+      "chose_product": "Pilih {{quantity}} dari yang berikut setiap {{month}}",
+      "chose_product2": "Pilih {{quantity}} di bawah ini setiap {{month}}",
+      "chose_product3": "Dapatkan yang berikut setiap {{month}}",
+      "from_price": "Mulai dari {{price}}",
+      "members_price": " {{memberPrice}} untuk Anggota",
+      "product_fees": " Biaya Layanan {{fees}} berlaku saat checkout",
+      "results_title": "Hasil yang Menakjubkan",
+      "results_description": "Apa yang orang lain rasakan tentang produk ini",
+      "select_plan": "Pilih Paket Produk",
+      "before_text": "Sebelum Produk Anda",
+      "after_text": "Setelah Produk Anda",
+      "members_results": "Hasil Anggota",
+      "customers_and_clients": "Apa yang orang lain rasakan tentang produk ini",
+      "expectations": "Apa yang Diharapkan?",
+      "bundles_product_title": "Jumlah Produk",
+      "variations_products_title": "Jenis Produk",
+      "products_quantity": "{{quantity}} produk",
+      "consultation_required": "Konsultasi Diperlukan!",
+      "scheduling_link": "tautan penjadwalan:",
+      "visit_button": "Kunjungi Tautan",
+      "expire_in": "Kedaluwarsa dalam",
+      "sessions_available": "{{quantity}} dari {{remaining}} {{plural}} tersisa",
+      "treatments": "{{quantity}} perawatan{{plural}}"
+    },
+    "save_button": {
+      "text": "Hemat {{amount}} per tahun",
+      "subscribe": "Berlangganan Sekarang!"
+    },
+    "view_button": {
+      "text": "Lihat"
+    },
+    "bonus_card": {
+      "title": "Daftar untuk segera klaim",
+      "title_bold": " {{gifts}} gratis!"
+    },
+    "teamMember": {
+      "title": "Siapa yang membantu Anda dengan pembelian ini?",
+      "not_Sure": "Tidak Yakin"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Lakukan Perawatan Hari Ini. Bayar Nanti. Dapatkan Hadiah.",
+      "free_treatments": "Perawatan Gratis, Keistimewaan Eksklusif.",
+      "how_it_work": "Bagaimana cara kerjanya?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} POIN",
+    "sinleReward": "Hadiah",
+    "title": "Hadiah",
+    "win_points": {
+      "title": "Butuh lebih banyak poin?",
+      "refer_friend": "Referensikan Teman",
+      "purshase_inApp": "Beli di Aplikasi",
+      "google_review": "Ulasan Google",
+      "visit": "Kunjungi Klinik Kami",
+      "status": {
+        "points_added": "{{points}} poin ditambahkan",
+        "scan": "Pindai untuk Mendapatkan",
+        "pending": "Menunggu Persetujuan",
+        "plus_points": "+{{points}} poin",
+        "done": "Selesai"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Poin Loyalitas",
+        "cultPoints": "Poin Cult",
+        "memberShip": "Anggota {{clinic}}",
+        "joinedOn": "Bergabung pada {{since}}",
+        "cash": "Uang Tunai {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "Sudahkah Anda meninggalkan ulasan?",
+        "text": "Pemilik klinik kami akan memverifikasi ulasan untuk menambahkan poin untuk Anda.",
+        "yesButton": "Ya, Sudah!",
+        "noButton": "Belum"
+      },
+      "reward_details": {
+        "expire_in": "Kedaluwarsa dalam {{time_left}} hari",
+        "redeem_button": "Tukarkan Hadiah Sekarang",
+        "bank_it": "Simpan untuk {{amount}} {{clinic}}",
+        "redeemed": "Ditukar",
+        "banked": "Disimpan",
+        "locked": "Terkunci",
+        "expired_at": "Kedaluwarsa pada",
+        "consumed": "Dikonsumsi"
+      },
+      "bank_reward": {
+        "bank_title": "Simpan hadiah Anda untuk Uang Tunai {{clinic}}?",
+        "custom_bank_title": "Simpan Hadiah Anda",
+        "bank_description": "Anda akan menukar hadiah Anda senilai",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "dengan nilai Uang Tunai {{clinic}} yang dapat dibelanjakan di toko dalam aplikasi. Dengan melakukan ini, Anda akan kehilangan akses ke hadiah itu sendiri.",
+        "yes_button": "Ya, Simpan Hadiah",
+        "no_button": "Tidak Sekarang"
+      },
+      "congratSheet": {
+        "title": "Selamat!",
+        "your_reward": "Hadiah Anda telah ditambahkan ke keranjang!",
+        "description": "Jelajahi toko kami sekarang untuk menambah pesanan Anda atau lihat keranjang untuk menyelesaikan pembayaran Anda sekarang dengan diskon yang diterapkan.",
+        "explore_shop": "Jelajahi Toko",
+        "view_cart": "Lihat Keranjang"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Akun",
+    "logout": "Keluar",
+    "my-treatment-section": {
+      "my-treatment": "Perawatan Saya",
+      "used_treatments": "Perawatan yang Digunakan",
+      "empty_used": "Tidak ada perawatan yang digunakan",
+      "empty_purshased": "Tidak ada perawatan yang dibeli",
+      "empty_treatment": "Tidak ada perawatan",
+      "remaining_treatments": "{{remaining}} dari {{quantity}} perawatan{{plural}} tersisa",
+      "redeemed_on": "Ditukar pada: {{date}}",
+      "scan": "Pindai di kantor untuk menukar",
+      "book": "Pesan Janji Temu",
+      "callClinic": "Telepon Klinik"
+    },
+    "my-product-section": {
+      "my-product": "Produk Saya",
+      "used_products": "Produk yang Digunakan",
+      "empty_used": "Tidak ada produk yang digunakan",
+      "empty_purshased": "Tidak ada produk yang dibeli",
+      "empty_product": "Tidak ada produk",
+      "remaining_products": "{{remaining}} dari {{quantity}} produk{{plural}} tersisa",
+      "redeemed_on": "Ditukar pada: {{date}}",
+      "scan": "Pindai di kantor untuk menukar",
+      "book": "Pesan Janji Temu",
+      "callClinic": "Telepon Klinik"
+    },
+    "quantity_sheet": {
+      "select": "Pilih Jumlah",
+      "units_left": "{{quantity}} {{units}} tersedia"
+    },
+    "redeem_modal": {
+      "redeemed": "Perawatan Ditukar",
+      "description": "Anda sekarang dapat melihat unit yang tersisa dan menjadwalkan sesi berikutnya.",
+      "got_it": "Mengerti!",
+      "cant_scan": "Tidak bisa memindai?",
+      "fallback_description": "Ini kode cadangan Anda. Masukkan di aplikasi web:",
+      "time_remaining": "Waktu Tersisa: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produk Ditukar",
+      "description": "Anda sekarang dapat melihat unit yang tersisa dan menjadwalkan sesi berikutnya.",
+      "got_it": "Mengerti!",
+      "cant_scan": "Tidak bisa memindai?",
+      "fallback_description": "Ini kode cadangan Anda. Masukkan di aplikasi web:",
+      "time_remaining": "Waktu Tersisa: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Info Pribadi",
+      "payment_methods": "Metode Pembayaran",
+      "payment_method": "Metode Pembayaran"
+    },
+    "payment_method_card": {
+      "visa": "Kartu",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Nomor Kartu",
+      "experation": "Kedaluwarsa",
+      "cvc": "CVC",
+      "select_country": "Pilih Negara",
+      "select_country_placeholder": "Pilih negara...",
+      "contact_details": "Detail Kontak",
+      "confirm_details": "Konfirmasi detail Anda untuk menerima tanda terima penjualan Anda"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Bergabung pada {{date}}",
+    "cancled_on": " Dibatalkan pada {{date}}",
+    "empty_membership": "Tidak ada keanggotaan di sini",
+    "browse_mebership": "Telusuri Keanggotaan",
+    "active_membership": "Keanggotaan Aktif",
+    "paused_membership": "Keanggotaan Dijeda",
+    "active_membership_count": "{{quantity}} keanggotaan aktif",
+    "next_payment_attempt": "Kami mencoba memproses pembayaran keanggotaan Anda, kami akan mencoba lagi pada {{date}}",
+    "update_payment_info": "Perbarui Metode Pembayaran",
+    "retry_payment": "Coba Lagi Metode Pembayaran",
+    "cancel_payment": "Batalkan Keanggotaan",
+    "something_wrong": "Sepertinya ada yang salah...",
+    "update_payment_method": "Perbarui Pembayaran",
+    "you_saved": "Anda Telah Menghemat",
+    "treatments": "({{number}} Perawatan{{plural}})",
+    "products": "({{number}} Produk{{plural}})",
+    "equivalent": {
+      "title": "Setara",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Lipstik Chanel",
+      "bags": " Tas Chanel",
+      "swimsuits": " Baju Renang Gucci"
+    },
+    "memberShipPayFor": "Keanggotaan yang Membayar Sendiri",
+    "you_have": "Anda punya {{quantity}} perawatan tersedia",
+    "you_have_products": "Anda punya {{quantity}} produk tersedia",
+    "available_in": "tersisa {{days}} hari hingga pilihan berikutnya",
+    "available_in_products": "Produk berikutnya akan tersedia dalam {{days}} hari",
+    "your_benefits": "Manfaat Anda",
+    "membership_benefits": "Manfaat Keanggotaan",
+    "refresh_on": "Segarkan pada {{date}}",
+    "monthly_treatment_selection": "Pilihan Perawatan Bulanan",
+    "monthly_product_selection": "Pilihan Produk Bulanan",
+    "firstDay_treatment_selection": "Mulai dari hari ke-1 Anda sebagai anggota",
+    "firstDay_product_selection": "Mulai dari hari ke-1 Anda sebagai anggota",
+    "unknown_treatment_selection": "Mulai setelah {{period}} sebagai anggota",
+    "unknown_product_selection": "Mulai setelah {{period}} sebagai anggota",
+    "select_one": "Pilih 1 dari perawatan di bawah ini secara gratis setiap bulan",
+    "select_one_product": "Pilih 1 dari produk di bawah ini secara gratis setiap bulan",
+    "select_free_treatment": "Pilih Perawatan Gratis Anda",
+    "select_free_product": "Pilih Produk Gratis Anda",
+    "are_you_sure": "Apakah Anda yakin ingin memilih perawatan ini?",
+    "are_you_sure_product": "Apakah Anda yakin ingin memilih produk ini?",
+    "are_you_sure_cancel": "Apakah Anda yakin ingin membatalkan keanggotaan Anda?",
+    "sure": "Ya, saya yakin",
+    "no": "Tidak, saya salah",
+    "number_updated": "Jumlah unit berhasil diperbarui untuk perawatan ini",
+    "number_updated_product": "Jumlah unit berhasil diperbarui untuk produk ini",
+    "you_can_see": "Anda sekarang dapat melihat unit yang tersisa dan menjadwalkan sesi berikutnya.",
+    "you_can_see_product": "Anda sekarang dapat melihat unit yang tersisa dan menjadwalkan sesi berikutnya."
+  },
+  "cart_screen": {
+    "screen_title": "Keranjang Belanja",
+    "clinic_price_applied": "Harga {{clinic}} diterapkan",
+    "summury": "Ringkasan",
+    "promo_code": "Kode Promo",
+    "add_promo_code": "Tambahkan Kode Promo",
+    "order_summury": "RINGKASAN PESANAN",
+    "subtotal": "Subtotal",
+    "cash_wallet": "Dompet Tunai",
+    "rewardDiscount": "Diskon Hadiah",
+    "membership_discount": "Diskon Keanggotaan",
+    "tax": "Pajak & Biaya Layanan",
+    "total": "Total Pesanan",
+    "totalMaj": "TOTAL PESANAN",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Selesaikan Pembayaran Sekarang",
+    "place_order": "Tempatkan Pesanan",
+    "order_confirmed": "Bergembiralah, pesanan Anda telah dikonfirmasi!",
+    "points_tracker": "Pelacak Poin",
+    "your_purchance": "Pembelian Anda membantu Anda mendapatkan hadiah berikutnya!",
+    "reward_unlocked": "hadiah terbuka",
+    "rewards_unlocked": "HADIAH TERBUKA",
+    "amount_unlocked": "${{amount}} untuk pembelian dalam aplikasi pertama mereka",
+    "can_convert_amount": "Dapat dikonversi menjadi ${{amount}} uang tunai",
+    "edit_product": "Edit Produk",
+    "delete": "Hapus",
+    "empty_cart": "Keranjang kosong, tambahkan beberapa produk",
+    "cashExceeds": "Maaf, saldo tunai tidak boleh melebihi ({{allowedMerchantCashPercentage}}%) dari total nilai keranjang",
+    "loseMoney": "Kami akan kehilangan uang 😞",
+    "useOnly": "Anda dapat menambahkan lebih banyak perawatan ke keranjang Anda, atau hanya menggunakan {{amount}} dari saldo tunai yang tersedia untuk perawatan ini saat ini.",
+    "disallowed": "Maaf, saldo tunai Anda tidak dapat digunakan untuk {{number}} perawatan",
+    "removeFromCart": "Hapus dari Keranjang"
+  },
+  "dates": {
+    "minute": "menit",
+    "minutes": "menit",
+    "hour": "jam",
+    "hours": "jam",
+    "day": "hari",
+    "days": "hari",
+    "month": "bulan",
+    "months": "bulan",
+    "year": "tahun",
+    "years": "tahun",
+    "now": "sekarang",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Email ini sudah digunakan. Silakan gunakan email lain.",
+    "login_error": "Gagal masuk. Periksa nomor Anda, lalu coba lagi.",
+    "signup_error": "Gagal mendaftar. Pastikan informasi Anda benar dan coba lagi.",
+    "undifined_error": "Ups! Ada yang tidak beres.",
+    "otp_not_valid": "Kode yang Anda masukkan salah. Silakan periksa dan coba lagi.",
+    "create_account": "Kami tidak dapat membuat akun Anda. Silakan periksa detail Anda dan coba lagi.",
+    "date": {
+      "invalid_date": "Format tanggal salah. Gunakan HH/BB/TTTT.",
+      "invalid_month": "Silakan pilih tanggal lahir yang valid.",
+      "invalid_day": "Silakan pilih tanggal lahir yang valid.",
+      "invalid_birthdate": "Ulang tahun Anda tidak boleh di masa depan. Silakan pilih tanggal lahir yang valid."
+    }
+  },
+  "noDataFound": {
+    "treatment": "Tidak ada perawatan tersedia",
+    "treatmentSearch": "Tidak ada perawatan tersedia",
+    "product": "Tidak ada produk tersedia"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Ini akan menagih {{amount}} langsung dari kartu Anda. Apakah Anda yakin ingin melanjutkan?",
+    "add_card_note": "Catatan: Anda harus memiliki metode pembayaran yang ditambahkan ke akun Anda",
+    "confirm_subscription": "Konfirmasi Langganan",
+    "yes": "Ya, Lanjutkan",
+    "no": "Tidak, Batalkan"
+  },
+  "taxSheet": {
+    "title": "Pajak & Biaya Layanan 2,5%",
+    "description": "Biaya ini digunakan untuk mengimbangi biaya administrasi yang terkait dengan perawatan atau layanan Anda.",
+    "button": "Mengerti"
+  },
+  "payment": {
+    "retry_failed_title": "Pembayaran Gagal",
+    "retry_failed_message": "Kami tidak dapat memproses pembayaran Anda. Harap perbarui metode pembayaran Anda untuk melanjutkan."
+  },
+  "treatments": {
+    "redeem_multiple": "Tukar {{count}} Perawatan"
+  },
+  "products": {
+    "redeem_multiple": "Tukar {{count}} Produk"
+  },
+  "custom_plan": {
+    "delete_title": "Hapus Paket Kustom",
+    "delete_description": "Apakah Anda yakin ingin menghapus paket kustom ini?",
+    "delete": "Hapus",
+    "cancel": "Batal"
+  },
+  "no_search_results": {
+    "title": "Tidak Ada Hasil Ditemukan",
+    "description": "Sepertinya kami tidak menemukan apa pun yang cocok dengan pencarian Anda.",
+    "try_new": "Coba kata kunci yang berbeda atau periksa kesalahan ketik."
   }
 }

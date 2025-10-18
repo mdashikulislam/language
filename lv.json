@@ -1,20 +1,20 @@
 {
   "common": {
-    "loginAsGuest": "Turpināt kā viesim",
+    "loginAsGuest": "Turpināt kā Viesis",
     "continue": "Turpināt",
-    "apply": "PIELIETOT IEVADI",
+    "apply": "PIELIETOT",
     "save": "Saglabāt",
     "scan": "Skenēt tagad",
-    "next": "Nākamais",
-    "powered": "Darbina: ",
+    "next": "Tālāk",
+    "powered": "Nodrošina:",
     "scan_qr_code": "Skenēt QR kodu",
     "or": "vai",
     "shop_now": "Iepirkties tagad",
-    "dermis": "DERMIS",
-    "resend_code": "Nosūtīt kodu vēlreiz",
+    "dermis": "Derma",
+    "resend_code": "Nosūtīt kodu atkārtoti",
     "view_rewards": "Skatīt manus atlīdzības punktus",
     "change_icon": "Mainīt ikonu",
-    "reset_icon": "Atiestatīt ikonu",
+    "reset_icon": "Atjaunot ikonu",
     "my_points": "Skatīt manus punktus",
     "see_more": "Skatīt vairāk",
     "see_benifits": "Skatīt priekšrocības",
@@ -22,30 +22,30 @@
     "rewards": "Atlīdzības",
     "cash": "{{amount}}",
     "discount_cash": "-${{amount}}",
-    "can_convert": "Var konvertēt uz ",
-    "clinic_cash": "{{clinic}} kredīts",
-    "checkout": "Apmaksāt",
+    "can_convert": "Var pārvērst",
+    "clinic_cash": "{{clinic}} nauda",
+    "checkout": "Norēķināties",
     "save_address": "Saglabāt adresi savā kontā",
-    "call_now": "Zvanīt tagad",
-    "apply_filter": "Piemērot",
+    "call_now": "Zvanīt tūlīt",
+    "apply_filter": "Pielietot filtru",
     "filter_by": "Filtrēt pēc",
-    "reset_filter": "Atiestatīt filtru",
-    "unit_number": "{{quantity}} vienība",
+    "reset_filter": "Atjaunot filtru",
+    "unit_number": "{{quantity}} vienība/s",
     "add_to_cart": "Pievienot grozam",
     "treatments": "Procedūras",
     "products": "Produkti",
-    "membership": "Dalība",
-    "treat_today": "Procedūra šodien. Maksā vēlāk.",
-    "earn": " Iegūsti atlīdzības punktus.",
+    "membership": "Abonements",
+    "treat_today": "Ārstējies šodien. Maksā vēlāk.",
+    "earn": " nopelniet atlīdzības.",
     "search": "Meklēt",
     "settings": "Iestatījumi",
-    "save_big": "Ietaupi daudz",
+    "save_big": "Ietaupiet daudz",
     "browse_shop": "Pārlūkot veikalu",
     "filter": "Filtrs",
     "sort": "Kārtot",
     "referral": "Ieteikuma kods",
     "enter_referral": "Ievadiet savu ieteikuma kodu",
-    "enter_referral_description": "Ievadiet ieteikuma kodu, lai saņemtu īpašas priekšrocības",
+    "enter_referral_description": "Ievadiet savu ieteikuma kodu, lai saņemtu īpašas priekšrocības",
     "submit": "Iesniegt",
     "skip": "Izlaist",
     "have_referral": "Vai jums ir ieteikuma kods?",
@@ -60,17 +60,17 @@
     "no": "Nē"
   },
   "home": {
-    "last_visited": "{{name}}, jūs neesat apmeklējis jau",
-    "days_count": "{{days_count}}...",
-    "offer": "Mēs jums sagatavojām piedāvājumu, no kura nevar atteikties!",
-    "unwrap": "Pieskarieties, lai atvērtu",
+    "last_visited": "{{name}}, jūs pie mums nebijāt veselas",
+    "days_count": "{{days_count}} dienas...",
+    "offer": "Tāpēc mēs esam sagatavojuši piedāvājumu, no kura nevarēsiet atteikties!",
+    "unwrap": "Pieskarties, lai atvērtu",
     "recently_viewed": "Nesen skatīts",
-    "save": "Ietaupi {{amount}}",
-    "save2": " kā {{clinic}} dalībnieks",
+    "save": "Ietaupiet {{amount}}",
+    "save2": " kā {{clinic}} biedrs",
     "save_paragraph": "Bezmaksas procedūras. Ekskluzīvas priekšrocības.",
-    "ad_title": "Procedūra šodien. Maksā vēlāk. Iegūsti atlīdzības.",
-    "ad_description": "Veic ikmēneša maksājumus bez kavējuma maksām",
-    "educate_yourself": "Uzzini vairāk"
+    "ad_title": "Ārstējies šodien. Maksā vēlāk. Nopelni atlīdzības.",
+    "ad_description": "Maksājiet katru mēnesi bez soda naudas par kavējumiem",
+    "educate_yourself": "Izglītojiet sevi"
   },
   "language": {
     "english": "Angļu",
@@ -79,65 +79,450 @@
   "onboarding": {
     "welcome": "Laipni lūdzam",
     "welcome_message": "Laipni lūdzam Qonnect!",
-    "rewards": "Bezmaksas atlīdzība jaunajiem dalībniekiem!",
+    "rewards": "Bezmaksas atlīdzības jaunajiem biedriem!",
     "birthdays": "Bezmaksas dzimšanas dienas dāvanas",
-    "events": "Tikai dalībnieku pasākumi un piedāvājumi",
+    "events": "Tikai biedriem paredzēti pasākumi un piedāvājumi",
     "phone_request": "Vai varam saņemt jūsu tālruņa numuru?",
-    "login_with_phone": "Reģistrējieties vai piesakieties, izmantojot tālruņa numuru!",
+    "login_with_phone": "Reģistrējieties vai piesakieties ar savu tālruņa numuru!",
     "terms": {
       "agree": "Es piekrītu ",
-      "terms_of_service": "Pakalpojuma noteikumiem ",
+      "terms_of_service": "Pakalpojumu sniegšanas noteikumiem ",
       "and": "un ",
       "privacy": "Privātuma politikai."
     },
-    "closeApp": "Aizveriet lietotni",
-    "andReopen": "un atveriet to vēlreiz",
-    "otp_title": "Ievadiet ar SMS nosūtīto OTP kodu",
-    "sms_sent": "OTP tika nosūtīts uz {{phone_number}}",
-    "email_placeholder": "name@email.com",
+    "closeApp": "Aizvērt lietotni",
+    "andReopen": "un atvērt atkārtoti",
+    "otp_title": "Ievadiet OTP, kas nosūtīts ar SMS",
+    "sms_sent": "Mēs nosūtījām OTP uz {{phone_number}}",
+    "email_placeholder": "vards@epasts.lv",
     "well_done": "Lieliski!",
     "email_request": "Un jūsu e-pasts?",
-    "last_step": "Pēdējais solis",
+    "last_step": "Pēdējais, bet ne mazāk svarīgais solis",
     "name_request": "Kāds ir jūsu vārds?",
-    "name_placeholder": "jhon doe",
-    "first_name_placeholder": "Jhon",
-    "last_name_placeholder": "Doe",
+    "name_placeholder": "Jānis Bērziņš",
+    "first_name_placeholder": "Jānis",
+    "last_name_placeholder": "Bērziņš",
     "birthday_placeholder": "DD / MM / GGGG",
     "birthday_request": "Kad ir jūsu dzimšanas diena?",
     "welcome_message2": "Laipni lūdzam, {{name}}!",
-    "gift_message": "Jūs saņēmāt nelielu dāvanu par pirmo QR koda skenēšanu",
+    "gift_message": "Mums ir maza dāvana jums par pirmā QR koda skenēšanu",
     "find_spa": {
-      "find_medspa": "Atrodiet savu piedāvājumu",
-      "description": "Atrodiet savu atrašanās vietu, iepērcieties savos iecienītākajos pakalpojumos un sāciet pelnīt atlīdzības ar katru pirkumu un apmeklējumu!",
-      "search": "Meklēt piedāvājumu pēc nosaukuma",
-      "results_found": "{{quantity}} rezultāti atrasti"
+      "find_medspa": "Atrodiet savu pakalpojumu sniedzēju",
+      "description": "Atrodiet savu atrašanās vietu tūlīt, lai iepirktos saviem iecienītākajiem pakalpojumiem un sāktu pelnīt atlīdzības ar katru pirkumu un apmeklējumu!",
+      "search": "Meklēt pakalpojumu sniedzējus pēc nosaukuma",
+      "results_found": "Atrasti {{quantity}} rezultāti"
     }
   },
   "personalInfo": {
     "title": "Personīgā informācija",
     "email_label": "E-pasts",
-    "email_placeholder": "name@email.com",
+    "email_placeholder": "vards@epasts.lv",
     "nickname_label": "Segvārds",
-    "nickname_placeholer": "vārds",
+    "nickname_placeholer": "vards",
     "firstname_label": "Vārds",
-    "firstname_placeholder": "John",
+    "firstname_placeholder": "Jānis",
     "lastname_label": "Uzvārds",
-    "lastname_placeholder": "Doe"
+    "lastname_placeholder": "Bērziņš"
   },
   "scan": {
-    "scan_text": "Skenējiet klīnikā, lai saņemtu",
-    "points": "{{points}} punkti",
+    "scan_text": "Skenējiet birojā, lai nopelnītu",
+    "points": "{{points}} Punkti",
     "cant_scan": "Kā tas darbojas?"
   },
   "rewardModal": {
-    "horray": "Apsveicam!",
+    "horray": "Urā!",
     "you_earned": "Jūs tikko nopelnījāt",
     "points": "{{points}}",
-    "clinic_points": "{{clinic}} punkti"
+    "clinic_points": " {{clinic}} punkti"
   },
   "banked_modal": {
-    "reward_banked": "ATLĪDZĪBA SAGLABĀTA!",
-    "cash": "{{clinic}} kredīts",
+    "reward_banked": "ATLĪDZĪBA IESKAITĪTA BANKĀ!",
+    "cash": "{{clinic}} nauda",
     "view_rewards": "Skatīt atlīdzības"
+  },
+  "segment": {
+    "browse": "Pārlūkot",
+    "treatments": "Procedūras",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktīvs",
+    "past": "Iepriekšējais",
+    "products": "Produkti"
+  },
+  "special_offers": {
+    "expire_in": "Beidzas pēc {{time_left}}",
+    "title": "Īpašie piedāvājumi!",
+    "new_msg": "Jums ir jauns ziņojums no {{sender}}!"
+  },
+  "shop": {
+    "title": "Veikals",
+    "treatment": {
+      "learn_more": "Uzzināt vairāk par šo procedūru",
+      "see_treatment": "Skatīt procedūru",
+      "included_treatments_title": "Iekļautās procedūras",
+      "chose_treatment": "Katru {{month}} izvēlieties vienu no šiem {{quantity}}",
+      "chose_treatment2": "Katru {{month}} izvēlieties {{quantity}} no šiem",
+      "chose_treatment3": "Katru {{month}} saņemiet sekojošo",
+      "signUpBonus": "Reģistrācijas bonuss",
+      "from_price": "Sākot no {{price}}",
+      "members_price": " {{memberPrice}} biedriem",
+      "treatment_fees": " Maksājuma brīdī tiek piemērota {{fees}} pakalpojuma maksa",
+      "results_title": "Pārsteidzoši rezultāti",
+      "results_description": "Kā citi ir jutušies par šo procedūru",
+      "select_plan": "Izvēlēties procedūras plānu",
+      "before_text": "Pirms jūsu procedūras",
+      "after_text": "Pēc jūsu procedūras",
+      "members_results": "Biedru rezultāti",
+      "customers_and_clients": "Ko redzēja biedri",
+      "expectations": "Ko sagaidīt?",
+      "bundles_treatment_title": "Procedūru skaits",
+      "variations_treatments_title": "Procedūru variācijas",
+      "treatments_quantity": "{{quantity}} procedūra{{plural}}",
+      "consultation_required": "Nepieciešama konsultācija!",
+      "scheduling_link": "Plānošanas saite:",
+      "visit_button": "Apmeklēt saiti",
+      "noBooking": "Šim produktam nav nepieciešama rezervācija.",
+      "sessions_available": "Palikušas {{quantity}} no {{remaining}} sesijām",
+      "sessions": "{{quantity}} sesija{{plural}}",
+      "expire_in": "Beidzas šajā laikā",
+      "search_result": "Atrasti {{quantity}} rezultāti",
+      "consultation": "Šai procedūrai nepieciešama konsultācija",
+      "add_to_cart": "Vai tiešām vēlaties to pievienot grozam?"
+    },
+    "product": {
+      "learn_more": "Uzzināt vairāk par šo produktu",
+      "see_product": "Skatīt produktu",
+      "included_products_title": "Iekļautie produkti",
+      "chose_product": "Katru {{month}} izvēlieties vienu no šiem {{quantity}}",
+      "chose_product2": "Katru {{month}} izvēlieties {{quantity}} no šiem",
+      "chose_product3": "Katru {{month}} saņemiet sekojošo",
+      "from_price": "Sākot no {{price}}",
+      "members_price": " {{memberPrice}} biedriem",
+      "product_fees": " Maksājuma brīdī tiek piemērota {{fees}} pakalpojuma maksa",
+      "results_title": "Pārsteidzoši rezultāti",
+      "results_description": "Kā citi ir jutuši par šo produktu",
+      "select_plan": "Izvēlēties produkta plānu",
+      "before_text": "Pirms jūsu produkta",
+      "after_text": "Pēc jūsu produkta",
+      "members_results": "Biedru rezultāti",
+      "customers_and_clients": "Kā citi ir jutuši par šo produktu",
+      "expectations": "Ko sagaidīt?",
+      "bundles_product_title": "Produktu skaits",
+      "variations_products_title": "Produktu variācijas",
+      "products_quantity": "{{quantity}} produkts{{plural}}",
+      "consultation_required": "Nepieciešama konsultācija!",
+      "scheduling_link": "Plānošanas saite:",
+      "visit_button": "Apmeklēt saiti",
+      "expire_in": "Beidzas šajā laikā",
+      "sessions_available": "Palikušas {{quantity}} no {{remaining}} {{plural}}",
+      "treatments": "{{quantity}} procedūra{{plural}}"
+    },
+    "save_button": {
+      "text": "Ietaupiet {{amount}} gadā",
+      "subscribe": "Abonēt tagad!"
+    },
+    "view_button": {
+      "text": "Skatīt"
+    },
+    "bonus_card": {
+      "title": "Reģistrējieties, lai uzreiz pieprasītu",
+      "title_bold": " bezmaksas {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Kurš jums palīdzēja ar šo pirkumu?",
+      "not_Sure": "Nezinu"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Ārstējies šodien. Maksā vēlāk. Nopelni atlīdzības.",
+      "free_treatments": "Bezmaksas procedūras, ekskluzīvas priekšrocības.",
+      "how_it_work": "Kā tas darbojas?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PUNKTI",
+    "sinleReward": "Atlīdzība",
+    "title": "Atlīdzības",
+    "win_points": {
+      "title": "Vajag vairāk punktu?",
+      "refer_friend": "Ieteikt draugu",
+      "purshase_inApp": "Iegādāties lietotnē",
+      "google_review": "Google atsauksme",
+      "visit": "Apmeklējiet mūsu klīniku",
+      "status": {
+        "points_added": "Pievienoti {{points}} punkti",
+        "scan": "Skenēt, lai nopelnītu",
+        "pending": "Apstiprinājuma gaidās",
+        "plus_points": "+{{points}} punkti",
+        "done": "Paveikts"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Lojalitātes punkti",
+        "cultPoints": "Kulta punkti",
+        "memberShip": "{{clinic}} biedrs",
+        "joinedOn": "Pievienojās: {{since}}",
+        "cash": "{{clinic}} nauda"
+      },
+      "reviewSheet": {
+        "title": "Vai atstājāt atsauksmi?",
+        "text": "Mūsu klīnikas īpašnieks pārbaudīs atsauksmi, lai pievienotu jums punktus.",
+        "yesButton": "Jā, es atstāju!",
+        "noButton": "Vēl nē"
+      },
+      "reward_details": {
+        "expire_in": "Beidzas pēc {{time_left}} dienām",
+        "redeem_button": "Izmantot atlīdzību tagad",
+        "bank_it": "Iesniegt bankā par {{amount}} {{clinic}}",
+        "redeemed": "Izmantots",
+        "banked": "Ieskaitīts bankā",
+        "locked": "Bloķēts",
+        "expired_at": "Beidzas:",
+        "consumed": "Patērēts"
+      },
+      "bank_reward": {
+        "bank_title": "Vai vēlaties ieskaitīt savu atlīdzību {{clinic}} naudā bankā?",
+        "custom_bank_title": "Ieskaitīt atlīdzību bankā",
+        "bank_description": "Jūs apmainīsit savu atlīdzību, kuras vērtība ir",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "pret {{clinic}} Naudas vērtību, ko iztērēt veikalā lietotnē. To darot, jūs zaudēsiet piekļuvi faktiskajai atlīdzībai.",
+        "yes_button": "Jā, ieskaitīt atlīdzību bankā",
+        "no_button": "Tagad nē"
+      },
+      "congratSheet": {
+        "title": "Apsveicam!",
+        "your_reward": "Jūsu atlīdzība ir pievienota grozam!",
+        "description": "Tagad pārlūkojiet veikalu, lai pievienotu to savam pasūtījumam, vai skatiet grozu, lai pabeigtu norēķinu ar piemērotu atlaidi tūlīt.",
+        "explore_shop": "Pārlūkot veikalu",
+        "view_cart": "Skatīt grozu"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Atlīdzības nav atrastas",
+      "description": "Lūdzu, atgriezieties vēlāk, lai saņemtu vairāk atlīdzību."
+    }
+  },
+  "profile": {
+    "screen_title": "Konts",
+    "logout": "Iziet",
+    "my-treatment-section": {
+      "my-treatment": "Manas procedūras",
+      "used_treatments": "Izmantotās procedūras",
+      "empty_used": "Nav izmantoto procedūru",
+      "empty_purshased": "Nav iegādāto procedūru",
+      "empty_treatment": "Nav procedūru",
+      "remaining_treatments": "Palikušas {{remaining}} no {{quantity}} procedūrām",
+      "redeemed_on": "Izmantots: {{date}}",
+      "scan": "Skenēt birojā, lai izmantotu",
+      "book": "Rezervēt tikšanos",
+      "callClinic": "Zvanīt klīnikai"
+    },
+    "my-product-section": {
+      "my-product": "Mani produkti",
+      "used_products": "Izmantotie produkti",
+      "empty_used": "Nav izmantoto produktu",
+      "empty_purshased": "Nav iegādāto produktu",
+      "empty_product": "Nav produktu",
+      "remaining_products": "Palikuši {{remaining}} no {{quantity}} produktiem",
+      "redeemed_on": "Izmantots: {{date}}",
+      "scan": "Skenēt birojā, lai izmantotu",
+      "book": "Rezervēt tikšanos",
+      "callClinic": "Zvanīt klīnikai"
+    },
+    "quantity_sheet": {
+      "select": "Izvēlēties daudzumu",
+      "units_left": "Pieejamas {{quantity}} {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "Procedūra izmantota",
+      "description": "Tagad jūs varat redzēt atlikušās vienības un plānot savas nākamās sesijas.",
+      "got_it": "Es sapratu!",
+      "cant_scan": "Nevar skenēt?",
+      "fallback_description": "Šeit ir jūsu rezerves kods. Ievadiet to tīmekļa lietotnē:",
+      "time_remaining": "Atlikušais laiks: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produkts izmantots",
+      "description": "Tagad jūs varat redzēt atlikušās vienības un plānot savas nākamās sesijas.",
+      "got_it": "Es sapratu!",
+      "cant_scan": "Nevar skenēt?",
+      "fallback_description": "Šeit ir jūsu rezerves kods. Ievadiet to tīmekļa lietotnē:",
+      "time_remaining": "Atlikušais laiks: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Personīgā informācija",
+      "payment_methods": "Maksājuma metodes",
+      "payment_method": "Maksājuma metode"
+    },
+    "payment_method_card": {
+      "visa": "Karte",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Kartes numurs",
+      "experation": "Termiņš",
+      "cvc": "CVC",
+      "select_country": "Izvēlēties valsti",
+      "select_country_placeholder": "Izvēlēties valsti...",
+      "contact_details": "Kontaktinformācija",
+      "confirm_details": "Apstipriniet savu informāciju, lai saņemtu pārdošanas kvīti"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Pievienojās: {{date}}",
+    "cancled_on": " Atcelts: {{date}}",
+    "empty_membership": "Šeit nav abonementu",
+    "browse_mebership": "Pārlūkot abonementus",
+    "active_membership": "Aktīvais abonements",
+    "paused_membership": "Apturētais abonements",
+    "active_membership_count": "{{quantity}} aktīvs abonements{{plural}}",
+    "next_payment_attempt": "Mēs mēģinājām apstrādāt jūsu abonementa maksājumu, mēs mēģināsim vēlreiz {{date}}",
+    "update_payment_info": "Atjaunināt maksājuma veidu",
+    "retry_payment": "Mēģināt maksājuma veidu vēlreiz",
+    "cancel_payment": "Atcelt abonementu",
+    "something_wrong": "Šķiet, ka kaut kas nogāja greizi...",
+    "update_payment_method": "Atjaunināt maksājumu",
+    "you_saved": "Jūs ietaupījāt",
+    "treatments": "({{number}} procedūra{{plural}})",
+    "products": "({{number}} produkts{{plural}})",
+    "equivalent": {
+      "title": "Vērtība, kas atbilst",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel lūpu krāsa",
+      "bags": " Chanel soma",
+      "swimsuits": " Gucci peldkostīms"
+    },
+    "memberShipPayFor": "Pašmaksāts abonements",
+    "you_have": "Jums ir {{quantity}} procedūra{{plural}}",
+    "you_have_products": "Jums ir {{quantity}} produkts{{plural}}",
+    "available_in": "Līdz nākamajai izvēlei palikušas {{days}} dienas",
+    "available_in_products": "Nākamie produkti būs pieejami pēc {{days}} dienām",
+    "your_benefits": "Jūsu priekšrocības",
+    "membership_benefits": "Abonementa priekšrocības",
+    "refresh_on": "Atjaunināts: {{date}}",
+    "monthly_treatment_selection": "Ikmēneša procedūras izvēle",
+    "monthly_product_selection": "Ikmēneša produkta izvēle",
+    "firstDay_treatment_selection": "Sākas no 1. dienas kā biedram",
+    "firstDay_product_selection": "Sākas no 1. dienas kā biedram",
+    "unknown_treatment_selection": "Sākas pēc {{period}} kā biedram",
+    "unknown_product_selection": "Sākas pēc {{period}} kā biedram",
+    "select_one": "Katru mēnesi bez maksas izvēlieties vienu no tālāk norādītajām procedūrām",
+    "select_one_product": "Katru mēnesi bez maksas izvēlieties vienu no tālāk norādītajiem produktiem",
+    "select_free_treatment": "Izvēlieties savu bezmaksas procedūru",
+    "select_free_product": "Izvēlieties savu bezmaksas produktu",
+    "are_you_sure": "Vai tiešām vēlaties izvēlēties šo procedūru?",
+    "are_you_sure_product": "Vai tiešām vēlaties izvēlēties šo produktu?",
+    "are_you_sure_cancel": "Vai tiešām vēlaties atcelt savu abonementu?",
+    "sure": "Jā, esmu pārliecināts",
+    "no": "Nē, es kļūdījos",
+    "number_updated": "Vienību skaits šai procedūrai ir veiksmīgi atjaunināts",
+    "number_updated_product": "Vienību skaits šim produktam ir veiksmīgi atjaunināts",
+    "you_can_see": "Tagad jūs varat redzēt atlikušās vienības un plānot savas nākamās sesijas.",
+    "you_can_see_product": "Tagad jūs varat redzēt atlikušās vienības un plānot savas nākamās sesijas."
+  },
+  "cart_screen": {
+    "screen_title": "Pirkumu grozs",
+    "clinic_price_applied": "{{clinic}} cena piemērota",
+    "summury": "Kopsavilkums",
+    "promo_code": "Promo kods",
+    "add_promo_code": "Pievienot promo kodu",
+    "order_summury": "PASŪTĪJUMA KOPSAVILKUMS",
+    "subtotal": "Starpsumma",
+    "cash_wallet": "Naudas maks",
+    "rewardDiscount": "Atlīdzības atlaide",
+    "membership_discount": "Abonementa atlaide",
+    "tax": "Nodoklis un pakalpojuma maksa",
+    "total": "Pasūtījuma kopējā summa",
+    "totalMaj": "PASŪTĪJUMA KOPĒJĀ SUMMA",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Norēķināties tagad",
+    "place_order": "Veikt pasūtījumu",
+    "order_confirmed": "Apsveicam, jūsu pasūtījums ir apstiprināts!",
+    "points_tracker": "Punktu izsekotājs",
+    "your_purchance": "Jūsu pirkums palīdz jums sasniegt nākamo atlīdzību!",
+    "reward_unlocked": "Atlīdzība atbloķēta",
+    "rewards_unlocked": "ATLĪDZĪBAS ATBLOĶĒTAS",
+    "amount_unlocked": "${{amount}} par viņu pirmo pirkumu lietotnē",
+    "can_convert_amount": "Var pārvērst ${{amount}} naudā",
+    "edit_product": "Rediģēt produktu",
+    "delete": "Dzēst",
+    "empty_cart": "Grozs ir tukšs, lūdzu, pievienojiet dažus produktus",
+    "cashExceeds": "Atvainojiet, naudas bilance nevar pārsniegt ({{allowedMerchantCashPercentage}}%) no groza kopējās vērtības",
+    "loseMoney": "Mēs zaudēsim naudu 😞",
+    "useOnly": "Jūs varat pievienot grozam vairāk procedūru vai izmantot tikai {{amount}} no jūsu pieejamās naudas bilances šai procedūrai tagad.",
+    "disallowed": "Atvainojiet, jūsu naudas bilanci nevar izmantot {{number}} procedūrām",
+    "removeFromCart": "Izņemt no groza"
+  },
+  "dates": {
+    "minute": "minūte",
+    "minutes": "minūtes",
+    "hour": "stunda",
+    "hours": "stundas",
+    "day": "diena",
+    "days": "dienas",
+    "month": "mēnesis",
+    "months": "mēneši",
+    "year": "gads",
+    "years": "gadi",
+    "now": "tagad",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Šis e-pasts jau tiek izmantots. Lūdzu, izmantojiet citu e-pastu.",
+    "login_error": "Pieteikšanās neizdevās. Pārbaudiet savu numuru un mēģiniet vēlreiz.",
+    "signup_error": "Reģistrācija neizdevās. Pārliecinieties, ka jūsu informācija ir pareiza, un mēģiniet vēlreiz.",
+    "undifined_error": "Ak! Kaut kas nogāja greizi.",
+    "otp_not_valid": "Jūsu ievadītais kods nav pareizs. Lūdzu, pārbaudiet un mēģiniet vēlreiz.",
+    "create_account": "Mēs nevarējām izveidot jūsu kontu. Lūdzu, pārbaudiet savu informāciju un mēģiniet vēlreiz.",
+    "date": {
+      "invalid_date": "Datuma formāts nav pareizs. Izmantojiet DD/MM/GGGG formātu.",
+      "invalid_month": "Lūdzu, izvēlieties derīgu dzimšanas dienas datumu.",
+      "invalid_day": "Lūdzu, izvēlieties derīgu dzimšanas dienas datumu.",
+      "invalid_birthdate": "Jūsu dzimšanas diena nevar būt nākotnē. Lūdzu, izvēlieties derīgu dzimšanas dienas datumu."
+    }
+  },
+  "noDataFound": {
+    "treatment": "Nav procedūru",
+    "treatmentSearch": "Nav procedūru",
+    "product": "Nav produktu"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Tas tieši iekasēs {{amount}} no jūsu kartes. Vai tiešām vēlaties turpināt?",
+    "add_card_note": "Piezīme: maksājuma metodei jābūt pievienotai jūsu kontam",
+    "confirm_subscription": "Apstiprināt abonementu",
+    "yes": "Jā, turpināt",
+    "no": "Nē, atcelt"
+  },
+  "taxSheet": {
+    "title": "2.5% Nodoklis un pakalpojuma maksa",
+    "description": "Šī maksa tiek izmantota, lai segtu administratīvās izmaksas, kas saistītas ar jūsu procedūru vai pakalpojumu.",
+    "button": "Es sapratu"
+  },
+  "payment": {
+    "retry_failed_title": "Maksājums neizdevās",
+    "retry_failed_message": "Mēs nevarējām apstrādāt jūsu maksājumu. Lūdzu, atjauniniet savu maksājuma veidu, lai turpinātu."
+  },
+  "treatments": {
+    "redeem_multiple": "Izmantot {{count}} procedūras"
+  },
+  "products": {
+    "redeem_multiple": "Izmantot {{count}} produktus"
+  },
+  "custom_plan": {
+    "delete_title": "Dzēst pielāgoto plānu",
+    "delete_description": "Vai tiešām vēlaties dzēst šo pielāgoto plānu?",
+    "delete": "Dzēst",
+    "cancel": "Atcelt"
+  },
+  "no_search_results": {
+    "title": "Meklēšanas rezultāti nav atrasti",
+    "description": "Šķiet, ka mēs neko neatradām, kas atbilstu jūsu meklēšanai.",
+    "try_new": "Mēģiniet izmantot citus atslēgvārdus vai pārbaudiet, vai nav kļūdu."
   }
 }

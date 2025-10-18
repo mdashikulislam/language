@@ -1,0 +1,530 @@
+{
+  "common": {
+    "loginAsGuest": "以訪客身份繼續",
+    "continue": "繼續",
+    "apply": "應用",
+    "save": "儲存",
+    "scan": "立即掃描",
+    "next": "下一步",
+    "powered": "技術支援：",
+    "scan_qr_code": "掃描 QR Code",
+    "or": "或",
+    "shop_now": "立即選購",
+    "dermis": "真皮 (Dermis)",
+    "resend_code": "重新發送代碼",
+    "view_rewards": "查看我的獎勵",
+    "change_icon": "更改圖標",
+    "reset_icon": "重設圖標",
+    "my_points": "查看我的積分",
+    "see_more": "查看更多",
+    "see_benifits": "查看權益",
+    "show_all": "顯示全部",
+    "rewards": "獎勵",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "可轉換",
+    "clinic_cash": "{{clinic}} 現金",
+    "checkout": "結帳",
+    "save_address": "將地址儲存到我的帳戶",
+    "call_now": "立即致電",
+    "apply_filter": "應用篩選器",
+    "filter_by": "篩選依據",
+    "reset_filter": "重設篩選器",
+    "unit_number": "{{quantity}} 單位",
+    "add_to_cart": "加入購物車",
+    "treatments": "療程",
+    "products": "產品",
+    "membership": "會員資格",
+    "treat_today": "今天做療程。稍後付款。",
+    "earn": " 賺取獎勵。",
+    "search": "搜尋",
+    "settings": "設定",
+    "save_big": "大大節省",
+    "browse_shop": "瀏覽商店",
+    "filter": "篩選",
+    "sort": "排序",
+    "referral": "推薦碼",
+    "enter_referral": "輸入您的推薦碼",
+    "enter_referral_description": "輸入您的推薦碼以獲得特別優惠",
+    "submit": "提交",
+    "skip": "跳過",
+    "have_referral": "有推薦碼嗎？",
+    "ok": "確定",
+    "cancel": "取消"
+  },
+  "deleteAccount": {
+    "title": "刪除帳戶",
+    "description": "您確定要刪除您的帳戶嗎？",
+    "note": "您的所有資料和訂閱將被永久刪除。",
+    "yes": "是",
+    "no": "否"
+  },
+  "home": {
+    "last_visited": "{{name}}，我們已經 {{days_count}} 天沒見到您了...",
+    "days_count": "已經 {{days_count}} 天沒見到您了...",
+    "offer": "因此，我們為您準備了一個您無法拒絕的優惠！",
+    "unwrap": "點擊拆開",
+    "recently_viewed": "最近查看",
+    "save": "節省 {{amount}}",
+    "save2": " 作為 {{clinic}} 會員",
+    "save_paragraph": "免費療程。專屬權益。",
+    "ad_title": "今天做療程。稍後付款。賺取獎勵。",
+    "ad_description": "按月支付，無滯納金",
+    "educate_yourself": "自我學習",
+    "points": "{{points}} 積分",
+    "points_note": "免費加入即可獲得此獎勵"
+  },
+  "language": {
+    "english": "英文",
+    "french": "法文"
+  },
+  "onboarding": {
+    "welcome": "歡迎",
+    "welcome_message": "歡迎來到 Qonnect！",
+    "rewards": "新會員免費獎勵！",
+    "birthdays": "免費生日禮物",
+    "events": "僅限會員的活動和優惠",
+    "phone_request": "可以告訴我們您的電話號碼嗎？",
+    "login_with_phone": "使用您的電話號碼註冊或登入！",
+    "terms": {
+      "agree": "我同意 ",
+      "terms_of_service": "服務條款 ",
+      "and": "和 ",
+      "privacy": "私隱政策。"
+    },
+    "closeApp": "關閉應用程式",
+    "andReopen": "並重新打開",
+    "otp_title": "輸入透過簡訊發送的 OTP 代碼",
+    "sms_sent": "我們已向 {{phone_number}} 發送了 OTP 代碼",
+    "email_placeholder": "姓名@電郵.com",
+    "well_done": "做得好！",
+    "email_request": "那麼您的電子郵件呢？",
+    "last_step": "最後但同樣重要的一步",
+    "name_request": "您叫什麼名字？",
+    "name_placeholder": "陳大明",
+    "first_name_placeholder": "陳",
+    "last_name_placeholder": "大明",
+    "birthday_placeholder": "日 / 月 / 年",
+    "birthday_request": "您的生日是哪天？",
+    "welcome_message2": "歡迎您，{{name}}！",
+    "gift_message": "感謝您掃描您的第一個 QR Code，我們為您準備了一份小禮物",
+    "find_spa": {
+      "find_medspa": "找到您的服務提供商",
+      "description": "立即找到您的位置，購買您喜愛的服務，並開始透過每次購買和訪問賺取獎勵！",
+      "search": "按名稱搜尋服務提供商",
+      "results_found": "找到 {{quantity}} 個結果"
+    }
+  },
+  "personalInfo": {
+    "title": "個人資訊",
+    "email_label": "電子郵件",
+    "email_placeholder": "姓名@電郵.com",
+    "nickname_label": "暱稱",
+    "nickname_placeholer": "名稱",
+    "firstname_label": "名字",
+    "firstname_placeholder": "陳",
+    "lastname_label": "姓氏",
+    "lastname_placeholder": "大明"
+  },
+  "scan": {
+    "scan_text": "在診所掃描以賺取",
+    "points": "{{points}} 積分",
+    "cant_scan": "這是如何運作的？"
+  },
+  "rewardModal": {
+    "horray": "太棒了！",
+    "you_earned": "您剛剛賺取了",
+    "points": "{{points}}",
+    "clinic_points": " {{clinic}} 積分"
+  },
+  "banked_modal": {
+    "reward_banked": "獎勵已存入銀行！",
+    "cash": "{{clinic}} 現金",
+    "view_rewards": "查看獎勵"
+  },
+  "segment": {
+    "browse": "瀏覽",
+    "treatments": "療程",
+    "clinicName": "{{clinicName}}",
+    "active": "有效",
+    "past": "已過期",
+    "products": "產品"
+  },
+  "special_offers": {
+    "expire_in": "將於 {{time_left}} 內過期",
+    "title": "特別優惠！",
+    "new_msg": "您有來自 {{sender}} 的新訊息！"
+  },
+  "shop": {
+    "title": "商店",
+    "treatment": {
+      "learn_more": "了解更多關於此療程的資訊",
+      "see_treatment": "查看療程",
+      "included_treatments_title": "包含的療程",
+      "chose_treatment": "每月免費選擇這 {{quantity}} 個療程中的一個",
+      "chose_treatment2": "每月選擇其中的 {{quantity}} 個",
+      "chose_treatment3": "每月獲得以下療程",
+      "signUpBonus": "註冊獎金",
+      "from_price": "起價 {{price}}",
+      "members_price": " 會員價 {{memberPrice}}",
+      "treatment_fees": " 結帳時將收取 {{fees}} 服務費",
+      "results_title": "驚人效果",
+      "results_description": "其他人對該療程的評價",
+      "select_plan": "選擇療程計劃",
+      "before_text": "您的療程前",
+      "after_text": "您的療程後",
+      "members_results": "會員效果",
+      "customers_and_clients": "會員看到了什麼",
+      "expectations": "預期效果如何？",
+      "bundles_treatment_title": "療程數量",
+      "variations_treatments_title": "療程變化",
+      "treatments_quantity": "{{quantity}} 個療程",
+      "consultation_required": "需要諮詢！",
+      "scheduling_link": "預約連結：",
+      "visit_button": "訪問連結",
+      "noBooking": "此產品無需預訂。",
+      "sessions_available": "剩餘 {{remaining}} 次，共 {{quantity}} 次",
+      "sessions": "{{quantity}} 次",
+      "expire_in": "過期時間：",
+      "search_result": "找到 {{quantity}} 個結果",
+      "consultation": "此療程需要諮詢",
+      "add_to_cart": "您確定要將此添加到購物車嗎？"
+    },
+    "product": {
+      "learn_more": "了解更多關於此產品的資訊",
+      "see_product": "查看產品",
+      "included_products_title": "包含的產品",
+      "chose_product": "每月免費選擇這 {{quantity}} 個產品中的一個",
+      "chose_product2": "每月選擇其中的 {{quantity}} 個",
+      "chose_product3": "每月獲得以下產品",
+      "from_price": "起價 {{price}}",
+      "members_price": " 會員價 {{memberPrice}}",
+      "product_fees": " 結帳時將收取 {{fees}} 服務費",
+      "results_title": "驚人效果",
+      "results_description": "其他人對該產品的評價",
+      "select_plan": "選擇產品計劃",
+      "before_text": "您的產品前",
+      "after_text": "您的產品後",
+      "members_results": "會員效果",
+      "customers_and_clients": "其他人對該產品的評價",
+      "expectations": "預期效果如何？",
+      "bundles_product_title": "產品數量",
+      "variations_products_title": "產品變化",
+      "products_quantity": "{{quantity}} 個產品",
+      "consultation_required": "需要諮詢！",
+      "scheduling_link": "預約連結：",
+      "visit_button": "訪問連結",
+      "expire_in": "過期時間：",
+      "sessions_available": "剩餘 {{remaining}} 個，共 {{quantity}} 個 {{plural}}",
+      "treatments": "{{quantity}} 個療程"
+    },
+    "save_button": {
+      "text": "每年節省 {{amount}}",
+      "subscribe": "立即訂閱！"
+    },
+    "view_button": {
+      "text": "查看"
+    },
+    "bonus_card": {
+      "title": "註冊立享",
+      "title_bold": " 免費 {{gifts}}！"
+    },
+    "teamMember": {
+      "title": "誰協助了您的這次購買？",
+      "not_Sure": "不確定"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "今天做療程。稍後付款。賺取獎勵。",
+      "free_treatments": "免費療程，專屬權益。",
+      "how_it_work": "如何運作？"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} 積分",
+    "sinleReward": "獎勵",
+    "title": "獎勵",
+    "win_points": {
+      "title": "需要更多積分？",
+      "refer_friend": "推薦朋友",
+      "purshase_inApp": "應用程式內購買",
+      "google_review": "Google 評論",
+      "visit": "訪問我們的診所",
+      "status": {
+        "points_added": "已添加 {{points}} 積分",
+        "scan": "掃描賺取",
+        "pending": "等待批准",
+        "plus_points": "+{{points}} 積分",
+        "done": "完成"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "忠誠積分",
+        "cultPoints": "狂熱積分",
+        "memberShip": "{{clinic}} 會員",
+        "joinedOn": "加入時間：{{since}}",
+        "cash": "{{clinic}} 現金"
+      },
+      "reviewSheet": {
+        "title": "您留下了評論嗎？",
+        "text": "我們的診所老闆將審核評論，為您添加積分。",
+        "yesButton": "是的，我留了！",
+        "noButton": "還沒"
+      },
+      "reward_details": {
+        "expire_in": "將於 {{time_left}} 天內過期",
+        "redeem_button": "立即領取獎勵",
+        "bank_it": "存入銀行，獲得 {{amount}} {{clinic}} 現金",
+        "redeemed": "已領取",
+        "banked": "已存入銀行",
+        "locked": "已鎖定",
+        "expired_at": "已過期：",
+        "consumed": "已使用"
+      },
+      "bank_reward": {
+        "bank_title": "您想將您的獎勵存入銀行作為 {{clinic}} 現金嗎？",
+        "custom_bank_title": "將獎勵存入銀行",
+        "bank_description": "您將用價值",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "的獎勵，換取可在應用程式內商店消費的 {{clinic}} 現金價值。這將使您失去獲取實際獎勵的權利。",
+        "yes_button": "是的，將獎勵存入銀行",
+        "no_button": "暫不"
+      },
+      "congratSheet": {
+        "title": "恭喜！",
+        "your_reward": "您的獎勵已添加到購物車！",
+        "description": "現在瀏覽商店以將其添加到您的訂單中，或查看購物車以立即完成應用折扣後的付款。",
+        "explore_shop": "探索商店",
+        "view_cart": "查看購物車"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "未找到獎勵",
+      "description": "請稍後回來查看更多獎勵。"
+    }
+  },
+  "profile": {
+    "screen_title": "帳戶",
+    "logout": "登出",
+    "my-treatment-section": {
+      "my-treatment": "我的療程",
+      "used_treatments": "已使用的療程",
+      "empty_used": "沒有已使用的療程",
+      "empty_purshased": "沒有已購買的療程",
+      "empty_treatment": "沒有療程",
+      "remaining_treatments": "剩餘 {{remaining}} 個，共 {{quantity}} 個療程",
+      "redeemed_on": "領取時間：{{date}}",
+      "scan": "在診所掃描以領取",
+      "book": "預約",
+      "callClinic": "致電診所"
+    },
+    "my-product-section": {
+      "my-product": "我的產品",
+      "used_products": "已使用的產品",
+      "empty_used": "沒有已使用的產品",
+      "empty_purshased": "沒有已購買的產品",
+      "empty_product": "沒有產品",
+      "remaining_products": "剩餘 {{remaining}} 個，共 {{quantity}} 個產品",
+      "redeemed_on": "領取時間：{{date}}",
+      "scan": "在診所掃描以領取",
+      "book": "預約",
+      "callClinic": "致電診所"
+    },
+    "quantity_sheet": {
+      "select": "選擇數量",
+      "units_left": "剩餘 {{quantity}} 個 {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "療程已領取",
+      "description": "您現在可以查看剩餘單位並安排您的下一次療程。",
+      "got_it": "知道了！",
+      "cant_scan": "無法掃描？",
+      "fallback_description": "這是您的備用代碼。在網頁應用程式中輸入：",
+      "time_remaining": "剩餘時間：{{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "產品已領取",
+      "description": "您現在可以查看剩餘單位並安排您的下一次療程。",
+      "got_it": "知道了！",
+      "cant_scan": "無法掃描？",
+      "fallback_description": "這是您的備用代碼。在網頁應用程式中輸入：",
+      "time_remaining": "剩餘時間：{{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "個人資訊",
+      "payment_methods": "付款方式",
+      "payment_method": "付款方式"
+    },
+    "payment_method_card": {
+      "visa": "卡",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "卡號",
+      "experation": "有效期",
+      "cvc": "CVC",
+      "select_country": "選擇國家",
+      "select_country_placeholder": "選擇國家...",
+      "contact_details": "聯絡詳情",
+      "confirm_details": "確認您的詳情以接收銷售收據"
+    }
+  },
+  "membership_section": {
+    "joined_on": " 加入時間：{{date}}",
+    "cancled_on": " 已取消：{{date}}",
+    "empty_membership": "這裡沒有會員資格",
+    "browse_mebership": "瀏覽會員資格",
+    "active_membership": "有效會員資格",
+    "paused_membership": "暫停的會員資格",
+    "active_membership_count": "{{quantity}} 個有效會員資格",
+    "next_payment_attempt": "我們無法處理您的會員付款，將於 {{date}} 再次嘗試",
+    "update_payment_info": "更新付款方式",
+    "retry_payment": "重試付款方式",
+    "cancel_payment": "取消會員資格",
+    "something_wrong": "看起來出錯了...",
+    "update_payment_method": "更新付款",
+    "you_saved": "您已節省",
+    "treatments": "（{{number}} 個療程）",
+    "products": "（{{number}} 個產品）",
+    "equivalent": {
+      "title": "等值於",
+      "quantity": {
+        "lipstick": "{{quantity}} 支 💄",
+        "bags": "{{quantity}} 個 👜",
+        "swimsuits": "{{quantity}} 件 👙",
+        "cash": "{{quantity}} 💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel 口紅",
+      "bags": " Chanel 手袋",
+      "swimsuits": " Gucci 泳衣"
+    },
+    "memberShipPayFor": "自費會員資格",
+    "you_have": "您有 {{quantity}} 個療程",
+    "you_have_products": "您有 {{quantity}} 個產品",
+    "available_in": "距離下次選擇還有 {{days}} 天",
+    "available_in_products": "下次產品將在 {{days}} 天內可用",
+    "your_benefits": "您的權益",
+    "membership_benefits": "會員權益",
+    "refresh_on": "更新時間：{{date}}",
+    "monthly_treatment_selection": "每月療程選擇",
+    "monthly_product_selection": "每月產品選擇",
+    "firstDay_treatment_selection": "從會員第 1 天開始",
+    "firstDay_product_selection": "從會員第 1 天開始",
+    "unknown_treatment_selection": "作為會員在 {{period}} 後開始",
+    "unknown_product_selection": "作為會員在 {{period}} 後開始",
+    "select_one": "每月免費選擇以下療程中的一個",
+    "select_one_product": "每月免費選擇以下產品中的一個",
+    "select_free_treatment": "選擇您的免費療程",
+    "select_free_product": "選擇您的免費產品",
+    "are_you_sure": "您確定要選擇此療程嗎？",
+    "are_you_sure_product": "您確定要選擇此產品嗎？",
+    "are_you_sure_cancel": "您確定要取消您的會員資格嗎？",
+    "sure": "是的，我確定",
+    "no": "不，我弄錯了",
+    "number_updated": "此療程的單位數量已成功更新",
+    "number_updated_product": "此產品的單位數量已成功更新",
+    "you_can_see": "您現在可以查看剩餘單位並安排您的下一次療程。",
+    "you_can_see_product": "您現在可以查看剩餘單位並安排您的下一次療程。"
+  },
+  "cart_screen": {
+    "screen_title": "購物車",
+    "clinic_price_applied": "已應用 {{clinic}} 價格",
+    "summury": "摘要",
+    "promo_code": "促銷代碼",
+    "add_promo_code": "添加促銷代碼",
+    "order_summury": "訂單摘要",
+    "subtotal": "小計",
+    "cash_wallet": "現金錢包",
+    "rewardDiscount": "獎勵折扣",
+    "membership_discount": "會員折扣",
+    "tax": "稅費和服務費",
+    "total": "訂單總額",
+    "totalMaj": "訂單總額",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "立即結帳",
+    "place_order": "下訂單",
+    "order_confirmed": "恭喜，您的訂單已確認！",
+    "points_tracker": "積分追蹤器",
+    "your_purchance": "您的購買有助於您獲得下一個獎勵！",
+    "reward_unlocked": "獎勵已解鎖",
+    "rewards_unlocked": "獎勵已解鎖",
+    "amount_unlocked": "他們首次應用程式內購買獲得 ${{amount}}",
+    "can_convert_amount": "可轉換 ${{amount}} 為現金",
+    "edit_product": "編輯產品",
+    "delete": "刪除",
+    "empty_cart": "購物車為空，請添加一些產品",
+    "cashExceeds": "抱歉，現金餘額不能超過購物車總價值的 ({{allowedMerchantCashPercentage}}%)",
+    "loseMoney": "我們會虧錢 😞",
+    "useOnly": "您可以向購物車添加更多療程，或現在僅使用您可用現金餘額中的 {{amount}} 用於此療程。",
+    "disallowed": "抱歉，您的現金餘額不能用於 {{number}} 個療程",
+    "removeFromCart": "從購物車中移除"
+  },
+  "dates": {
+    "minute": "分鐘",
+    "minutes": "分鐘",
+    "hour": "小時",
+    "hours": "小時",
+    "day": "天",
+    "days": "天",
+    "month": "月",
+    "months": "月",
+    "year": "年",
+    "years": "年",
+    "now": "現在",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "此電子郵件已被使用。請使用其他電子郵件。",
+    "login_error": "登入失敗。請檢查您的號碼並重試。",
+    "signup_error": "註冊失敗。請確保您的資訊正確無誤並重試。",
+    "undifined_error": "糟糕！出錯了。",
+    "otp_not_valid": "您輸入的代碼不正確。請檢查並重試。",
+    "create_account": "我們無法創建您的帳戶。請檢查您的資訊並重試。",
+    "date": {
+      "invalid_date": "日期格式不正確。請使用日/月/年格式。",
+      "invalid_month": "請選擇有效的出生日期。",
+      "invalid_day": "請選擇有效的出生日期。",
+      "invalid_birthdate": "您的生日不能在未來。請選擇有效的出生日期。"
+    }
+  },
+  "noDataFound": {
+    "treatment": "無療程",
+    "treatmentSearch": "未找到療程",
+    "product": "無產品"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "這將直接從您的卡中扣除 {{amount}}。您確定要繼續嗎？",
+    "add_card_note": "注意：付款方式必須已添加到您的帳戶中",
+    "confirm_subscription": "確認訂閱",
+    "yes": "是，繼續",
+    "no": "否，取消"
+  },
+  "taxSheet": {
+    "title": "2.5% 稅費和服務費",
+    "description": "此費用用於支付與您的療程或服務相關的管理成本。",
+    "button": "知道了"
+  },
+  "payment": {
+    "retry_failed_title": "付款失敗",
+    "retry_failed_message": "我們無法處理您的付款。請更新您的付款方式以繼續。"
+  },
+  "treatments": {
+    "redeem_multiple": "領取 {{count}} 個療程"
+  },
+  "products": {
+    "redeem_multiple": "領取 {{count}} 個產品"
+  },
+  "custom_plan": {
+    "delete_title": "刪除自訂計劃",
+    "delete_description": "您確定要刪除此自訂計劃嗎？",
+    "delete": "刪除",
+    "cancel": "取消"
+  },
+  "no_search_results": {
+    "title": "未找到搜尋結果",
+    "description": "看起來我們沒有找到與您的搜尋匹配的任何內容。",
+    "try_new": "嘗試使用其他關鍵詞或檢查拼寫錯誤。"
+  }
+}

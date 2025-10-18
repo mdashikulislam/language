@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "以游客身份继续",
+    "continue": "继续",
+    "apply": "应用",
+    "save": "保存",
+    "scan": "立即扫描",
+    "next": "下一步",
+    "powered": "技术支持：",
+    "scan_qr_code": "扫描二维码",
+    "or": "或",
+    "shop_now": "立即购物",
+    "dermis": "真皮（Dermis）",
+    "resend_code": "重新发送代码",
+    "view_rewards": "查看我的奖励",
+    "change_icon": "更改图标",
+    "reset_icon": "重置图标",
+    "my_points": "查看我的积分",
+    "see_more": "查看更多",
+    "see_benifits": "查看权益",
+    "show_all": "显示全部",
+    "rewards": "奖励",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "可转换",
+    "clinic_cash": "{{clinic}} 现金",
+    "checkout": "结账",
+    "save_address": "将地址保存到我的账户",
+    "call_now": "立即致电",
+    "apply_filter": "应用筛选",
+    "filter_by": "筛选依据",
+    "reset_filter": "重置筛选",
+    "unit_number": "{{quantity}} 单位",
+    "add_to_cart": "添加到购物车",
+    "treatments": "疗程",
+    "products": "产品",
+    "membership": "会员资格",
+    "treat_today": "今天做疗程，稍后付款。",
+    "earn": " 赚取奖励。",
+    "search": "搜索",
+    "settings": "设置",
+    "save_big": "巨额节省",
+    "browse_shop": "浏览商店",
+    "filter": "筛选",
+    "sort": "排序",
+    "referral": "推荐码",
+    "enter_referral": "输入您的推荐码",
+    "enter_referral_description": "输入您的推荐码以获得特别优惠",
+    "submit": "提交",
+    "skip": "跳过",
+    "have_referral": "有推荐码？",
+    "ok": "确定",
+    "cancel": "取消"
+  },
+  "deleteAccount": {
+    "title": "删除账户",
+    "description": "您确定要删除您的账户吗？",
+    "note": "您的所有数据和订阅将被永久删除。",
+    "yes": "是",
+    "no": "否"
+  },
+  "home": {
+    "last_visited": "{{name}}，我们已经 {{days_count}} 天没见到您了...",
+    "days_count": "已经 {{days_count}} 天没见到您了...",
+    "offer": "因此，我们为您准备了一个您无法拒绝的优惠！",
+    "unwrap": "点击拆开",
+    "recently_viewed": "最近浏览",
+    "save": "节省 {{amount}}",
+    "save2": " 作为 {{clinic}} 会员",
+    "save_paragraph": "免费疗程。专属权益。",
+    "ad_title": "今天做疗程。稍后付款。赚取奖励。",
+    "ad_description": "按月支付，无滞纳金",
+    "educate_yourself": "自我学习"
+  },
+  "language": {
+    "english": "英语",
+    "french": "法语"
+  },
+  "onboarding": {
+    "welcome": "欢迎",
+    "welcome_message": "欢迎来到 Qonnect！",
+    "rewards": "新会员免费奖励！",
+    "birthdays": "免费生日礼物",
+    "events": "仅限会员的活动和优惠",
+    "phone_request": "能告诉我们您的电话号码吗？",
+    "login_with_phone": "使用您的电话号码注册或登录！",
+    "terms": {
+      "agree": "我同意 ",
+      "terms_of_service": "服务条款 ",
+      "and": "和 ",
+      "privacy": "隐私政策。"
+    },
+    "closeApp": "关闭应用",
+    "andReopen": "并重新打开",
+    "otp_title": "输入通过短信发送的 OTP 代码",
+    "sms_sent": "我们已向 {{phone_number}} 发送了 OTP 代码",
+    "email_placeholder": "姓名@邮箱.com",
+    "well_done": "做得好！",
+    "email_request": "那您的电子邮件呢？",
+    "last_step": "最后但同样重要的一步",
+    "name_request": "您叫什么名字？",
+    "name_placeholder": "张三",
+    "first_name_placeholder": "张",
+    "last_name_placeholder": "三",
+    "birthday_placeholder": "日 / 月 / 年",
+    "birthday_request": "您的生日是哪天？",
+    "welcome_message2": "欢迎您，{{name}}！",
+    "gift_message": "感谢您扫描您的第一个二维码，我们为您准备了一份小礼物",
+    "find_spa": {
+      "find_medspa": "找到您的服务提供商",
+      "description": "立即找到您的位置，购买您喜爱的服务，并开始通过每次购买和访问赚取奖励！",
+      "search": "按名称搜索服务提供商",
+      "results_found": "找到 {{quantity}} 个结果"
+    }
+  },
+  "personalInfo": {
+    "title": "个人信息",
+    "email_label": "电子邮件",
+    "email_placeholder": "姓名@邮箱.com",
+    "nickname_label": "昵称",
+    "nickname_placeholer": "名称",
+    "firstname_label": "名字",
+    "firstname_placeholder": "张",
+    "lastname_label": "姓氏",
+    "lastname_placeholder": "三"
+  },
+  "scan": {
+    "scan_text": "在诊所扫描以赚取",
+    "points": "{{points}} 积分",
+    "cant_scan": "这是如何运作的？"
+  },
+  "rewardModal": {
+    "horray": "太棒了！",
+    "you_earned": "您刚刚赚取了",
+    "points": "{{points}}",
+    "clinic_points": " {{clinic}} 积分"
+  },
+  "banked_modal": {
+    "reward_banked": "奖励已存入银行！",
+    "cash": "{{clinic}} 现金",
+    "view_rewards": "查看奖励"
+  },
+  "segment": {
+    "browse": "浏览",
+    "treatments": "疗程",
+    "clinicName": "{{clinicName}}",
+    "active": "有效",
+    "past": "已过期",
+    "products": "产品"
+  },
+  "special_offers": {
+    "expire_in": "在 {{time_left}} 内过期",
+    "title": "特别优惠！",
+    "new_msg": "您有来自 {{sender}} 的新消息！"
+  },
+  "shop": {
+    "title": "商店",
+    "treatment": {
+      "learn_more": "了解更多关于此疗程的信息",
+      "see_treatment": "查看疗程",
+      "included_treatments_title": "包含的疗程",
+      "chose_treatment": "每月免费选择这 {{quantity}} 个疗程中的一个",
+      "chose_treatment2": "每月选择其中的 {{quantity}} 个",
+      "chose_treatment3": "每月获得以下疗程",
+      "signUpBonus": "注册奖金",
+      "from_price": "起价 {{price}}",
+      "members_price": " 会员价 {{memberPrice}}",
+      "treatment_fees": " 结账时将收取 {{fees}} 服务费",
+      "results_title": "惊人效果",
+      "results_description": "其他人对该疗程的评价",
+      "select_plan": "选择疗程计划",
+      "before_text": "您的疗程前",
+      "after_text": "您的疗程后",
+      "members_results": "会员效果",
+      "customers_and_clients": "会员看到了什么",
+      "expectations": "预期效果如何？",
+      "bundles_treatment_title": "疗程数量",
+      "variations_treatments_title": "疗程变化",
+      "treatments_quantity": "{{quantity}} 个疗程",
+      "consultation_required": "需要咨询！",
+      "scheduling_link": "预约链接：",
+      "visit_button": "访问链接",
+      "noBooking": "此产品无需预订。",
+      "sessions_available": "剩余 {{remaining}} 次，共 {{quantity}} 次",
+      "sessions": "{{quantity}} 次",
+      "expire_in": "过期时间：",
+      "search_result": "找到 {{quantity}} 个结果",
+      "consultation": "此疗程需要咨询",
+      "add_to_cart": "您确定要将此添加到购物车吗？"
+    },
+    "product": {
+      "learn_more": "了解更多关于此产品的信息",
+      "see_product": "查看产品",
+      "included_products_title": "包含的产品",
+      "chose_product": "每月免费选择这 {{quantity}} 个产品中的一个",
+      "chose_product2": "每月选择其中的 {{quantity}} 个",
+      "chose_product3": "每月获得以下产品",
+      "from_price": "起价 {{price}}",
+      "members_price": " 会员价 {{memberPrice}}",
+      "product_fees": " 结账时将收取 {{fees}} 服务费",
+      "results_title": "惊人效果",
+      "results_description": "其他人对该产品的评价",
+      "select_plan": "选择产品计划",
+      "before_text": "您的产品前",
+      "after_text": "您的产品后",
+      "members_results": "会员效果",
+      "customers_and_clients": "其他人对该产品的评价",
+      "expectations": "预期效果如何？",
+      "bundles_product_title": "产品数量",
+      "variations_products_title": "产品变化",
+      "products_quantity": "{{quantity}} 个产品",
+      "consultation_required": "需要咨询！",
+      "scheduling_link": "预约链接：",
+      "visit_button": "访问链接",
+      "expire_in": "过期时间：",
+      "sessions_available": "剩余 {{remaining}} 个，共 {{quantity}} 个 {{plural}}",
+      "treatments": "{{quantity}} 个疗程"
+    },
+    "save_button": {
+      "text": "每年节省 {{amount}}",
+      "subscribe": "立即订阅！"
+    },
+    "view_button": {
+      "text": "查看"
+    },
+    "bonus_card": {
+      "title": "注册立享",
+      "title_bold": " 免费 {{gifts}}！"
+    },
+    "teamMember": {
+      "title": "谁协助了您的这次购买？",
+      "not_Sure": "不确定"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "今天做疗程。稍后付款。赚取奖励。",
+      "free_treatments": "免费疗程，专属权益。",
+      "how_it_work": "如何运作？"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} 积分",
+    "sinleReward": "奖励",
+    "title": "奖励",
+    "win_points": {
+      "title": "需要更多积分？",
+      "refer_friend": "推荐朋友",
+      "purshase_inApp": "应用内购买",
+      "google_review": "Google 评论",
+      "visit": "访问我们的诊所",
+      "status": {
+        "points_added": "已添加 {{points}} 积分",
+        "scan": "扫描赚取",
+        "pending": "等待批准",
+        "plus_points": "+{{points}} 积分",
+        "done": "完成"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "忠诚积分",
+        "cultPoints": "狂热积分",
+        "memberShip": "{{clinic}} 会员",
+        "joinedOn": "加入时间：{{since}}",
+        "cash": "{{clinic}} 现金"
+      },
+      "reviewSheet": {
+        "title": "您留下了评论吗？",
+        "text": "我们的诊所老板将审核评论，为您添加积分。",
+        "yesButton": "是的，我留了！",
+        "noButton": "还没有"
+      },
+      "reward_details": {
+        "expire_in": "在 {{time_left}} 天内过期",
+        "redeem_button": "立即领取奖励",
+        "bank_it": "存入银行，获得 {{amount}} {{clinic}} 现金",
+        "redeemed": "已领取",
+        "banked": "已存入银行",
+        "locked": "已锁定",
+        "expired_at": "已过期：",
+        "consumed": "已使用"
+      },
+      "bank_reward": {
+        "bank_title": "您想将您的奖励存入银行作为 {{clinic}} 现金吗？",
+        "custom_bank_title": "将奖励存入银行",
+        "bank_description": "您将用价值",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "的奖励，换取可在应用内商店消费的 {{clinic}} 现金价值。这样做，您将失去获取实际奖励的权利。",
+        "yes_button": "是的，将奖励存入银行",
+        "no_button": "暂不"
+      },
+      "congratSheet": {
+        "title": "恭喜！",
+        "your_reward": "您的奖励已添加到购物车！",
+        "description": "现在浏览商店以将其添加到您的订单中，或查看购物车以立即完成应用折扣后的付款。",
+        "explore_shop": "探索商店",
+        "view_cart": "查看购物车"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "未找到奖励",
+      "description": "请稍后回来查看更多奖励。"
+    }
+  },
+  "profile": {
+    "screen_title": "账户",
+    "logout": "退出登录",
+    "my-treatment-section": {
+      "my-treatment": "我的疗程",
+      "used_treatments": "已使用的疗程",
+      "empty_used": "没有已使用的疗程",
+      "empty_purshased": "没有已购买的疗程",
+      "empty_treatment": "没有疗程",
+      "remaining_treatments": "剩余 {{remaining}} 个，共 {{quantity}} 个疗程",
+      "redeemed_on": "领取时间：{{date}}",
+      "scan": "在诊所扫描以领取",
+      "book": "预约",
+      "callClinic": "致电诊所"
+    },
+    "my-product-section": {
+      "my-product": "我的产品",
+      "used_products": "已使用的产品",
+      "empty_used": "没有已使用的产品",
+      "empty_purshased": "没有已购买的产品",
+      "empty_product": "没有产品",
+      "remaining_products": "剩余 {{remaining}} 个，共 {{quantity}} 个产品",
+      "redeemed_on": "领取时间：{{date}}",
+      "scan": "在诊所扫描以领取",
+      "book": "预约",
+      "callClinic": "致电诊所"
+    },
+    "quantity_sheet": {
+      "select": "选择数量",
+      "units_left": "剩余 {{quantity}} 个 {{units}}"
+    },
+    "redeem_modal": {
+      "redeemed": "疗程已领取",
+      "description": "您现在可以查看剩余单位并安排您的下一次疗程。",
+      "got_it": "知道了！",
+      "cant_scan": "无法扫描？",
+      "fallback_description": "这是您的备用代码。在网页应用中输入：",
+      "time_remaining": "剩余时间：{{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "产品已领取",
+      "description": "您现在可以查看剩余单位并安排您的下一次疗程。",
+      "got_it": "知道了！",
+      "cant_scan": "无法扫描？",
+      "fallback_description": "这是您的备用代码。在网页应用中输入：",
+      "time_remaining": "剩余时间：{{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "个人信息",
+      "payment_methods": "付款方式",
+      "payment_method": "付款方式"
+    },
+    "payment_method_card": {
+      "visa": "卡",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "卡号",
+      "experation": "有效期",
+      "cvc": "CVC",
+      "select_country": "选择国家",
+      "select_country_placeholder": "选择国家...",
+      "contact_details": "联系详情",
+      "confirm_details": "确认您的详情以接收销售收据"
+    }
+  },
+  "membership_section": {
+    "joined_on": " 加入时间：{{date}}",
+    "cancled_on": " 已取消：{{date}}",
+    "empty_membership": "这里没有会员资格",
+    "browse_mebership": "浏览会员资格",
+    "active_membership": "有效会员资格",
+    "paused_membership": "暂停的会员资格",
+    "active_membership_count": "{{quantity}} 个有效会员资格",
+    "next_payment_attempt": "我们无法处理您的会员付款，将于 {{date}} 再次尝试",
+    "update_payment_info": "更新付款方式",
+    "retry_payment": "重试付款方式",
+    "cancel_payment": "取消会员资格",
+    "something_wrong": "看起来出错了...",
+    "update_payment_method": "更新付款",
+    "you_saved": "您已节省",
+    "treatments": "（{{number}} 个疗程）",
+    "products": "（{{number}} 个产品）",
+    "equivalent": {
+      "title": "等值于",
+      "quantity": {
+        "lipstick": "{{quantity}} 支 💄",
+        "bags": "{{quantity}} 个 👜",
+        "swimsuits": "{{quantity}} 件 👙",
+        "cash": "{{quantity}} 💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel 口红",
+      "bags": " Chanel 手袋",
+      "swimsuits": " Gucci 泳衣"
+    },
+    "memberShipPayFor": "自费会员资格",
+    "you_have": "您有 {{quantity}} 个疗程",
+    "you_have_products": "您有 {{quantity}} 个产品",
+    "available_in": "距离下次选择还有 {{days}} 天",
+    "available_in_products": "下次产品将在 {{days}} 天内可用",
+    "your_benefits": "您的权益",
+    "membership_benefits": "会员权益",
+    "refresh_on": "更新时间：{{date}}",
+    "monthly_treatment_selection": "每月疗程选择",
+    "monthly_product_selection": "每月产品选择",
+    "firstDay_treatment_selection": "从会员第 1 天开始",
+    "firstDay_product_selection": "从会员第 1 天开始",
+    "unknown_treatment_selection": "作为会员在 {{period}} 后开始",
+    "unknown_product_selection": "作为会员在 {{period}} 后开始",
+    "select_one": "每月免费选择以下疗程中的一个",
+    "select_one_product": "每月免费选择以下产品中的一个",
+    "select_free_treatment": "选择您的免费疗程",
+    "select_free_product": "选择您的免费产品",
+    "are_you_sure": "您确定要选择此疗程吗？",
+    "are_you_sure_product": "您确定要选择此产品吗？",
+    "are_you_sure_cancel": "您确定要取消您的会员资格吗？",
+    "sure": "是的，我确定",
+    "no": "不，我弄错了",
+    "number_updated": "此疗程的单位数量已成功更新",
+    "number_updated_product": "此产品的单位数量已成功更新",
+    "you_can_see": "您现在可以查看剩余单位并安排您的下一次疗程。",
+    "you_can_see_product": "您现在可以查看剩余单位并安排您的下一次疗程。"
+  },
+  "cart_screen": {
+    "screen_title": "购物车",
+    "clinic_price_applied": "已应用 {{clinic}} 价格",
+    "summury": "摘要",
+    "promo_code": "优惠码",
+    "add_promo_code": "添加优惠码",
+    "order_summury": "订单摘要",
+    "subtotal": "小计",
+    "cash_wallet": "现金钱包",
+    "rewardDiscount": "奖励折扣",
+    "membership_discount": "会员折扣",
+    "tax": "税费和服务费",
+    "total": "订单总额",
+    "totalMaj": "订单总额",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "立即结账",
+    "place_order": "下订单",
+    "order_confirmed": "恭喜，您的订单已确认！",
+    "points_tracker": "积分追踪器",
+    "your_purchance": "您的购买有助于您获得下一个奖励！",
+    "reward_unlocked": "奖励已解锁",
+    "rewards_unlocked": "奖励已解锁",
+    "amount_unlocked": "他们首次应用内购买获得 ${{amount}}",
+    "can_convert_amount": "可转换 ${{amount}} 为现金",
+    "edit_product": "编辑产品",
+    "delete": "删除",
+    "empty_cart": "购物车为空，请添加一些产品",
+    "cashExceeds": "抱歉，现金余额不能超过购物车总价值的 ({{allowedMerchantCashPercentage}}%)",
+    "loseMoney": "我们会亏钱 😞",
+    "useOnly": "您可以向购物车添加更多疗程，或现在仅使用您现有现金余额中的 {{amount}} 用于此疗程。",
+    "disallowed": "抱歉，您的现金余额不能用于 {{number}} 个疗程",
+    "removeFromCart": "从购物车中移除"
+  },
+  "dates": {
+    "minute": "分钟",
+    "minutes": "分钟",
+    "hour": "小时",
+    "hours": "小时",
+    "day": "天",
+    "days": "天",
+    "month": "月",
+    "months": "月",
+    "year": "年",
+    "years": "年",
+    "now": "现在",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "此电子邮件已被使用。请使用其他电子邮件。",
+    "login_error": "登录失败。请检查您的号码并重试。",
+    "signup_error": "注册失败。请确保您的信息正确无误并重试。",
+    "undifined_error": "糟糕！出错了。",
+    "otp_not_valid": "您输入的代码不正确。请检查并重试。",
+    "create_account": "我们无法创建您的账户。请检查您的信息并重试。",
+    "date": {
+      "invalid_date": "日期格式不正确。请使用日/月/年格式。",
+      "invalid_month": "请选择有效的出生日期。",
+      "invalid_day": "请选择有效的出生日期。",
+      "invalid_birthdate": "您的生日不能在未来。请选择有效的出生日期。"
+    }
+  },
+  "noDataFound": {
+    "treatment": "无疗程",
+    "treatmentSearch": "未找到疗程",
+    "product": "无产品"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "这将直接从您的卡中扣除 {{amount}}。您确定要继续吗？",
+    "add_card_note": "注意：付款方式必须已添加到您的账户中",
+    "confirm_subscription": "确认订阅",
+    "yes": "是，继续",
+    "no": "否，取消"
+  },
+  "taxSheet": {
+    "title": "2.5% 税费和服务费",
+    "description": "此费用用于支付与您的疗程或服务相关的管理成本。",
+    "button": "知道了"
+  },
+  "payment": {
+    "retry_failed_title": "付款失败",
+    "retry_failed_message": "我们无法处理您的付款。请更新您的付款方式以继续。"
+  },
+  "treatments": {
+    "redeem_multiple": "领取 {{count}} 个疗程"
+  },
+  "products": {
+    "redeem_multiple": "领取 {{count}} 个产品"
+  },
+  "custom_plan": {
+    "delete_title": "删除自定义计划",
+    "delete_description": "您确定要删除此自定义计划吗？",
+    "delete": "删除",
+    "cancel": "取消"
+  },
+  "no_search_results": {
+    "title": "未找到搜索结果",
+    "description": "看起来我们没有找到与您的搜索匹配的任何内容。",
+    "try_new": "尝试使用其他关键词或检查拼写错误。"
+  }
+}

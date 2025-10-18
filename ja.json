@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "ゲストとして続行",
+    "continue": "続行",
+    "apply": "エントリーを適用",
+    "save": "保存",
+    "scan": "今すぐスキャン",
+    "next": "次へ",
+    "powered": "提供元:",
+    "scan_qr_code": "QRコードをスキャン",
+    "or": "または",
+    "shop_now": "今すぐ購入",
+    "dermis": "ダーミス",
+    "resend_code": "コードを再送信",
+    "view_rewards": "特典を見る",
+    "change_icon": "アイコンを変更",
+    "reset_icon": "アイコンをリセット",
+    "my_points": "私のポイントを見る",
+    "see_more": "もっと見る",
+    "see_benifits": "特典を見る",
+    "show_all": "すべて表示",
+    "rewards": "特典",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "に変換可能",
+    "clinic_cash": "{{clinic}} 現金",
+    "checkout": "チェックアウト",
+    "save_address": "アカウントに住所を保存",
+    "call_now": "今すぐ電話",
+    "apply_filter": "適用",
+    "filter_by": "で絞り込む",
+    "reset_filter": "フィルターをリセット",
+    "unit_number": "{{quantity}} 単位",
+    "add_to_cart": "カートに追加",
+    "treatments": "トリートメント",
+    "products": "製品",
+    "membership": "会員資格",
+    "treat_today": "今日トリートメントを受ける。支払いは後で。",
+    "earn": " 特典を獲得。",
+    "search": "検索",
+    "settings": "設定",
+    "save_big": "大幅に節約",
+    "browse_shop": "ストアを閲覧",
+    "filter": "フィルター",
+    "sort": "並べ替え",
+    "referral": "紹介コード",
+    "enter_referral": "紹介コードを入力してください",
+    "enter_referral_description": "紹介コードを入力して特別特典を受け取る",
+    "submit": "送信",
+    "skip": "スキップ",
+    "have_referral": "紹介コードをお持ちですか？",
+    "ok": "OK",
+    "cancel": "キャンセル"
+  },
+  "deleteAccount": {
+    "title": "アカウントを削除",
+    "description": "本当にアカウントを削除してもよろしいですか？",
+    "note": "すべてのデータとサブスクリプションが完全に削除されます。",
+    "yes": "はい",
+    "no": "いいえ"
+  },
+  "home": {
+    "last_visited": "{{name}}さん、ご来店いただいてから",
+    "days_count": "{{days_count}}日経ちました...",
+    "offer": "そこで、断れないオファーをご用意しました！",
+    "unwrap": "タップして開封",
+    "recently_viewed": "最近表示されたもの",
+    "save": "{{amount}}節約",
+    "save2": " {{clinic}}会員として",
+    "save_paragraph": "無料トリートメント。限定特典。",
+    "ad_title": "今日トリートメントを受ける。支払いは後で。特典を獲得。",
+    "ad_description": "遅延損害金なしで毎月の支払いを行う",
+    "educate_yourself": "自己学習"
+  },
+  "language": {
+    "english": "英語",
+    "french": "フランス語"
+  },
+  "onboarding": {
+    "welcome": "ようこそ",
+    "welcome_message": "Qonnectへようこそ！",
+    "rewards": "新規会員限定の無料特典！",
+    "birthdays": "無料の誕生日プレゼント",
+    "events": "会員限定のイベントとオファー",
+    "phone_request": "お電話番号を教えていただけますか？",
+    "login_with_phone": "お電話番号を使って登録またはログインしてください！",
+    "terms": {
+      "agree": "私は",
+      "terms_of_service": "利用規約",
+      "and": "および",
+      "privacy": "プライバシーポリシーに同意します。"
+    },
+    "closeApp": "アプリを閉じて",
+    "andReopen": "再開してください",
+    "otp_title": "SMSで送信されたOTPを入力してください",
+    "sms_sent": "OTPを{{phone_number}}に送信しました",
+    "email_placeholder": "name@email.com",
+    "well_done": "よくできました！",
+    "email_request": "では、あなたのメールアドレスは？",
+    "last_step": "最後にもう一つ",
+    "name_request": "お名前は何ですか？",
+    "name_placeholder": "ジョン・ドウ",
+    "first_name_placeholder": "ジョン",
+    "last_name_placeholder": "ドウ",
+    "birthday_placeholder": "日 / 月 / 年",
+    "birthday_request": "お誕生日はいつですか？",
+    "welcome_message2": "ようこそ、{{name}}さん！",
+    "gift_message": "初めてQRコードをスキャンしてくれたあなたに、ささやかなプレゼントをご用意しました",
+    "find_spa": {
+      "find_medspa": "あなたのオファーを見つける",
+      "description": "今すぐあなたの場所を見つけて、お気に入りのサービスを購入し、すべての購入と訪問で特典を獲得し始めましょう！",
+      "search": "名前でオファーを検索",
+      "results_found": "{{quantity}}件の結果が見つかりました"
+    }
+  },
+  "personalInfo": {
+    "title": "個人情報",
+    "email_label": "メールアドレス",
+    "email_placeholder": "name@email.com",
+    "nickname_label": "ニックネーム",
+    "nickname_placeholer": "名前",
+    "firstname_label": "名",
+    "firstname_placeholder": "John",
+    "lastname_label": "姓",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "オフィスでスキャンして",
+    "points": "{{points}}ポイントを獲得",
+    "cant_scan": "どういう仕組みですか？"
+  },
+  "rewardModal": {
+    "horray": "やった！",
+    "you_earned": "あなたは獲得しました",
+    "points": "{{points}}",
+    "clinic_points": " {{clinic}}ポイント"
+  },
+  "banked_modal": {
+    "reward_banked": "特典が換金されました！",
+    "cash": "{{clinic}} 現金",
+    "view_rewards": "特典を見る"
+  },
+  "segment": {
+    "browse": "閲覧",
+    "treatments": "トリートメント",
+    "clinicName": "{{clinicName}}",
+    "active": "アクティブ",
+    "past": "過去",
+    "products": "製品"
+  },
+  "special_offers": {
+    "expire_in": "有効期限まであと{{time_left}}",
+    "title": "特別オファー！",
+    "new_msg": "{{sender}}からメッセージが届いています！"
+  },
+  "shop": {
+    "title": "ストア",
+    "treatment": {
+      "learn_more": "このトリートメントについてもっと知る",
+      "see_treatment": "トリートメントを見る",
+      "included_treatments_title": "含まれるトリートメント",
+      "chose_treatment": "以下のうち{{quantity}}を毎月{{month}}に選択",
+      "chose_treatment2": "以下のうち{{quantity}}を毎月{{month}}に選択",
+      "chose_treatment3": "以下のものを毎月{{month}}に受け取る",
+      "signUpBonus": "サインアップボーナス",
+      "from_price": "{{price}}から",
+      "members_price": "会員価格{{memberPrice}}",
+      "treatment_fees": " {{fees}}のサービス料がチェックアウト時に適用されます",
+      "results_title": "驚くべき結果",
+      "results_description": "他の人がこのトリートメントについてどう感じたか",
+      "select_plan": "トリートメントプランを選択",
+      "before_text": "トリートメント前",
+      "after_text": "トリートメント後",
+      "members_results": "会員の結果",
+      "customers_and_clients": "会員が見たもの",
+      "expectations": "何を期待しますか？",
+      "bundles_treatment_title": "トリートメント数",
+      "variations_treatments_title": "トリートメントの種類",
+      "treatments_quantity": "{{quantity}} トリートメント",
+      "consultation_required": "カウンセリングが必要です！",
+      "scheduling_link": "予約リンク：",
+      "visit_button": "リンクにアクセス",
+      "noBooking": "この製品の予約は必要ありません。",
+      "sessions_available": "残り{{remaining}}セッション{{plural}}のうち{{quantity}}",
+      "sessions": "{{quantity}} セッション{{plural}}",
+      "expire_in": "有効期限：",
+      "search_result": "{{quantity}}件の結果{{plural}}が見つかりました",
+      "consultation": "このトリートメントにはカウンセリングが必要です",
+      "add_to_cart": "本当にカートに追加してもよろしいですか？"
+    },
+    "product": {
+      "learn_more": "この製品についてもっと知る",
+      "see_product": "製品を見る",
+      "included_products_title": "含まれる製品",
+      "chose_product": "以下のうち{{quantity}}を毎月{{month}}に選択",
+      "chose_product2": "以下のうち{{quantity}}を毎月{{month}}に選択",
+      "chose_product3": "以下のものを毎月{{month}}に受け取る",
+      "from_price": "{{price}}から",
+      "members_price": " 会員価格{{memberPrice}}",
+      "product_fees": " {{fees}}のサービス料がチェックアウト時に適用されます",
+      "results_title": "驚くべき結果",
+      "results_description": "他の人がこの製品についてどう感じたか",
+      "select_plan": "製品プランを選択",
+      "before_text": "製品前",
+      "after_text": "製品後",
+      "members_results": "会員の結果",
+      "customers_and_clients": "他の人がこの製品についてどう感じたか",
+      "expectations": "何を期待しますか？",
+      "bundles_product_title": "製品数",
+      "variations_products_title": "製品の種類",
+      "products_quantity": "{{quantity}} 製品",
+      "consultation_required": "カウンセリングが必要です！",
+      "scheduling_link": "予約リンク：",
+      "visit_button": "リンクにアクセス",
+      "expire_in": "有効期限：",
+      "sessions_available": "残り{{remaining}} {{plural}}のうち{{quantity}}",
+      "treatments": "{{quantity}} トリートメント{{plural}}"
+    },
+    "save_button": {
+      "text": "年間{{amount}}節約",
+      "subscribe": "今すぐ申し込む！"
+    },
+    "view_button": {
+      "text": "見る"
+    },
+    "bonus_card": {
+      "title": "登録してすぐに",
+      "title_bold": "無料の{{gifts}}を請求！"
+    },
+    "teamMember": {
+      "title": "この購入で誰があなたを助けましたか？",
+      "not_Sure": "わからない"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "今日トリートメントを受ける。支払いは後で。特典を獲得。",
+      "free_treatments": "無料トリートメント、限定特典。",
+      "how_it_work": "どういう仕組みですか？"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} ポイント",
+    "sinleReward": "特典",
+    "title": "特典",
+    "win_points": {
+      "title": "もっとポイントが必要ですか？",
+      "refer_friend": "友達を紹介",
+      "purshase_inApp": "アプリ内購入",
+      "google_review": "Googleレビュー",
+      "visit": "クリニックを訪問",
+      "status": {
+        "points_added": "{{points}}ポイントが追加されました",
+        "scan": "スキャンして獲得",
+        "pending": "承認待ち",
+        "plus_points": "+{{points}}ポイント",
+        "done": "完了"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "ロイヤルティポイント",
+        "cultPoints": "Cultポイント",
+        "memberShip": "{{clinic}}会員",
+        "joinedOn": "参加日: {{since}}",
+        "cash": "{{clinic}} 現金"
+      },
+      "reviewSheet": {
+        "title": "レビューを残しましたか？",
+        "text": "クリニックのオーナーがレビューを確認し、ポイントを追加します。",
+        "yesButton": "はい、しました！",
+        "noButton": "まだです"
+      },
+      "reward_details": {
+        "expire_in": "有効期限まであと{{time_left}}日",
+        "redeem_button": "今すぐ特典を交換",
+        "bank_it": "{{amount}} {{clinic}}に換金",
+        "redeemed": "交換済み",
+        "banked": "換金済み",
+        "locked": "ロック済み",
+        "expired_at": "有効期限切れ:",
+        "consumed": "消費済み"
+      },
+      "bank_reward": {
+        "bank_title": "特典を{{clinic}}の現金に換金しますか？",
+        "custom_bank_title": "特典を換金",
+        "bank_description": "特典を次の価値のあるものと交換します:",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "アプリ内ストアで使える{{clinic}}現金の価値。これにより、特典そのものへのアクセスを失います。",
+        "yes_button": "はい、特典を換金",
+        "no_button": "今はしない"
+      },
+      "congratSheet": {
+        "title": "おめでとうございます！",
+        "your_reward": "特典がカートに追加されました！",
+        "description": "今すぐストアを探索して注文に追加するか、カートを表示して割引が適用された状態で今すぐチェックアウトを完了してください。",
+        "explore_shop": "ストアを探索",
+        "view_cart": "カートを見る"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "アカウント",
+    "logout": "ログアウト",
+    "my-treatment-section": {
+      "my-treatment": "私のトリートメント",
+      "used_treatments": "使用済みトリートメント",
+      "empty_used": "使用済みトリートメントはありません",
+      "empty_purshased": "購入済みトリートメントはありません",
+      "empty_treatment": "トリートメントはありません",
+      "remaining_treatments": "残り{{quantity}}トリートメント{{plural}}のうち{{remaining}}",
+      "redeemed_on": "交換日: {{date}}",
+      "scan": "オフィスでスキャンして交換",
+      "book": "予約する",
+      "callClinic": "クリニックに電話"
+    },
+    "my-product-section": {
+      "my-product": "私の製品",
+      "used_products": "使用済み製品",
+      "empty_used": "使用済み製品はありません",
+      "empty_purshased": "購入済み製品はありません",
+      "empty_product": "製品はありません",
+      "remaining_products": "残り{{quantity}}製品{{plural}}のうち{{remaining}}",
+      "redeemed_on": "交換日: {{date}}",
+      "scan": "オフィスでスキャンして交換",
+      "book": "予約する",
+      "callClinic": "クリニックに電話"
+    },
+    "quantity_sheet": {
+      "select": "数量を選択",
+      "units_left": "{{quantity}} {{units}} が利用可能です"
+    },
+    "redeem_modal": {
+      "redeemed": "トリートメントが交換されました",
+      "description": "これで、残りのユニットを確認し、次のセッションをスケジュールできます。",
+      "got_it": "わかりました！",
+      "cant_scan": "スキャンできませんか？",
+      "fallback_description": "これがフォールバックコードです。ウェブアプリに入力してください:",
+      "time_remaining": "残り時間: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "製品が交換されました",
+      "description": "これで、残りのユニットを確認し、次のセッションをスケジュールできます。",
+      "got_it": "わかりました！",
+      "cant_scan": "スキャンできませんか？",
+      "fallback_description": "これがフォールバックコードです。ウェブアプリに入力してください:",
+      "time_remaining": "残り時間: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "個人情報",
+      "payment_methods": "支払い方法",
+      "payment_method": "支払い方法"
+    },
+    "payment_method_card": {
+      "visa": "カード",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "カード番号",
+      "experation": "有効期限",
+      "cvc": "CVC",
+      "select_country": "国を選択",
+      "select_country_placeholder": "国を選択...",
+      "contact_details": "連絡先の詳細",
+      "confirm_details": "販売レシートを受け取るために詳細を確認してください"
+    }
+  },
+  "membership_section": {
+    "joined_on": " 参加日: {{date}}",
+    "cancled_on": " キャンセル日: {{date}}",
+    "empty_membership": "ここに会員資格はありません",
+    "browse_mebership": "会員資格を閲覧",
+    "active_membership": "アクティブな会員資格",
+    "paused_membership": "一時停止された会員資格",
+    "active_membership_count": "{{quantity}}のアクティブな会員資格",
+    "next_payment_attempt": "会員資格の支払いを処理しようとしましたが、{{date}}に再度試行します",
+    "update_payment_info": "支払い方法を更新",
+    "retry_payment": "支払い方法を再試行",
+    "cancel_payment": "会員資格をキャンセル",
+    "something_wrong": "何かがうまくいかなかったようです...",
+    "update_payment_method": "支払いを更新",
+    "you_saved": "あなたは節約しました",
+    "treatments": "({{number}} トリートメント{{plural}})",
+    "products": "({{number}} 製品{{plural}})",
+    "equivalent": {
+      "title": "同等",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " シャネルの口紅",
+      "bags": " シャネルのバッグ",
+      "swimsuits": " グッチの水着"
+    },
+    "memberShipPayFor": "自腹を切る会員資格",
+    "you_have": "利用可能なトリートメントが{{quantity}}あります",
+    "you_have_products": "利用可能な製品が{{quantity}}あります",
+    "available_in": "次回の選択まであと{{days}}日",
+    "available_in_products": "次の製品は{{days}}日後に利用可能になります",
+    "your_benefits": "あなたの特典",
+    "membership_benefits": "会員特典",
+    "refresh_on": "更新日: {{date}}",
+    "monthly_treatment_selection": "毎月のトリートメント選択",
+    "monthly_product_selection": "毎月の製品選択",
+    "firstDay_treatment_selection": "会員として1日目から開始",
+    "firstDay_product_selection": "会員として1日目から開始",
+    "unknown_treatment_selection": "会員として{{period}}後に開始",
+    "unknown_product_selection": "会員として{{period}}後に開始",
+    "select_one": "以下のトリートメントから毎月1つ無料で選択",
+    "select_one_product": "以下の製品から毎月1つ無料で選択",
+    "select_free_treatment": "無料トリートメントを選択",
+    "select_free_product": "無料製品を選択",
+    "are_you_sure": "本当にこのトリートメントを選択してもよろしいですか？",
+    "are_you_sure_product": "本当にこの製品を選択してもよろしいですか？",
+    "are_you_sure_cancel": "本当に会員資格をキャンセルしてもよろしいですか？",
+    "sure": "はい、確信しています",
+    "no": "いいえ、間違えました",
+    "number_updated": "このトリートメントのユニット数が正常に更新されました",
+    "number_updated_product": "この製品のユニット数が正常に更新されました",
+    "you_can_see": "これで、残りのユニットを確認し、次のセッションをスケジュールできます。",
+    "you_can_see_product": "これで、残りのユニットを確認し、次のセッションをスケジュールできます。"
+  },
+  "cart_screen": {
+    "screen_title": "ショッピングカート",
+    "clinic_price_applied": "{{clinic}}価格が適用されました",
+    "summury": "概要",
+    "promo_code": "プロモーションコード",
+    "add_promo_code": "プロモーションコードを追加",
+    "order_summury": "注文概要",
+    "subtotal": "小計",
+    "cash_wallet": "キャッシュウォレット",
+    "rewardDiscount": "特典割引",
+    "membership_discount": "会員割引",
+    "tax": "税金とサービス料",
+    "total": "注文合計",
+    "totalMaj": "注文合計",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "今すぐチェックアウト",
+    "place_order": "注文を確定",
+    "order_confirmed": "おめでとうございます、ご注文が確定しました！",
+    "points_tracker": "ポイントトラッカー",
+    "your_purchance": "ご購入により、次の特典獲得に近づきました！",
+    "reward_unlocked": "特典が解除されました",
+    "rewards_unlocked": "特典が解除されました",
+    "amount_unlocked": "最初のアプリ内購入で${{amount}}",
+    "can_convert_amount": "${{amount}}の現金に変換可能",
+    "edit_product": "製品を編集",
+    "delete": "削除",
+    "empty_cart": "カートは空です。製品を追加してください",
+    "cashExceeds": "申し訳ありませんが、キャッシュ残高はカート合計金額の({{allowedMerchantCashPercentage}}%)を超えて使用することはできません",
+    "loseMoney": "損をしてしまいます 😞",
+    "useOnly": "カートにさらにトリートメントを追加するか、このトリートメントには現在利用可能なキャッシュ残高の{{amount}}のみを使用できます。",
+    "disallowed": "申し訳ありませんが、キャッシュ残高は{{number}}トリートメントには使用できません",
+    "removeFromCart": "カートから削除"
+  },
+  "dates": {
+    "minute": "分",
+    "minutes": "分",
+    "hour": "時間",
+    "hours": "時間",
+    "day": "日",
+    "days": "日",
+    "month": "月",
+    "months": "ヶ月",
+    "year": "年",
+    "years": "年",
+    "now": "今",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "このメールアドレスは既に使用されています。別のメールアドレスを使用してください。",
+    "login_error": "ログインに失敗しました。番号を確認してからもう一度お試しください。",
+    "signup_error": "サインアップに失敗しました。情報が正しいことを確認して、もう一度お試しください。",
+    "undifined_error": "おっと！何かがうまくいきませんでした。",
+    "otp_not_valid": "入力されたコードが間違っています。確認してもう一度お試しください。",
+    "create_account": "アカウントを作成できませんでした。詳細を確認して、もう一度お試しください。",
+    "date": {
+      "invalid_date": "日付の形式が正しくありません。日/月/年の形式を使用してください。",
+      "invalid_month": "有効な生年月日を選択してください。",
+      "invalid_day": "有効な生年月日を選択してください。",
+      "invalid_birthdate": "誕生日は将来の日付にすることはできません。有効な生年月日を選択してください。"
+    }
+  },
+  "noDataFound": {
+    "treatment": "利用可能なトリートメントはありません",
+    "treatmentSearch": "利用可能なトリートメントはありません",
+    "product": "利用可能な製品はありません"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "これにより、カードに直接{{amount}}が請求されます。続行してもよろしいですか？",
+    "add_card_note": "注: アカウントに支払い方法が追加されている必要があります",
+    "confirm_subscription": "サブスクリプションの確認",
+    "yes": "はい、続行",
+    "no": "いいえ、キャンセル"
+  },
+  "taxSheet": {
+    "title": "2.5%の税金とサービス料",
+    "description": "この料金は、トリートメントまたはサービスに関連する管理費を相殺するために使用されます。",
+    "button": "わかりました"
+  },
+  "payment": {
+    "retry_failed_title": "支払いが失敗しました",
+    "retry_failed_message": "支払いを処理できませんでした。続行するには、支払い方法を更新してください。"
+  },
+  "treatments": {
+    "redeem_multiple": "{{count}}のトリートメントを交換"
+  },
+  "products": {
+    "redeem_multiple": "{{count}}の製品を交換"
+  },
+  "custom_plan": {
+    "delete_title": "カスタムプランの削除",
+    "delete_description": "本当にこのカスタムプランを削除してもよろしいですか？",
+    "delete": "削除",
+    "cancel": "キャンセル"
+  },
+  "no_search_results": {
+    "title": "結果が見つかりません",
+    "description": "検索に一致するものが何も見つからなかったようです。",
+    "try_new": "別のキーワードを試すか、入力ミスがないか確認してください。"
+  }
+}
