@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "अतिथि के रूप में जारी रखें",
+    "continue": "जारी रखें",
+    "apply": "इनपुट लागू करें",
+    "save": "सहेजें",
+    "scan": "अब स्कैन करें",
+    "next": "अगला",
+    "powered": "द्वारा संचालित ",
+    "scan_qr_code": "QR कोड स्कैन करें",
+    "or": "या",
+    "shop_now": "अभी खरीदारी करें",
+    "dermis": "DERMIS",
+    "resend_code": "कोड पुनः भेजें",
+    "view_rewards": "मेरी पुरस्कार देखें",
+    "change_icon": "चिह्न बदलें",
+    "reset_icon": "चिह्न रीसेट करें",
+    "my_points": "मेरे अंक देखें",
+    "see_more": "और देखें",
+    "see_benifits": "लाभ देखें",
+    "show_all": "सभी दिखाएँ",
+    "rewards": "पुरस्कार",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "में परिवर्तित किया जा सकता है ",
+    "clinic_cash": "{{clinic}} नकद",
+    "checkout": "चेकआउट",
+    "save_address": "पता आपके खाते में सहेजें",
+    "call_now": "अब कॉल करें",
+    "apply_filter": "लागू करें",
+    "filter_by": "इसके द्वारा फ़िल्टर करें",
+    "reset_filter": "फ़िल्टर रीसेट करें",
+    "unit_number": "{{quantity}} इकाई",
+    "add_to_cart": "कार्ट में जोड़ें",
+    "treatments": "इलाज",
+    "products": "उत्पाद",
+    "membership": "सदस्यता",
+    "treat_today": "आज इलाज करें। बाद में भुगतान करें।",
+    "earn": " पुरस्कार कमाएँ।",
+    "search": "खोजें",
+    "settings": "सेटिंग्स",
+    "save_big": "बड़ी बचत",
+    "browse_shop": "दुकान ब्राउज़ करें",
+    "filter": "फ़िल्टर",
+    "sort": "सॉर्ट करें",
+    "referral": "रेफरल कोड",
+    "enter_referral": "अपना रेफरल कोड दर्ज करें",
+    "enter_referral_description": "विशेष लाभ प्राप्त करने के लिए अपना रेफरल कोड दर्ज करें",
+    "submit": "जमा करें",
+    "skip": "छोड़ें",
+    "have_referral": "क्या आपके पास रेफरल कोड है?",
+    "ok": "ठीक है",
+    "cancel": "रद्द करें"
+  },
+  "deleteAccount": {
+    "title": "खाता हटाएँ",
+    "description": "क्या आप वाकई अपना खाता हटाना चाहते हैं?",
+    "note": "आपका सारा डेटा और सदस्यता स्थायी रूप से हटा दी जाएगी।",
+    "yes": "हाँ",
+    "no": "नहीं"
+  },
+  "home": {
+    "last_visited": "{{name}}, आपने तब से नहीं देखा",
+    "days_count": "{{days_count}}…",
+    "offer": "तो हमने आपके लिए ऐसा प्रस्ताव बनाया है जिसे आप इनकार नहीं कर सकते!",
+    "unwrap": "अनरैप करने के लिए टैप करें",
+    "recently_viewed": "हाल ही में देखे गए",
+    "save": "{{amount}} बचाएँ",
+    "save2": " एक {{clinic}} सदस्य के रूप में",
+    "save_paragraph": "मुफ़्त इलाज। विशेष लाभ।",
+    "ad_title": "आज इलाज करें। बाद में भुगतान करें। पुरस्कार कमाएँ।",
+    "ad_description": "महीने‑महीने भुगतान करें बिना देर शुल्क के",
+    "educate_yourself": "खुद को शिक्षित करें"
+  },
+  "language": {
+    "english": "अंग्रेज़ी",
+    "french": "फ्रेंच"
+  },
+  "onboarding": {
+    "welcome": "इसमें आपका स्वागत है",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "नए सदस्यों के लिए मुफ्त पुरस्कार!",
+    "birthdays": "मुफ़्त जन्मदिन उपहार",
+    "events": "सिर्फ सदस्यों के लिए इवेंट और प्रस्ताव",
+    "phone_request": "क्या हमें आपका फ़ोन नंबर मिल सकता है?",
+    "login_with_phone": "अपना फ़ोन नंबर दर्ज करें या लॉगिन करें!",
+    "terms": {
+      "agree": "मैं सहमत हूँ ",
+      "terms_of_service": "सेवा की शर्तें ",
+      "and": "और ",
+      "privacy": "गोपनीयता नीति।"
+    },
+    "closeApp": "ऐप बंद करें",
+    "andReopen": "और इसे पुनः खोलें",
+    "otp_title": "SMS द्वारा भेजा गया OTP दर्ज करें",
+    "sms_sent": "हमने OTP भेजा है {{phone_number}} को",
+    "email_placeholder": "name@email.com",
+    "well_done": "बहुत बढ़िया!",
+    "email_request": "और, आपका ई‑मेल?",
+    "last_step": "अंतिम लेकिन महत्वपूर्ण",
+    "name_request": "आपका नाम क्या है?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "आपकी जन्मतिथि कब है?",
+    "welcome_message2": "स्वागत है {{name}}! ",
+    "gift_message": "हमने आपको एक छोटा उपहार दिया है आपके पहले QR कोड स्कैन करने पर",
+    "find_spa": {
+      "find_medspa": "अपना ऑफ़र खोजें",
+      "description": "अपनी लोकेशन अब खोजें अपनी पसंदीदा सेवाएं खरीदने के लिए, और हर खरीद और विजिट के साथ पुरस्कार कमाना शुरू करें!",
+      "search": "नाम से ऑफ़र खोजें",
+      "results_found": "{{quantity}} परिणाम मिले"
+    }
+  },
+  "personalInfo": {
+    "title": "व्यक्तिगत जानकारी",
+    "email_label": "ई‑मेल",
+    "email_placeholder": "name@email.com",
+    "nickname_label": "निकनेम",
+    "nickname_placeholer": "नाम",
+    "firstname_label": "पहला नाम",
+    "firstname_placeholder": "John",
+    "lastname_label": "अंतिम नाम",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "ऑफिस में स्कैन करें के लिए",
+    "points": "{{points}} अंक",
+    "cant_scan": "यह कैसे काम करता है?"
+  },
+  "rewardModal": {
+    "horray": "वाह! ",
+    "you_earned": "आपने अभी कमाए हैं",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} अंक"
+  },
+  "banked_modal": {
+    "reward_banked": "पुरस्कार जमा हो गया!",
+    "cash": "{{clinic}} नकद",
+    "view_rewards": "पुरस्कार देखें"
+  },
+  "segment": {
+    "browse": "ब्राउज़ करें",
+    "treatments": "इलाज",
+    "clinicName": "{{clinicName}}",
+    "active": "सक्रिय",
+    "past": "भूतपूर्व",
+    "products": "उत्पाद"
+  },
+  "special_offers": {
+    "expire_in": "{{time_left}} में समाप्त",
+    "title": "विशेष प्रस्ताव!",
+    "new_msg": "आपको एक संदेश मिला है {{sender}} से!"
+  },
+  "shop": {
+    "title": "दुकान",
+    "treatment": {
+      "learn_more": "इस इलाज के बारे में और जानें",
+      "see_treatment": "इलाज देखें",
+      "included_treatments_title": "शामिल इलाज",
+      "chose_treatment": "प्रति {{month}} निम्नलिखित में से {{quantity}} चुनें",
+      "chose_treatment2": "प्रति {{month}} नीचे से {{quantity}} चुनें",
+      "chose_treatment3": "प्रति {{month}} निम्नलिखित प्राप्त करें",
+      "signUpBonus": "साइन‑अप बोनस",
+      "from_price": "से शुरू {{price}}",
+      "members_price": "सदस्यों के लिए {{memberPrice}}",
+      "treatment_fees": " चेकआउट पर सेवा शुल्क लागू होगा {{fees}}",
+      "results_title": "मनमोहक परिणाम",
+      "results_description": "कैसे अन्य लोगों ने इस इलाज को महसूस किया",
+      "select_plan": "इलाज योजना चुनें",
+      "before_text": "आपके इलाज से पहले",
+      "after_text": "आपके इलाज के बाद",
+      "members_results": "सदस्य परिणाम",
+      "customers_and_clients": "सदस्यों ने क्या देखा",
+      "expectations": "क्या अपेक्षित है?",
+      "bundles_treatment_title": "इलाजों की संख्या",
+      "variations_treatments_title": "इलाज प्रकार",
+      "treatments_quantity": "{{quantity}} इलाज",
+      "consultation_required": "मशविरा आवश्यक है!",
+      "scheduling_link": "शेड्यूलिंग लिंक : ",
+      "visit_button": "लिंक देखें",
+      "noBooking": "इस उत्पाद के लिए कोई बुकिंग आवश्यक नहीं है।",
+      "sessions_available": "{{quantity}} में से {{remaining}} सत्र{{plural}}",
+      "sessions": "{{quantity}} सत्र{{plural}}",
+      "expire_in": "समय सीमा : ",
+      "search_result": "{{quantity}} परिणाम{{plural}} मिले",
+      "consultation": "इस इलाज के लिए मशविरा आवश्यक है",
+      "add_to_cart": "क्या आप वाकई इसे अपने कार्ट में जोड़ना चाहते हैं?"
+    },
+    "product": {
+      "learn_more": "इस उत्पाद के बारे में और जानें",
+      "see_product": "उत्पाद देखें",
+      "included_products_title": "शामिल उत्पाद",
+      "chose_product": "प्रति {{month}} निम्नलिखित में से {{quantity}} चुनें",
+      "chose_product2": "प्रति {{month}} नीचे से {{quantity}} चुनें",
+      "chose_product3": "प्रति {{month}} निम्नलिखित प्राप्त करें",
+      "from_price": "से शुरू {{price}}",
+      "members_price": "सदस्यों के लिए {{memberPrice}}",
+      "product_fees": " चेकआउट पर सेवा शुल्क लागू होगा {{fees}}",
+      "results_title": "मनमोहक परिणाम",
+      "results_description": "कैसे अन्य लोगों ने इस उत्पाद को महसूस किया",
+      "select_plan": "उत्पाद योजना चुनें",
+      "before_text": "आपके उत्पाद से पहले",
+      "after_text": "आपके उत्पाद के बाद",
+      "members_results": "सदस्य परिणाम",
+      "customers_and_clients": "सदस्यों ने इस उत्पाद को कैसे महसूस किया",
+      "expectations": "क्या अपेक्षित है?",
+      "bundles_product_title": "उत्पादों की संख्या",
+      "variations_products_title": "उत्पाद प्रकार",
+      "products_quantity": "{{quantity}} उत्पाद",
+      "consultation_required": "मशविरा आवश्यक है!",
+      "scheduling_link": "शेड्यूलिंग लिंक : ",
+      "visit_button": "लिंक देखें",
+      "expire_in": "समय सीमा : ",
+      "sessions_available": "{{quantity}} में से {{remaining}} {{plural}} शेष",
+      "treatments": "{{quantity}} इलाज{{plural}}"
+    },
+    "save_button": {
+      "text": "प्रति वर्ष {{amount}} बचाएँ",
+      "subscribe": "अब सदस्यता लें!"
+    },
+    "view_button": {
+      "text": "देखें"
+    },
+    "bonus_card": {
+      "title": "तुरंत साइन‑अप करें",
+      "title_bold": " मुफ्त {{gifts}} दावा करें!"
+    },
+    "teamMember": {
+      "title": "इस खरीद में किसने आपकी सहायता की?",
+      "not_Sure": "पक्का नहीं"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "आज इलाज करें। बाद में भुगतान करें। पुरस्कार कमाएँ।",
+      "free_treatments": "मुफ़्त इलाज। विशेष लाभ।",
+      "how_it_work": "यह कैसे काम करता है?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} अंक",
+    "sinleReward": "इनाम",
+    "title": "पुरस्कार",
+    "win_points": {
+      "title": "और अंक चाहिए?",
+      "refer_friend": "दोस्त को संदर्भित करें",
+      "purshase_inApp": "ऐप में खरीदारी करें",
+      "google_review": "Google पर समीक्षा दें",
+      "visit": "हमारी क्लिनिक देखें",
+      "status": {
+        "points_added": "{{points}} अंक जोड़े गए",
+        "scan": "कमाई के लिए स्कैन करें",
+        "pending": "अनुमोदन की प्रतीक्षा",
+        "plus_points": "+{{points}} अंक",
+        "done": "किया गया"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "लॉयल्टी अंक",
+        "cultPoints": "कल्ट अंक",
+        "memberShip": "{{clinic}} सदस्य",
+        "joinedOn": "शामिल हुए {{since}}",
+        "cash": "{{clinic}} नकद"
+      },
+      "reviewSheet": {
+        "title": "क्या आपने समीक्षा छोड़ी?",
+        "text": "हमारे क्लिनिक मालिक समीक्षा की जांच करेंगे ताकि आपके अंक जोड़े जा सकें।",
+        "yesButton": "हाँ, मैंने किया!",
+        "noButton": "अभी नहीं"
+      },
+      "reward_details": {
+        "expire_in": "{{time_left}} दिनों में समाप्त",
+        "redeem_button": "इनाम अब भुनाएँ",
+        "bank_it": "{{amount}} {{clinic}} के लिए जमा करें",
+        "redeemed": "भुनाया गया",
+        "banked": "जमा किया गया",
+        "locked": "लॉक किया गया",
+        "expired_at": "समय सीमा समाप्त हुई ",
+        "consumed": "उपयोग किया गया"
+      },
+      "bank_reward": {
+        "bank_title": "क्या आप अपने इनाम को {{clinic}} नकद में जमा करना चाहते हैं?",
+        "custom_bank_title": "अपने इनाम को जमा करें के लिए",
+        "bank_description": "आप इसे बदलेंगे अपनी इनाम के लिए",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "मूल्य का {{clinic}} नकद जिसका उपयोग आप ऐप की दुकान में कर सकते हैं। ऐसा करने से आप इनाम तक पहुँच खो देंगे।",
+        "yes_button": "हाँ, इनाम जमा करें",
+        "no_button": "अभी नहीं"
+      },
+      "congratSheet": {
+        "title": "बधाई हो!",
+        "your_reward": "आपका इनाम कार्ट में जोड़ दिया गया है!",
+        "description": "हमारी दुकान अभी देखें इसे अपनी Bestellung में जोड़ने के लिए या कार्ट देखें अभी चेकआउट के साथ अपने डिस्काउंट के साथ।",
+        "explore_shop": "दुकान देखें",
+        "view_cart": "कार्ट देखें"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "खाता",
+    "logout": "लॉगआउट",
+    "my‑treatment‑section": {
+      "my‑treatment": "मेरे इलाज",
+      "used_treatments": "उपयोग किए गए इलाज",
+      "empty_used": "कोई इलाज उपयोग नहीं किया गया",
+      "empty_purshased": "कोई इलाज नहीं खरीदा गया",
+      "empty_treatment": "कोई इलाज नहीं",
+      "remaining_treatments": "{{remaining}} में से {{quantity}} इलाज शेष",
+      "redeemed_on": "भुनाया गया: {{date}}",
+      "scan": "कार्यालय में स्कैन करें भुनाने के लिए",
+      "book": "अपॉइंटमेंट बुक करें",
+      "callClinic": "क्लिनिक को कॉल करें"
+    },
+    "my‑product‑section": {
+      "my‑product": "मेरे उत्पाद",
+      "used_products": "उपयोग किए गए उत्पाद",
+      "empty_used": "कोई उत्पाद उपयोग नहीं किया गया",
+      "empty_purshased": "कोई उत्पाद नहीं खरीदा गया",
+      "empty_product": "कोई उत्पाद नहीं",
+      "remaining_products": "{{remaining}} में से {{quantity}} उत्पाद शेष",
+      "redeemed_on": "भुनाया गया: {{date}}",
+      "scan": "कार्यालय में स्कैन करें भुनाने के लिए",
+      "book": "अपॉइंटमेंट बुक करें",
+      "callClinic": "क्लिनिक को कॉल करें"
+    },
+    "quantity_sheet": {
+      "select": "मात्रा चुनें",
+      "units_left": "{{quantity}} {{units}} उपलब्ध"
+    },
+    "redeem_modal": {
+      "redeemed": "इलाज भुनाया गया",
+      "description": "अब आप शेष इकाइयाँ देख सकते हैं और अपनी अगली सत्रों की योजना बना सकते हैं।",
+      "got_it": "समझ गया!",
+      "cant_scan": "स्कैन नहीं कर सकते?",
+      "fallback_description": "यह आपकी फॉलबैक कोड है। इसे वेब ऐप में दर्ज करें:",
+      "time_remaining": "शेष समय: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "उत्पाद भुनाया गया",
+      "description": "अब आप शेष इकाइयाँ देख सकते हैं और अपनी अगली सत्रों की योजना बना सकते हैं।",
+      "got_it": "समझ गया!",
+      "cant_scan": "स्कैन नहीं कर सकते?",
+      "fallback_description": "यह आपकी फॉलबैक कोड है। इसे वेब ऐप में दर्ज करें:",
+      "time_remaining": "शेष समय: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "व्यक्तिगत जानकारी",
+      "payment_methods": "भुगतान के तरीके",
+      "payment_method": "भुगतान का तरीका"
+    },
+    "payment_method_card": {
+      "visa": "कार्ड",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "कार्ड नंबर",
+      "experation": "समाप्ति",
+      "cvc": "CVC",
+      "select_country": "देश चुनें",
+      "select_country_placeholder": "कृपया एक देश चुनें…",
+      "contact_details": "संपर्क विवरण",
+      "confirm_details": "अपनी जानकारी पुष्टि करें अपनी बिक्री रसीद प्राप्त करने के लिए"
+    }
+  },
+  "membership_section": {
+    "joined_on": " शामिल हुए {{date}}",
+    "cancled_on": " रद्द किया गया {{date}}",
+    "empty_membership": "यहाँ कोई सदस्यता नहीं",
+    "browse_mebership": "सदस्यताओं ब्राउज़ करें",
+    "active_membership": "सक्रिय सदस्यता",
+    "paused_membership": "सदस्यता विरामित",
+    "active_membership_count": "{{quantity}} सक्रिय सदस्यताएँ",
+    "next_payment_attempt": "हमने आपकी सदस्यता भुगतान प्रक्रिया करने का प्रयास किया, हम फिर से कोशिश करेंगे {{date}}",
+    "update_payment_info": "भुगतान का तरीका अपडेट करें",
+    "retry_payment": "भुगतान का तरीका पुनः प्रयास करें",
+    "cancel_payment": "सदस्यता रद्द करें",
+    "something_wrong": "ऐसा लगता है कि कुछ गलत हो गया…",
+    "update_payment_method": "भुगतान अपडेट करें",
+    "you_saved": "आपने बचाया है",
+    "treatments": "({{number}} इलाज{{plural}})",
+    "products": "({{number}} उत्पाद{{plural}})",
+    "equivalent": {
+      "title": "समकक्ष",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel लिपस्टिक(ओं)",
+      "bags": " Chanel बैग(ओं)",
+      "swimsuits": " Gucci स्विमसूट(ओं)"
+    },
+    "memberShipPayFor": "वह सदस्यता जो स्वयं भुगतान करती है",
+    "you_have": "आपके पास {{quantity}} इलाज उपलब्ध हैं",
+    "you_have_products": "आपके पास {{quantity}} उत्पाद उपलब्ध हैं",
+    "available_in": "अगली चयन तक शेष {{days}} दिन",
+    "available_in_products": "अगले उत्पाद उपलब्ध हैं {{days}} दिन में",
+    "your_benefits": "आपके लाभ",
+    "membership_benefits": "सदस्यता लाभ",
+    "refresh_on": "रिफ्रेश होगी {{date}}",
+    "monthly_treatment_selection": "मासिक उपचार चयन",
+    "monthly_product_selection": "मासिक उत्पाद चयन",
+    "firstDay_treatment_selection": "सदस्य बनने के पहले दिन से शुरू",
+    "firstDay_product_selection": "सदस्य बनने के पहले दिन से शुरू",
+    "unknown_treatment_selection": "सदस्य बनने के {{period}} बाद शुरू",
+    "unknown_product_selection": "सदस्य बनने के {{period}} बाद शुरू",
+    "select_one": "प्रति माह नीचे दिए गए में से 1 मुफ्त उपचार चुनें",
+    "select_one_product": "प्रति माह नीचे दिए गए में से 1 मुफ्त उत्पाद चुनें",
+    "select_free_treatment": "अपना मुफ्त उपचार चुनें",
+    "select_free_product": "अपना मुफ्त उत्पाद चुनें",
+    "are_you_sure": "क्या आप वाकई यह उपचार चुनना चाहते हैं?",
+    "are_you_sure_product": "क्या आप वाकई यह उत्पाद चुनना चाहते हैं?",
+    "are_you_sure_cancel": "क्या आप वाकई अपनी सदस्यता रद्द करना चाहते हैं?",
+    "sure": "हाँ, निश्चित",
+    "no": "नहीं, मैं गलत था",
+    "number_updated": "इस उपचार के लिए इकाइयों की संख्या सफलतापूर्वक अपडेट की गई",
+    "number_updated_product": "इस उत्पाद के लिए इकाइयों की संख्या सफलतापूर्वक अपडेट की गई",
+    "you_can_see": "अब आप शेष इकाइयाँ देख सकते हैं और अपनी अगली सत्रों की योजना बना सकते हैं।",
+    "you_can_see_product": "अब आप शेष इकाइयाँ देख सकते हैं और अपनी अगली सत्रों की योजना बना सकते हैं।"
+  },
+  "cart_screen": {
+    "screen_title": "शॉपिंग कार्ट",
+    "clinic_price_applied": "{{clinic}} मूल्य लागू किया गया",
+    "summury": "सारांश",
+    "promo_code": "प्रोमो कोड",
+    "add_promo_code": "प्रोमो कोड जोड़ें",
+    "order_summury": "ऑर्डर सारांश",
+    "subtotal": "उप-योग",
+    "cash_wallet": "नकद वॉलेट",
+    "rewardDiscount": "पुरस्कार छूट",
+    "membership_discount": "सदस्यता छूट",
+    "tax": "कर & सेवा शुल्क",
+    "total": "कुल राशि",
+    "totalMaj": "ऑर्डर कुल",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "अभी चेकआउट करें",
+    "place_order": "ऑर्डर दें",
+    "order_confirmed": "उत्साहित हो जाएँ, आपका ऑर्डर पुष्टि हो गया है!",
+    "points_tracker": "पॉइंट ट्रैकर",
+    "your_purchance": "आपकी खरीद की मदद की आपकी अगली पुरस्कार तक कमाई में!",
+    "reward_unlocked": "पुरस्कार अनलॉक हुआ",
+    "rewards_unlocked": "पुरस्कार अनलॉक हुआ हैं",
+    "amount_unlocked": "${{amount}} उनके पहले इन‑ऐप खरीद के लिए",
+    "can_convert_amount": "में परिवर्तित किया जा सकता है ${{amount}} नकद",
+    "edit_product": "उत्पाद संपादित करें",
+    "delete": "हटाएँ",
+    "empty_cart": "कार्ट खाली है, कुछ उत्पाद जोड़ें",
+    "cashExceeds": "क्षमा करें, नकद शेष राशि ({{allowedMerchantCashPercentage}} %) से अधिक नहीं हो सकती कुल कार्ट मूल्य का",
+    "loseMoney": "हम पैसे खो देंगे 😞",
+    "useOnly": "आप अपने कार्ट में और उपचार जोड़ सकते हैं, या अभी इस इलाज के लिए अपनी उपलब्ध नकद शेष राशि में से केवल {{amount}} उपयोग कर सकते हैं।",
+    "disallowed": "क्षमा करें, आपका नकद शेष राशि {{number}} उपचार(s) के लिए उपयोग नहीं किया जा सकता",
+    "removeFromCart": "कार्ट से हटाएँ"
+  },
+  "dates": {
+    "minute": "मिनट",
+    "minutes": "मिनट",
+    "hour": "घंटा",
+    "hours": "घंटे",
+    "day": "दिन",
+    "days": "दिन",
+    "month": "महीना",
+    "months": "महीने",
+    "year": "वर्ष",
+    "years": "वर्ष",
+    "now": "अब",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "यह ई‑मेल पहले ही उपयोग में है। कृपया एक अन्य ई‑मेल उपयोग करें।",
+    "login_error": "लॉगिन विफल। अपना नंबर जांचें, फिर पुनः प्रयास करें।",
+    "signup_error": "साइन‑अप विफल। सुनिश्चित करें कि आपकी जानकारी सही है और फिर पुनः प्रयास करें।",
+    "undifined_error": "उफ़! कुछ गलत हो गया।",
+    "otp_not_valid": "आपने जो कोड दर्ज किया है वह गलत है। कृपया जांचें और फिर से प्रयास करें।",
+    "create_account": "हम आपका खाता नहीं बना सके। कृपया अपनी जानकारी जांचें और फिर से प्रयास करें।",
+    "date": {
+      "invalid_date": "तिथि गलत प्रारूप में है। कृपया DD/MM/YYYY का उपयोग करें।",
+      "invalid_month": "कृपया एक वैध जन्म माह चुनें।",
+      "invalid_day": "कृपया एक वैध जन्मदिन चुनें।",
+      "invalid_birthdate": "आपकी जन्मतिथि भविष्य में नहीं हो सकती। कृपया एक वैध जन्मतिथि चुनें।"
+    }
+  },
+  "noDataFound": {
+    "treatment": "कोई इलाज उपलब्ध नहीं",
+    "treatmentSearch": "कोई इलाज उपलब्ध नहीं",
+    "product": "कोई उत्पाद उपलब्ध नहीं"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "यह सीधे आपके कार्ड से {{amount}} चार्ज करेगा। क्या आप सुनिश्चित हैं कि आप आगे बढ़ना चाहते हैं?",
+    "add_card_note": "नोट: आपके खाते में एक भुगतान विधि जोड़ना आवश्यक है",
+    "confirm_subscription": "सदस्यता की पुष्टि करें",
+    "yes": "हाँ, आगे बढ़ें",
+    "no": "नहीं, रद्द करें"
+  },
+  "taxSheet": {
+    "title": "2.5% कर & सेवा शुल्क",
+    "description": "इस शुल्क का उपयोग आपके इलाज या सेवा से संबंधित प्रशासनिक लागतों को संतुलित करने के लिए किया जाता है।",
+    "button": "समझ गया"
+  },
+  "payment": {
+    "retry_failed_title": "भुगतान विफल",
+    "retry_failed_message": "हम आपका भुगतान प्रोसेस नहीं कर सके। कृपया आगे बढ़ने के लिए अपनी भुगतान विधि अपडेट करें।"
+  },
+  "treatments": {
+    "redeem_multiple": "{{count}} इलाज भुनाएं"
+  },
+  "products": {
+    "redeem_multiple": "{{count}} उत्पाद भुनाएं"
+  },
+  "custom_plan": {
+    "delete_title": "कस्टम योजना हटाएँ",
+    "delete_description": "क्या आप वाकई इस कस्टम योजना को हटाना चाहते हैं?",
+    "delete": "हटाएँ",
+    "cancel": "रद्द करें"
+  },
+  "no_search_results": {
+    "title": "कोई परिणाम नहीं मिला",
+    "description": "ऐसा लगता है कि हमें आपकी खोज से मेल खाने वाला कुछ नहीं मिला।",
+    "try_new": "विभिन्न कीवर्ड आजमाएं या वर्तनी की जाँच करें।"
+  }
+}

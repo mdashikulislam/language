@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Fortsæt som gæst",
+    "continue": "Fortsæt",
+    "apply": "ANVEND INDTASTNING",
+    "save": "Gem",
+    "scan": "Scan nu",
+    "next": "Næste",
+    "powered": "Drevet af ",
+    "scan_qr_code": "Scan QR‑kode",
+    "or": "eller",
+    "shop_now": "Shop nu",
+    "dermis": "DERMIS",
+    "resend_code": "Send kode igen",
+    "view_rewards": "Se mine belønninger",
+    "change_icon": "Skift ikon",
+    "reset_icon": "Nulstil ikon",
+    "my_points": "Se mine point",
+    "see_more": "Se mere",
+    "see_benifits": "Se fordele",
+    "show_all": "Vis alle",
+    "rewards": "Belønninger",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Kan ombyttes til ",
+    "clinic_cash": "{{clinic}} kontanter",
+    "checkout": "Betal",
+    "save_address": "Gem adresse på din konto",
+    "call_now": "Ring nu",
+    "apply_filter": "Anvend",
+    "filter_by": "Filtrer efter",
+    "reset_filter": "Nulstil filter",
+    "unit_number": "{{quantity}} enhed",
+    "add_to_cart": "Tilføj til kurv",
+    "treatments": "Behandlinger",
+    "products": "Produkter",
+    "membership": "Medlemskab",
+    "treat_today": "Behandl i dag. Betal senere.",
+    "earn": " Tjen belønninger.",
+    "search": "Søg",
+    "settings": "Indstillinger",
+    "save_big": "Spar mange penge",
+    "browse_shop": "Gennemse butikken",
+    "filter": "Filter",
+    "sort": "Sorter",
+    "referral": "Henvisningskode",
+    "enter_referral": "Indtast din henvisningskode",
+    "enter_referral_description": "Indtast din henvisningskode for at modtage særlige fordele",
+    "submit": "Send",
+    "skip": "Spring over",
+    "have_referral": "Har du en henvisningskode?",
+    "ok": "OK",
+    "cancel": "Annuller"
+  },
+  "deleteAccount": {
+    "title": "Slet konto",
+    "description": "Er du sikker på, at du vil slette din konto?",
+    "note": "Alle dine data og abonnement vil blive slettet permanent.",
+    "yes": "Ja",
+    "no": "Nej"
+  },
+  "home": {
+    "last_visited": "{{name}}, du har ikke besøgt i",
+    "days_count": "{{days_count}}…",
+    "offer": "Så vi har lavet et tilbud, du ikke kan sige nej til!",
+    "unwrap": "Tryk for at åbne",
+    "recently_viewed": "For nylig vist",
+    "save": "Spar {{amount}}",
+    "save2": " som medlem af {{clinic}}",
+    "save_paragraph": "Gratis behandlinger. Eksklusive fordele.",
+    "ad_title": "Behandl i dag. Betal senere. Tjen belønninger.",
+    "ad_description": "Foretag månedlige betalinger uden gebyr for forsinkelse",
+    "educate_yourself": "Bliv klogere"
+  },
+  "language": {
+    "english": "Engelsk",
+    "french": "Fransk"
+  },
+  "onboarding": {
+    "welcome": "Velkommen her",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Gratis belønning til nye medlemmer!",
+    "birthdays": "Gratis fødselsdagsgaver",
+    "events": "Medlems‑kun events og tilbud",
+    "phone_request": "Må vi få dit telefonnummer?",
+    "login_with_phone": "Tilmeld eller log ind med dit telefonnummer!",
+    "terms": {
+      "agree": "Jeg accepterer ",
+      "terms_of_service": "Servicevilkår ",
+      "and": "og ",
+      "privacy": "Privatlivspolitik."
+    },
+    "closeApp": "Luk appen",
+    "andReopen": "og åbn den igen",
+    "otp_title": "Indtast OTP sendt via SMS",
+    "sms_sent": "Vi har sendt OTP til {{phone_number}}",
+    "email_placeholder": "navn@e‑mail.com",
+    "well_done": "Godt klaret!",
+    "email_request": "Og din e‑mail?",
+    "last_step": "Sidste skridt",
+    "name_request": "Hvad hedder du?",
+    "name_placeholder": "john doe",
+    "first_name_placeholder": "John",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "Hvornår har du fødselsdag?",
+    "welcome_message2": "Velkommen {{name}}! ",
+    "gift_message": "Vi har givet dig en lille gave ved at scanne din første QR kode",
+    "find_spa": {
+      "find_medspa": "Find dit tilbud",
+      "description": "Find din lokation nu for at shoppe dine yndlingsservices og begynd at tjene belønninger ved hvert køb og besøg!",
+      "search": "Søg tilbud efter navn",
+      "results_found": "Fundet {{quantity}} resultater"
+    }
+  },
+  "personalInfo": {
+    "title": "Personlige oplysninger",
+    "email_label": "E‑mail",
+    "email_placeholder": "navn@e‑mail.com",
+    "nickname_label": "Kaldenavn",
+    "nickname_placeholer": "navn",
+    "firstname_label": "Fornavn",
+    "firstname_placeholder": "John",
+    "lastname_label": "Efternavn",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Scan på klinikken for",
+    "points": "{{points}} point",
+    "cant_scan": "Hvordan virker det?"
+  },
+  "rewardModal": {
+    "horray": "Hurra! ",
+    "you_earned": "Du har lige tjent",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} point"
+  },
+  "banked_modal": {
+    "reward_banked": "BELØNNING INDSAT!",
+    "cash": "{{clinic}} kontanter",
+    "view_rewards": "Se belønninger"
+  },
+  "segment": {
+    "browse": "Gennemse",
+    "treatments": "Behandlinger",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktiv",
+    "past": "Tidligere",
+    "products": "Produkter"
+  },
+  "special_offers": {
+    "expire_in": "Udløber om {{time_left}} ",
+    "title": "Specialtilbud!",
+    "new_msg": "Du har modtaget en besked fra {{sender}}!"
+  },
+  "shop": {
+    "title": "Shop",
+    "treatment": {
+      "learn_more": "Lær mere om denne behandling",
+      "see_treatment": "Se behandling",
+      "included_treatments_title": "Inkluderede behandlinger",
+      "chose_treatment": "Vælg {{quantity}} af følgende hver {{month}}",
+      "chose_treatment2": "Vælg {{quantity}} nedenfor hver {{month}}",
+      "chose_treatment3": "Modtag følgende hver {{month}}",
+      "signUpBonus": "Tilmeldingsbonus",
+      "from_price": "Fra {{price}}",
+      "members_price": "{{memberPrice}} for medlemmer",
+      "treatment_fees": " et servicegebyr på {{fees}} gælder ved betaling",
+      "results_title": "Fascinerende resultater",
+      "results_description": "Sådan følte andre om denne behandling",
+      "select_plan": "Vælg en behandlingsplan",
+      "before_text": "Før din behandling",
+      "after_text": "Efter din behandling",
+      "members_results": "Medlemsresultater",
+      "customers_and_clients": "Hvad medlemmer har set",
+      "expectations": "Hvad kan du forvente?",
+      "bundles_treatment_title": "Antal behandlinger",
+      "variations_treatments_title": "Behandlingstyper",
+      "treatments_quantity": "{{quantity}} behandlinger",
+      "consultation_required": "Konsultation kræves!",
+      "scheduling_link": "bookingslink : ",
+      "visit_button": "Besøg link",
+      "noBooking": "Der kræves ingen reservation for dette produkt.",
+      "sessions_available": "{{quantity}} af {{remaining}} session(er) tilbage",
+      "sessions": "{{quantity}} session(er){{plural}}",
+      "expire_in": "Udløber om ",
+      "search_result": "{{quantity}} resultater fundet",
+      "consultation": "Denne behandling kræver konsultation",
+      "add_to_cart": "Er du sikker på, at du vil tilføje den til kurven?"
+    },
+    "product": {
+      "learn_more": "Lær mere om dette produkt",
+      "see_product": "Se produkt",
+      "included_products_title": "Inkluderede produkter",
+      "chose_product": "Vælg {{quantity}} af følgende hver {{month}}",
+      "chose_product2": "Vælg {{quantity}} nedenfor hver {{month}}",
+      "chose_product3": "Modtag følgende hver {{month}}",
+      "from_price": "Fra {{price}}",
+      "members_price": "{{memberPrice}} for medlemmer",
+      "product_fees": " et servicegebyr på {{fees}} gælder ved betaling",
+      "results_title": "Fascinerende resultater",
+      "results_description": "Sådan følte andre om dette produkt",
+      "select_plan": "Vælg en produktplan",
+      "before_text": "Før dit produkt",
+      "after_text": "Efter dit produkt",
+      "members_results": "Medlemsresultater",
+      "customers_and_clients": "Hvordan medlemmer følte dette produkt",
+      "expectations": "Hvad kan du forvente?",
+      "bundles_product_title": "Antal produkter",
+      "variations_products_title": "Produkttyper",
+      "products_quantity": "{{quantity}} produkter",
+      "consultation_required": "Konsultation kræves!",
+      "scheduling_link": "bookingslink : ",
+      "visit_button": "Besøg link",
+      "expire_in": "Udløber om ",
+      "sessions_available": "{{quantity}} af {{remaining}} {{plural}} tilbage",
+      "treatments": "{{quantity}} behandling(er){{plural}}"
+    },
+    "save_button": {
+      "text": "Spar {{amount}} om året",
+      "subscribe": "Abonner nu!"
+    },
+    "view_button": {
+      "text": "Se"
+    },
+    "bonus_card": {
+      "title": "Tilmeld dig og med det samme",
+      "title_bold": " kræv gratis {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Hvem hjalp dig med dette køb?",
+      "not_Sure": "Er ikke sikker"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Behandl i dag. Betal senere. Tjen belønninger.",
+      "free_treatments": "Gratis behandlinger. Eksklusive fordele.",
+      "how_it_work": "Hvordan virker det?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} POINT",
+    "sinleReward": "Belønning",
+    "title": "Belønninger",
+    "win_points": {
+      "title": "Brug for flere point?",
+      "refer_friend": "Henvis en ven",
+      "purshase_inApp": "Køb i appen",
+      "google_review": "Google‑anmeldelse",
+      "visit": "Besøg vores klinik",
+      "status": {
+        "points_added": "{{points}} point tilføjet",
+        "scan": "Scan for at tjene",
+        "pending": "Venter på godkendelse",
+        "plus_points": "+{{points}} point",
+        "done": "Færdig"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Loyalitetspoint",
+        "cultPoints": "Cult‑point",
+        "memberShip": "{{clinic}} medlem",
+        "joinedOn": "Tilmeldt den {{since}}",
+        "cash": "{{clinic}} kontanter"
+      },
+      "reviewSheet": {
+        "title": "Har du skrevet en anmeldelse?",
+        "text": "Ejer af klinikken vil verificere anmeldelsen for at tilføje dine point.",
+        "yesButton": "Ja, jeg gjorde!",
+        "noButton": "Ikke endnu"
+      },
+      "reward_details": {
+        "expire_in": "Udløber om {{time_left}} dage",
+        "redeem_button": "Indløs belønning nu",
+        "bank_it": "Bankér til {{amount}} {{clinic}}",
+        "redeemed": "Indløst",
+        "banked": "Banket",
+        "locked": "Låst",
+        "expired_at": "Udløbet den",
+        "consumed": "Forbrugt"
+      },
+      "bank_reward": {
+        "bank_title": "Bankér din belønning til kontanter i {{clinic}}?",
+        "custom_bank_title": "Bankér din belønning til",
+        "bank_description": "Du vil bytte den til",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "kontanter i {{clinic}}, som kan bruges i shoppen i appen. Ved at gøre dette mister du adgang til selve belønningen.",
+        "yes_button": "Ja, bankér belønning",
+        "no_button": "Ikke nu"
+      },
+      "congratSheet": {
+        "title": "Tillykke!",
+        "your_reward": "Din belønning er lagt i kurven!",
+        "description": "Gennemse vores butik nu for at tilføje den til din ordre eller se kurven for at betale nu med din rabat anvendt.",
+        "explore_shop": "Udforsk butik",
+        "view_cart": "Se kurv"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Konto",
+    "logout": "Log ud",
+    "my‑treatment‑section": {
+      "my‑treatment": "Mine behandlinger",
+      "used_treatments": "Brugte behandlinger",
+      "empty_used": "Ingen brugte behandlinger",
+      "empty_purshased": "Ingen købte behandlinger",
+      "empty_treatment": "Ingen behandlinger",
+      "remaining_treatments": "{{remaining}} af {{quantity}} behandlinger tilbage",
+      "redeemed_on": "Indløst den: {{date}}",
+      "scan": "Scan i klinikken for at indløse",
+      "book": "Book aftale",
+      "callClinic": "Ring til klinikken"
+    },
+    "my‑product‑section": {
+      "my‑product": "Mine produkter",
+      "used_products": "Brugte produkter",
+      "empty_used": "Ingen brugte produkter",
+      "empty_purshased": "Ingen købte produkter",
+      "empty_product": "Ingen produkter",
+      "remaining_products": "{{remaining}} af {{quantity}} produkter tilbage",
+      "redeemed_on": "Indløst den: {{date}}",
+      "scan": "Scan i klinikken for at indløse",
+      "book": "Book aftale",
+      "callClinic": "Ring til klinikken"
+    },
+    "quantity_sheet": {
+      "select": "Vælg antal",
+      "units_left": "{{quantity}} {{units}} tilgængelige"
+    },
+    "redeem_modal": {
+      "redeemed": "Behandling indløst",
+      "description": "Du kan nu se de resterende enheder og planlægge dine næste sessioner.",
+      "got_it": "Forstået!",
+      "cant_scan": "Kan ikke scanne?",
+      "fallback_description": "Her er din fallback‑kode. Indtast den i web‑appen:",
+      "time_remaining": "Tid tilbage: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produkt indløst",
+      "description": "Du kan nu se de resterende enheder og planlægge dine næste sessioner.",
+      "got_it": "Forstået!",
+      "cant_scan": "Kan ikke scanne?",
+      "fallback_description": "Her er din fallback‑kode. Indtast den i web‑appen:",
+      "time_remaining": "Tid tilbage: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Personlige oplysninger",
+      "payment_methods": "Betalingsmetoder",
+      "payment_method": "Betalingsmetode"
+    },
+    "payment_method_card": {
+      "visa": "Kort",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Kortnummer",
+      "experation": "Udløber",
+      "cvc": "CVC",
+      "select_country": "Vælg land",
+      "select_country_placeholder": "Vælg et land…",
+      "contact_details": "Kontaktoplysninger",
+      "confirm_details": "Bekræft dine data for at modtage din kvittering"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Tilmeldt den {{date}}",
+    "cancled_on": " Annulleret den {{date}}",
+    "empty_membership": "Intet medlemskab her",
+    "browse_mebership": "Gennemse medlemskaber",
+    "active_membership": "Aktivt medlemskab",
+    "paused_membership": "Pause på medlemskab",
+    "active_membership_count": "{{quantity}} aktive medlemskaber",
+    "next_payment_attempt": "Vi forsøgte at behandle din betaling, vi forsøger igen den {{date}}",
+    "update_payment_info": "Opdater betalingsmetode",
+    "retry_payment": "Prøv betalingsmetode igen",
+    "cancel_payment": "Annullér medlemskab",
+    "something_wrong": "Det ser ud til, at noget gik galt…",
+    "update_payment_method": "Opdater betaling",
+    "you_saved": "Du har sparet",
+    "treatments": "({{number}} Behandling(er))",
+    "products": "({{number}} Produkt(er))",
+    "equivalent": {
+      "title": "Ækvivalent",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel læbestift(e)",
+      "bags": " Chanel taske(r)",
+      "swimsuits": " Gucci badedragt(er)"
+    },
+    "memberShipPayFor": "Medlemskabet der betaler sig selv",
+    "you_have": "Du har {{quantity}} behandlinger tilgængelige",
+    "you_have_products": "Du har {{quantity}} produkter tilgængelige",
+    "available_in": "Tilgængelig om {{days}} dage",
+    "available_in_products": "Næste produkter tilgængelige om {{days}} dage",
+    "your_benefits": "Dine fordele",
+    "membership_benefits": "Medlemskabsfordele",
+    "refresh_on": "Genopfriskes den {{date}}",
+    "monthly_treatment_selection": "Månedligt valg af behandling",
+    "monthly_product_selection": "Månedligt valg af produkt",
+    "firstDay_treatment_selection": "Starter den 1. dag som medlem",
+    "firstDay_product_selection": "Starter den 1. dag som medlem",
+    "unknown_treatment_selection": "Starter efter {{period}} som medlem",
+    "unknown_product_selection": "Starter efter {{period}} som medlem",
+    "select_one": "Vælg 1 af nedenstående behandlinger gratis hver måned",
+    "select_one_product": "Vælg 1 af nedenstående produkter gratis hver måned",
+    "select_free_treatment": "Vælg din gratis behandling",
+    "select_free_product": "Vælg dit gratis produkt",
+    "are_you_sure": "Er du sikker på, at du vil vælge denne behandling?",
+    "are_you_sure_product": "Er du sikker på, at du vil vælge dette produkt?",
+    "are_you_sure_cancel": "Er du sikker på, at du vil annullere dit medlemskab?",
+    "sure": "Ja, bestemt",
+    "no": "Nej, jeg tog fejl",
+    "number_updated": "Antallet af enheder blev opdateret med succes for denne behandling",
+    "number_updated_product": "Antallet af enheder blev opdateret med succes for dette produkt",
+    "you_can_see": "Du kan nu se de resterende enheder og planlægge dine næste sessioner.",
+    "you_can_see_product": "Du kan nu se de resterende enheder og planlægge dine næste sessioner."
+  },
+  "cart_screen": {
+    "screen_title": "Indkøbskurv",
+    "clinic_price_applied": "{{clinic}} pris anvendt",
+    "summury": "Oversigt",
+    "promo_code": "Promo‑kode",
+    "add_promo_code": "Tilføj promo‑kode",
+    "order_summury": "ORDRE OVERSIGT",
+    "subtotal": "Delsum",
+    "cash_wallet": "Kontant tegnebog",
+    "rewardDiscount": "Belønningsrabat",
+    "membership_discount": "Medlemskabsrabat",
+    "tax": "Skat & servicegebyr",
+    "total": "Ordretotal",
+    "totalMaj": "ORDRE TOTAL",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Betal nu",
+    "place_order": "Afslut ordre",
+    "order_confirmed": "Gør dig klar, din ordre er bekræftet!",
+    "points_tracker": "Point‑tracker",
+    "your_purchance": "Dit køb har hjulpet dig med at tjene næste belønning!",
+    "reward_unlocked": "belønning låst op",
+    "rewards_unlocked": "BELØNNINGER LÅST OP",
+    "amount_unlocked": "${{amount}} mod deres første køb i appen",
+    "can_convert_amount": "Kan ombyttes til ${{amount}} kontanter",
+    "edit_product": "Rediger produkt",
+    "delete": "Slet",
+    "empty_cart": "Kurven er tom, tilføj nogle produkter",
+    "cashExceeds": "Desværre kan kontantsaldoen ikke overstige ({{allowedMerchantCashPercentage}} %) af den samlede værdi af kurven",
+    "loseMoney": "Vi ville tabe penge 😞",
+    "useOnly": "Du kan tilføje flere behandlinger i kurven, eller kun bruge {{amount}} af din tilgængelige kontantsaldo for denne behandling nu.",
+    "disallowed": "Desværre kan din kontantsaldo ikke bruges til {{number}} behandling(er)",
+    "removeFromCart": "Fjern fra kurv"
+  },
+  "dates": {
+    "minute": "minut",
+    "minutes": "minutter",
+    "hour": "time",
+    "hours": "timer",
+    "day": "dag",
+    "days": "dage",
+    "month": "måned",
+    "months": "måneder",
+    "year": "år",
+    "years": "år",
+    "now": "nu",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Denne e‑mail er allerede i brug. Brug venligst en anden e‑mail.",
+    "login_error": "Login mislykkedes. Tjek dit nummer og prøv igen.",
+    "signup_error": "Tilmelding mislykkedes. Sørg for at dine oplysninger er korrekte og prøv igen.",
+    "undifined_error": "Ups! Noget gik galt.",
+    "otp_not_valid": "Den kode du indtastede er forkert. Tjek den og prøv igen.",
+    "create_account": "Vi kunne ikke oprette din konto. Tjek dine oplysninger og prøv igen.",
+    "date": {
+      "invalid_date": "Datoen har forkert format. Brug DD/MM/YYYY.",
+      "invalid_month": "Vælg venligst en gyldig fødselsmåned.",
+      "invalid_day": "Vælg venligst en gyldig fødselsdag.",
+      "invalid_birthdate": "Din fødselsdag kan ikke være i fremtiden. Vælg venligst en gyldig dato."
+    }
+  },
+  "noDataFound": {
+    "treatment": "ingen behandlinger tilgængelige",
+    "treatmentSearch": "ingen behandlinger tilgængelige",
+    "product": "ingen produkter tilgængelige"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Dette beløb på {{amount}} trækkes direkte fra dit kort. Er du sikker på, at du vil fortsætte?",
+    "add_card_note": "Bemærk: du skal have tilføjet en betalingsmetode til din konto",
+    "confirm_subscription": "Bekræft abonnement",
+    "yes": "Ja, fortsæt",
+    "no": "Nej, annuller"
+  },
+  "taxSheet": {
+    "title": "2.5% Skat & servicegebyr",
+    "description": "Dette gebyr bruges til at dække administrationsomkostninger forbundet med din behandling eller service.",
+    "button": "Forstået"
+  },
+  "payment": {
+    "retry_failed_title": "Betaling mislykkedes",
+    "retry_failed_message": "Vi kunne ikke behandle din betaling. Opdater venligst din betalingsmetode for at fortsætte."
+  },
+  "treatments": {
+    "redeem_multiple": "Indløs {{count}} behandling(er)"
+  },
+  "products": {
+    "redeem_multiple": "Indløs {{count}} produkter"
+  },
+  "custom_plan": {
+    "delete_title": "Slet brugerdefineret plan",
+    "delete_description": "Er du sikker på, at du vil slette denne brugerdefinerede plan?",
+    "delete": "Slet",
+    "cancel": "Annuller"
+  },
+  "no_search_results": {
+    "title": "Ingen resultater fundet",
+    "description": "Det ser ud til, at vi ikke kunne finde noget, der matcher din søgning.",
+    "try_new": "Prøv andre nøgleord eller tjek for stavefejl."
+  }
+}

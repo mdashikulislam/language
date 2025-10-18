@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Продовжити як гість",
+    "continue": "Продовжити",
+    "apply": "ЗАСТОСУВАТИ ВВІД",
+    "save": "Зберегти",
+    "scan": "Сканувати зараз",
+    "next": "Далі",
+    "powered": "Працює на ",
+    "scan_qr_code": "Скануйте QR‑код",
+    "or": "або",
+    "shop_now": "Купити зараз",
+    "dermis": "DERMIS",
+    "resend_code": "Відправити код знову",
+    "view_rewards": "Переглянути мої винагороди",
+    "change_icon": "Змінити іконку",
+    "reset_icon": "Скинути іконку",
+    "my_points": "Мої бали",
+    "see_more": "Дивитися більше",
+    "see_benifits": "Переглянути переваги",
+    "show_all": "Показати все",
+    "rewards": "Винагороди",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Можна конвертувати в ",
+    "clinic_cash": "{{clinic}} кеш",
+    "checkout": "Оформити замовлення",
+    "save_address": "Зберегти адресу у вашому акаунті",
+    "call_now": "Зателефонувати зараз",
+    "apply_filter": "Застосувати",
+    "filter_by": "Фільтрувати за",
+    "reset_filter": "Скинути фільтр",
+    "unit_number": "{{quantity}} одиниця",
+    "add_to_cart": "Додати до кошика",
+    "treatments": "Процедури",
+    "products": "Продукти",
+    "membership": "Членство",
+    "treat_today": "Процедура сьогодні. Сплати пізніше.",
+    "earn": " Заробляйте винагороди.",
+    "search": "Пошук",
+    "settings": "Налаштування",
+    "save_big": "Економте значні гроші",
+    "browse_shop": "Ознайомитись з магазином",
+    "filter": "Фільтр",
+    "sort": "Сортувати",
+    "referral": "Реферальний код",
+    "enter_referral": "Введіть ваш реферальний код",
+    "enter_referral_description": "Введіть ваш реферальний код, щоб отримати спеціальні переваги",
+    "submit": "Надіслати",
+    "skip": "Пропустити",
+    "have_referral": "У вас є реферальний код?",
+    "ok": "OK",
+    "cancel": "Скасувати"
+  },
+  "deleteAccount": {
+    "title": "Видалити акаунт",
+    "description": "Ви впевнені, що хочете видалити свій акаунт?",
+    "note": "Усі ваші дані та підписка будуть видалені назавжди.",
+    "yes": "Так",
+    "no": "Ні"
+  },
+  "home": {
+    "last_visited": "{{name}}, ви не відвідували з",
+    "days_count": "{{days_count}}…",
+    "offer": "Тож ми зробили пропозицію, від якої ви не зможете відмовитись!",
+    "unwrap": "Торкніться, щоб відкрити",
+    "recently_viewed": "Нещодавно переглядали",
+    "save": "Економте {{amount}}",
+    "save2": " як учасник {{clinic}}",
+    "save_paragraph": "Безкоштовні процедури. Ексклюзивні переваги.",
+    "ad_title": "Процедура сьогодні. Плати пізніше. Заробляй винагороди.",
+    "ad_description": "Вносьте щомісячні платежі без штрафів за прострочення",
+    "educate_yourself": "Освойте більше"
+  },
+  "language": {
+    "english": "Англійська",
+    "french": "Французька"
+  },
+  "onboarding": {
+    "welcome": "Ласкаво просимо",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Безкоштовна винагорода для нових учасників!",
+    "birthdays": "Безкоштовні подарунки до дня народження",
+    "events": "Події та пропозиції лише для учасників",
+    "phone_request": "Можемо отримати ваш номер телефону?",
+    "login_with_phone": "Зареєструйтесь або увійдіть за номером телефону!",
+    "terms": {
+      "agree": "Я погоджуюсь з ",
+      "terms_of_service": "Умовами обслуговування ",
+      "and": "та ",
+      "privacy": "Політикою конфіденційності."
+    },
+    "closeApp": "Закрийте додаток",
+    "andReopen": "та відкрийте його знову",
+    "otp_title": "Введіть OTP, надісланий SMS",
+    "sms_sent": "Ми надіслали OTP на {{phone_number}}",
+    "email_placeholder": "name@email.com",
+    "well_done": "Чудово!",
+    "email_request": "А ваш e‑mail?",
+    "last_step": "Останній, але не менш важливий",
+    "name_request": "Як вас звати?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "ДД / ММ / YYYY",
+    "birthday_request": "Коли ваш день народження?",
+    "welcome_message2": "Ласкаво просимо {{name}}! ",
+    "gift_message": "Ми підготували для вас невеликий подарунок за сканування першого QR‑коду",
+    "find_spa": {
+      "find_medspa": "Знайдіть вашу пропозицію",
+      "description": "Знайдіть своє місце зараз, щоб купити улюблені послуги та почати заробляти винагороди за кожну покупку й відвідування!",
+      "search": "Пошук пропозиції за назвою",
+      "results_found": "{{quantity}} результатів знайдено"
+    }
+  },
+  "personalInfo": {
+    "title": "Особиста інформація",
+    "email_label": "E‑mail",
+    "email_placeholder": "name@email.com",
+    "nickname_label": "Нікнейм",
+    "nickname_placeholer": "ім’я",
+    "firstname_label": "Ім’я",
+    "firstname_placeholder": "John",
+    "lastname_label": "Прізвище",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Скануйте в офісі для",
+    "points": "{{points}} балів",
+    "cant_scan": "Як це працює?"
+  },
+  "rewardModal": {
+    "horray": "Ура! ",
+    "you_earned": "Ви щойно заробили",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} балів"
+  },
+  "banked_modal": {
+    "reward_banked": "ВИНАГОРОДА ЗАРЕЗЕРВОВАНА!",
+    "cash": "{{clinic}} кеш",
+    "view_rewards": "Переглянути винагороди"
+  },
+  "segment": {
+    "browse": "Переглянути",
+    "treatments": "Процедури",
+    "clinicName": "{{clinicName}}",
+    "active": "Активні",
+    "past": "Минулі",
+    "products": "Продукти"
+  },
+  "special_offers": {
+    "expire_in": "Закінчується через {{time_left}} ",
+    "title": "Спеціальна пропозиція!",
+    "new_msg": "Ви отримали повідомлення від {{sender}}!"
+  },
+  "shop": {
+    "title": "Магазин",
+    "treatment": {
+      "learn_more": "Дізнатись більше про цю процедуру",
+      "see_treatment": "Переглянути процедуру",
+      "included_treatments_title": "Включені процедури",
+      "chose_treatment": "Обрати {{quantity}} із наступних щомісяця",
+      "chose_treatment2": "Обрати {{quantity}} нижче щомісяця",
+      "chose_treatment3": "Отримуйте наступні кожного {{month}}",
+      "signUpBonus": "Бонус за реєстрацію",
+      "from_price": "Від {{price}}",
+      "members_price": "{{memberPrice}} для учасників",
+      "treatment_fees": " застосовано сервісний збір {{fees}} при оформленні",
+      "results_title": "Чарівні результати",
+      "results_description": "Як інші відчували цю процедуру",
+      "select_plan": "Оберіть план процедури",
+      "before_text": "До вашої процедури",
+      "after_text": "Після вашої процедури",
+      "members_results": "Результати учасників",
+      "customers_and_clients": "Що бачили учасники",
+      "expectations": "Чого очікувати?",
+      "bundles_treatment_title": "Кількість процедур",
+      "variations_treatments_title": "Типи процедур",
+      "treatments_quantity": "{{quantity}} процедур",
+      "consultation_required": "Потрібна консультація!",
+      "scheduling_link": "посилання на запис : ",
+      "visit_button": "Перейти за посиланням",
+      "noBooking": "Бронювання для цього продукту не обов’язкове.",
+      "sessions_available": "{{quantity}} із {{remaining}} сесій{{plural}} доступно",
+      "sessions": "{{quantity}} сесія{{plural}}",
+      "expire_in": "Закінчується через ",
+      "search_result": "{{quantity}} результат{{plural}} знайдено",
+      "consultation": "Ця процедура потребує консультації",
+      "add_to_cart": "Ви впевнені, що хочете додати це до кошика?"
+    },
+    "product": {
+      "learn_more": "Дізнатись більше про цей продукт",
+      "see_product": "Переглянути продукт",
+      "included_products_title": "Включені продукти",
+      "chose_product": "Обрати {{quantity}} із наступних кожного {{month}}",
+      "chose_product2": "Обрати {{quantity}} нижче щомісяця",
+      "chose_product3": "Отримуйте наступні кожного {{month}}",
+      "from_price": "Від {{price}}",
+      "members_price": "{{memberPrice}} для учасників",
+      "product_fees": " застосовано сервісний збір {{fees}} при оформленні",
+      "results_title": "Чарівні результати",
+      "results_description": "Як інші відчували цей продукт",
+      "select_plan": "Оберіть план продукту",
+      "before_text": "До вашого продукту",
+      "after_text": "Після вашого продукту",
+      "members_results": "Результати учасників",
+      "customers_and_clients": "Як учасники відчували цей продукт",
+      "expectations": "Чого очікувати?",
+      "bundles_product_title": "Кількість продуктів",
+      "variations_products_title": "Типи продуктів",
+      "products_quantity": "{{quantity}} продуктів",
+      "consultation_required": "Потрібна консультація!",
+      "scheduling_link": "посилання на запис : ",
+      "visit_button": "Перейти за посиланням",
+      "expire_in": "Закінчується через ",
+      "sessions_available": "{{quantity}} із {{remaining}} {{plural}} залишилось",
+      "treatments": "{{quantity}} процедура{{plural}}"
+    },
+    "save_button": {
+      "text": "Економте {{amount}} на рік",
+      "subscribe": "Підписатись зараз!"
+    },
+    "view_button": {
+      "text": "Переглянути"
+    },
+    "bonus_card": {
+      "title": "Зареєструйтесь, щоб одразу",
+      "title_bold": " отримати безкоштовний {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Хто допоміг вам із цією покупкою?",
+      "not_Sure": "Не впевнений"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Процедура сьогодні. Сплати пізніше. Заробляй винагороди.",
+      "free_treatments": "Безкоштовні процедури. Ексклюзивні переваги.",
+      "how_it_work": "Як це працює?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} БАЛІВ",
+    "sinleReward": "Винагорода",
+    "title": "Винагороди",
+    "win_points": {
+      "title": "Потрібно більше балів?",
+      "refer_friend": "Запросити друга",
+      "purshase_inApp": "Купівля в додатку",
+      "google_review": "Огляд на Google",
+      "visit": "Відвідайте нашу клініку",
+      "status": {
+        "points_added": "{{points}} балів додано",
+        "scan": "Скануйте, щоб заробити",
+        "pending": "Очікує затвердження",
+        "plus_points": "+{{points}} балів",
+        "done": "Готово"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Бали лояльності",
+        "cultPoints": "Cult‑бали",
+        "memberShip": "Член {{clinic}}",
+        "joinedOn": "Приєднався {{since}}",
+        "cash": "{{clinic}} кеш"
+      },
+      "reviewSheet": {
+        "title": "Чи залишили ви відгук?",
+        "text": "Власник клініки перевірить відгук, щоб додати вам бали.",
+        "yesButton": "Так, я зробив!",
+        "noButton": "Ще ні"
+      },
+      "reward_details": {
+        "expire_in": "Закінчується через {{time_left}} днів",
+        "redeem_button": "Викупити винагороду зараз",
+        "bank_it": "Відкласти на {{amount}} {{clinic}}",
+        "redeemed": "Викуплено",
+        "banked": "Відкладено",
+        "locked": "Заблоковано",
+        "expired_at": "Закінчено",
+        "consumed": "Використано"
+      },
+      "bank_reward": {
+        "bank_title": "Відкласти вашу винагороду на {{clinic}} кеш?",
+        "custom_bank_title": "Відкласти вашу винагороду на",
+        "bank_description": "Ви обміняєте вашу винагороду на",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "вартість {{clinic}} кеш, який можна витратити в магазині у додатку. Зробивши це, ви втратите доступ до самої винагороди.",
+        "yes_button": "Так, відкласти винагороду",
+        "no_button": "Не зараз"
+      },
+      "congratSheet": {
+        "title": "Вітаємо!",
+        "your_reward": "Ваша винагорода була додана до кошика!",
+        "description": "Перегляньте наш магазин зараз, щоб додати її до замовлення або перегляньте кошик, щоб оформити замовлення зі знижкою.",
+        "explore_shop": "Переглянути магазин",
+        "view_cart": "Переглянути кошик"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Обліковий запис",
+    "logout": "Вийти",
+    "my-treatment-section": {
+      "my-treatment": "Мої процедури",
+      "used_treatments": "Використані процедури",
+      "empty_used": "Немає використаних процедур",
+      "empty_purshased": "Не було придбано жодної процедури",
+      "empty_treatment": "Немає процедур",
+      "remaining_treatments": "{{remaining}} із {{quantity}} процедур залишилось",
+      "redeemed_on": "Викуплено: {{date}}",
+      "scan": "Скануйте в офісі, щоб викупити",
+      "book": "Записатися",
+      "callClinic": "Зателефонувати до клініки"
+    },
+    "my-product-section": {
+      "my-product": "Мої продукти",
+      "used_products": "Використані продукти",
+      "empty_used": "Немає використаних продуктів",
+      "empty_purshased": "Не було придбано жодного продукту",
+      "empty_product": "Немає продуктів",
+      "remaining_products": "{{remaining}} із {{quantity}} продуктів залишилось",
+      "redeemed_on": "Викуплено: {{date}}",
+      "scan": "Скануйте в офісі, щоб викупити",
+      "book": "Записатися",
+      "callClinic": "Зателефонувати до клініки"
+    },
+    "quantity_sheet": {
+      "select": "Вибрати кількість",
+      "units_left": "{{quantity}} {{units}} доступно"
+    },
+    "redeem_modal": {
+      "redeemed": "Процедура викуплена",
+      "description": "Тепер ви можете бачити залишок одиниць і планувати наступні сеанси.",
+      "got_it": "Зрозуміло!",
+      "cant_scan": "Не вдається сканувати?",
+      "fallback_description": "Ось ваш запасний код. Введіть його в веб‑додатку:",
+      "time_remaining": "Залишилось часу: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Продукт викуплено",
+      "description": "Тепер ви можете бачити залишок одиниць і планувати наступні сеанси.",
+      "got_it": "Зрозуміло!",
+      "cant_scan": "Не вдається сканувати?",
+      "fallback_description": "Ось ваш запасний код. Введіть його в веб‑додатку:",
+      "time_remaining": "Залишилось часу: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Особисті дані",
+      "payment_methods": "Методи оплати",
+      "payment_method": "Метод оплати"
+    },
+    "payment_method_card": {
+      "visa": "Карта",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Номер карти",
+      "experation": "Термін дії",
+      "cvc": "CVC",
+      "select_country": "Оберіть країну",
+      "select_country_placeholder": "Оберіть країну…",
+      "contact_details": "Контактні дані",
+      "confirm_details": "Підтвердіть свої дані для отримання квитанції"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Приєднався: {{date}}",
+    "cancled_on": " Скасовано: {{date}}",
+    "empty_membership": "Тут немає підписки",
+    "browse_mebership": "Огляд підписок",
+    "active_membership": "Активна підписка",
+    "paused_membership": "Пауза підписки",
+    "active_membership_count": "{{quantity}} активних підписок",
+    "next_payment_attempt": "Ми спробували обробити ваш платіж за підписку, спробуємо знову {{date}}",
+    "update_payment_info": "Оновіть метод оплати",
+    "retry_payment": "Повторити оплату",
+    "cancel_payment": "Скасувати підписку",
+    "something_wrong": "Схоже, щось пішло не так…",
+    "update_payment_method": "Оновити оплату",
+    "you_saved": "Ви заощадили",
+    "treatments": "({{number}} Процедура{{plural}})",
+    "products": "({{number}} Продукт{{plural}})",
+    "equivalent": {
+      "title": "Еквівалент",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " помада Chanel(ей)",
+      "bags": " сумка Chanel(ей)",
+      "swimsuits": " купальник Gucci(ів)"
+    },
+    "memberShipPayFor": "Підписка, яка платить сама за себе",
+    "you_have": "У вас є {{quantity}} процедур доступно",
+    "you_have_products": "У вас є {{quantity}} продуктів доступно",
+    "available_in": "Залишилось {{days}} днів до наступного вибору",
+    "available_in_products": "Наступні продукти будуть доступні через {{days}} днів",
+    "your_benefits": "Ваші переваги",
+    "membership_benefits": "Переваги підписки",
+    "refresh_on": "Оновлюється: {{date}}",
+    "monthly_treatment_selection": "Щомісячний вибір процедур",
+    "monthly_product_selection": "Щомісячний вибір продуктів",
+    "firstDay_treatment_selection": "Починається з вашого 1‑го дня як учасника",
+    "firstDay_product_selection": "Починається з вашого 1‑го дня як учасника",
+    "unknown_treatment_selection": "Починається через {{period}} як учасник",
+    "unknown_product_selection": "Починається через {{period}} як учасник",
+    "select_one": "Обрати 1 із наведених процедур безкоштовно кожного місяця",
+    "select_one_product": "Обрати 1 із наведених продуктів безкоштовно кожного місяця",
+    "select_free_treatment": "Обрати вашу безкоштовну процедуру",
+    "select_free_product": "Обрати ваш безкоштовний продукт",
+    "are_you_sure": "Ви впевнені, що хочете обрати цю процедуру?",
+    "are_you_sure_product": "Ви впевнені, що хочете обрати цей продукт?",
+    "are_you_sure_cancel": "Ви впевнені, що хочете скасувати вашу підписку?",
+    "sure": "Так, впевнений",
+    "no": "Ні, я помилився",
+    "number_updated": "Кількість одиниць успішно оновлено для цієї процедури",
+    "number_updated_product": "Кількість одиниць успішно оновлено для цього продукту",
+    "you_can_see": "Тепер ви можете бачити залишок одиниць і планувати наступні сеанси.",
+    "you_can_see_product": "Тепер ви можете бачити залишок одиниць і планувати наступні сеанси."
+  },
+  "cart_screen": {
+    "screen_title": "Кошик покупок",
+    "clinic_price_applied": "Ціни {{clinic}} застосовано",
+    "summury": "Резюме",
+    "promo_code": "Промокод",
+    "add_promo_code": "Додати промокод",
+    "order_summury": "ПІДСУМОК ЗАМОВЛЕННЯ",
+    "subtotal": "Проміжний підсумок",
+    "cash_wallet": "Готівковий гаманець",
+    "rewardDiscount": "Знижка за винагороду",
+    "membership_discount": "Знижка за членство",
+    "tax": "Податок & сервіс‑збір",
+    "total": "Загалом замовлення",
+    "totalMaj": "ВСЕ ЗАМОВЛЕННЯ",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Оформити зараз",
+    "place_order": "Оформити замовлення",
+    "order_confirmed": "Приготуйтеся, ваше замовлення підтверджено!",
+    "points_tracker": "Відстеження балів",
+    "your_purchance": "Ваша покупка допомогла вам заробити на наступну винагороду!",
+    "reward_unlocked": "винагорода розблокована",
+    "rewards_unlocked": "ВИНАГОРОДИ РОЗБЛОКОВАНІ",
+    "amount_unlocked": "${{amount}} до їх першої покупки в‑додатку",
+    "can_convert_amount": "Можна конвертувати в ${{amount}} готівки",
+    "edit_product": "Редагувати продукт",
+    "delete": "Видалити",
+    "empty_cart": "Кошик порожній, додайте кілька продуктів",
+    "cashExceeds": "Вибачте, баланс готівки не може перевищувати ({{allowedMerchantCashPercentage}} %) від загальної вартості кошика",
+    "loseMoney": "Ми б втратили гроші 😞",
+    "useOnly": "Ви можете додати ще процедури до вашого кошика або використати лише {{amount}} із доступного балансу готівки для цієї процедури прямо зараз.",
+    "disallowed": "Вибачте, ваш баланс готівки не може бути використаний для {{number}} процедури(й)",
+    "removeFromCart": "Видалити з кошика"
+  },
+  "dates": {
+    "minute": "хвилина",
+    "minutes": "хвилин",
+    "hour": "година",
+    "hours": "годин",
+    "day": "день",
+    "days": "днів",
+    "month": "місяць",
+    "months": "місяців",
+    "year": "рік",
+    "years": "років",
+    "now": "зараз",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Цей e‑mail вже використовується. Будь ласка, використайте інший.",
+    "login_error": "Не вдалось увійти. Перевірте номер і спробуйте ще раз.",
+    "signup_error": "Не вдалося зареєструватися. Переконайтеся, що ваші дані правильні, і спробуйте ще раз.",
+    "undifined_error": "Упс! Щось пішло не так.",
+    "otp_not_valid": "Введений вами код неправильний. Перевірте його і спробуйте знову.",
+    "create_account": "Ми не змогли створити ваш акаунт. Перевірте свої дані і спробуйте ще раз.",
+    "date": {
+      "invalid_date": "Дата має неправильний формат. Використовуйте ДД/ММ/YYYY.",
+      "invalid_month": "Будь ласка, виберіть дійсний місяць народження.",
+      "invalid_day": "Будь ласка, виберіть дійсний день народження.",
+      "invalid_birthdate": "Ваш день народження не може бути в майбутньому. Виберіть дійсну дату."
+    }
+  },
+  "noDataFound": {
+    "treatment": "немає доступних процедур",
+    "treatmentSearch": "немає доступних процедур",
+    "product": "немає доступних продуктів"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Ця сума {{amount}} буде списана з вашої картки. Ви впевнені, що хочете продовжити?",
+    "add_card_note": "Примітка: вам потрібно додати метод оплати до свого акаунту",
+    "confirm_subscription": "Підтвердити підписку",
+    "yes": "Так, продовжити",
+    "no": "Ні, скасувати"
+  },
+  "taxSheet": {
+    "title": "2.5% Податок та сервіс‑збір",
+    "description": "Цей збір використовується для компенсації адміністративних витрат, пов’язаних із вашою процедурою або сервісом.",
+    "button": "Зрозуміло"
+  },
+  "payment": {
+    "retry_failed_title": "Платіж не вдалося",
+    "retry_failed_message": "Ми не змогли обробити ваш платіж. Будь ласка, оновіть метод оплати, щоб продовжити."
+  },
+  "treatments": {
+    "redeem_multiple": "Обміняти {{count}} процедур"
+  },
+  "products": {
+    "redeem_multiple": "Обміняти {{count}} продуктів"
+  },
+  "custom_plan": {
+    "delete_title": "Видалити користувацький план",
+    "delete_description": "Ви впевнені, що хочете видалити цей користувацький план?",
+    "delete": "Видалити",
+    "cancel": "Скасувати"
+  },
+  "no_search_results": {
+    "title": "Результатів не знайдено",
+    "description": "Схоже, ми не знайшли нічого, що відповідає вашому пошуку.",
+    "try_new": "Спробуйте інші ключові слова або перевірте орфографію."
+  }
+}

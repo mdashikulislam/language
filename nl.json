@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Ga door als gast",
+    "continue": "Doorgaan",
+    "apply": "TOEPASSEN INVOER",
+    "save": "Opslaan",
+    "scan": "Nu scannen",
+    "next": "Volgende",
+    "powered": "Aangedreven door ",
+    "scan_qr_code": "Scan QR‑code",
+    "or": "of",
+    "shop_now": "Nu shoppen",
+    "dermis": "DERMIS",
+    "resend_code": "Code opnieuw verzenden",
+    "view_rewards": "Bekijk mijn beloningen",
+    "change_icon": "Icoon wijzigen",
+    "reset_icon": "Icoon opnieuw instellen",
+    "my_points": "Zie mijn punten",
+    "see_more": "Zie meer",
+    "see_benifits": "Zie de voordelen",
+    "show_all": "Toon alles",
+    "rewards": "Beloningen",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Kan omgezet worden naar ",
+    "clinic_cash": "{{clinic}} contant",
+    "checkout": "Afrekenen",
+    "save_address": "Sla het adres op in uw account",
+    "call_now": "Nu bellen",
+    "apply_filter": "Toepassen",
+    "filter_by": "Filter op",
+    "reset_filter": "Filter opnieuw instellen",
+    "unit_number": "{{quantity}} eenheid",
+    "add_to_cart": "Toevoegen aan winkelwagen",
+    "treatments": "Behandelingen",
+    "products": "Producten",
+    "membership": "Lidmaatschap",
+    "treat_today": "Behandel vandaag. Betaal later.",
+    "earn": " Verdien beloningen.",
+    "search": "Zoeken",
+    "settings": "Instellingen",
+    "save_big": "Bespaar flink geld",
+    "browse_shop": "Bekijk de shop",
+    "filter": "Filter",
+    "sort": "Sorteren",
+    "referral": "Verwijzingscode",
+    "enter_referral": "Voer uw verwijzingscode in",
+    "enter_referral_description": "Voer uw verwijzingscode in om speciale voordelen te ontvangen",
+    "submit": "Verzenden",
+    "skip": "Overslaan",
+    "have_referral": "Heeft u een verwijzingscode?",
+    "ok": "OK",
+    "cancel": "Annuleren"
+  },
+  "deleteAccount": {
+    "title": "Account verwijderen",
+    "description": "Weet u zeker dat u uw account wilt verwijderen?",
+    "note": "Al uw gegevens en abonnement worden permanent verwijderd.",
+    "yes": "Ja",
+    "no": "Nee"
+  },
+  "home": {
+    "last_visited": "{{name}}, u heeft niet bezocht sinds",
+    "days_count": "{{days_count}}…",
+    "offer": "Dus we hebben een aanbod voor u gemaakt dat u niet kunt weigeren!",
+    "unwrap": "Tik om te openen",
+    "recently_viewed": "Onlangs bekeken",
+    "save": "Bespaar {{amount}}",
+    "save2": " als lid van {{clinic}}",
+    "save_paragraph": "Gratis behandelingen. Exclusieve voordelen.",
+    "ad_title": "Behandel vandaag. Betaal later. Verdien beloningen.",
+    "ad_description": "Maak maandelijkse betalingen zonder vertragingskosten",
+    "educate_yourself": "Informeer uzelf"
+  },
+  "language": {
+    "english": "Engels",
+    "french": "Frans"
+  },
+  "onboarding": {
+    "welcome": "Welkom hier",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Gratis beloning voor nieuwe leden!",
+    "birthdays": "Gratis verjaardagscadeaus",
+    "events": "Evenementen en aanbiedingen uitsluitend voor leden",
+    "phone_request": "Mogen wij uw telefoonnummer?",
+    "login_with_phone": "Meld u aan of log in met uw telefoonnummer!",
+    "terms": {
+      "agree": "Ik ga akkoord met ",
+      "terms_of_service": "Servicevoorwaarden ",
+      "and": "en ",
+      "privacy": "Privacybeleid."
+    },
+    "closeApp": "Sluit de app",
+    "andReopen": "en open hem opnieuw",
+    "otp_title": "Voer de via SMS verzonden OTP in",
+    "sms_sent": "We hebben een OTP gestuurd naar {{phone_number}}",
+    "email_placeholder": "naam@email.com",
+    "well_done": "Goed gedaan!",
+    "email_request": "En uw e‑mail?",
+    "last_step": "Laatste stap",
+    "name_request": "Hoe heet u?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "Wanneer is uw verjaardag?",
+    "welcome_message2": "Welkom {{name}}! ",
+    "gift_message": "We hebben een kleine gift voor u door uw eerste QR‑code te scannen",
+    "find_spa": {
+      "find_medspa": "Vind uw Aanbieding",
+      "description": "Vind nu uw locatie om uw favoriete services te shoppen en begin beloningen te verdienen bij elke aankoop en bezoek!",
+      "search": "Zoek aanbod op naam",
+      "results_found": "{{quantity}} resultaten gevonden"
+    }
+  },
+  "personalInfo": {
+    "title": "Persoonlijke info",
+    "email_label": "E‑mail",
+    "email_placeholder": "naam@email.com",
+    "nickname_label": "Bijnaam",
+    "nickname_placeholer": "naam",
+    "firstname_label": "Voornaam",
+    "firstname_placeholder": "John",
+    "lastname_label": "Achternaam",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Scan op kantoor voor",
+    "points": "{{points}} punten",
+    "cant_scan": "Hoe werkt het?"
+  },
+  "rewardModal": {
+    "horray": "Hoera! ",
+    "you_earned": "U heeft zojuist verdiend",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} punten"
+  },
+  "banked_modal": {
+    "reward_banked": "BELONING GESTORT!",
+    "cash": "{{clinic}} contant",
+    "view_rewards": "Bekijk beloningen"
+  },
+  "segment": {
+    "browse": "Bladeren",
+    "treatments": "Behandelingen",
+    "clinicName": "{{clinicName}}",
+    "active": "Actief",
+    "past": "Verleden",
+    "products": "Producten"
+  },
+  "special_offers": {
+    "expire_in": "Verloopt over {{time_left}} ",
+    "title": "Speciale Aanbieding!",
+    "new_msg": "U heeft een bericht ontvangen van {{sender}}!"
+  },
+  "shop": {
+    "title": "Shop",
+    "treatment": {
+      "learn_more": "Lees meer over deze behandeling",
+      "see_treatment": "Bekijk behandeling",
+      "included_treatments_title": "Inbegrepen behandelingen",
+      "chose_treatment": "Kies {{quantity}} van het volgende elke {{month}}",
+      "chose_treatment2": "Kies {{quantity}} hieronder elke {{month}}",
+      "chose_treatment3": "Ontvang het volgende elke {{month}}",
+      "signUpBonus": "Aanmeldbonus",
+      "from_price": "Vanaf {{price}}",
+      "members_price": "{{memberPrice}} voor leden",
+      "treatment_fees": " een servicekosten van {{fees}} geldt bij checkout",
+      "results_title": "Betoverende Resultaten",
+      "results_description": "Hoe anderen zich voelden over deze behandeling",
+      "select_plan": "Selecteer een behandelplan",
+      "before_text": "Voor uw behandeling",
+      "after_text": "Na uw behandeling",
+      "members_results": "Ledenresultaten",
+      "customers_and_clients": "Wat leden hebben gezien",
+      "expectations": "Wat kunt u verwachten?",
+      "bundles_treatment_title": "Aantal behandelingen",
+      "variations_treatments_title": "Behandelingstypen",
+      "treatments_quantity": "{{quantity}} behandelingen",
+      "consultation_required": "Consultatie is vereist !",
+      "scheduling_link": "planningslink : ",
+      "visit_button": "Bezoek link",
+      "noBooking": "Geen boeking vereist voor dit product.",
+      "sessions_available": "{{quantity}} van {{remaining}} sessie{{plural}} beschikbaar",
+      "sessions": "{{quantity}} sessie{{plural}}",
+      "expire_in": "Verloopt in ",
+      "search_result": "{{quantity}} resultaat{{plural}} gevonden",
+      "consultation": "Deze behandeling vereist een consultatie",
+      "add_to_cart": "Weet u zeker dat u het aan uw winkelwagen wilt toevoegen?"
+    },
+    "product": {
+      "learn_more": "Lees meer over dit product",
+      "see_product": "Bekijk product",
+      "included_products_title": "Inbegrepen producten",
+      "chose_product": "Kies {{quantity}} van het volgende elke {{month}}",
+      "chose_product2": "Kies {{quantity}} hieronder elke {{month}}",
+      "chose_product3": "Ontvang het volgende elke {{month}}",
+      "from_price": "Vanaf {{price}}",
+      "members_price": "{{memberPrice}} voor leden",
+      "product_fees": " een servicekosten van {{fees}} geldt bij checkout",
+      "results_title": "Betoverende Resultaten",
+      "results_description": "Hoe anderen zich voelden over dit product",
+      "select_plan": "Selecteer een productplan",
+      "before_text": "Voor uw product",
+      "after_text": "Na uw product",
+      "members_results": "Ledenresultaten",
+      "customers_and_clients": "Hoe leden zich voelden over dit product",
+      "expectations": "Wat kunt u verwachten?",
+      "bundles_product_title": "Aantal producten",
+      "variations_products_title": "Producttypen",
+      "products_quantity": "{{quantity}} producten",
+      "consultation_required": "Consultatie is vereist !",
+      "scheduling_link": "planningslink : ",
+      "visit_button": "Bezoek link",
+      "expire_in": "Verloopt in ",
+      "sessions_available": "{{quantity}} van {{remaining}} {{plural}} resterend",
+      "treatments": "{{quantity}} behandeling{{plural}}"
+    },
+    "save_button": {
+      "text": "Bespaar {{amount}} jaarlijks",
+      "subscribe": "Abonneer nu!"
+    },
+    "view_button": {
+      "text": "Bekijk"
+    },
+    "bonus_card": {
+      "title": "Meld u direct aan om",
+      "title_bold": " een gratis {{gifts}} te claimen!"
+    },
+    "teamMember": {
+      "title": "Wie heeft u geholpen bij deze aankoop?",
+      "not_Sure": "Niet zeker"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Behandel vandaag. Betaal later. Verdien beloningen.",
+      "free_treatments": "Gratis behandelingen. Exclusieve voordelen.",
+      "how_it_work": "Hoe werkt het?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PUNTEN",
+    "sinleReward": "Beloning",
+    "title": "Beloningen",
+    "win_points": {
+      "title": "Meer punten nodig?",
+      "refer_friend": "Verwijs een vriend",
+      "purshase_inApp": "Aankoop in‑app",
+      "google_review": "Review op Google",
+      "visit": "Bezoek onze kliniek",
+      "status": {
+        "points_added": "{{points}} punten toegevoegd",
+        "scan": "Scan om te verdienen",
+        "pending": "Wacht op goedkeuring",
+        "plus_points": "+{{points}} punten",
+        "done": "Klaar"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Loyaliteitspunten",
+        "cultPoints": "Cult‑punten",
+        "memberShip": "{{clinic}} lid",
+        "joinedOn": "Aangesloten op {{since}}",
+        "cash": "{{clinic}} contant"
+      },
+      "reviewSheet": {
+        "title": "Heeft u een review achtergelaten?",
+        "text": "Onze kliniekeigenaar zal de review verifiëren om u punten toe te voegen.",
+        "yesButton": "Ja, dat heb ik gedaan!",
+        "noButton": "Nog niet"
+      },
+      "reward_details": {
+        "expire_in": "Verloopt over {{time_left}} dagen",
+        "redeem_button": "Los beloning nu in",
+        "bank_it": "Stort voor {{amount}} {{clinic}}",
+        "redeemed": "Ingewisseld",
+        "banked": "Gestort",
+        "locked": "Vergrendeld",
+        "expired_at": "Verlopen op",
+        "consumed": "Verbruikt"
+      },
+      "bank_reward": {
+        "bank_title": "Stort uw beloning voor {{clinic}} contant?",
+        "custom_bank_title": "Stort uw beloning voor",
+        "bank_description": "U ruilt deze in voor",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "waarde in {{clinic}} contant die in de shop in de app kan worden besteed. Door dit te doen verliest u toegang tot de beloning zelf.",
+        "yes_button": "Ja, stort beloning",
+        "no_button": "Niet nu"
+      },
+      "congratSheet": {
+        "title": "Gefeliciteerd!",
+        "your_reward": "Uw beloning is toegevoegd aan de winkelwagen!",
+        "description": "Bekijk nu onze shop om deze aan uw bestelling toe te voegen of zie winkelwagen om meteen af te rekenen met uw korting toegepast.",
+        "explore_shop": "Verken shop",
+        "view_cart": "Bekijk winkelwagen"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Account",
+    "logout": "Uitloggen",
+    "my‑treatment‑section": {
+      "my‑treatment": "Mijn behandelingen",
+      "used_treatments": "Gebruikte behandelingen",
+      "empty_used": "Geen gebruikte behandelingen",
+      "empty_purshased": "Geen aangekochte behandelingen",
+      "empty_treatment": "Geen behandelingen",
+      "remaining_treatments": "{{remaining}} van {{quantity}} behandelingen resterend",
+      "redeemed_on": "Ingewisseld op: {{date}}",
+      "scan": "Scan in kantoor om in te wisselen",
+      "book": "Afspraak boeken",
+      "callClinic": "Bel de kliniek"
+    },
+    "my‑product‑section": {
+      "my‑product": "Mijn producten",
+      "used_products": "Gebruikte producten",
+      "empty_used": "Geen gebruikte producten",
+      "empty_purshased": "Geen aangekochte producten",
+      "empty_product": "Geen producten",
+      "remaining_products": "{{remaining}} van {{quantity}} producten resterend",
+      "redeemed_on": "Ingewisseld op: {{date}}",
+      "scan": "Scan in kantoor om in te wisselen",
+      "book": "Afspraak boeken",
+      "callClinic": "Bel de kliniek"
+    },
+    "quantity_sheet": {
+      "select": "Selecteer hoeveelheid",
+      "units_left": "{{quantity}} {{units}} beschikbaar"
+    },
+    "redeem_modal": {
+      "redeemed": "Behandeling ingewisseld",
+      "description": "U kunt nu de resterende eenheden zien en uw volgende sessies plannen.",
+      "got_it": "Begrepen!",
+      "cant_scan": "Kan niet scannen?",
+      "fallback_description": "Hier is uw fallback‑code. Voer deze in in de web‑app:",
+      "time_remaining": "Resterende tijd: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Product ingewisseld",
+      "description": "U kunt nu de resterende eenheden zien en uw volgende sessies plannen.",
+      "got_it": "Begrepen!",
+      "cant_scan": "Kan niet scannen?",
+      "fallback_description": "Hier is uw fallback‑code. Voer deze in in de web‑app:",
+      "time_remaining": "Resterende tijd: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Persoonlijke gegevens",
+      "payment_methods": "Betaalmethoden",
+      "payment_method": "Betaalmethode"
+    },
+    "payment_method_card": {
+      "visa": "Kaart",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Kaartnummer",
+      "experation": "Vervaldatum",
+      "cvc": "CVC",
+      "select_country": "Selecteer land",
+      "select_country_placeholder": "Selecteer een land…",
+      "contact_details": "Contactgegevens",
+      "confirm_details": "Bevestig uw gegevens om uw aankoopbon te ontvangen"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Aangesloten op {{date}}",
+    "cancled_on": " Geannuleerd op {{date}}",
+    "empty_membership": "Hier geen abonnement",
+    "browse_mebership": "Bekijk lidmaatschappen",
+    "active_membership": "Actief lidmaatschap",
+    "paused_membership": "Pauze bij lidmaatschap",
+    "active_membership_count": "{{quantity}} actieve lidmaatschappen",
+    "next_payment_attempt": "We hebben geprobeerd uw lidmaatschapsbetaling te verwerken, we proberen opnieuw op {{date}}",
+    "update_payment_info": "Betaalmethode bijwerken",
+    "retry_payment": "Probeer betaalmethode opnieuw",
+    "cancel_payment": "Lidmaatschap annuleren",
+    "something_wrong": "Er lijkt iets mis te zijn…",
+    "update_payment_method": "Betaalmethode bijwerken",
+    "you_saved": "U heeft bespaard",
+    "treatments": "({{number}} Behandeling(en))",
+    "products": "({{number}} Product(en))",
+    "equivalent": {
+      "title": "Equivalent",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel lippenstift(en)",
+      "bags": " Chanel tas(sen)",
+      "swimsuits": " Gucci badkleding"
+    },
+    "memberShipPayFor": "Het lidmaatschap dat zichzelf terugbetaalt",
+    "you_have": "U heeft {{quantity}} behandelingen beschikbaar",
+    "you_have_products": "U heeft {{quantity}} producten beschikbaar",
+    "available_in": "Beschikbaar over {{days}} dagen",
+    "available_in_products": "Volgende producten beschikbaar over {{days}} dagen",
+    "your_benefits": "Uw voordelen",
+    "membership_benefits": "Lidmaatschapsvoordelen",
+    "refresh_on": "Ververs op {{date}}",
+    "monthly_treatment_selection": "Maandelijkse behandelkeuze",
+    "monthly_product_selection": "Maandelijkse productkeuze",
+    "firstDay_treatment_selection": "Begint op uw eerste dag als lid",
+    "firstDay_product_selection": "Begint op uw eerste dag als lid",
+    "unknown_treatment_selection": "Begint na {{period}} als lid",
+    "unknown_product_selection": "Begint na {{period}} als lid",
+    "select_one": "Selecteer 1 van de onderstaande behandelingen gratis elke maand",
+    "select_one_product": "Selecteer 1 van de onderstaande producten gratis elke maand",
+    "select_free_treatment": "Selecteer uw gratis behandeling",
+    "select_free_product": "Selecteer uw gratis product",
+    "are_you_sure": "Weet u zeker dat u deze behandeling wilt selecteren?",
+    "are_you_sure_product": "Weet u zeker dat u dit product wilt selecteren?",
+    "are_you_sure_cancel": "Weet u zeker dat u uw lidmaatschap wilt annuleren?",
+    "sure": "Ja, zeker",
+    "no": "Nee, ik vergiste me",
+    "number_updated": "Het aantal eenheden is succesvol bijgewerkt voor deze behandeling",
+    "number_updated_product": "Het aantal eenheden is succesvol bijgewerkt voor dit product",
+    "you_can_see": "U kunt nu de resterende eenheden zien en uw volgende sessies plannen.",
+    "you_can_see_product": "U kunt nu de resterende eenheden zien en uw volgende sessies plannen."
+  },
+  "cart_screen": {
+    "screen_title": "Winkelwagen",
+    "clinic_price_applied": "{{clinic}} prijs toegepast",
+    "summury": "Samenvatting",
+    "promo_code": "Promo‑code",
+    "add_promo_code": "Voeg promo‑code toe",
+    "order_summury": "ORDER SAMENVATTING",
+    "subtotal": "Subtotaal",
+    "cash_wallet": "Contante portemonnee",
+    "rewardDiscount": "Beloningskorting",
+    "membership_discount": "Lidmaatschapskorting",
+    "tax": "Belasting & servicekosten",
+    "total": "Totaal bestelling",
+    "totalMaj": "BESTELLING TOTAAL",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Nu afrekenen",
+    "place_order": "Plaats bestelling",
+    "order_confirmed": "Maak je klaar, je bestelling is bevestigd!",
+    "points_tracker": "Punten‑tracker",
+    "your_purchance": "Uw aankoop heeft u geholpen bij het verdienen van uw volgende beloning!",
+    "reward_unlocked": "beloning ontgrendeld",
+    "rewards_unlocked": "BELONINGEN ONTGRENDELD",
+    "amount_unlocked": "${{amount}} naar hun eerste in‑app aankoop",
+    "can_convert_amount": "Kan omgezet worden naar ${{amount}} contant",
+    "edit_product": "Product bewerken",
+    "delete": "Verwijderen",
+    "empty_cart": "Winkelwagen is leeg, voeg wat producten toe",
+    "cashExceeds": "Sorry, het contante saldo mag niet meer dan ({{allowedMerchantCashPercentage}} %) van de totale winkelwagenwaarde bedragen",
+    "loseMoney": "We zouden geld verliezen 😞",
+    "useOnly": "U kunt meer behandelingen aan uw winkelwagen toevoegen, of slechts {{amount}} van uw beschikbare contante saldo gebruiken voor deze behandeling nu.",
+    "disallowed": "Sorry, uw contante saldo kan niet gebruikt worden voor {{number}} behandeling(en)",
+    "removeFromCart": "Verwijder uit winkelwagen"
+  },
+  "dates": {
+    "minute": "minuut",
+    "minutes": "minuten",
+    "hour": "uur",
+    "hours": "uren",
+    "day": "dag",
+    "days": "dagen",
+    "month": "maand",
+    "months": "maanden",
+    "year": "jaar",
+    "years": "jaren",
+    "now": "nu",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Dit e‑mailadres is al in gebruik. Gebruik alstublieft een ander e‑mail.",
+    "login_error": "Inloggen mislukt. Controleer uw nummer en probeer opnieuw.",
+    "signup_error": "Aanmelden mislukt. Zorg dat uw gegevens correct zijn en probeer het opnieuw.",
+    "undifined_error": "Oeps! Er is iets misgegaan.",
+    "otp_not_valid": "De code die u invoerde is onjuist. Controleer en probeer opnieuw.",
+    "create_account": "We konden uw account niet aanmaken. Controleer uw gegevens en probeer opnieuw.",
+    "date": {
+      "invalid_date": "De datum heeft een onjuist formaat. Gebruik DD/MM/YYYY.",
+      "invalid_month": "Selecteer alstublieft een geldige geboortemaand.",
+      "invalid_day": "Selecteer alstublieft een geldige geboortedag.",
+      "invalid_birthdate": "Uw verjaardag kan niet in de toekomst liggen. Selecteer alstublieft een geldige datum."
+    }
+  },
+  "noDataFound": {
+    "treatment": "geen behandelingen beschikbaar",
+    "treatmentSearch": "geen behandelingen beschikbaar",
+    "product": "geen producten beschikbaar"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Er wordt direct {{amount}} in rekening gebracht van uw kaart. Weet u zeker dat u wilt doorgaan?",
+    "add_card_note": "Opmerking: u moet een betaalmethode aan uw account hebben toegevoegd",
+    "confirm_subscription": "Bevestig abonnement",
+    "yes": "Ja, verder",
+    "no": "Nee, annuleren"
+  },
+  "taxSheet": {
+    "title": "2.5% Belasting & servicekosten",
+    "description": "Deze vergoeding wordt gebruikt om administratieve kosten in verband met uw behandeling of service te compenseren.",
+    "button": "Begrepen"
+  },
+  "payment": {
+    "retry_failed_title": "Betaling mislukt",
+    "retry_failed_message": "We konden uw betaling niet verwerken. Werk alstublieft uw betaalmethode bij om verder te gaan."
+  },
+  "treatments": {
+    "redeem_multiple": "Los in {{count}} behandelingen"
+  },
+  "products": {
+    "redeem_multiple": "Los in {{count}} producten"
+  },
+  "custom_plan": {
+    "delete_title": "Aangepast plan verwijderen",
+    "delete_description": "Weet u zeker dat u dit aangepaste plan wilt verwijderen?",
+    "delete": "Verwijderen",
+    "cancel": "Annuleren"
+  },
+  "no_search_results": {
+    "title": "Geen resultaten gevonden",
+    "description": "Het lijkt erop dat we niets konden vinden dat overeenkomt met uw zoekopdracht.",
+    "try_new": "Probeer andere zoekwoorden of controleer op typfouten."
+  }
+}

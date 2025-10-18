@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Продолжить как гость",
+    "continue": "Продолжить",
+    "apply": "ПРИМЕНИТЬ ВВОД",
+    "save": "Сохранить",
+    "scan": "Сканировать сейчас",
+    "next": "Далее",
+    "powered": "Работает на ",
+    "scan_qr_code": "Сканируйте QR‑код",
+    "or": "или",
+    "shop_now": "Купить сейчас",
+    "dermis": "DERMIS",
+    "resend_code": "Отправить код повторно",
+    "view_rewards": "Посмотреть мои награды",
+    "change_icon": "Изменить значок",
+    "reset_icon": "Сбросить значок",
+    "my_points": "Мои баллы",
+    "see_more": "Посмотреть ещё",
+    "see_benifits": "Посмотреть преимущества",
+    "show_all": "Показать всё",
+    "rewards": "Награды",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Можно конвертировать в ",
+    "clinic_cash": "{{clinic}} наличных",
+    "checkout": "Оформить заказ",
+    "save_address": "Сохранить адрес в вашем аккаунте",
+    "call_now": "Позвонить сейчас",
+    "apply_filter": "Применить",
+    "filter_by": "Фильтровать по",
+    "reset_filter": "Сбросить фильтр",
+    "unit_number": "{{quantity}} единица",
+    "add_to_cart": "Добавить в корзину",
+    "treatments": "Процедуры",
+    "products": "Продукты",
+    "membership": "Подписка",
+    "treat_today": "Процедите сегодня. Платите позже.",
+    "earn": " Зарабатывайте награды.",
+    "search": "Поиск",
+    "settings": "Настройки",
+    "save_big": "Сэкономьте значительные деньги",
+    "browse_shop": "Просмотреть магазин",
+    "filter": "Фильтр",
+    "sort": "Сортировать",
+    "referral": "Реферальный код",
+    "enter_referral": "Введите ваш реферальный код",
+    "enter_referral_description": "Введите ваш реферальный код, чтобы получить особые преимущества",
+    "submit": "Отправить",
+    "skip": "Пропустить",
+    "have_referral": "Есть реферальный код?",
+    "ok": "OK",
+    "cancel": "Отмена"
+  },
+  "deleteAccount": {
+    "title": "Удалить аккаунт",
+    "description": "Вы уверены, что хотите удалить ваш аккаунт?",
+    "note": "Все ваши данные и подписка будут удалены навсегда.",
+    "yes": "Да",
+    "no": "Нет"
+  },
+  "home": {
+    "last_visited": "{{name}}, вы не заходили уже",
+    "days_count": "{{days_count}}…",
+    "offer": "Итак, мы сделали вам предложение, от которого вы не сможете отказаться!",
+    "unwrap": "Нажмите чтобы открыть",
+    "recently_viewed": "Недавно просмотрено",
+    "save": "Сэкономьте {{amount}}",
+    "save2": " как участник {{clinic}}",
+    "save_paragraph": "Бесплатные процедуры. Эксклюзивные привилегии.",
+    "ad_title": "Сделайте сегодня. Платите позже. Зарабатывайте награды.",
+    "ad_description": "Совершайте ежемесячные платежи без штрафов за просрочку",
+    "educate_yourself": "Образовывайтесь"
+  },
+  "language": {
+    "english": "Английский",
+    "french": "Французский"
+  },
+  "onboarding": {
+    "welcome": "Добро пожаловать",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Бесплатная награда для новых участников!",
+    "birthdays": "Бесплатные подарки на день рождения",
+    "events": "События и предложения только для участников",
+    "phone_request": "Можем ли мы получить ваш номер телефона?",
+    "login_with_phone": "Зарегистрируйтесь или войдите, используя номер телефона!",
+    "terms": {
+      "agree": "Я согласен с ",
+      "terms_of_service": "Условиями обслуживания ",
+      "and": "и ",
+      "privacy": "Политикой конфиденциальности."
+    },
+    "closeApp": "Закройте приложение",
+    "andReopen": "и откройте его снова",
+    "otp_title": "Введите OTP, отправленный по SMS",
+    "sms_sent": "Мы отправили OTP на {{phone_number}}",
+    "email_placeholder": "name@email.com",
+    "well_done": "Отлично!",
+    "email_request": "А ваш email?",
+    "last_step": "Последний, но не менее важный шаг",
+    "name_request": "Как вас зовут?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "ДД / ММ / YYYY",
+    "birthday_request": "Когда у вас день рождения?",
+    "welcome_message2": "Добро пожаловать, {{name}}! ",
+    "gift_message": "Мы подготовили вам небольшой подарок, сканировав ваш первый QR‑код",
+    "find_spa": {
+      "find_medspa": "Найдите ваше предложение",
+      "description": "Найдите своё местоположение сейчас, чтобы приобрести ваши любимые услуги и начать зарабатывать награды с каждой покупкой и визитом!",
+      "search": "Ищите предложение по имени",
+      "results_found": "{{quantity}} результатов найдено"
+    }
+  },
+  "personalInfo": {
+    "title": "Личные данные",
+    "email_label": "Электронная почта",
+    "email_placeholder": "name@email.com",
+    "nickname_label": "Псевдоним",
+    "nickname_placeholer": "имя",
+    "firstname_label": "Имя",
+    "firstname_placeholder": "John",
+    "lastname_label": "Фамилия",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Сканируйте в офисе для",
+    "points": "{{points}} баллов",
+    "cant_scan": "Как это работает?"
+  },
+  "rewardModal": {
+    "horray": "Ура! ",
+    "you_earned": "Вы только что заработали",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} баллов"
+  },
+  "banked_modal": {
+    "reward_banked": "НАГРАДА ПРИНЯТА!",
+    "cash": "{{clinic}} наличных",
+    "view_rewards": "Просмотреть награды"
+  },
+  "segment": {
+    "browse": "Просмотреть",
+    "treatments": "Процедуры",
+    "clinicName": "{{clinicName}}",
+    "active": "Активно",
+    "past": "Прошло",
+    "products": "Продукты"
+  },
+  "special_offers": {
+    "expire_in": "Истекает через {{time_left}} ",
+    "title": "Специальное предложение!",
+    "new_msg": "Вы получили сообщение от {{sender}}!"
+  },
+  "shop": {
+    "title": "Магазин",
+    "treatment": {
+      "learn_more": "Узнать больше об этой процедуре",
+      "see_treatment": "Просмотреть процедуру",
+      "included_treatments_title": "Включённые процедуры",
+      "chose_treatment": "Выберите {{quantity}} из следующих каждые {{month}}",
+      "chose_treatment2": "Выберите {{quantity}} ниже каждые {{month}}",
+      "chose_treatment3": "Получайте следующие каждые {{month}}",
+      "signUpBonus": "Бонус за регистрацию",
+      "from_price": "От {{price}}",
+      "members_price": "{{memberPrice}} для участников",
+      "treatment_fees": " применена плата за обслуживание {{fees}} при оформлении",
+      "results_title": "Очаровательные результаты",
+      "results_description": "Как другие ощущали эту процедуру",
+      "select_plan": "Выберите план процедуры",
+      "before_text": "До вашей процедуры",
+      "after_text": "После вашей процедуры",
+      "members_results": "Результаты участников",
+      "customers_and_clients": "Что видели участники",
+      "expectations": "Чего ожидать?",
+      "bundles_treatment_title": "Количество процедур",
+      "variations_treatments_title": "Типы процедур",
+      "treatments_quantity": "{{quantity}} процедур",
+      "consultation_required": "Требуется консультация!",
+      "scheduling_link": "ссылка для записи : ",
+      "visit_button": "Перейти по ссылке",
+      "noBooking": "Бронирование не требуется для этого продукта.",
+      "sessions_available": "{{quantity}} из {{remaining}} сессий{{plural}} доступны",
+      "sessions": "{{quantity}} сессия{{plural}}",
+      "expire_in": "Истекает через ",
+      "search_result": "{{quantity}} результат{{plural}} найден",
+      "consultation": "Эта процедура требует консультации",
+      "add_to_cart": "Вы уверены, что хотите добавить это в корзину?"
+    },
+    "product": {
+      "learn_more": "Узнать больше об этом продукте",
+      "see_product": "Просмотреть продукт",
+      "included_products_title": "Включённые продукты",
+      "chose_product": "Выберите {{quantity}} из следующих каждые {{month}}",
+      "chose_product2": "Выберите {{quantity}} ниже каждые {{month}}",
+      "chose_product3": "Получайте следующие каждые {{month}}",
+      "from_price": "От {{price}}",
+      "members_price": "{{memberPrice}} для участников",
+      "product_fees": " применена плата за обслуживание {{fees}} при оформлении",
+      "results_title": "Очаровательные результаты",
+      "results_description": "Как другие ощущали этот продукт",
+      "select_plan": "Выберите план продукта",
+      "before_text": "До вашего продукта",
+      "after_text": "После вашего продукта",
+      "members_results": "Результаты участников",
+      "customers_and_clients": "Как участники ощущали этот продукт",
+      "expectations": "Чего ожидать?",
+      "bundles_product_title": "Количество продуктов",
+      "variations_products_title": "Типы продуктов",
+      "products_quantity": "{{quantity}} продуктов",
+      "consultation_required": "Требуется консультация!",
+      "scheduling_link": "ссылка для записи : ",
+      "visit_button": "Перейти по ссылке",
+      "expire_in": "Истекает через ",
+      "sessions_available": "{{quantity}} из {{remaining}} {{plural}} осталось",
+      "treatments": "{{quantity}} процедура{{plural}}"
+    },
+    "save_button": {
+      "text": "Сэкономьте {{amount}} в год",
+      "subscribe": "Подписаться сейчас!"
+    },
+    "view_button": {
+      "text": "Просмотреть"
+    },
+    "bonus_card": {
+      "title": "Зарегистрируйтесь прямо сейчас чтобы",
+      "title_bold": " получить бесплатный {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Кто помог вам с этой покупкой?",
+      "not_Sure": "Не уверен"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Процедите сегодня. Платите позже. Зарабатывайте награды.",
+      "free_treatments": "Бесплатные процедуры. Эксклюзивные привилегии.",
+      "how_it_work": "Как это работает?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} БАЛЛОВ",
+    "sinleReward": "Награда",
+    "title": "Награды",
+    "win_points": {
+      "title": "Нужны дополнительные баллы?",
+      "refer_friend": "Пригласить друга",
+      "purshase_inApp": "Покупка в приложении",
+      "google_review": "Отзыв на Google",
+      "visit": "Посетите нашу клинику",
+      "status": {
+        "points_added": "{{points}} баллов добавлено",
+        "scan": "Сканируйте, чтобы заработать",
+        "pending": "Ожидание одобрения",
+        "plus_points": "+{{points}} баллов",
+        "done": "Готово"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Баллы лояльности",
+        "cultPoints": "Культ‑баллы",
+        "memberShip": "Член {{clinic}}",
+        "joinedOn": "Присоединился к {{since}}",
+        "cash": "{{clinic}} наличных"
+      },
+      "reviewSheet": {
+        "title": "Вы оставили отзыв?",
+        "text": "Владелец клиники проверит отзыв, чтобы добавить вам баллы.",
+        "yesButton": "Да, я оставил!",
+        "noButton": "Ещё нет"
+      },
+      "reward_details": {
+        "expire_in": "Истекает через {{time_left}} дней",
+        "redeem_button": "Обменять награду сейчас",
+        "bank_it": "Положить на счёт за {{amount}} {{clinic}}",
+        "redeemed": "Обменено",
+        "banked": "Зачислено",
+        "locked": "Заблокировано",
+        "expired_at": "Истекло",
+        "consumed": "Потрачено"
+      },
+      "bank_reward": {
+        "bank_title": "Положить вашу награду на счёт за {{clinic}} наличных?",
+        "custom_bank_title": "Положить вашу награду за",
+        "bank_description": "Вы обменяете вашу награду на",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "в наличных {{clinic}}, которые можно потратить в магазине в приложении. При этом вы потеряете доступ к самой награде.",
+        "yes_button": "Да, положить награду",
+        "no_button": "Не сейчас"
+      },
+      "congratSheet": {
+        "title": "Поздравляем!",
+        "your_reward": "Ваша награда добавлена в корзину!",
+        "description": "Просмотрите наш магазин сейчас, чтобы добавить её к заказу или откройте корзину, чтобы оформить заказ с применённой скидкой.",
+        "explore_shop": "Просмотреть магазин",
+        "view_cart": "Просмотреть корзину"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Аккаунт",
+    "logout": "Выйти",
+    "my‑treatment‑section": {
+      "my‑treatment": "Мои процедуры",
+      "used_treatments": "Использованные процедуры",
+      "empty_used": "Нет использованных процедур",
+      "empty_purshased": "Нет купленных процедур",
+      "empty_treatment": "Нет процедур",
+      "remaining_treatments": "{{remaining}} из {{quantity}} процедур осталось",
+      "redeemed_on": "Обменено: {{date}}",
+      "scan": "Сканируйте в офисе для обмена",
+      "book": "Записаться на приём",
+      "callClinic": "Позвонить в клинику"
+    },
+    "my‑product‑section": {
+      "my‑product": "Мои продукты",
+      "used_products": "Использованные продукты",
+      "empty_used": "Нет использованных продуктов",
+      "empty_purshased": "Нет купленных продуктов",
+      "empty_product": "Нет продуктов",
+      "remaining_products": "{{remaining}} из {{quantity}} продуктов осталось",
+      "redeemed_on": "Обменено: {{date}}",
+      "scan": "Сканируйте в офисе для обмена",
+      "book": "Записаться на приём",
+      "callClinic": "Позвонить в клинику"
+    },
+    "quantity_sheet": {
+      "select": "Выбрать количество",
+      "units_left": "{{quantity}} {{units}} доступно"
+    },
+    "redeem_modal": {
+      "redeemed": "Процедура обменена",
+      "description": "Теперь вы можете видеть оставшиеся единицы и планировать свои следующие сеансы.",
+      "got_it": "Понял!",
+      "cant_scan": "Не удаётся сканировать?",
+      "fallback_description": "Вот ваш запасной код. Введите его в веб‑приложении:",
+      "time_remaining": "Оставшееся время: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Продукт обменен",
+      "description": "Теперь вы можете видеть оставшиеся единицы и планировать свои следующие сеансы.",
+      "got_it": "Понял!",
+      "cant_scan": "Не удаётся сканировать?",
+      "fallback_description": "Вот ваш запасной код. Введите его в веб‑приложении:",
+      "time_remaining": "Оставшееся время: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Личная информация",
+      "payment_methods": "Методы оплаты",
+      "payment_method": "Метод оплаты"
+    },
+    "payment_method_card": {
+      "visa": "Карта",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Номер карты",
+      "experation": "Срок действия",
+      "cvc": "CVC",
+      "select_country": "Выберите страну",
+      "select_country_placeholder": "Выберите страну…",
+      "contact_details": "Контактные данные",
+      "confirm_details": "Подтвердите ваши данные чтобы получить квитанцию"
+    }
+  },
+  "membership_section": {
+    "joined_on": "Присоединился: {{date}}",
+    "cancled_on": "Отменено: {{date}}",
+    "empty_membership": "Подписок нет",
+    "browse_mebership": "Просмотреть подписки",
+    "active_membership": "Активная подписка",
+    "paused_membership": "Приостановленная подписка",
+    "active_membership_count": "{{quantity}} активных подписки(ий)",
+    "next_payment_attempt": "Мы попытались обработать ваш платёж по подписке, повторим {{date}}",
+    "update_payment_info": "Обновить способ оплаты",
+    "retry_payment": "Повторить оплату",
+    "cancel_payment": "Отменить подписку",
+    "something_wrong": "Похоже, что‑то пошло не так…",
+    "update_payment_method": "Обновить оплату",
+    "you_saved": "Вы сэкономили",
+    "treatments": "({{number}} Процедура{{plural}})",
+    "products": "({{number}} Продукт{{plural}})",
+    "equivalent": {
+      "title": "Эквивалент",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " помада Chanel(ей)",
+      "bags": " сумка Chanel(ей)",
+      "swimsuits": " купальник Gucci(ей)"
+    },
+    "memberShipPayFor": "Подписка, которая оплачивает себя",
+    "you_have": "У вас есть {{quantity}} процедур доступны",
+    "you_have_products": "У вас есть {{quantity}} продуктов доступны",
+    "available_in": "Останется {{days}} дней до следующего выбора",
+    "available_in_products": "Следующие продукты доступны через {{days}} дней",
+    "your_benefits": "Ваши преимущества",
+    "membership_benefits": "Преимущества подписки",
+    "refresh_on": "Обновляется: {{date}}",
+    "monthly_treatment_selection": "Ежемесячный выбор процедур",
+    "monthly_product_selection": "Ежемесячный выбор продуктов",
+    "firstDay_treatment_selection": "Начинается в ваш 1‑й день как участник",
+    "firstDay_product_selection": "Начинается в ваш 1‑й день как участник",
+    "unknown_treatment_selection": "Начинается после {{period}} как участник",
+    "unknown_product_selection": "Начинается после {{period}} как участник",
+    "select_one": "Выберите 1 из процедур ниже бесплатно каждый месяц",
+    "select_one_product": "Выберите 1 из продуктов ниже бесплатно каждый месяц",
+    "select_free_treatment": "Выберите бесплатную процедуру",
+    "select_free_product": "Выберите бесплатный продукт",
+    "are_you_sure": "Вы уверены, что хотите выбрать эту процедуру?",
+    "are_you_sure_product": "Вы уверены, что хотите выбрать этот продукт?",
+    "are_you_sure_cancel": "Вы уверены, что хотите отменить подписку?",
+    "sure": "Да, уверен",
+    "no": "Нет, я ошибся",
+    "number_updated": "Количество единиц успешно обновлено для этой процедуры",
+    "number_updated_product": "Количество единиц успешно обновлено для этого продукта",
+    "you_can_see": "Теперь вы можете увидеть оставшиеся единицы и спланировать следующие сеансы.",
+    "you_can_see_product": "Теперь вы можете увидеть оставшиеся единицы и спланировать следующие сеансы."
+  },
+  "cart_screen": {
+    "screen_title": "Корзина покупок",
+    "clinic_price_applied": "Цены {{clinic}} применены",
+    "summury": "Итог",
+    "promo_code": "Промокод",
+    "add_promo_code": "Добавить промокод",
+    "order_summury": "ИТОГ ЗАКАЗА",
+    "subtotal": "Промежуточный итог",
+    "cash_wallet": "Кошелёк наличных",
+    "rewardDiscount": "Скидка за награду",
+    "membership_discount": "Скидка по подписке",
+    "tax": "Налоги и сбор за обслуживание",
+    "total": "Итог заказа",
+    "totalMaj": "ЗАКАЗ ВСЕГО",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Оформить сейчас",
+    "place_order": "Разместить заказ",
+    "order_confirmed": "Готовьтесь, ваш заказ подтверждён!",
+    "points_tracker": "Отслеживание баллов",
+    "your_purchance": "Ваш покупка помогла вам заработать на следующую награду!",
+    "reward_unlocked": "награда разблокирована",
+    "rewards_unlocked": "НАГРАДЫ РАЗБЛОКИРОВАНЫ",
+    "amount_unlocked": "${{amount}} к вашей первой покупке в приложении",
+    "can_convert_amount": "Можно конвертировать в ${{amount}} наличных",
+    "edit_product": "Редактировать продукт",
+    "delete": "Удалить",
+    "empty_cart": "Корзина пуста, добавьте несколько продуктов",
+    "cashExceeds": "Извините, баланс наличных не может превышать ({{allowedMerchantCashPercentage}} %) от общей стоимости корзины",
+    "loseMoney": "Мы бы потеряли деньги 😞",
+    "useOnly": "Вы можете добавить ещё процедуры к вашей корзине или использовать только {{amount}} из доступного баланса наличных для этой процедуры прямо сейчас.",
+    "disallowed": "Извините, ваш баланс наличных не может быть использован для {{number}} процедуры(ей)",
+    "removeFromCart": "Удалить из корзины"
+  },
+  "dates": {
+    "minute": "минута",
+    "minutes": "минуты",
+    "hour": "час",
+    "hours": "часы",
+    "day": "день",
+    "days": "дней",
+    "month": "месяц",
+    "months": "месяцев",
+    "year": "год",
+    "years": "лет",
+    "now": "сейчас",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Эта электронная почта уже используется. Пожалуйста, используйте другой адрес.",
+    "login_error": "Не удалось войти. Проверьте номер и попробуйте снова.",
+    "signup_error": "Не удалось зарегистрироваться. Убедитесь, что ваши данные верны и попробуйте снова.",
+    "undifined_error": "Упс! Что‑то пошло не так.",
+    "otp_not_valid": "Введён неверный код. Проверьте его и попробуйте снова.",
+    "create_account": "Не удалось создать аккаунт. Проверьте ваши данные и попробуйте снова.",
+    "date": {
+      "invalid_date": "Дата указана в неверном формате. Используйте ДД/ММ/YYYY.",
+      "invalid_month": "Пожалуйста, выберите корректный месяц рождения.",
+      "invalid_day": "Пожалуйста, выберите корректный день рождения.",
+      "invalid_birthdate": "Ваш день рождения не может быть в будущем. Пожалуйста, выберите корректную дату."
+    }
+  },
+  "noDataFound": {
+    "treatment": "нет доступных процедур",
+    "treatmentSearch": "нет доступных процедур",
+    "product": "нет доступных продуктов"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "С вашего счёта будет списано {{amount}} напрямую. Вы уверены, что хотите продолжить?",
+    "add_card_note": "Примечание: у вас должен быть добавлен метод оплаты на аккаунт",
+    "confirm_subscription": "Подтвердить подписку",
+    "yes": "Да, продолжить",
+    "no": "Нет, отменить"
+  },
+  "taxSheet": {
+    "title": "2.5% Налог и обслуживание",
+    "description": "Этот сбор используется для компенсации административных расходов, связанных с вашей процедурой или сервисом.",
+    "button": "Понял"
+  },
+  "payment": {
+    "retry_failed_title": "Платёж не удался",
+    "retry_failed_message": "Не удалось обработать платёж. Пожалуйста, обновите метод оплаты, чтобы продолжить."
+  },
+  "treatments": {
+    "redeem_multiple": "Обменять {{count}} процедур"
+  },
+  "products": {
+    "redeem_multiple": "Обменять {{count}} продуктов"
+  },
+  "custom_plan": {
+    "delete_title": "Удалить персональный план",
+    "delete_description": "Вы уверены, что хотите удалить этот персональный план?",
+    "delete": "Удалить",
+    "cancel": "Отмена"
+  },
+  "no_search_results": {
+    "title": "Результаты не найдены",
+    "description": "Похоже, мы не нашли ничего, соответствующего вашему запросу.",
+    "try_new": "Попробуйте другие ключевые слова или проверьте ошибки ввода."
+  }
+}

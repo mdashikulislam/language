@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Nastavi kao gost",
+    "continue": "Nastavi",
+    "apply": "PRIMIJENI UNOS",
+    "save": "Spremi",
+    "scan": "Skeniraj sada",
+    "next": "Sljedeće",
+    "powered": "Pokreće ",
+    "scan_qr_code": "Skeniraj QR kod",
+    "or": "ili",
+    "shop_now": "Kupuj sada",
+    "dermis": "DERMIS",
+    "resend_code": "Ponovno pošalji kod",
+    "view_rewards": "Pogledaj svoje nagrade",
+    "change_icon": "Promijeni ikonu",
+    "reset_icon": "Resetiraj ikonu",
+    "my_points": "Pogledaj svoje bodove",
+    "see_more": "Vidi više",
+    "see_benifits": "Vidi pogodnosti",
+    "show_all": "Pokaži sve",
+    "rewards": "Nagrade",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Može se pretvoriti u ",
+    "clinic_cash": "{{clinic}} gotovina",
+    "checkout": "Platite",
+    "save_address": "Spremi adresu u svoj račun",
+    "call_now": "Nazovi sada",
+    "apply_filter": "Primijeni",
+    "filter_by": "Filtriraj po",
+    "reset_filter": "Resetiraj filter",
+    "unit_number": "{{quantity}} jedinica",
+    "add_to_cart": "Dodaj u košaricu",
+    "treatments": "Tretmani",
+    "products": "Proizvodi",
+    "membership": "Članstvo",
+    "treat_today": "Obavi tretman danas. Plati kasnije.",
+    "earn": " Zaradi nagrade.",
+    "search": "Pretraži",
+    "settings": "Postavke",
+    "save_big": "Uštedi mnogo novca",
+    "browse_shop": "Pregledaj trgovinu",
+    "filter": "Filter",
+    "sort": "Sortiraj",
+    "referral": "Referral kod",
+    "enter_referral": "Unesi svoj referral kod",
+    "enter_referral_description": "Unesi svoj referral kod za posebne pogodnosti",
+    "submit": "Pošalji",
+    "skip": "Preskoči",
+    "have_referral": "Imaš referral kod?",
+    "ok": "OK",
+    "cancel": "Poništi"
+  },
+  "deleteAccount": {
+    "title": "Izbriši račun",
+    "description": "Jeste li sigurni da želite izbrisati svoj račun?",
+    "note": "Svi vaši podaci i pretplata bit će trajno izbrisani.",
+    "yes": "Da",
+    "no": "Ne"
+  },
+  "home": {
+    "last_visited": "{{name}}, niste posjetili od",
+    "days_count": "{{days_count}}…",
+    "offer": "Stoga smo vam pripremili ponudu koju ne možete odbiti!",
+    "unwrap": "Dodirni za otkrivanje",
+    "recently_viewed": "Nedavno pregledano",
+    "save": "Uštedi {{amount}}",
+    "save2": " kao član {{clinic}}",
+    "save_paragraph": "Besplatni tretmani. Ekskluzivne pogodnosti.",
+    "ad_title": "Tretiraj danas. Plati kasnije. Zaradi nagrade.",
+    "ad_description": "Obavljaj mjesečna plaćanja bez kašnjenja",
+    "educate_yourself": "Informiraj se"
+  },
+  "language": {
+    "english": "Engleski",
+    "french": "Francuski"
+  },
+  "onboarding": {
+    "welcome": "Dobro došli",
+    "welcome_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa",
+    "rewards": "Besplatna nagrada za nove članove!",
+    "birthdays": "Besplatni pokloni za rođendane",
+    "events": "Događaji i ponude samo za članove",
+    "phone_request": "Možemo li dobiti vaš broj telefona?",
+    "login_with_phone": "Prijavite se ili registrirajte putem broja telefona!",
+    "terms": {
+      "agree": "Slažem se s ",
+      "terms_of_service": "Uvjetima korištenja ",
+      "and": "i ",
+      "privacy": "Politikom privatnosti."
+    },
+    "closeApp": "Zatvorite aplikaciju",
+    "andReopen": "i ponovo je otvorite",
+    "otp_title": "Unesite OTP poslan putem SMS‑a",
+    "sms_sent": "Poslali smo OTP na {{phone_number}}",
+    "email_placeholder": "ime@primjer.com",
+    "well_done": "Svaka čast!",
+    "email_request": "A vaš e‑mail?",
+    "last_step": "Posljednji korak",
+    "name_request": "Kako se zovete?",
+    "name_placeholder": "ime prezime",
+    "first_name_placeholder": "Ime",
+    "last_name_placeholder": "Prezime",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "Kada vam je rođendan?",
+    "welcome_message2": "Dobro došli {{name}}! ",
+    "gift_message": "Pripremili smo vam mali poklon skeniranjem prvog QR koda",
+    "find_spa": {
+      "find_medspa": "Pronađite svoju ponudu",
+      "description": "Pronađite svoju lokaciju sada da kupite svoje omiljene usluge i počnete zarađivati nagrade pri svakoj kupovini i posjeti!",
+      "search": "Pretražite ponudu po imenu",
+      "results_found": "Pronađeno je {{quantity}} rezultata"
+    }
+  },
+  "personalInfo": {
+    "title": "Osobni podaci",
+    "email_label": "E‑mail",
+    "email_placeholder": "ime@primjer.com",
+    "nickname_label": "Nadimak",
+    "nickname_placeholer": "ime",
+    "firstname_label": "Ime",
+    "firstname_placeholder": "Ime",
+    "lastname_label": "Prezime",
+    "lastname_placeholder": "Prezime"
+  },
+  "scan": {
+    "scan_text": "Skenirajte u uredu za",
+    "points": "{{points}} boda",
+    "cant_scan": "Kako to radi?"
+  },
+  "rewardModal": {
+    "horray": "Juhu! ",
+    "you_earned": "Upravo ste osvojili",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} bodova"
+  },
+  "banked_modal": {
+    "reward_banked": "NAGRADA SPREMLJENA!",
+    "cash": "{{clinic}} gotovina",
+    "view_rewards": "Pogledaj nagrade"
+  },
+  "segment": {
+    "browse": "Pregledaj",
+    "treatments": "Tretmani",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktivno",
+    "past": "Prošlo",
+    "products": "Proizvodi"
+  },
+  "special_offers": {
+    "expire_in": "Ističe za {{time_left}} ",
+    "title": "Specijalna ponuda!",
+    "new_msg": "Dobili ste poruku od {{sender}}!"
+  },
+  "shop": {
+    "title": "Trgovina",
+    "treatment": {
+      "learn_more": "Saznajte više o ovom tretmanu",
+      "see_treatment": "Pogledaj tretman",
+      "included_treatments_title": "Uključeni tretmani",
+      "chose_treatment": "Odaberite {{quantity}} od sljedećeg svakog {{month}}",
+      "chose_treatment2": "Odaberite {{quantity}} dolje svakog {{month}}",
+      "chose_treatment3": "Primite sljedeće svakog {{month}}",
+      "signUpBonus": "Bonus za prijavu",
+      "from_price": "Od {{price}}",
+      "members_price": "{{memberPrice}} za članove",
+      "treatment_fees": " primjenjuje se naknada za uslugu od {{fees}} pri plaćanju",
+      "results_title": "Fantastični rezultati",
+      "results_description": "Kako su se drugi osjećali o ovom tretmanu",
+      "select_plan": "Odaberite plan tretmana",
+      "before_text": "Prije vašeg tretmana",
+      "after_text": "Nakon vašeg tretmana",
+      "members_results": "Rezultati članova",
+      "customers_and_clients": "Što su vidjeli članovi",
+      "expectations": "Što možete očekivati?",
+      "bundles_treatment_title": "Broj tretmana",
+      "variations_treatments_title": "Vrste tretmana",
+      "treatments_quantity": "{{quantity}} tretmana",
+      "consultation_required": "Potrebna je konzultacija!",
+      "scheduling_link": "link za zakazivanje : ",
+      "visit_button": "Posjeti link",
+      "noBooking": "Za ovaj proizvod nije potrebna rezervacija.",
+      "sessions_available": "{{quantity}} od {{remaining}} sesija{{plural}} dostupno",
+      "sessions": "{{quantity}} sesija{{plural}}",
+      "expire_in": "Ističe za ",
+      "search_result": "Pronađeno {{quantity}} rezultat(a)",
+      "consultation": "Ovaj tretman zahtijeva konzultaciju",
+      "add_to_cart": "Jeste li sigurni da želite dodati ovo u košaricu?"
+    },
+    "product": {
+      "learn_more": "Saznajte više o ovom proizvodu",
+      "see_product": "Pogledaj proizvod",
+      "included_products_title": "Uključeni proizvodi",
+      "chose_product": "Odaberite {{quantity}} od sljedećih svakog {{month}}",
+      "chose_product2": "Odaberite {{quantity}} dolje svakog {{month}}",
+      "chose_product3": "Primite sljedeće svakog {{month}}",
+      "from_price": "Od {{price}}",
+      "members_price": "{{memberPrice}} za članove",
+      "product_fees": " primjenjuje se naknada za uslugu od {{fees}} pri plaćanju",
+      "results_title": "Fantastični rezultati",
+      "results_description": "Kako su se drugi osjećali o ovom proizvodu",
+      "select_plan": "Odaberite plan proizvoda",
+      "before_text": "Prije proizvoda",
+      "after_text": "Nakon proizvoda",
+      "members_results": "Rezultati članova",
+      "customers_and_clients": "Kako su se članovi osjećali o ovom proizvodu",
+      "expectations": "Što možete očekivati?",
+      "bundles_product_title": "Broj proizvoda",
+      "variations_products_title": "Vrste proizvoda",
+      "products_quantity": "{{quantity}} proizvoda",
+      "consultation_required": "Potrebna je konzultacija!",
+      "scheduling_link": "link za zakazivanje : ",
+      "visit_button": "Posjeti link",
+      "expire_in": "Ističe za ",
+      "sessions_available": "{{quantity}} od {{remaining}} {{plural}} preostalo",
+      "treatments": "{{quantity}} tretman(a){{plural}}"
+    },
+    "save_button": {
+      "text": "Uštedite {{amount}} godišnje",
+      "subscribe": "Pretplatite se sada!"
+    },
+    "view_button": {
+      "text": "Pogledaj"
+    },
+    "bonus_card": {
+      "title": "Registrirajte se odmah",
+      "title_bold": " i preuzmite besplatnih {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Tko vam je pomogao kod ove kupovine?",
+      "not_Sure": "Nisam siguran"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Tretiraj danas. Plati kasnije. Zaradi nagrade.",
+      "free_treatments": "Besplatni tretmani, ekskluzivne pogodnosti.",
+      "how_it_work": "Kako to radi?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} BODA",
+    "sinleReward": "Nagrada",
+    "title": "Nagrade",
+    "win_points": {
+      "title": "Trebate više bodova?",
+      "refer_friend": "Preporuči prijatelja",
+      "purshase_inApp": "Kupnja u aplikaciji",
+      "google_review": "Recenzija na Google‑u",
+      "visit": "Posjetite našu kliniku",
+      "status": {
+        "points_added": "{{points}} bodova dodano",
+        "scan": "Skeniraj za zaradu",
+        "pending": "Čeka odobrenje",
+        "plus_points": "+{{points}} bodova",
+        "done": "Gotovo"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Bodovi lojalnosti",
+        "cultPoints": "Cult bodovi",
+        "memberShip": "Član {{clinic}}",
+        "joinedOn": "Pridružio/la se {{since}}",
+        "cash": "{{clinic}} gotovina"
+      },
+      "reviewSheet": {
+        "title": "Jeste li ostavili recenziju?",
+        "text": "Vlasnik klinike će provjeriti vašu recenziju kako bi dodao bodove.",
+        "yesButton": "Da, napravio/la sam!",
+        "noButton": "Još ne"
+      },
+      "reward_details": {
+        "expire_in": "Ističe nakon {{time_left}} dana",
+        "redeem_button": "Iskoristi nagradu sada",
+        "bank_it": "Deponiraj za {{amount}} {{clinic}}",
+        "redeemed": "Iskorišteno",
+        "banked": "Deponirano",
+        "locked": "Zaključano",
+        "expired_at": "Isteklo dana",
+        "consumed": "Potrošeno"
+      },
+      "bank_reward": {
+        "bank_title": "Želite li deponirati svoju nagradu za gotovinu {{clinic}}?",
+        "custom_bank_title": "Deponirajte svoju nagradu za",
+        "bank_description": "Zamijenit ćete za",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "gotovinu {{clinic}} koju možete potrošiti u trgovini u aplikaciji. Time gubite pristup samoj nagradi.",
+        "yes_button": "Da, deponiraj nagradu",
+        "no_button": "Ne sada"
+      },
+      "congratSheet": {
+        "title": "Čestitamo!",
+        "your_reward": "Vaša nagrada je dodana u košaricu!",
+        "description": "Pregledajte našu trgovinu sada da je dodate u svoju narudžbu ili pogledajte košaricu za plaćanje sada s primijenjenim popustom.",
+        "explore_shop": "Istraži trgovinu",
+        "view_cart": "Pogledaj košaricu"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Račun",
+    "logout": "Odjava",
+    "my‑treatment‑section": {
+      "my‑treatment": "Moji tretmani",
+      "used_treatments": "Korišteni tretmani",
+      "empty_used": "Nema korištenih tretmana",
+      "empty_purshased": "Nema kupljenih tretmana",
+      "empty_treatment": "Nema tretmana",
+      "remaining_treatments": "{{remaining}} od {{quantity}} tretmana preostalo",
+      "redeemed_on": "Iskorišteno: {{date}}",
+      "scan": "Skenirajte u klinici za iskorištenje",
+      "book": "Rezerviraj termin",
+      "callClinic": "Nazovi kliniku"
+    },
+    "my‑product‑section": {
+      "my‑product": "Moji proizvodi",
+      "used_products": "Korišteni proizvodi",
+      "empty_used": "Nema korištenih proizvoda",
+      "empty_purshased": "Nema kupljenih proizvoda",
+      "empty_product": "Nema proizvoda",
+      "remaining_products": "{{remaining}} od {{quantity}} proizvoda preostalo",
+      "redeemed_on": "Iskorišteno: {{date}}",
+      "scan": "Skenirajte u klinici za iskorištenje",
+      "book": "Rezerviraj termin",
+      "callClinic": "Nazovi kliniku"
+    },
+    "quantity_sheet": {
+      "select": "Odaberite količinu",
+      "units_left": "{{quantity}} {{units}} dostupno"
+    },
+    "redeem_modal": {
+      "redeemed": "Tretman iskorišten",
+      "description": "Sada možete vidjeti preostale jedinice i planirati svoje sljedeće sesije.",
+      "got_it": "Razumijem!",
+      "cant_scan": "Ne možete skenirati?",
+      "fallback_description": "Evo vašeg rezervnog koda. Unesite ga u web aplikaciju:",
+      "time_remaining": "Preostalo vrijeme: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Proizvod iskorišten",
+      "description": "Sada možete vidjeti preostale jedinice i planirati svoje sljedeće sesije.",
+      "got_it": "Razumijem!",
+      "cant_scan": "Ne možete skenirati?",
+      "fallback_description": "Evo vašeg rezervnog koda. Unesite ga u web aplikaciju:",
+      "time_remaining": "Preostalo vrijeme: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Osobni podaci",
+      "payment_methods": "Načini plaćanja",
+      "payment_method": "Način plaćanja"
+    },
+    "payment_method_card": {
+      "visa": "Kartica",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Broj kartice",
+      "experation": "Istječe",
+      "cvc": "CVC",
+      "select_country": "Odaberite državu",
+      "select_country_placeholder": "Odaberite državu…",
+      "contact_details": "Kontakt podaci",
+      "confirm_details": "Potvrdite podatke za primanje računa"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Pridružio/la se {{date}}",
+    "cancled_on": " Otkaženo {{date}}",
+    "empty_membership": "Nema članstva ovdje",
+    "browse_mebership": "Pregledaj članstva",
+    "active_membership": "Aktivno članstvo",
+    "paused_membership": "Pauzirano članstvo",
+    "active_membership_count": "{{quantity}} aktivna članstva",
+    "next_payment_attempt": "Pokušali smo obraditi vaše plaćanje, ponovno ćemo pokušati {{date}}",
+    "update_payment_info": "Ažuriraj način plaćanja",
+    "retry_payment": "Pokušaj ponovo plaćanje",
+    "cancel_payment": "Otkaži članstvo",
+    "something_wrong": "Čini se da je nešto pošlo po zlu…",
+    "update_payment_method": "Ažuriraj plaćanje",
+    "you_saved": "Uštedjeli ste",
+    "treatments": "({{number}} Tretman(a))",
+    "products": "({{number}} Proizvod(a))",
+    "equivalent": {
+      "title": "Ekvivalent",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel ruž(evi)",
+      "bags": " Chanel torb(a/e)",
+      "swimsuits": " Gucci kupaći kostim(i)"
+    },
+    "memberShipPayFor": "Članstvo koje se dovoljno isplati",
+    "you_have": "Imate {{quantity}} tretmana dostupnih",
+    "you_have_products": "Imate {{quantity}} proizvoda dostupnih",
+    "available_in": "Dostupno za {{days}} dana",
+    "available_in_products": "Sljedeći proizvodi dostupni za {{days}} dana",
+    "your_benefits": "Vaše pogodnosti",
+    "membership_benefits": "Pogodnosti članstva",
+    "refresh_on": "Obnavlja se {{date}}",
+    "monthly_treatment_selection": "Mjesečni izbor tretmana",
+    "monthly_product_selection": "Mjesečni izbor proizvoda",
+    "firstDay_treatment_selection": "Počinje prvog dana kao član",
+    "firstDay_product_selection": "Počinje prvog dana kao član",
+    "unknown_treatment_selection": "Počinje nakon {{period}} kao član",
+    "unknown_product_selection": "Počinje nakon {{period}} kao član",
+    "select_one": "Odaberite 1 od sljedećih tretmana besplatno svaki mjesec",
+    "select_one_product": "Odaberite 1 od sljedećih proizvoda besplatno svaki mjesec",
+    "select_free_treatment": "Odaberite svoj besplatni tretman",
+    "select_free_product": "Odaberite svoj besplatni proizvod",
+    "are_you_sure": "Jeste li sigurni da želite odabrati ovaj tretman?",
+    "are_you_sure_product": "Jeste li sigurni da želite odabrati ovaj proizvod?",
+    "are_you_sure_cancel": "Jeste li sigurni da želite otkazati svoje članstvo?",
+    "sure": "Da, siguran/na sam",
+    "no": "Ne, pogriješio/la sam",
+    "number_updated": "Broj jedinica uspješno je ažuriran za ovaj tretman",
+    "number_updated_product": "Broj jedinica uspješno je ažuriran za ovaj proizvod",
+    "you_can_see": "Sada možete vidjeti preostale jedinice i planirati svoje sljedeće sesije.",
+    "you_can_see_product": "Sada možete vidjeti preostale jedinice i planirati svoje sljedeće sesije."
+  },
+  "cart_screen": {
+    "screen_title": "Košarica za kupnju",
+    "clinic_price_applied": "{{clinic}} cijena primijenjena",
+    "summury": "Sažetak",
+    "promo_code": "Promo kod",
+    "add_promo_code": "Dodaj promo kod",
+    "order_summury": "SAŽETAK NARUDŽBE",
+    "subtotal": "Međuzbroj",
+    "cash_wallet": "Gotovinski novčanik",
+    "rewardDiscount": "Popust za nagradu",
+    "membership_discount": "Popust za članstvo",
+    "tax": "Porez i naknada za uslugu",
+    "total": "Ukupan iznos narudžbe",
+    "totalMaj": "UKUPNO NARUDŽBE",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Plati sada",
+    "place_order": "Pošalji narudžbu",
+    "order_confirmed": "Pripremite se, vaša narudžba je potvrđena!",
+    "points_tracker": "Praćenje bodova",
+    "your_purchance": "Vaša kupnja pomogla vam je da zaradite sljedeću nagradu!",
+    "reward_unlocked": "nagrada otključana",
+    "rewards_unlocked": "NAGRADE OTKLJUČANE",
+    "amount_unlocked": "${{amount}} prema prvoj kupnji u aplikaciji",
+    "can_convert_amount": "Može se pretvoriti u ${{amount}} gotovine",
+    "edit_product": "Uredi proizvod",
+    "delete": "Izbriši",
+    "empty_cart": "Košarica je prazna, dodajte neke proizvode",
+    "cashExceeds": "Žao nam je, gotovinski saldo ne može prelaziti ({{allowedMerchantCashPercentage}} %) ukupne vrijednosti košarice",
+    "loseMoney": "Izgubili bismo novac 😞",
+    "useOnly": "Možete dodati više tretmana u košaricu, ili upotrijebiti samo {{amount}} od dostupnog gotovinskog salda za ovaj tretman sada.",
+    "disallowed": "Žao nam je, vaš gotovinski saldo ne može se koristiti za {{number}} tretman(a)",
+    "removeFromCart": "Ukloni iz košarice"
+  },
+  "dates": {
+    "minute": "minuta",
+    "minutes": "minuta",
+    "hour": "sat",
+    "hours": "sati",
+    "day": "dan",
+    "days": "dani",
+    "month": "mjesec",
+    "months": "mjeseci",
+    "year": "godina",
+    "years": "godine",
+    "now": "sada",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Ovaj e‑mail se već koristi. Molimo koristite drugi e‑mail.",
+    "login_error": "Prijava nije uspjela. Provjerite broj i pokušajte ponovno.",
+    "signup_error": "Registracija nije uspjela. Molimo provjerite svoje podatke i pokušajte ponovno.",
+    "undifined_error": "Ups! Nešto je pošlo po zlu.",
+    "otp_not_valid": "Kod koji ste unijeli nije ispravan. Molimo provjerite i pokušajte ponovno.",
+    "create_account": "Nismo mogli kreirati vaš račun. Molimo provjerite svoje podatke i pokušajte ponovno.",
+    "date": {
+      "invalid_date": "Datum je u pogrešnom formatu. Koristite DD/MM/YYYY.",
+      "invalid_month": "Molimo odaberite valjan datum rođenja.",
+      "invalid_day": "Molimo odaberite valjan datum rođenja.",
+      "invalid_birthdate": "Vaš rođendan ne može biti u budućnosti. Molimo odaberite valjan datum."
+    }
+  },
+  "noDataFound": {
+    "treatment": "nema dostupnih tretmana",
+    "treatmentSearch": "nema dostupnih tretmana",
+    "product": "nema dostupnih proizvoda"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Ovo će naplatiti {{amount}} direktno s vaše kartice. Jeste li sigurni da želite nastaviti?",
+    "add_card_note": "Napomena: morate imati dodan način plaćanja na svom računu",
+    "confirm_subscription": "Potvrdi pretplatu",
+    "yes": "Da, nastavi",
+    "no": "Ne, otkaži"
+  },
+  "taxSheet": {
+    "title": "2.5% Porez i naknada za uslugu",
+    "description": "Ova naknada se koristi za pokriće administrativnih troškova povezanih s vašim tretmanom ili uslugom.",
+    "button": "Razumijem"
+  },
+  "payment": {
+    "retry_failed_title": "Plaćanje nije uspjelo",
+    "retry_failed_message": "Nismo mogli obraditi vaše plaćanje. Molimo ažurirajte način plaćanja za nastavak."
+  },
+  "treatments": {
+    "redeem_multiple": "Iskoristi {{count}} tretmana"
+  },
+  "products": {
+    "redeem_multiple": "Iskoristi {{count}} proizvoda"
+  },
+  "custom_plan": {
+    "delete_title": "Izbriši prilagođeni plan",
+    "delete_description": "Jeste li sigurni da želite izbrisati ovaj prilagođeni plan?",
+    "delete": "Izbriši",
+    "cancel": "Poništi"
+  },
+  "no_search_results": {
+    "title": "Nema rezultata",
+    "description": "Čini se da nismo pronašli ništa što odgovara vašoj pretrazi.",
+    "try_new": "Pokušajte s različitim ključnim riječima ili provjerite pravopis."
+  }
+}

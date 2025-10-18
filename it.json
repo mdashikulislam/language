@@ -1,0 +1,530 @@
+{
+  "common": {
+    "loginAsGuest": "Continua come ospite",
+    "continue": "Continua",
+    "apply": "APPLICA INPUT",
+    "save": "Salva",
+    "scan": "Scansiona ora",
+    "next": "Avanti",
+    "powered": "Powered by ",
+    "scan_qr_code": "Scansiona il QR Code",
+    "or": "o",
+    "shop_now": "Acquista ora",
+    "dermis": "DERMIS",
+    "resend_code": "Reinvia codice",
+    "view_rewards": "Visualizza i miei premi",
+    "change_icon": "Cambia icona",
+    "reset_icon": "Reimposta icona",
+    "my_points": "Vedi i miei punti",
+    "see_more": "Vedi di più",
+    "see_benifits": "Vedi i vantaggi",
+    "show_all": "Mostra tutto",
+    "rewards": "Premi",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Può essere convertito in ",
+    "clinic_cash": "{{clinic}} contanti",
+    "checkout": "Vai al checkout",
+    "save_address": "Salva indirizzo sul tuo account",
+    "call_now": "Chiama ora",
+    "apply_filter": "Applica",
+    "filter_by": "Filtra per",
+    "reset_filter": "Reimposta filtro",
+    "unit_number": "{{quantity}} unità",
+    "add_to_cart": "Aggiungi al carrello",
+    "treatments": "Trattamenti",
+    "products": "Prodotti",
+    "membership": "Abbonamento",
+    "treat_today": "Tratta oggi. Paga dopo.",
+    "earn": " Guadagna premi.",
+    "search": "Cerca",
+    "settings": "Impostazioni",
+    "save_big": "Risparmia tanti soldi",
+    "browse_shop": "Esplora il negozio",
+    "filter": "Filtra",
+    "sort": "Ordina",
+    "referral": "Codice referral",
+    "enter_referral": "Inserisci il tuo codice referral",
+    "enter_referral_description": "Inserisci il tuo codice referral per ricevere vantaggi speciali",
+    "submit": "Invia",
+    "skip": "Salta",
+    "have_referral": "Hai un codice referral?",
+    "ok": "OK",
+    "cancel": "Annulla"
+  },
+  "deleteAccount": {
+    "title": "Elimina account",
+    "description": "Sei sicuro di voler eliminare il tuo account?",
+    "note": "Tutti i tuoi dati e abbonamento saranno cancellati in modo permanente.",
+    "yes": "Sì",
+    "no": "No"
+  },
+  "home": {
+    "last_visited": "{{name}}, non hai visitato da",
+    "days_count": "{{days_count}}…",
+    "offer": "Quindi ti abbiamo fatto un’offerta che non puoi rifiutare!",
+    "unwrap": "Tocca per aprire",
+    "recently_viewed": "Visualizzati di recente",
+    "save": "Risparmia {{amount}}",
+    "save2": " da membro {{clinic}}",
+    "save_paragraph": "Trattamenti gratuiti. Vantaggi esclusivi.",
+    "ad_title": "Tratta oggi. Paga dopo. Guadagna premi.",
+    "ad_description": "Effettua pagamenti mensili senza penali di ritardo",
+    "educate_yourself": "Istruisci te stesso"
+  },
+  "language": {
+    "english": "Inglese",
+    "french": "Francese"
+  },
+  "onboarding": {
+    "welcome": "Benvenuto qui",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Premio gratuito per i nuovi membri!",
+    "birthdays": "Regali di compleanno gratuiti",
+    "events": "Eventi e offerte solo per i membri",
+    "phone_request": "Possiamo avere il tuo numero di telefono?",
+    "login_with_phone": "Iscriviti o accedi con il tuo numero di telefono!",
+    "terms": {
+      "agree": "Accetto i ",
+      "terms_of_service": "Termini di servizio ",
+      "and": "e ",
+      "privacy": "Politica sulla privacy."
+    },
+    "closeApp": "Chiudi l’app",
+    "andReopen": "e riaprila",
+    "otp_title": "Inserisci l’OTP inviato via SMS",
+    "sms_sent": "Abbiamo inviato OTP a {{phone_number}}",
+    "email_placeholder": "nome@email.com",
+    "well_done": "Ben fatto!",
+    "email_request": "E la tua email?",
+    "last_step": "Ultimo ma non meno importante",
+    "name_request": "Qual è il tuo nome?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "GG / MM / YYYY",
+    "birthday_request": "Quando è il tuo compleanno?",
+    "welcome_message2": "Benvenuto {{name}}! ",
+    "gift_message": "Ti abbiamo fatto un piccolo regalo scansionando il tuo primo QR‑code",
+    "find_spa": {
+      "find_medspa": "Trova la tua offerta",
+      "description": "Trova ora la tua posizione per acquistare i tuoi servizi preferiti e inizia a guadagnare premi ad ogni acquisto e visita!",
+      "search": "Cerca offerta per nome",
+      "results_found": "{{quantity}} risultati trovati"
+    }
+  },
+  "personalInfo": {
+    "title": "Informazioni personali",
+    "email_label": "E‑mail",
+    "email_placeholder": "nome@email.com",
+    "nickname_label": "NickName",
+    "nickname_placeholer": "nome",
+    "firstname_label": "Nome",
+    "firstname_placeholder": "John",
+    "lastname_label": "Cognome",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Scansiona in sede per",
+    "points": "{{points}} punti",
+    "cant_scan": "Come funziona?"
+  },
+  "rewardModal": {
+    "horray": "Evviva! ",
+    "you_earned": "Hai appena guadagnato",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} punti"
+  },
+  "banked_modal": {
+    "reward_banked": "PREMIO ACCUMULATO!",
+    "cash": "{{clinic}} contanti",
+    "view_rewards": "Visualizza premi"
+  },
+  "segment": {
+    "browse": "Sfoglia",
+    "treatments": "Trattamenti",
+    "clinicName": "{{clinicName}}",
+    "active": "Attivo",
+    "past": "Passato",
+    "products": "Prodotti"
+  },
+  "special_offers": {
+    "expire_in": "Scade tra {{time_left}} ",
+    "title": "Offerta speciale!",
+    "new_msg": "Hai ricevuto un messaggio da {{sender}}!"
+  },
+  "shop": {
+    "title": "Negozio",
+    "treatment": {
+      "learn_more": "Scopri di più su questo trattamento",
+      "see_treatment": "Visualizza trattamento",
+      "included_treatments_title": "Trattamenti inclusi",
+      "chose_treatment": "Scegli {{quantity}} dei seguenti ogni {{month}}",
+      "chose_treatment2": "Scegli {{quantity}} qui sotto ogni {{month}}",
+      "chose_treatment3": "Recepisci i seguenti ogni {{month}}",
+      "signUpBonus": "Bonus di iscrizione",
+      "from_price": "Da {{price}}",
+      "members_price": "{{memberPrice}} per membri",
+      "treatment_fees": " tassa di servizio di {{fees}} applicata al checkout",
+      "results_title": "Risultati incantevoli",
+      "results_description": "Come altri si sono sentiti riguardo a questo trattamento",
+      "select_plan": "Seleziona un piano trattamento",
+      "before_text": "Prima del tuo trattamento",
+      "after_text": "Dopo il tuo trattamento",
+      "members_results": "Risultati dei membri",
+      "customers_and_clients": "Cosa hanno visto i membri",
+      "expectations": "Cosa aspettarsi?",
+      "bundles_treatment_title": "Numero di Trattamenti",
+      "variations_treatments_title": "Tipi di Trattamenti",
+      "treatments_quantity": "{{quantity}} trattamenti",
+      "consultation_required": "Consultazione richiesta!",
+      "scheduling_link": "link di programmazione : ",
+      "visit_button": "Visita link",
+      "noBooking": "Non è necessaria alcuna prenotazione per questo prodotto.",
+      "sessions_available": "{{quantity}} di {{remaining}} sessione{{plural}} disponibili",
+      "sessions": "{{quantity}} sessione{{plural}}",
+      "expire_in": "Scade in ",
+      "search_result": "{{quantity}} risultato{{plural}} trovato",
+      "consultation": "Questo trattamento richiede una consultazione",
+      "add_to_cart": "Sei sicuro di volerlo aggiungere al carrello?"
+    },
+    "product": {
+      "learn_more": "Scopri di più su questo prodotto",
+      "see_product": "Visualizza prodotto",
+      "included_products_title": "Prodotti inclusi",
+      "chose_product": "Scegli {{quantity}} dei seguenti ogni {{month}}",
+      "chose_product2": "Scegli {{quantity}} qui sotto ogni {{month}}",
+      "chose_product3": "Ricevi i seguenti ogni {{month}}",
+      "from_price": "Da {{price}}",
+      "members_price": "{{memberPrice}} per membri",
+      "product_fees": " tassa di servizio di {{fees}} applicata al checkout",
+      "results_title": "Risultati incantevoli",
+      "results_description": "Come altri si sono sentiti riguardo a questo prodotto",
+      "select_plan": "Seleziona un piano prodotto",
+      "before_text": "Prima del tuo prodotto",
+      "after_text": "Dopo il tuo prodotto",
+      "members_results": "Risultati dei membri",
+      "customers_and_clients": "Come i membri si sono sentiti riguardo a questo prodotto",
+      "expectations": "Cosa aspettarsi?",
+      "bundles_product_title": "Numero di Prodotti",
+      "variations_products_title": "Tipi di Prodotti",
+      "products_quantity": "{{quantity}} prodotti",
+      "consultation_required": "Consultazione richiesta!",
+      "scheduling_link": "link di programmazione : ",
+      "visit_button": "Visita link",
+      "expire_in": "Scade in ",
+      "sessions_available": "{{quantity}} di {{remaining}} {{plural}} rimanenti",
+      "treatments": "{{quantity}} trattamento{{plural}}"
+    },
+    "save_button": {
+      "text": "Risparmia {{amount}} all’anno",
+      "subscribe": "Iscriviti ora!"
+    },
+    "view_button": {
+      "text": "Visualizza"
+    },
+    "bonus_card": {
+      "title": "Iscriviti subito per",
+      "title_bold": " chiedere un {gifts} gratuito!"
+    },
+    "teamMember": {
+      "title": "Chi ti ha assistito con questo acquisto?",
+      "not_Sure": "Non sicuro"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Tratta oggi. Paga dopo. Guadagna premi.",
+      "free_treatments": "Trattamenti gratuiti. Vantaggi esclusivi.",
+      "how_it_work": "Come funziona?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PUNTI",
+    "sinleReward": "Premio",
+    "title": "Premi",
+    "win_points": {
+      "title": "Hai bisogno di più punti?",
+      "refer_friend": "Invita un amico",
+      "purshase_inApp": "Acquista nell’app",
+      "google_review": "Recensione su Google",
+      "visit": "Visita la nostra clinica",
+      "status": {
+        "points_added": "{{points}} punti aggiunti",
+        "scan": "Scansiona per guadagnare",
+        "pending": "In attesa di approvazione",
+        "plus_points": "+{{points}} punti",
+        "done": "Fatto"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Punti fedeltà",
+        "cultPoints": "Punti cult",
+        "memberShip": "{{clinic}} membro",
+        "joinedOn": "Iscritto il {{since}}",
+        "cash": "{{clinic}} contanti"
+      },
+      "reviewSheet": {
+        "title": "Hai lasciato una recensione?",
+        "text": "Il proprietario della clinica verificherà la recensione per aggiungerti punti.",
+        "yesButton": "Sì, l’ho fatta!",
+        "noButton": "Non ancora"
+      },
+      "reward_details": {
+        "expire_in": "Scade tra {{time_left}} giorni",
+        "redeem_button": "Riscatta premio ora",
+        "bank_it": "Deposita per {{amount}} {{clinic}}",
+        "redeemed": "Riscattato",
+        "banked": "Depositato",
+        "locked": "Bloccato",
+        "expired_at": "Scaduto il",
+        "consumed": "Consum
+
+        ed"
+      },
+      "bank_reward": {
+        "bank_title": "Deposita il tuo premio per {{clinic}} contanti?",
+        "custom_bank_title": "Deposita il tuo premio per",
+        "bank_description": "Scambierai il tuo premio per",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "valore in contanti {{clinic}} che può essere speso nel negozio nell’app. Facendo questo perderai l’accesso al premio stesso.",
+        "yes_button": "Sì, deposita premio",
+        "no_button": "Non ora"
+      },
+      "congratSheet": {
+        "title": "Congratulazioni!",
+        "your_reward": "Il tuo premio è stato aggiunto al carrello!",
+        "description": "Esplora ora il nostro negozio per aggiungerlo al tuo ordine o visualizza il carrello per procedere al checkout con lo sconto applicato.",
+        "explore_shop": "Esplora negozio",
+        "view_cart": "Visualizza carrello"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Account",
+    "logout": "Esci",
+    "my‑treatment‑section": {
+      "my‑treatment": "I miei trattamenti",
+      "used_treatments": "Trattamenti usati",
+      "empty_used": "Nessun trattamento utilizzato",
+      "empty_purshased": "Nessun trattamento acquistato",
+      "empty_treatment": "Nessun trattamento",
+      "remaining_treatments": "{{remaining}} di {{quantity}} trattamenti rimanenti",
+      "redeemed_on": "Riscattato il: {{date}}",
+      "scan": "Scansiona in clinica per riscattare",
+      "book": "Prenota appuntamento",
+      "callClinic": "Chiama la clinica"
+    },
+    "my‑product‑section": {
+      "my‑product": "I miei prodotti",
+      "used_products": "Prodotti utilizzati",
+      "empty_used": "Nessun prodotto utilizzato",
+      "empty_purshased": "Nessun prodotto acquistato",
+      "empty_product": "Nessun prodotto",
+      "remaining_products": "{{remaining}} di {{quantity}} prodotti rimanenti",
+      "redeemed_on": "Riscattato il: {{date}}",
+      "scan": "Scansiona in clinica per riscattare",
+      "book": "Prenota appuntamento",
+      "callClinic": "Chiama la clinica"
+    },
+    "quantity_sheet": {
+      "select": "Seleziona quantità",
+      "units_left": "{{quantity}} unità disponibili"
+    },
+    "redeem_modal": {
+      "redeemed": "Trattamento riscattato",
+      "description": "Ora puoi vedere le unità rimanenti e pianificare le tue prossime sessioni.",
+      "got_it": "Capito!",
+      "cant_scan": "Impossibile scansionare?",
+      "fallback_description": "Ecco il tuo codice di fallback. Inseriscilo nell’app web:",
+      "time_remaining": "Tempo rimanente: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Prodotto riscattato",
+      "description": "Ora puoi vedere le unità rimanenti e pianificare le tue prossime sessioni.",
+      "got_it": "Capito!",
+      "cant_scan": "Impossibile scansionare?",
+      "fallback_description": "Ecco il tuo codice di fallback. Inseriscilo nell’app web:",
+      "time_remaining": "Tempo rimanente: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Informazioni personali",
+      "payment_methods": "Metodi di pagamento",
+      "payment_method": "Metodo di pagamento"
+    },
+    "payment_method_card": {
+      "visa": "Carta",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Numero carta",
+      "experation": "Scadenza",
+      "cvc": "CVC",
+      "select_country": "Seleziona paese",
+      "select_country_placeholder": "Seleziona un paese…",
+      "contact_details": "Dettagli di contatto",
+      "confirm_details": "Conferma i tuoi dettagli per ricevere la ricevuta"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Iscritto il {{date}}",
+    "cancled_on": " Annullato il {{date}}",
+    "empty_membership": "Nessun abbonamento qui",
+    "browse_mebership": "Sfoglia abbonamenti",
+    "active_membership": "Abbonamento attivo",
+    "paused_membership": "Abbonamento in pausa",
+    "active_membership_count": "{{quantity}} abbonamenti attivi",
+    "next_payment_attempt": "Abbiamo tentato di elaborare il tuo pagamento dell’abbonamento, riproveremo il {{date}}",
+    "update_payment_info": "Aggiorna metodo di pagamento",
+    "retry_payment": "Riprova metodo di pagamento",
+    "cancel_payment": "Annulla abbonamento",
+    "something_wrong": "Sembra che qualcosa sia andato storto…",
+    "update_payment_method": "Aggiorna pagamento",
+    "you_saved": "Hai risparmiato",
+    "treatments": "({{number}} Trattamento(i))",
+    "products": "({{number}} Prodotto(i))",
+    "equivalent": {
+      "title": "Equivalente",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Rossetto Chanel",
+      "bags": " Borsa Chanel",
+      "swimsuits": " Costume Gucci"
+    },
+    "memberShipPayFor": "L’abbonamento che si paga da solo",
+    "you_have": "Hai {{quantity}} trattamenti disponibili",
+    "you_have_products": "Hai {{quantity}} prodotti disponibili",
+    "available_in": "{{days}} giorni rimasti fino alla prossima selezione",
+    "available_in_products": "Prossimi prodotti disponibili tra {{days}} giorni",
+    "your_benefits": "I tuoi vantaggi",
+    "membership_benefits": "Vantaggi dell’abbonamento",
+    "refresh_on": "Si aggiorna il {{date}}",
+    "monthly_treatment_selection": "Selezione trattamenti mensile",
+    "monthly_product_selection": "Selezione prodotti mensile",
+    "firstDay_treatment_selection": "Inizia dal tuo 1° giorno come membro",
+    "firstDay_product_selection": "Inizia dal tuo 1° giorno come membro",
+    "unknown_treatment_selection": "Inizia dopo {{period}} come membro",
+    "unknown_product_selection": "Inizia dopo {{period}} come membro",
+    "select_one": "Seleziona 1 dei seguenti trattamenti gratuiti ogni mese",
+    "select_one_product": "Seleziona 1 dei seguenti prodotti gratuiti ogni mese",
+    "select_free_treatment": "Seleziona il tuo trattamento gratuito",
+    "select_free_product": "Seleziona il tuo prodotto gratuito",
+    "are_you_sure": "Sei sicuro di voler selezionare questo trattamento?",
+    "are_you_sure_product": "Sei sicuro di voler selezionare questo prodotto?",
+    "are_you_sure_cancel": "Sei sicuro di voler annullare il tuo abbonamento?",
+    "sure": "Sì, sicuro",
+    "no": "No, mi sono sbagliato",
+    "number_updated": "Il numero delle unità è stato aggiornato con successo per questo trattamento",
+    "number_updated_product": "Il numero delle unità è stato aggiornato con successo per questo prodotto",
+    "you_can_see": "Ora puoi vedere le unità rimanenti e pianificare le tue prossime sessioni.",
+    "you_can_see_product": "Ora puoi vedere le unità rimanenti e pianificare le tue prossime sessioni."
+  },
+  "cart_screen": {
+    "screen_title": "Carrello",
+    "clinic_price_applied": "Prezzo {{clinic}} applicato",
+    "summury": "Riepilogo",
+    "promo_code": "Codice promo",
+    "add_promo_code": "Aggiungi codice promo",
+    "order_summury": "RIEPILOGO ORDINE",
+    "subtotal": "Subtotale",
+    "cash_wallet": "Wallet contanti",
+    "rewardDiscount": "Sconto premio",
+    "membership_discount": "Sconto abbonamento",
+    "tax": "Tassa & servizio",
+    "total": "Totale ordine",
+    "totalMaj": "ORDINE TOTALE",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Procedi al checkout",
+    "place_order": "Effettua ordine",
+    "order_confirmed": "Preparati, il tuo ordine è confermato!",
+    "points_tracker": "Tracker punti",
+    "your_purchance": "Il tuo acquisto ti ha aiutato a guadagnare verso il tuo prossimo premio!",
+    "reward_unlocked": "premio sbloccato",
+    "rewards_unlocked": "PREMI SBLOCCATI",
+    "amount_unlocked": "${{amount}} verso il loro primo acquisto in‑app",
+    "can_convert_amount": "Può essere convertito in ${{amount}} contanti",
+    "edit_product": "Modifica prodotto",
+    "delete": "Elimina",
+    "empty_cart": "Carrello vuoto, aggiungi qualche prodotto",
+    "cashExceeds": "Spiacenti, il saldo contanti non può superare ({{allowedMerchantCashPercentage}} %) del valore totale del carrello",
+    "loseMoney": "Perderemmo soldi 😞",
+    "useOnly": "Puoi aggiungere altri trattamenti al carrello, o usare solo {{amount}} del tuo saldo contanti disponibile per questo trattamento ora.",
+    "disallowed": "Spiacenti, il tuo saldo contanti non può essere usato per {{number}} trattamento(i)",
+    "removeFromCart": "Rimuovi dal carrello"
+  },
+  "dates": {
+    "minute": "minuto",
+    "minutes": "minuti",
+    "hour": "ora",
+    "hours": "ore",
+    "day": "giorno",
+    "days": "giorni",
+    "month": "mese",
+    "months": "mesi",
+    "year": "anno",
+    "years": "anni",
+    "now": "ora",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Questa email è già in uso. Utilizza un’altra email.",
+    "login_error": "Login fallito. Controlla il tuo numero e riprova.",
+    "signup_error": "Registrazione fallita. Assicurati che le tue informazioni siano corrette e riprova.",
+    "undifined_error": "Oops! Qualcosa è andato storto.",
+    "otp_not_valid": "Il codice che hai inserito non è corretto. Controllalo e riprova.",
+    "create_account": "Non siamo riusciti a creare il tuo account. Controlla i tuoi dati e riprova.",
+    "date": {
+      "invalid_date": "La data è in un formato errato. Usa GG/MM/YYYY.",
+      "invalid_month": "Per favore seleziona un mese di nascita valido.",
+      "invalid_day": "Per favore seleziona un giorno di nascita valido.",
+      "invalid_birthdate": "Il tuo compleanno non può essere nel futuro. Per favore seleziona una data di nascita valida."
+    }
+  },
+  "noDataFound": {
+    "treatment": "nessun trattamento disponibile",
+    "treatmentSearch": "nessun trattamento disponibile",
+    "product": "nessun prodotto disponibile"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Verrà addebitato subito {{amount}} dalla tua carta. Sei sicuro di voler procedere?",
+    "add_card_note": "Nota: devi avere un metodo di pagamento aggiunto al tuo account",
+    "confirm_subscription": "Conferma abbonamento",
+    "yes": "Sì, procedi",
+    "no": "No, annulla"
+  },
+  "taxSheet": {
+    "title": "2.5% Tassa & Servizio",
+    "description": "Questa commissione viene utilizzata per compensare i costi amministrativi relativi al tuo trattamento o servizio.",
+    "button": "Ho capito"
+  },
+  "payment": {
+    "retry_failed_title": "Pagamento fallito",
+    "retry_failed_message": "Non siamo riusciti a processare il tuo pagamento. Per favore aggiorna il tuo metodo di pagamento per continuare."
+  },
+  "treatments": {
+    "redeem_multiple": "Riscatta {{count}} trattamenti"
+  },
+  "products": {
+    "redeem_multiple": "Riscatta {{count}} prodotti"
+  },
+  "custom_plan": {
+    "delete_title": "Elimina piano personalizzato",
+    "delete_description": "Sei sicuro di voler eliminare questo piano personalizzato?",
+    "delete": "Elimina",
+    "cancel": "Annulla"
+  },
+  "no_search_results": {
+    "title": "Nessun risultato trovato",
+    "description": "Sembra che non abbiamo trovato nulla che corrisponda alla tua ricerca.",
+    "try_new": "Prova parole chiave diverse o controlla eventuali errori di battitura."
+  }
+}

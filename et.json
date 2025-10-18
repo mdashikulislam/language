@@ -1,0 +1,529 @@
+{
+  "common": {
+    "loginAsGuest": "Jätka külalisena",
+    "continue": "Jätka",
+    "apply": "KASUTA SISENDIT",
+    "save": "Salvesta",
+    "scan": "Skanneeri nüüd",
+    "next": "Järgmine",
+    "powered": "Toidetud by ",
+    "scan_qr_code": "Skanneeri QR‑kood",
+    "or": "või",
+    "shop_now": "Osta nüüd",
+    "dermis": "DERMIS",
+    "resend_code": "Saada kood uuesti",
+    "view_rewards": "Vaata oma preemiaid",
+    "change_icon": "Vaheta ikooni",
+    "reset_icon": "Lähtesta ikoon",
+    "my_points": "Vaata oma punkte",
+    "see_more": "Vaata rohkem",
+    "see_benifits": "Vaata eeliseid",
+    "show_all": "Näita kõike",
+    "rewards": "Preemiad",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Võib konverteerida ",
+    "clinic_cash": "{{clinic}} sularaha",
+    "checkout": "Kassasse",
+    "save_address": "Salvesta aadress oma kontole",
+    "call_now": "Helista nüüd",
+    "apply_filter": "Rakenda",
+    "filter_by": "Filtreeri järgi",
+    "reset_filter": "Lähtesta filter",
+    "unit_number": "{{quantity}} ühik",
+    "add_to_cart": "Lisa ostukorvi",
+    "treatments": "Protseduurid",
+    "products": "Tooted",
+    "membership": "Liikmelisus",
+    "treat_today": "Hoolitse täna. Maksa hiljem.",
+    "earn": " Teenige preemiaid.",
+    "search": "Otsi",
+    "settings": "Seaded",
+    "save_big": "Säästa palju raha",
+    "browse_shop": "Sirvi poodi",
+    "filter": "Filter",
+    "sort": "Sorteeri",
+    "referral": "Soovitus‑kood",
+    "enter_referral": "Sisesta oma soovituskood",
+    "enter_referral_description": "Sisesta oma soovituskood, et saada erisoodustusi",
+    "submit": "Esita",
+    "skip": "Vahele",
+    "have_referral": "Kas sul on soovituskood?",
+    "ok": "OK",
+    "cancel": "Tühista"
+  },
+  "deleteAccount": {
+    "title": "Kustuta konto",
+    "description": "Kas olete kindel, et soovite oma konto kustutada?",
+    "note": "Kõik teie andmed ja tellimus kustutatakse jäädavalt.",
+    "yes": "Jah",
+    "no": "Ei"
+  },
+  "home": {
+    "last_visited": "{{name}}, te pole külastanud alates",
+    "days_count": "{{days_count}}…",
+    "offer": "Seepärast tegime teile pakkumise, mida te ei saa keelduda!",
+    "unwrap": "Puuduta, et avada",
+    "recently_viewed": "Hiljuti vaadatud",
+    "save": "Säästa {{amount}}",
+    "save2": " kui {{clinic}} liige",
+    "save_paragraph": "Tasuta protseduurid. Eksklusiivsed eelised.",
+    "ad_title": "Hoolitse täna. Maksa hiljem. Teenige preemiaid.",
+    "ad_description": "Tee igakuiseid makseid ilma hilinenud tasudeta",
+    "educate_yourself": "Haritu end"
+  },
+  "language": {
+    "english": "Inglise",
+    "french": "Prantsuse"
+  },
+  "onboarding": {
+    "welcome": "Tere tulemast siia",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Tasuta preemia uutele liikmetele!",
+    "birthdays": "Tasuta sünnipäevakingitused",
+    "events": "Ainult liikmetele mõeldud üritused ja pakkumised",
+    "phone_request": "Kas saame teie telefoninumbri?",
+    "login_with_phone": "Registreeru või logi sisse telefoninumbri abil!",
+    "terms": {
+      "agree": "Nõustun ",
+      "terms_of_service": "Teenuse tingimustega ",
+      "and": "ja ",
+      "privacy": "Privaatsuspoliitikaga."
+    },
+    "closeApp": "Sulge rakendus",
+    "andReopen": "ja ava see uuesti",
+    "otp_title": "Sisesta SMS‑iga saadetud OTP",
+    "sms_sent": "Saatsime OTP numbrile {{phone_number}}",
+    "email_placeholder": "nimi@email.com",
+    "well_done": "Väga hea!",
+    "email_request": "Ja teie e‑post?",
+    "last_step": "Viimane samm",
+    "name_request": "Mis on teie nimi?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "PP / KK / AAAA",
+    "birthday_request": "Millal on teie sünnipäev?",
+    "welcome_message2": "Tere tulemast, {{name}}! ",
+    "gift_message": "Saatsime teile väikese kingituse, skaneerides teie esimese QR‑koodi",
+    "find_spa": {
+      "find_medspa": "Leia oma pakkumine",
+      "description": "Leia oma asukoht nüüd, et osta oma lemmikteenuseid ja hakka iga ostu ning visiidiga preemiaid teenima!",
+      "search": "Otsi pakkumist nime järgi",
+      "results_found": "{{quantity}} tulemust leitud"
+    }
+  },
+  "personalInfo": {
+    "title": "Isikuandmed",
+    "email_label": "E‑post",
+    "email_placeholder": "nimi@email.com",
+    "nickname_label": "Hüüdnimi",
+    "nickname_placeholer": "nimi",
+    "firstname_label": "Eesnimi",
+    "firstname_placeholder": "John",
+    "lastname_label": "Perekonnanimi",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Skanneeri kontoris, et saada",
+    "points": "{{points}} punkti",
+    "cant_scan": "Kuidas see töötab?"
+  },
+  "rewardModal": {
+    "horray": "Hurraa! ",
+    "you_earned": "Sa just teenisid",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} punkti"
+  },
+  "banked_modal": {
+    "reward_banked": "PREEMIA SALVESTATUD!",
+    "cash": "{{clinic}} sularaha",
+    "view_rewards": "Vaata preemiaid"
+  },
+  "segment": {
+    "browse": "Sirvi",
+    "treatments": "Protseduurid",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktiivne",
+    "past": "Minevik",
+    "products": "Tooted"
+  },
+  "special_offers": {
+    "expire_in": "Aegub pärast {{time_left}} ",
+    "title": "Eripakkumine!",
+    "new_msg": "Sa said sõnumi saatjalt {{sender}}!"
+  },
+  "shop": {
+    "title": "Pood",
+    "treatment": {
+      "learn_more": "Loe sellest protseduurist rohkem",
+      "see_treatment": "Vaata protseduuri",
+      "included_treatments_title": "Sisse‑arvatud protseduurid",
+      "chose_treatment": "Vali {{quantity}} järgnevast iga {{month}}",
+      "chose_treatment2": "Vali {{quantity}} allpool iga {{month}}",
+      "chose_treatment3": "Saate järgmist iga {{month}}",
+      "signUpBonus": "Registreerimise boonus",
+      "from_price": "Alates {{price}}",
+      "members_price": "{{memberPrice}} liikmetele",
+      "treatment_fees": " teenustasu {{fees}} rakendub kassas",
+      "results_title": "Võluvad tulemused",
+      "results_description": "Kuidas teised tundsid selle protseduuri kohta",
+      "select_plan": "Vali protseduuriplaan",
+      "before_text": "Enne sinu protseduuri",
+      "after_text": "Pärast sinu protseduuri",
+      "members_results": "Liikmete tulemused",
+      "customers_and_clients": "Mida liikmed nägid",
+      "expectations": "Mida oodata?",
+      "bundles_treatment_title": "Protseduuride arv",
+      "variations_treatments_title": "Protseduuritüübid",
+      "treatments_quantity": "{{quantity}} protseduuri",
+      "consultation_required": "Konsultatsioon on vajalik!",
+      "scheduling_link": "broneeringu link : ",
+      "visit_button": "Ava link",
+      "noBooking": "Selle toote jaoks pole broneeringut vaja.",
+      "sessions_available": "{{quantity}} / {{remaining}} sessiooni(t) saadaval",
+      "sessions": "{{quantity}} sessioon{{plural}}",
+      "expire_in": "Aegub pärast ",
+      "search_result": "{{quantity}} tulemust{{plural}}_ leitud",
+      "consultation": "See protseduur nõuab konsultatsiooni",
+      "add_to_cart": "Kas oled kindel, et soovid selle lisada ostukorvi?"
+    },
+    "product": {
+      "learn_more": "Loe selle toote kohta rohkem",
+      "see_product": "Vaata toodet",
+      "included_products_title": "Sisse‑arvatud tooted",
+      "chose_product": "Vali {{quantity}} järgnevast iga {{month}}",
+      "chose_product2": "Vali {{quantity}} allpool iga {{month}}",
+      "chose_product3": "Saate järgmist iga {{month}}",
+      "from_price": "Alates {{price}}",
+      "members_price": "{{memberPrice}} liikmetele",
+      "product_fees": " teenustasu {{fees}} rakendub kassas",
+      "results_title": "Võluvad tulemused",
+      "results_description": "Kuidas teised tundsid selle toote kohta",
+      "select_plan": "Vali tooteplaan",
+      "before_text": "Enne sinu toodet",
+      "after_text": "Pärast sinu toodet",
+      "members_results": "Liikmete tulemused",
+      "customers_and_clients": "Kuidas liikmed selle tootega tundsid",
+      "expectations": "Mida oodata?",
+      "bundles_product_title": "Toodete arv",
+      "variations_products_title": "Tootetüübid",
+      "products_quantity": "{{quantity}} toodet",
+      "consultation_required": "Konsultatsioon on vajalik!",
+      "scheduling_link": "broneeringu link : ",
+      "visit_button": "Ava link",
+      "expire_in": "Aegub pärast ",
+      "sessions_available": "{{quantity}} / {{remaining}} {{plural}} ülejäänud",
+      "treatments": "{{quantity}} protseduur{{plural}}"
+    },
+    "save_button": {
+      "text": "Säästa {{amount}} aastas",
+      "subscribe": "Telli nüüd!"
+    },
+    "view_button": {
+      "text": "Vaata"
+    },
+    "bonus_card": {
+      "title": "Registreeru kohe, et",
+      "title_bold": " nõuda tasuta {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Kes aitas sind selle ostuga?",
+      "not_Sure": "Pole kindel"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Hoolitse täna. Maksa hiljem. Teenige preemiaid.",
+      "free_treatments": "Tasuta protseduurid. Eksklusiivsed eelised.",
+      "how_it_work": "Kuidas see töötab?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PUNKTI",
+    "sinleReward": "Preemia",
+    "title": "Preemiad",
+    "win_points": {
+      "title": "Vajate rohkem punkte?",
+      "refer_friend": "Soovita sõpra",
+      "purshase_inApp": "Ostu rakenduses",
+      "google_review": "Google’i ülevaade",
+      "visit": "Külastage meie kliinikut",
+      "status": {
+        "points_added": "{{points}} punkti lisatud",
+        "scan": "Skanneeri, et teenida",
+        "pending": "Ootel kinnitust",
+        "plus_points": "+{{points}} punkti",
+        "done": "Valmis"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Loyalty Punk
+        ts",
+        "cultPoints": "Cult Punkts",
+        "memberShip": "{{clinic}} liige",
+        "joinedOn": "Liitus {{since}}",
+        "cash": "{{clinic}} sularaha"
+      },
+      "reviewSheet": {
+        "title": "Kas jätkasite ülevaadet?",
+        "text": "Meie kliiniku omanik kontrollib ülevaate, et lisada teile punkte.",
+        "yesButton": "Jah, ma tegin!",
+        "noButton": "Veel mitte"
+      },
+      "reward_details": {
+        "expire_in": "Aegub peale {{time_left}} päeva",
+        "redeem_button": "Lunasta preemia nüüd",
+        "bank_it": "Kontole {{amount}} {{clinic}}",
+        "redeemed": "Lunastatud",
+        "banked": "Kontole lisatud",
+        "locked": "Lukustatud",
+        "expired_at": "Aegunud:",
+        "consumed": "Tarbitud"
+      },
+      "bank_reward": {
+        "bank_title": "Kontole oma preemia kassaks {{clinic}}?",
+        "custom_bank_title": "Kontole oma preemia",
+        "bank_description": "Vahetate selle oma preemia vastu",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": " väärtuses {{clinic}} sularaha, mida saab kasutada poes rakenduses. Sellega kaotad juurdepääsu preemiale ennast.",
+        "yes_button": "Jah, kontole preemia",
+        "no_button": "Mitte nüüd"
+      },
+      "congratSheet": {
+        "title": "Palju õnne!",
+        "your_reward": "Teie preemia on lisatud ostukorvi!",
+        "description": "Sirvi meie poodi nüüd, et lisada see oma tellimusele või vaata ostukorvi, et maksta kohe oma allahindlusega.",
+        "explore_shop": "Sirvi poodi",
+        "view_cart": "Vaata ostukorvi"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Konto",
+    "logout": "Logi välja",
+    "my-treatment-section": {
+      "my-treatment": "Minu protseduurid",
+      "used_treatments": "Kasutatud protseduurid",
+      "empty_used": "Puuduvad kasutatud protseduurid",
+      "empty_purshased": "Puuduvad ostetud protseduurid",
+      "empty_treatment": "Puuduvad protseduurid",
+      "remaining_treatments": "{{remaining}} / {{quantity}} protseduuri järel",
+      "redeemed_on": "Lunastatud kuupäeval: {{date}}",
+      "scan": "Skanneeri kontoris lunastamiseks",
+      "book": "Broneeri aeg",
+      "callClinic": "Helista kliinikule"
+    },
+    "my-product-section": {
+      "my-product": "Minu tooted",
+      "used_products": "Kasutatud tooted",
+      "empty_used": "Puuduvad kasutatud tooted",
+      "empty_purshased": "Puuduvad ostetud tooted",
+      "empty_product": "Puuduvad tooted",
+      "remaining_products": "{{remaining}} / {{quantity}} toodet järel",
+      "redeemed_on": "Lunastatud kuupäeval: {{date}}",
+      "scan": "Skanneeri kontoris lunastamiseks",
+      "book": "Broneeri aeg",
+      "callClinic": "Helista kliinikule"
+    },
+    "quantity_sheet": {
+      "select": "Vali kogus",
+      "units_left": "{{quantity}} ühikut saadaval"
+    },
+    "redeem_modal": {
+      "redeemed": "Protseduur lunastatud",
+      "description": "Saate nüüd näha allesjäänud ühikuid ja planeerida järgmised sessioonid.",
+      "got_it": "Sain aru!",
+      "cant_scan": "Ei saa skaneerida?",
+      "fallback_description": "Siin on teie varu‑kood. Sisesta see veebirakenduses:",
+      "time_remaining": "Aega jäänud: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Toode lunastatud",
+      "description": "Saate nüüd näha allesjäänud ühikuid ja planeerida järgmised sessioonid.",
+      "got_it": "Sain aru!",
+      "cant_scan": "Ei saa skaneerida?",
+      "fallback_description": "Siin on teie varu‑kood. Sisesta see veebirakenduses:",
+      "time_remaining": "Aega jäänud: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Isikuandmed",
+      "payment_methods": "Maksmismeetodid",
+      "payment_method": "Maksmismeetod"
+    },
+    "payment_method_card": {
+      "visa": "Kaart",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Kaardi number",
+      "experation": "Kehtiv kuni",
+      "cvc": "CVC",
+      "select_country": "Vali riik",
+      "select_country_placeholder": "Vali riik…",
+      "contact_details": "Kontaktandmed",
+      "confirm_details": "Kinnita oma andmed, et saada ostuarve"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Liitus {{date}}",
+    "cancled_on": " Tühistatud {{date}}",
+    "empty_membership": "Siin puudub tellimus",
+    "browse_mebership": "Sirvi liikmelisusi",
+    "active_membership": "Aktiivne liikmelisus",
+    "paused_membership": "Liikmelisus peatatud",
+    "active_membership_count": "{{quantity}} aktiivseid liikmelisusi",
+    "next_payment_attempt": "Proovisime teie liikmelisuse makset töödelda, proovime uuesti {{date}}",
+    "update_payment_info": "Uuenda makseviisi",
+    "retry_payment": "Proovi makseviis uuesti",
+    "cancel_payment": "Tühista liikmelisus",
+    "something_wrong": "Paistab, et midagi läks valesti…",
+    "update_payment_method": "Uuenda makset",
+    "you_saved": "Sa ütlesid ära",
+    "treatments": "({{number}} Protseduur(i))",
+    "products": "({{number}} Toode(t))",
+    "equivalent": {
+      "title": "Võrdne",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel huulepulk(i)",
+      "bags": " Chanel kott(e)",
+      "swimsuits": " Gucci ujumisriie(d)"
+    },
+    "memberShipPayFor": "Liikmelisus, mis maksab end ära",
+    "you_have": "Sul on {{quantity}} protseduuri saadaval",
+    "you_have_products": "Sul on {{quantity}} toodet saadaval",
+    "available_in": "Järgmine valik saadaval {{days}} päeva pärast",
+    "available_in_products": "Järgmised tooted saadaval {{days}} päeva pärast",
+    "your_benefits": "Sinu eelised",
+    "membership_benefits": "Liikmelisuse eelised",
+    "refresh_on": "Uuendub {{date}}",
+    "monthly_treatment_selection": "Igakuised protseduurivalikud",
+    "monthly_product_selection": "Igakuised toodete valikud",
+    "firstDay_treatment_selection": "Alustab sinu 1. päev liikmena",
+    "firstDay_product_selection": "Alustab sinu 1. päev liikmena",
+    "unknown_treatment_selection": "Alustab pärast {{period}} liikmena",
+    "unknown_product_selection": "Alustab pärast {{period}} liikmena",
+    "select_one": "Vali 1 alljärgnevast protseduuridest tasuta iga kuu",
+    "select_one_product": "Vali 1 alljärgnevast toodetest tasuta iga kuu",
+    "select_free_treatment": "Vali oma tasuta protseduur",
+    "select_free_product": "Vali oma tasuta toode",
+    "are_you_sure": "Kas oled kindel, et soovid selle protseduuri valida?",
+    "are_you_sure_product": "Kas oled kindel, et soovid selle toote valida?",
+    "are_you_sure_cancel": "Kas oled kindel, et soovid oma liikmelisuse tühistada?",
+    "sure": "Jah, kindel",
+    "no": "Ei, ma eksisin",
+    "number_updated": "Ühikud on edukalt uuendatud selle protseduuri jaoks",
+    "number_updated_product": "Ühikud on edukalt uuendatud selle toote jaoks",
+    "you_can_see": "Nüüd näed allesjäänud ühikuid ja saad planeerida järgmisi sessioone.",
+    "you_can_see_product": "Nüüd näed allesjäänud ühikuid ja saad planeerida järgmisi sessioone."
+  },
+  "cart_screen": {
+    "screen_title": "Ostukorv",
+    "clinic_price_applied": "{{clinic}} hind rakendatud",
+    "summury": "Ülevaade",
+    "promo_code": "Promo‑kood",
+    "add_promo_code": "Lisa promo‑kood",
+    "order_summury": "TELLIMUSE ÜLEVADE",
+    "subtotal": "Vahekokkuvõte",
+    "cash_wallet": "Sularahakott",
+    "rewardDiscount": "Preemiavähendus",
+    "membership_discount": "Liikmelisuse soodustus",
+    "tax": "Maks & teenustasu",
+    "total": "Telli summa",
+    "totalMaj": "TELLIMUSE KOKKU",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Makse kohe",
+    "place_order": "Esita tellimus",
+    "order_confirmed": "Valmistu, sinu tellimus on kinnitatud!",
+    "points_tracker": "Punkti‑jälgija",
+    "your_purchance": "Sinu ost aitas teenida sinu järgmise preemia!",
+    "reward_unlocked": "preemia avatud",
+    "rewards_unlocked": "PREEMIAD AVATUD",
+    "amount_unlocked": "${{amount}} sinu esimesele rakenduse sisseostule",
+    "can_convert_amount": "Võib konverteerida ${{amount}} sularahaks",
+    "edit_product": "Muuda toodet",
+    "delete": "Kustuta",
+    "empty_cart": "Ostukorv on tühi, lisa mõned tooted",
+    "cashExceeds": "Kahjuks ei saa sularahajääk ületada ({{allowedMerchantCashPercentage}} %) ostukorvi koguväärtusest",
+    "loseMoney": "Me kaotaksime raha 😞",
+    "useOnly": "Sa võid lisada oma ostukorvi rohkem protseduure või kasutada ainult {{amount}} oma kontojäägist selle protseduuri jaoks praegu.",
+    "disallowed": "Kahjuks ei saa sinu sularahajääk kasutada {{number}} protseduur(ide) jaoks",
+    "removeFromCart": "Eemalda ostukorvist"
+  },
+  "dates": {
+    "minute": "minut",
+    "minutes": "minutit",
+    "hour": "tund",
+    "hours": "tundi",
+    "day": "päev",
+    "days": "päeva",
+    "month": "kuu",
+    "months": "kuud",
+    "year": "aasta",
+    "years": "aastat",
+    "now": "nüüd",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "See e‑post on juba kasutusel. Palun kasuta teist e‑postit.",
+    "login_error": "Sisselogimine ebaõnnestus. Kontrolli oma numbrit ja proovi uuesti.",
+    "signup_error": "Registreerumine ebaõnnestus. Veendu, et sinu andmed on korrektsed ja proovi uuesti.",
+    "undifined_error": "Ups! Midagi läks valesti.",
+    "otp_not_valid": "Sisestatud kood on vale. Kontrolli ja proovi uuesti.",
+    "create_account": "Me ei saanud sinu kontot luua. Kontrolli oma andmeid ja proovi uuesti.",
+    "date": {
+      "invalid_date": "Kuupäev on vales vormingus. Kasuta PP/KK/AAAA.",
+      "invalid_month": "Palun vali korrektne sünnikuu.",
+      "invalid_day": "Palun vali korrektne sünnipäev.",
+      "invalid_birthdate": "Sinu sünnipäev ei saa olla tulevikus. Palun vali korrektne kuupäev."
+    }
+  },
+  "noDataFound": {
+    "treatment": "protseduure pole saadaval",
+    "treatmentSearch": "protseduure pole saadaval",
+    "product": "tooteid pole saadaval"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "See võtab kohe kaardilt {{amount}}. Kas oled kindel, et soovid jätkata?",
+    "add_card_note": "Märkus: sinu kontol peab olema makseviis lisatud",
+    "confirm_subscription": "Kinnita tellimus",
+    "yes": "Jah, jätka",
+    "no": "Ei, tühista"
+  },
+  "taxSheet": {
+    "title": "2.5% Maks & teenustasu",
+    "description": "See tasu kasutatakse sinu protseduuri või teenusega seotud admin kulude katmiseks.",
+    "button": "Sain aru"
+  },
+  "payment": {
+    "retry_failed_title": "Makse ebaõnnestus",
+    "retry_failed_message": "Me ei saanud sinu makset töödelda. Palun uuenda oma makseviisi, et jätkata."
+  },
+  "treatments": {
+    "redeem_multiple": "Lunasta {{count}} protseduuri(t)"
+  },
+  "products": {
+    "redeem_multiple": "Lunasta {{count}} toodet"
+  },
+  "custom_plan": {
+    "delete_title": "Kohandatud plaani kustutamine",
+    "delete_description": "Kas oled kindel, et soovid selle kohandatud plaani kustutada?",
+    "delete": "Kustuta",
+    "cancel": "Tühista"
+  },
+  "no_search_results": {
+    "title": "Ühtegi tulemust ei leitud",
+    "description": "Tundub, et me ei leidnud midagi, mis vastaks sinu otsingule.",
+    "try_new": "Proovi teise märksõnaga või kontrolli kirjavigu."
+  }
+}

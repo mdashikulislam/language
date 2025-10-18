@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Continuer en tant qu’invité",
+    "continue": "Continuer",
+    "apply": "APPLIQUER LA SAISIE",
+    "save": "Enregistrer",
+    "scan": "Scanner maintenant",
+    "next": "Suivant",
+    "powered": "Propulsé par ",
+    "scan_qr_code": "Scanner le code QR",
+    "or": "ou",
+    "shop_now": "Acheter maintenant",
+    "dermis": "DERMIS",
+    "resend_code": "Renvoyer le code",
+    "view_rewards": "Voir mes récompenses",
+    "change_icon": "Changer l’icône",
+    "reset_icon": "Réinitialiser l’icône",
+    "my_points": "Voir mes points",
+    "see_more": "Voir plus",
+    "see_benifits": "Voir les avantages",
+    "show_all": "Tout afficher",
+    "rewards": "Récompenses",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Peut être converti en ",
+    "clinic_cash": "cash {{clinic}}",
+    "checkout": "Passer au paiement",
+    "save_address": "Enregistrer l’adresse sur votre compte",
+    "call_now": "Appeler maintenant",
+    "apply_filter": "Appliquer",
+    "filter_by": "Filtrer par",
+    "reset_filter": "Réinitialiser le filtre",
+    "unit_number": "{{quantity}} unité",
+    "add_to_cart": "Ajouter au panier",
+    "treatments": "Soins",
+    "products": "Produits",
+    "membership": "Adhésion",
+    "treat_today": "Traitez aujourd’hui. Payez plus tard.",
+    "earn": " Gagnez des récompenses.",
+    "search": "Rechercher",
+    "settings": "Paramètres",
+    "save_big": "Économisez beaucoup d’argent",
+    "browse_shop": "Parcourir la boutique",
+    "filter": "Filtrer",
+    "sort": "Trier",
+    "referral": "Code de parrainage",
+    "enter_referral": "Entrez votre code de parrainage",
+    "enter_referral_description": "Entrez votre code de parrainage pour recevoir des avantages spéciaux",
+    "submit": "Soumettre",
+    "skip": "Passer",
+    "have_referral": "Vous avez un code de parrainage ?",
+    "ok": "OK",
+    "cancel": "Annuler"
+  },
+  "deleteAccount": {
+    "title": "Supprimer le compte",
+    "description": "Êtes‑vous sûr de vouloir supprimer votre compte ?",
+    "note": "Toutes vos données et votre abonnement seront définitivement supprimés.",
+    "yes": "Oui",
+    "no": "Non"
+  },
+  "home": {
+    "last_visited": "{{name}}, vous n’avez pas visité depuis",
+    "days_count": "{{days_count}}…",
+    "offer": "Alors nous vous avons préparé une offre que vous ne pouvez pas refuser !",
+    "unwrap": "Appuyez pour découvrir",
+    "recently_viewed": "Vu récemment",
+    "save": "Économisez {{amount}}",
+    "save2": " en tant que membre {{clinic}}",
+    "save_paragraph": "Soins gratuits. Avantages exclusifs.",
+    "ad_title": "Traitez aujourd’hui. Payez plus tard. Gagnez des récompenses.",
+    "ad_description": "Effectuez des paiements mensuels sans frais de retard",
+    "educate_yourself": "Informez‑vous"
+  },
+  "language": {
+    "english": "Anglais",
+    "french": "Français"
+  },
+  "onboarding": {
+    "welcome": "Bienvenue ici",
+    "welcome_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa",
+    "rewards": "Récompense gratuite pour les nouveaux membres !",
+    "birthdays": "Cadeaux gratuits d’anniversaire",
+    "events": "Événements et offres réservés aux membres",
+    "phone_request": "Pouvons‑nous obtenir votre numéro de téléphone ?",
+    "login_with_phone": "Inscrivez‑vous ou connectez‑vous avec votre numéro de téléphone !",
+    "terms": {
+      "agree": "J’accepte les ",
+      "terms_of_service": "Conditions d’utilisation ",
+      "and": "& ",
+      "privacy": "Politique de confidentialité."
+    },
+    "closeApp": "Fermez l’application",
+    "andReopen": "et rouvrez‑la",
+    "otp_title": "Entrez le code OTP envoyé par SMS",
+    "sms_sent": "Nous avons envoyé le code OTP à {{phone_number}}",
+    "email_placeholder": "prenom@exemple.com",
+    "well_done": "Bien joué !",
+    "email_request": "Et, votre e‑mail ?",
+    "last_step": "Dernière étape",
+    "name_request": "Quel est votre nom ?",
+    "name_placeholder": "prenom nom",
+    "first_name_placeholder": "Prénom",
+    "last_name_placeholder": "Nom",
+    "birthday_placeholder": "JJ / MM / AAAA",
+    "birthday_request": "Quelle est votre date de naissance ?",
+    "welcome_message2": "Bienvenue {{name}} ! ",
+    "gift_message": "Nous vous avons offert un petit cadeau en scannant votre premier code QR",
+    "find_spa": {
+      "find_medspa": "Trouvez votre offre",
+      "description": "Trouvez votre emplacement maintenant pour acheter vos services favoris et commencer à gagner des récompenses à chaque achat et visite !",
+      "search": "Rechercher une offre par nom",
+      "results_found": "{{quantity}} résultat(s) trouvé(s)"
+    }
+  },
+  "personalInfo": {
+    "title": "Informations personnelles",
+    "email_label": "E‑mail",
+    "email_placeholder": "prenom@exemple.com",
+    "nickname_label": "Surnom",
+    "nickname_placeholer": "nom",
+    "firstname_label": "Prénom",
+    "firstname_placeholder": "Prénom",
+    "lastname_label": "Nom de famille",
+    "lastname_placeholder": "Nom"
+  },
+  "scan": {
+    "scan_text": "Scannez au cabinet pour",
+    "points": "{{points}} points",
+    "cant_scan": "Comment cela fonctionne ?"
+  },
+  "rewardModal": {
+    "horray": "Hourra ! ",
+    "you_earned": "Vous venez de gagner",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} points"
+  },
+  "banked_modal": {
+    "reward_banked": "RÉCOMPENSE ENREGISTRÉE !",
+    "cash": "cash {{clinic}}",
+    "view_rewards": "Voir les récompenses"
+  },
+  "segment": {
+    "browse": "Parcourir",
+    "treatments": "Soins",
+    "clinicName": "{{clinicName}}",
+    "active": "Actif",
+    "past": "Passé",
+    "products": "Produits"
+  },
+  "special_offers": {
+    "expire_in": "Expire dans {{time_left}} ",
+    "title": "Offre spéciale !",
+    "new_msg": "Vous avez reçu un message de {{sender}} !"
+  },
+  "shop": {
+    "title": "Boutique",
+    "treatment": {
+      "learn_more": "En savoir plus sur ce soin",
+      "see_treatment": "Voir le soin",
+      "included_treatments_title": "Soins inclus",
+      "chose_treatment": "Choisissez {{quantity}} des suivants chaque {{month}}",
+      "chose_treatment2": "Choisissez {{quantity}} ci‑dessous chaque {{month}}",
+      "chose_treatment3": "Recevez les suivants chaque {{month}}",
+      "signUpBonus": "Bonus d’inscription",
+      "from_price": "À partir de {{price}}",
+      "members_price": "{{memberPrice}} pour les membres",
+      "treatment_fees": " des frais de service de {{fees}} appliqués au paiement",
+      "results_title": "Résultats enchantés",
+      "results_description": "Comment d’autres ont ressenti ce soin",
+      "select_plan": "Sélectionner un forfait soin",
+      "before_text": "Avant votre soin",
+      "after_text": "Après votre soin",
+      "members_results": "Résultats des membres",
+      "customers_and_clients": "Ce que les membres ont observé",
+      "expectations": "À quoi s’attendre ?",
+      "bundles_treatment_title": "Nombre de soins",
+      "variations_treatments_title": "Types de soins",
+      "treatments_quantity": "{{quantity}} soins",
+      "consultation_required": "Consultation requise !",
+      "scheduling_link": "lien de planification : ",
+      "visit_button": "Visitez le lien",
+      "noBooking": "Aucune réservation requise pour ce produit.",
+      "sessions_available": "{{quantity}} de {{remaining}} session{{plural}}",
+      "sessions": "{{quantity}} session{{plural}}",
+      "expire_in": "Expire dans ",
+      "search_result": "{{quantity}} résultat(s) trouvé(s)",
+      "consultation": "Ce soin nécessite une consultation",
+      "add_to_cart": "Êtes‑vous sûr de vouloir l’ajouter à votre panier ?"
+    },
+    "product": {
+      "learn_more": "En savoir plus sur ce produit",
+      "see_product": "Voir le produit",
+      "included_products_title": "Produits inclus",
+      "chose_product": "Choisissez {{quantity}} des suivants chaque {{month}}",
+      "chose_product2": "Choisissez {{quantity}} ci‑dessous chaque {{month}}",
+      "chose_product3": "Recevez les suivants chaque {{month}}",
+      "from_price": "À partir de {{price}}",
+      "members_price": "{{memberPrice}} pour les membres",
+      "product_fees": " des frais de service de {{fees}} appliqués au paiement",
+      "results_title": "Résultats enchantés",
+      "results_description": "Comment d’autres ont ressenti ce produit",
+      "select_plan": "Sélectionner un forfait produit",
+      "before_text": "Avant votre produit",
+      "after_text": "Après votre produit",
+      "members_results": "Résultats des membres",
+      "customers_and_clients": "Ce que les membres ont ressenti sur ce produit",
+      "expectations": "À quoi s’attendre ?",
+      "bundles_product_title": "Nombre de produits",
+      "variations_products_title": "Types de produits",
+      "products_quantity": "{{quantity}} produits",
+      "consultation_required": "Consultation requise !",
+      "scheduling_link": "lien de planification : ",
+      "visit_button": "Visitez le lien",
+      "expire_in": "Expire dans ",
+      "sessions_available": "{{quantity}} de {{remaining}} {{plural}} restant{{plural}}",
+      "treatments": "{{quantity}} soin{{plural}}"
+    },
+    "save_button": {
+      "text": "Économisez {{amount}} par an",
+      "subscribe": "Abonnez‑vous maintenant !"
+    },
+    "view_button": {
+      "text": "Voir"
+    },
+    "bonus_card": {
+      "title": "Inscrivez‑vous pour immédiatement",
+      "title_bold": " réclamer un {{gifts}} gratuit !"
+    },
+    "teamMember": {
+      "title": "Qui vous a aidé pour cet achat ?",
+      "not_Sure": "Pas sûr"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Traitez aujourd’hui. Payez plus tard. Gagnez des récompenses.",
+      "free_treatments": "Soins gratuits, avantages exclusifs.",
+      "how_it_work": "Comment ça marche ?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} POINTS",
+    "sinleReward": "Récompense",
+    "title": "Récompenses",
+    "win_points": {
+      "title": "Besoin de plus de points ?",
+      "refer_friend": "Parrainer un ami",
+      "purshase_inApp": "Acheter dans l’application",
+      "google_review": "Laisser un avis sur Google",
+      "visit": "Visiter notre clinique",
+      "status": {
+        "points_added": "{{points}} points ajoutés",
+        "scan": "Scannez pour gagner",
+        "pending": "En attente d’approbation",
+        "plus_points": "+{{points}} points",
+        "done": "Fait"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Points de fidélité",
+        "cultPoints": "Points Cult",
+        "memberShip": "Membre {{clinic}}",
+        "joinedOn": "Rejoint le {{since}}",
+        "cash": "cash {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "Avez‑vous laissé un avis ?",
+        "text": "Le propriétaire de la clinique vérifiera l’avis pour vous attribuer les points.",
+        "yesButton": "Oui, je l’ai fait !",
+        "noButton": "Pas encore"
+      },
+      "reward_details": {
+        "expire_in": "Expire dans {{time_left}} jours",
+        "redeem_button": "Échanger la récompense maintenant",
+        "bank_it": "Mettre en banque pour {{amount}} {{clinic}}",
+        "redeemed": "Échangeée",
+        "banked": "Enregistrée",
+        "locked": "Verrouillée",
+        "expired_at": "Expirée le",
+        "consumed": "Consommée"
+      },
+      "bank_reward": {
+        "bank_title": "Mettre votre récompense en banque pour cash {{clinic}} ?",
+        "custom_bank_title": "Mettre votre récompense en banque pour",
+        "bank_description": "Vous l’échangerez contre",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "de cash {{clinic}} qui peut être dépensé dans la boutique de l’application. En faisant cela, vous perdrez l’accès à la récompense elle‑même.",
+        "yes_button": "Oui, mettre en banque la récompense",
+        "no_button": "Pas maintenant"
+      },
+      "congratSheet": {
+        "title": "Félicitations !",
+        "your_reward": "Votre récompense a été ajoutée au panier !",
+        "description": "Explorez notre boutique maintenant pour l’ajouter à votre commande ou voir le panier pour payer maintenant avec votre réduction appliquée.",
+        "explore_shop": "Explorer la boutique",
+        "view_cart": "Voir le panier"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Compte",
+    "logout": "Déconnexion",
+    "my-treatment-section": {
+      "my-treatment": "Mes soins",
+      "used_treatments": "Soins utilisés",
+      "empty_used": "Aucun soin utilisé",
+      "empty_purshased": "Aucun soin acheté",
+      "empty_treatment": "Aucun soin",
+      "remaining_treatments": "{{remaining}} de {{quantity}} soins restants",
+      "redeemed_on": "Utilisé le : {{date}}",
+      "scan": "Scannez au cabinet pour échanger",
+      "book": "Réserver un rendez‑vous",
+      "callClinic": "Appeler la clinique"
+    },
+    "my-product-section": {
+      "my-product": "Mes produits",
+      "used_products": "Produits utilisés",
+      "empty_used": "Aucun produit utilisé",
+      "empty_purshased": "Aucun produit acheté",
+      "empty_product": "Aucun produit",
+      "remaining_products": "{{remaining}} de {{quantity}} produits restants",
+      "redeemed_on": "Utilisé le : {{date}}",
+      "scan": "Scannez au cabinet pour échanger",
+      "book": "Réserver un rendez‑vous",
+      "callClinic": "Appeler la clinique"
+    },
+    "quantity_sheet": {
+      "select": "Sélectionner la quantité",
+      "units_left": "{{quantity}} {{units}} disponibles"
+    },
+    "redeem_modal": {
+      "redeemed": "Soin échangé",
+      "description": "Vous pouvez maintenant voir les unités restantes et planifier vos prochaines séances.",
+      "got_it": "J’ai compris !",
+      "cant_scan": "Impossible de scanner ?",
+      "fallback_description": "Voici votre code de secours. Insérez‑le dans l’application web :",
+      "time_remaining": "Temps restant : {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produit échangé",
+      "description": "Vous pouvez maintenant voir les unités restantes et planifier vos prochaines séances.",
+      "got_it": "J’ai compris !",
+      "cant_scan": "Impossible de scanner ?",
+      "fallback_description": "Voici votre code de secours. Insérez‑le dans l’application web :",
+      "time_remaining": "Temps restant : {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Informations personnelles",
+      "payment_methods": "Méthodes de paiement",
+      "payment_method": "Méthode de paiement"
+    },
+    "payment_method_card": {
+      "visa": "Carte",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Numéro de carte",
+      "experation": "Expiration",
+      "cvc": "CVC",
+      "select_country": "Sélectionner un pays",
+      "select_country_placeholder": "Sélectionnez un pays…",
+      "contact_details": "Coordonnées",
+      "confirm_details": "Confirmez vos coordonnées pour recevoir votre reçu de vente"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Rejoint le {{date}}",
+    "cancled_on": " Annulé le {{date}}",
+    "empty_membership": "Aucun abonnement présent",
+    "browse_mebership": "Parcourir les adhésions",
+    "active_membership": "Adhésion active",
+    "paused_membership": "Adhésion en pause",
+    "active_membership_count": "{{quantity}} adhésion(s) active(s)",
+    "next_payment_attempt": "Nous avons tenté de traiter votre paiement d’abonnement, nous réessayerons le {{date}}",
+    "update_payment_info": "Mettre à jour la méthode de paiement",
+    "retry_payment": "Retenter le paiement",
+    "cancel_payment": "Annuler l’abonnement",
+    "something_wrong": "Il semble que quelque chose ait mal tourné…",
+    "update_payment_method": "Mettre à jour le paiement",
+    "you_saved": "Vous avez économisé",
+    "treatments": "({{number}} soin(s))",
+    "products": "({{number}} produit(s))",
+    "equivalent": {
+      "title": "Équivalent",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " rouge à lèvres Chanel",
+      "bags": " sacs Chanel",
+      "swimsuits": " maillots de bain Gucci"
+    },
+    "memberShipPayFor": "L’adhésion qui se finance elle‑même",
+    "you_have": "Vous avez {{quantity}} soins disponibles",
+    "you_have_products": "Vous avez {{quantity}} produits disponibles",
+    "available_in": "Dans {{days}} jours jusqu’à la prochaine sélection",
+    "available_in_products": "Prochains produits disponibles dans {{days}} jours",
+    "your_benefits": "Vos avantages",
+    "membership_benefits": "Avantages de l’adhésion",
+    "refresh_on": "Renouvellement le {{date}}",
+    "monthly_treatment_selection": "Sélection mensuelle de soin",
+    "monthly_product_selection": "Sélection mensuelle de produit",
+    "firstDay_treatment_selection": "Commence le 1er jour en tant que membre",
+    "firstDay_product_selection": "Commence le 1er jour en tant que membre",
+    "unknown_treatment_selection": "Commence après {{period}} en tant que membre",
+    "unknown_product_selection": "Commence après {{period}} en tant que membre",
+    "select_one": "Sélectionnez 1 des soins ci‑dessous gratuitement chaque mois",
+    "select_one_product": "Sélectionnez 1 des produits ci‑dessous gratuitement chaque mois",
+    "select_free_treatment": "Sélectionnez votre soin gratuit",
+    "select_free_product": "Sélectionnez votre produit gratuit",
+    "are_you_sure": "Êtes‑vous sûr de vouloir sélectionner ce soin ?",
+    "are_you_sure_product": "Êtes‑vous sûr de vouloir sélectionner ce produit ?",
+    "are_you_sure_cancel": "Êtes‑vous sûr de vouloir annuler votre adhésion ?",
+    "sure": "Oui, sûr",
+    "no": "Non, je me suis trompé",
+    "number_updated": "Le nombre d’unités a été mis à jour avec succès pour ce soin",
+    "number_updated_product": "Le nombre d’unités a été mis à jour avec succès pour ce produit",
+    "you_can_see": "Vous pouvez maintenant voir les unités restantes et planifier vos prochaines séances.",
+    "you_can_see_product": "Vous pouvez maintenant voir les unités restantes et planifier vos prochaines séances."
+  },
+  "cart_screen": {
+    "screen_title": "Panier d’achat",
+    "clinic_price_applied": "Tarification {{clinic}} appliquée",
+    "summury": "Résumé",
+    "promo_code": "Code promo",
+    "add_promo_code": "Ajouter un code promo",
+    "order_summury": "RÉSUMÉ DE LA COMMANDE",
+    "subtotal": "Sous‑total",
+    "cash_wallet": "Portefeuille Cash",
+    "rewardDiscount": "Réduction Récompense",
+    "membership_discount": "Réduction Adhésion",
+    "tax": "Taxe & frais de service",
+    "total": "Total de la commande",
+    "totalMaj": "TOTAL DE LA COMMANDE",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Payer maintenant",
+    "place_order": "Passer la commande",
+    "order_confirmed": "Préparez‑vous, votre commande est confirmée !",
+    "points_tracker": "Suivi des points",
+    "your_purchance": "Votre achat a contribué à votre prochaine récompense !",
+    "reward_unlocked": "récompense débloquée",
+    "rewards_unlocked": "RÉCOMPENSES DÉBLOQUÉES",
+    "amount_unlocked": "${{amount}} vers leur premier achat in‑app",
+    "can_convert_amount": "Peut être converti en ${{amount}} cash",
+    "edit_product": "Modifier le produit",
+    "delete": "Supprimer",
+    "empty_cart": "Le panier est vide, ajoutez quelques produits",
+    "cashExceeds": "Désolé, le solde cash ne peut pas dépasser ({{allowedMerchantCashPercentage}} %) de la valeur totale du panier",
+    "loseMoney": "Nous perdrions de l’argent 😞",
+    "useOnly": "Vous pouvez ajouter plus de soins à votre panier, ou utiliser seulement {{amount}} de votre solde cash disponible pour ce soin pour l’instant.",
+    "disallowed": "Désolé, votre solde cash ne peut pas être utilisé pour {{number}} soin(s)",
+    "removeFromCart": "Retirer du panier"
+  },
+  "dates": {
+    "minute": "minute",
+    "minutes": "minute(s)",
+    "hour": "heure",
+    "hours": "heures",
+    "day": "jour",
+    "days": "jours",
+    "month": "mois",
+    "months": "mois",
+    "year": "an",
+    "years": "ans",
+    "now": "maintenant",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Cet e‑mail est déjà utilisé. Veuillez en utiliser un autre.",
+    "login_error": "Échec de la connexion. Vérifiez votre numéro, puis réessayez.",
+    "signup_error": "Échec de l’inscription. Assurez‑vous que vos informations sont correctes et réessayez.",
+    "undifined_error": "Oups ! Quelque chose s’est mal passé.",
+    "otp_not_valid": "Le code que vous avez entré est incorrect. Veuillez vérifier et réessayer.",
+    "create_account": "Nous n’avons pas pu créer votre compte. Veuillez vérifier vos coordonnées et réessayer.",
+    "date": {
+      "invalid_date": "La date est au mauvais format. Utilisez JJ/MM/AAAA.",
+      "invalid_month": "Veuillez sélectionner une date de naissance valide.",
+      "invalid_day": "Veuillez sélectionner une date de naissance valide.",
+      "invalid_birthdate": "Votre anniversaire ne peut pas être dans le futur. Veuillez sélectionner une date de naissance valide."
+    }
+  },
+  "noDataFound": {
+    "treatment": "aucun soin disponible",
+    "treatmentSearch": "aucun soin disponible",
+    "product": "aucun produit disponible"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Cela débloquera {{amount}} directement sur votre carte. Êtes‑vous sûr de vouloir continuer ?",
+    "add_card_note": "Note : vous devez avoir une méthode de paiement ajoutée à votre compte",
+    "confirm_subscription": "Confirmer l’abonnement",
+    "yes": "Oui, Procéder",
+    "no": "Non, Annuler"
+  },
+  "taxSheet": {
+    "title": "2.5 % Taxe & frais de service",
+    "description": "Cette frais sert à compenser les coûts administratifs liés à votre soin ou service.",
+    "button": "Compris"
+  },
+  "payment": {
+    "retry_failed_title": "Paiement échoué",
+    "retry_failed_message": "Nous n’avons pas pu traiter votre paiement. Veuillez mettre à jour votre méthode de paiement pour continuer."
+  },
+  "treatments": {
+    "redeem_multiple": "Échanger {{count}} soins"
+  },
+  "products": {
+    "redeem_multiple": "Échanger {{count}} produits"
+  },
+  "custom_plan": {
+    "delete_title": "Supprimer le plan personnalisé",
+    "delete_description": "Êtes‑vous sûr de vouloir supprimer ce plan personnalisé ?",
+    "delete": "Supprimer",
+    "cancel": "Annuler"
+  },
+  "no_search_results": {
+    "title": "Aucun résultat trouvé",
+    "description": "Il semble que nous n’ayons rien trouvé correspondant à votre recherche.",
+    "try_new": "Essayez des mots‑clés différents ou vérifiez les fautes de frappe."
+  }
+}

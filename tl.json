@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Magpatuloy bilang panauhin",
+    "continue": "Magpatuloy",
+    "apply": "ILAKIP INPUT",
+    "save": "I‑save",
+    "scan": "I‑scan na ngayon",
+    "next": "Susunod",
+    "powered": "Pinatatakbo ng ",
+    "scan_qr_code": "I‑scan ang QR Code",
+    "or": "o",
+    "shop_now": "Mamili na ngayon",
+    "dermis": "DERMIS",
+    "resend_code": "Muling mag‑padala ng code",
+    "view_rewards": "Tingnan ang aking mga gantimpala",
+    "change_icon": "Palitan ang icon",
+    "reset_icon": "I‑reset ang icon",
+    "my_points": "Tingnan ang aking mga puntos",
+    "see_more": "Tingnan pa",
+    "see_benifits": "Tingnan ang mga benepisyo",
+    "show_all": "Ipakita ang lahat",
+    "rewards": "Mga Gantimpala",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Maaaring i‑convert sa ",
+    "clinic_cash": "{{clinic}} cash",
+    "checkout": "Mag‑checkout",
+    "save_address": "I‑save ang address sa iyong account",
+    "call_now": "Tumawag na ngayon",
+    "apply_filter": "I‑apply",
+    "filter_by": "Salain ayon sa",
+    "reset_filter": "I‑reset ang filter",
+    "unit_number": "{{quantity}} unit",
+    "add_to_cart": "Idagdag sa cart",
+    "treatments": "Mga Paggagamot",
+    "products": "Mga Produkto",
+    "membership": "Miyembrohan",
+    "treat_today": "Magpagamot ngayon. Magbayad mamaya.",
+    "earn": " Kumita ng mga gantimpala.",
+    "search": "Maghanap",
+    "settings": "Mga Setting",
+    "save_big": "Malaking tipid",
+    "browse_shop": "Suriin ang shop",
+    "filter": "Salain",
+    "sort": "Ayusin",
+    "referral": "Referral Code",
+    "enter_referral": "I‑enter ang iyong referral code",
+    "enter_referral_description": "I‑enter ang iyong referral code upang tumanggap ng espesyal na mga benepisyo",
+    "submit": "Isumite",
+    "skip": "Laktawan",
+    "have_referral": "May referral code ka ba?",
+    "ok": "OK",
+    "cancel": "Kanselahin"
+  },
+  "deleteAccount": {
+    "title": "Tanggalin ang Account",
+    "description": "Sigurado ka bang gusto mong tanggalin ang iyong account?",
+    "note": "Lahat ng iyong data at subscription ay permanenteng matatanggal.",
+    "yes": "Oo",
+    "no": "Hindi"
+  },
+  "home": {
+    "last_visited": "{{name}}, hindi ka pa nakabisita sa",
+    "days_count": "{{days_count}}…",
+    "offer": "Kaya pinaghandaan ka namin ng isang alok na hindi mo matatanggi!",
+    "unwrap": "Tapikin para buksan",
+    "recently_viewed": "Kamakailang tiningnan",
+    "save": "Makatipid ng {{amount}}",
+    "save2": " bilang miyembro ng {{clinic}}",
+    "save_paragraph": "Libreng mga paggamot. Eksklusibong mga benepisyo.",
+    "ad_title": "Magpagamot ngayon. Magbayad mamaya. Kumita ng mga gantimpala.",
+    "ad_description": "Gumawa ng buwanang bayad na walang late fee",
+    "educate_yourself": "Magpakarunong ka"
+  },
+  "language": {
+    "english": "Ingles",
+    "french": "Pranses"
+  },
+  "onboarding": {
+    "welcome": "Maligayang pagdating dito",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Libreng gantimpala para sa mga bagong miyembro!",
+    "birthdays": "Libreng kaarawan na regalo",
+    "events": "Mga event at alok para lamang sa miyembro",
+    "phone_request": "Maari namin makuha ang iyong numero ng telepono?",
+    "login_with_phone": "Mag‑sign up o mag‑login gamit ang iyong numero ng telepono!",
+    "terms": {
+      "agree": "Sang‑ayon ako sa ",
+      "terms_of_service": "Mga Tuntunin ng Serbisyo ",
+      "and": "at ",
+      "privacy": "Patakaran sa Privacy."
+    },
+    "closeApp": "Isara ang app",
+    "andReopen": "at buksan muli ito",
+    "otp_title": "I‑enter ang OTP na ipinadala via SMS",
+    "sms_sent": "Ipinadala namin ang OTP sa {{phone_number}}",
+    "email_placeholder": "pangalan@email.com",
+    "well_done": "Magaling!",
+    "email_request": "At, ang iyong email?",
+    "last_step": "Huling hakbang na",
+    "name_request": "Ano ang iyong pangalan?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "Kailan ang iyong kaarawan?",
+    "welcome_message2": "Maligayang pagdating, {{name}}! ",
+    "gift_message": "May maliit kaming regalo para sa iyo sa pamamagitan ng pag‑scan ng iyong unang QR code",
+    "find_spa": {
+      "find_medspa": "Hanapin ang iyong Alok",
+      "description": "Hanapin ang iyong lokasyon ngayon para mamili ng iyong paboritong serbisyo, at magsimulang kumita ng mga gantimpala sa bawat pagbili at pagbisita!",
+      "search": "Mag‑hanap ng alok ayon sa pangalan",
+      "results_found": "{{quantity}} resulta natagpuan"
+    }
+  },
+  "personalInfo": {
+    "title": "Personal na Impormasyon",
+    "email_label": "E‑mail",
+    "email_placeholder": "pangalan@email.com",
+    "nickname_label": "Palayaw",
+    "nickname_placeholer": "pangalan",
+    "firstname_label": "Unang Pangalan",
+    "firstname_placeholder": "John",
+    "lastname_label": "Apelyido",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "I‑scan sa opisina para sa",
+    "points": "{{points}} puntos",
+    "cant_scan": "Paano ito gumagana?"
+  },
+  "rewardModal": {
+    "horray": "Hooray! ",
+    "you_earned": "Kakatapos mo lang kumita ng",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} puntos"
+  },
+  "banked_modal": {
+    "reward_banked": "GANTIMPALA INI‑BANK!",
+    "cash": "{{clinic}} cash",
+    "view_rewards": "Tingnan ang mga gantimpala"
+  },
+  "segment": {
+    "browse": "Mag‑browse",
+    "treatments": "Mga Paggagamot",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktibo",
+    "past": "Nakaraan",
+    "products": "Mga Produkto"
+  },
+  "special_offers": {
+    "expire_in": "Magtatapos sa loob ng {{time_left}} ",
+    "title": "Espesyal na Alok!",
+    "new_msg": "May mensahe ka mula kay {{sender}}!"
+  },
+  "shop": {
+    "title": "Mag‑shop",
+    "treatment": {
+      "learn_more": "Alamin pa ang tungkol sa paggamot na ito",
+      "see_treatment": "Tingnan ang paggamot",
+      "included_treatments_title": "Kasamang mga paggamot",
+      "chose_treatment": "Pumili ng {{quantity}} mula sa sumusunod bawat {{month}}",
+      "chose_treatment2": "Pumili ng {{quantity}} sa ibaba bawat {{month}}",
+      "chose_treatment3": "Tumatanggap ng sumusunod bawat {{month}}",
+      "signUpBonus": "Bonus sa pag‑sign up",
+      "from_price": "Mula sa {{price}}",
+      "members_price": "{{memberPrice}} para sa mga Miyembro",
+      "treatment_fees": " may service fee na {{fees}} na ilalapat sa checkout",
+      "results_title": "Kamangha‑manghang Resulta",
+      "results_description": "Paano naramdaman ng iba ang paggamot na ito",
+      "select_plan": "Piliin ang plano ng paggamot",
+      "before_text": "Bago ang iyong paggamot",
+      "after_text": "Pagkatapos ng iyong paggamot",
+      "members_results": "Resulta ng Miyembro",
+      "customers_and_clients": "Ano ang nakita ng mga miyembro",
+      "expectations": "Ano ang aasahan?",
+      "bundles_treatment_title": "Bilang ng Mga Paggagamot",
+      "variations_treatments_title": "Mga Uri ng Paggagamot",
+      "treatments_quantity": "{{quantity}} paggamot",
+      "consultation_required": "Kinakailangan ang konsultasyon !",
+      "scheduling_link": "link sa iskedyul : ",
+      "visit_button": "Bisitahin ang link",
+      "noBooking": "Walang booking na kinakailangan para sa produktong ito.",
+      "sessions_available": "{{quantity}} sa {{remaining}} session{{plural}}",
+      "sessions": "{{quantity}} session{{plural}}",
+      "expire_in": "Magtatapos sa ",
+      "search_result": "{{quantity}} resulta{{plural}} natagpuan",
+      "consultation": "Kinakailangan ng konsultasyon ang paggamot na ito",
+      "add_to_cart": "Sigurado ka bang gusto mong idagdag ito sa iyong cart?"
+    },
+    "product": {
+      "learn_more": "Alamin pa ang tungkol sa produktong ito",
+      "see_product": "Tingnan ang produkto",
+      "included_products_title": "Kasamang mga produkto",
+      "chose_product": "Pumili ng {{quantity}} mula sa sumusunod bawat {{month}}",
+      "chose_product2": "Pumili ng {{quantity}} sa ibaba bawat {{month}}",
+      "chose_product3": "Tumatanggap ng sumusunod bawat {{month}}",
+      "from_price": "Mula sa {{price}}",
+      "members_price": "{{memberPrice}} para sa mga Miyembro",
+      "product_fees": " may service fee na {{fees}} na ilalapat sa checkout",
+      "results_title": "Kamangha‑manghang Resulta",
+      "results_description": "Paano naramdaman ng iba ang produktong ito",
+      "select_plan": "Piliin ang plano ng produkto",
+      "before_text": "Bago ang iyong produkto",
+      "after_text": "Pagkatapos ng iyong produkto",
+      "members_results": "Resulta ng Miyembro",
+      "customers_and_clients": "Paano naramdaman ng mga miyembro ang produktong ito",
+      "expectations": "Ano ang aasahan?",
+      "bundles_product_title": "Bilang ng Mga Produkto",
+      "variations_products_title": "Mga Uri ng Produkto",
+      "products_quantity": "{{quantity}} produkto",
+      "consultation_required": "Kinakailangan ang konsultasyon !",
+      "scheduling_link": "link sa iskedyul : ",
+      "visit_button": "Bisitahin ang link",
+      "expire_in": "Magtatapos sa ",
+      "sessions_available": "{{quantity}} sa {{remaining}} {{plural}} natitira",
+      "treatments": "{{quantity}} paggamot{{plural}}"
+    },
+    "save_button": {
+      "text": "Makatipid ng {{amount}} taun‑taon",
+      "subscribe": "Mag‑subscribe ngayon!"
+    },
+    "view_button": {
+      "text": "Tingnan"
+    },
+    "bonus_card": {
+      "title": "Mag‑sign up ngayon para agad",
+      "title_bold": " kumuha ng libreng {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Sino ang tumulong sa iyo sa pamimili na ito?",
+      "not_Sure": "Hindi sigurado"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Magpagamot ngayon. Magbayad mamaya. Kumita ng mga gantimpala.",
+      "free_treatments": "Libreng mga paggamot. Eksklusibong mga benepisyo.",
+      "how_it_work": "Paano ito gumagana?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PUNTOS",
+    "sinleReward": "Gantimpala",
+    "title": "Mga Gantimpala",
+    "win_points": {
+      "title": "Kailangang ng higit pang mga puntos?",
+      "refer_friend": "Mag‑refer ng kaibigan",
+      "purshase_inApp": "Bumili sa app",
+      "google_review": "Mag‑review sa Google",
+      "visit": "Bisitahin ang aming klinika",
+      "status": {
+        "points_added": "{{points}} puntos naidagdag",
+        "scan": "I‑scan para kumita",
+        "pending": "Naghihintay ng pag‑apruba",
+        "plus_points": "+{{points}} puntos",
+        "done": "Tapos na"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Loyalty Points",
+        "cultPoints": "Cult Points",
+        "memberShip": "{{clinic}} miyembro",
+        "joinedOn": "Sumali noong {{since}}",
+        "cash": "{{clinic}} cash"
+      },
+      "reviewSheet": {
+        "title": "Nag‑iwan ka ba ng review?",
+        "text": "Sivinin ng may‑ari ng klinika ang review upang dagdagan ang iyong mga puntos.",
+        "yesButton": "Oo, ginawa ko!",
+        "noButton": "Hindi pa"
+      },
+      "reward_details": {
+        "expire_in": "Magtatapos sa loob ng {{time_left}} araw",
+        "redeem_button": "I‑redeem ang Gantimpala ngayon",
+        "bank_it": "I‑bank para sa {{amount}} {{clinic}}",
+        "redeemed": "Na‑redeem",
+        "banked": "Na‑bank",
+        "locked": "Nakakandado",
+        "expired_at": "Nag‑expire noong",
+        "consumed": "Nagamit na"
+      },
+      "bank_reward": {
+        "bank_title": "I‑bank ang iyong gantimpala para sa {{clinic}} cash?",
+        "custom_bank_title": "I‑bank ang iyong gantimpala para sa",
+        "bank_description": "Ipalit mo ito para sa",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "halaga ng {{clinic}} cash na maaaring gamitin sa shop sa app. Sa paggawa nito mawawala ang access mo sa gantimpala mismo.",
+        "yes_button": "Oo, i‑bank ang gantimpala",
+        "no_button": "Hindi ngayon"
+      },
+      "congratSheet": {
+        "title": "Binabati ka!",
+        "your_reward": "Nadagdag ang iyong gantimpala sa cart!",
+        "description": "Suriin ang aming shop ngayon upang idagdag ito sa iyong order o tingnan ang cart upang mag‑checkout na ngayon na may ibinawas na diskwento.",
+        "explore_shop": "Suriin ang Shop",
+        "view_cart": "Tingnan ang Cart"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Account",
+    "logout": "Logout",
+    "my‑treatment‑section": {
+      "my‑treatment": "Ang Aking Mga Paggagamot",
+      "used_treatments": "Gamit na Mga Paggagamot",
+      "empty_used": "Walang nagamit na paggamot",
+      "empty_purshased": "Walang biniling paggamot",
+      "empty_treatment": "Walang paggamot",
+      "remaining_treatments": "{{remaining}} ng {{quantity}} paggamot ang natitira",
+      "redeemed_on": "Na‑redeem noong: {{date}}",
+      "scan": "I‑scan sa klinika para i‑redeem",
+      "book": "Mag‑book ng appointment",
+      "callClinic": "Tumawag sa klinika"
+    },
+    "my‑product‑section": {
+      "my‑product": "Ang Aking Mga Produkto",
+      "used_products": "Gamit na Mga Produkto",
+      "empty_used": "Walang nagamit na produkto",
+      "empty_purshased": "Walang biniling produkto",
+      "empty_product": "Walang produkto",
+      "remaining_products": "{{remaining}} ng {{quantity}} produkto ang natitira",
+      "redeemed_on": "Na‑redeem noong: {{date}}",
+      "scan": "I‑scan sa klinika para i‑redeem",
+      "book": "Mag‑book ng appointment",
+      "callClinic": "Tumawag sa klinika"
+    },
+    "quantity_sheet": {
+      "select": "Piliin ang dami",
+      "units_left": "{{quantity}} {{units}} available"
+    },
+    "redeem_modal": {
+      "redeemed": "Paggagamot na na‑redeem",
+      "description": "Makikita mo na ngayon ang natitirang mga unit at ma‑plano ang iyong susunod na mga sesyon.",
+      "got_it": "Nakuha ko na!",
+      "cant_scan": "Hindi ma‑scan?",
+      "fallback_description": "Narito ang iyong fallback code. I‑enter ito sa web app:",
+      "time_remaining": "Natitirang oras: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produktong na‑redeem",
+      "description": "Makikita mo na ngayon ang natitirang mga unit at ma‑plano ang iyong susunod na mga sesyon.",
+      "got_it": "Nakuha ko na!",
+      "cant_scan": "Hindi ma‑scan?",
+      "fallback_description": "Narito ang iyong fallback code. I‑enter ito sa web app:",
+      "time_remaining": "Natitirang oras: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Personal na impormasyon",
+      "payment_methods": "Mga Paraan ng Pagbayad",
+      "payment_method": "Paraan ng Pagbayad"
+    },
+    "payment_method_card": {
+      "visa": "Card",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Numero ng Card",
+      "experation": "Pag‑expire",
+      "cvc": "CVC",
+      "select_country": "Piliin ang Bansa",
+      "select_country_placeholder": "Piliin ang isang bansa…",
+      "contact_details": "Mga Detalye ng Kontak",
+      "confirm_details": "Kumpirmahin ang iyong mga detalye para matanggap ang iyong resibo"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Sumali noong {{date}}",
+    "cancled_on": " Kinansela noong {{date}}",
+    "empty_membership": "Walang subscription dito",
+    "browse_mebership": "Suriin ang mga miyembrohan",
+    "active_membership": "Aktibong Miyembrohan",
+    "paused_membership": "Patigil sa Miyembrohan",
+    "active_membership_count": "{{quantity}} aktibong mga miyembrohan",
+    "next_payment_attempt": "Sinubukan naming iproseso ang iyong bayad sa miyembrohan, susubukan uli sa {{date}}",
+    "update_payment_info": "I‑update ang paraan ng pagbayad",
+    "retry_payment": "Subukang muli ang paraan ng pagbayad",
+    "cancel_payment": "Kanselahin ang miyembrohan",
+    "something_wrong": "Mukhang may mali…",
+    "update_payment_method": "I‑update ang pagbayad",
+    "you_saved": "Nakate‑save ka na",
+    "treatments": "({{number}} Paggagamot{{plural}})",
+    "products": "({{number}} Produkt​​​​o{{plural}})",
+    "equivalent": {
+      "title": "Katumbas",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel lipstick(s)",
+      "bags": " Chanel bag(s)",
+      "swimsuits": " Gucci Swimsuit(s)"
+    },
+    "memberShipPayFor": "Ang miyembrohan na nagbabayad para sa sarili",
+    "you_have": "Mayroon kang {{quantity}} paggamot na magagamit",
+    "you_have_products": "Mayroon kang {{quantity}} produkto na magagamit",
+    "available_in": "Magagamit sa loob ng {{days}} araw",
+    "available_in_products": "Susunod na mga produkto magagamit sa loob ng {{days}} araw",
+    "your_benefits": "Ang iyong mga benepisyo",
+    "membership_benefits": "Mga Benepisyo ng Miyembrohan",
+    "refresh_on": "Mag‑refresh sa {{date}}",
+    "monthly_treatment_selection": "Buwanang Pag‑pili ng Paggagamot",
+    "monthly_product_selection": "Buwanang Pag‑pili ng Produkto",
+    "firstDay_treatment_selection": "Magsisimula sa iyong unang araw bilang miyembro",
+    "firstDay_product_selection": "Magsisimula sa iyong unang araw bilang miyembro",
+    "unknown_treatment_selection": "Magsisimula pagkatapos ng {{period}} bilang miyembro",
+    "unknown_product_selection": "Magsisimula pagkatapos ng {{period}} bilang miyembro",
+    "select_one": "Pumili ng 1 sa mga sumusunod na paggamot nang libre bawat buwan",
+    "select_one_product": "Pumili ng 1 sa mga sumusunod na produkto nang libre bawat buwan",
+    "select_free_treatment": "Piliin ang iyong libreng paggamot",
+    "select_free_product": "Piliin ang iyong libreng produkto",
+    "are_you_sure": "Sigurado ka bang gusto mong piliin ang paggamot na ito?",
+    "are_you_sure_product": "Sigurado ka bang gusto mong piliin ang produktong ito?",
+    "are_you_sure_cancel": "Sigurado ka bang gusto mong kanselahin ang iyong miyembrohan?",
+    "sure": "Oo, sigurado",
+    "no": "Hindi, nagkamali ako",
+    "number_updated": "Matagumpay na na‑update ang bilang ng yunit para sa paggamot na ito",
+    "number_updated_product": "Matagumpay na na‑update ang bilang ng yunit para sa produktong ito",
+    "you_can_see": "Maaari mo na ngayong makita ang natitirang mga yunit at planuhin ang iyong susunod na mga sesyon.",
+    "you_can_see_product": "Maaari mo na ngayong makita ang natitirang mga yunit at planuhin ang iyong susunod na mga sesyon."
+  },
+  "cart_screen": {
+    "screen_title": "Shopping Cart",
+    "clinic_price_applied": "{{clinic}} presyo na na‑apply",
+    "summury": "Buod",
+    "promo_code": "Promo code",
+    "add_promo_code": "Mag‑dagdag ng promo code",
+    "order_summury": "BUOD NG ORDER",
+    "subtotal": "Kabuuang bahagi",
+    "cash_wallet": "Cash wallet",
+    "rewardDiscount": "Diskwento sa Gantimpala",
+    "membership_discount": "Diskwento sa Miyembrohan",
+    "tax": "Buwis & service fee",
+    "total": "Kabuuan ng order",
+    "totalMaj": "KABUUAN NG ORDER",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Mag‑checkout na ngayon",
+    "place_order": "I‑place ang order",
+    "order_confirmed": "Mag‑handa, nakumpirma ang iyong order!",
+    "points_tracker": "Tracker ng Puntos",
+    "your_purchance": "Ang iyong pagbili ay tumulong sa iyo na kumita para sa iyong susunod na gantimpala!",
+    "reward_unlocked": "gantimpala na‑unlock",
+    "rewards_unlocked": "MGA GANTIMPALA NA‑UNLOCK",
+    "amount_unlocked": "${{amount}} para sa kanilang unang in‑app na pagbili",
+    "can_convert_amount": "Maaaring i‑convert sa ${{amount}} cash",
+    "edit_product": "I‑edit ang produkto",
+    "delete": "Tanggalin",
+    "empty_cart": "Blanko ang cart, mag‑dagdag ng ilang mga produkto",
+    "cashExceeds": "Paumanhin, ang balanseng cash ay hindi maaaring lumagpas sa ({{allowedMerchantCashPercentage}} %) ng kabuuang halaga ng cart",
+    "loseMoney": "Mawawala kami ng pera 😞",
+    "useOnly": "Maaari kang mag‑dagdag ng higit pang paggamot sa iyong cart, o gamitin lamang ang {{amount}} ng iyong available na balanse sa cash para sa paggamot na ito ngayon.",
+    "disallowed": "Paumanhin, ang iyong cash balance ay hindi maaaring gamitin para sa {{number}} paggamot(s)",
+    "removeFromCart": "Alisin mula sa cart"
+  },
+  "dates": {
+    "minute": "minuto",
+    "minutes": "minuto",
+    "hour": "oras",
+    "hours": "oras",
+    "day": "araw",
+    "days": "araw",
+    "month": "buwan",
+    "months": "buwan",
+    "year": "taon",
+    "years": "taon",
+    "now": "ngayon",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Ang e‑mail na ito ay ginagamit na. Mangyaring gumamit ng ibang e‑mail.",
+    "login_error": "Nabigo ang pag‑login. Suriin ang iyong numero, pagkatapos subukang muli.",
+    "signup_error": "Nabigo ang pag‑sign up. Siguraduhing tama ang iyong impormasyon at subukang muli.",
+    "undifined_error": "Oops! May nangyaring mali.",
+    "otp_not_valid": "Ang code na iyong inenter ay mali. Pakisuri at subukang muli.",
+    "create_account": "Hindi namin ma‑create ang iyong account. Suriin ang iyong detalye at subukang muli.",
+    "date": {
+      "invalid_date": "Ang petsa ay nasa maling format. Gamitin ang DD/MM/YYYY.",
+      "invalid_month": "Pakipili ang isang wastong petsa ng kapanganakan.",
+      "invalid_day": "Pakipili ang isang wastong araw ng kapanganakan.",
+      "invalid_birthdate": "Hindi maaaring ang iyong kaarawan ay nasa hinaharap. Pakipili ang isang wastong petsa ng kapanganakan."
+    }
+  },
+  "noDataFound": {
+    "treatment": "walang paggamot na magagamit",
+    "treatmentSearch": "walang paggamot na magagamit",
+    "product": "walang produkto na magagamit"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Ito ay maniningil ng {{amount}} direkta mula sa iyong card. Sigurado ka bang gusto mong ipagpatuloy?",
+    "add_card_note": "Tandaan: kailangan mong magkaroon ng paraan ng pag‑bayad na naka‑add sa iyong account",
+    "confirm_subscription": "Kumpirmahin ang Subscription",
+    "yes": "Oo, Ipagpatuloy",
+    "no": "Hindi, Kanselahin"
+  },
+  "taxSheet": {
+    "title": "2.5% Buwis & Service Fee",
+    "description": "Ang bayad na ito ay ginagamit upang ma‑offset ang mga gastusin sa admin na may‑kaugnayan sa iyong paggamot o serbisyo.",
+    "button": "Nakuha na"
+  },
+  "payment": {
+    "retry_failed_title": "Nabigong Pag‑bayad",
+    "retry_failed_message": "Hindi namin ma‑proseso ang iyong pag‑bayad. Mangyaring i‑update ang iyong paraan ng pag‑bayad upang magpatuloy."
+  },
+  "treatments": {
+    "redeem_multiple": "I‑redeem ang {{count}} Mga Paggagamot"
+  },
+  "products": {
+    "redeem_multiple": "I‑redeem ang {{count}} Mga Produkto"
+  },
+  "custom_plan": {
+    "delete_title": "Tanggalin ang Custom Plan",
+    "delete_description": "Sigurado ka bang gusto mong tanggalin ang custom plan na ito?",
+    "delete": "Tanggalin",
+    "cancel": "Kanselahin"
+  },
+  "no_search_results": {
+    "title": "Walang natagpuang resulta",
+    "description": "Mukhang hindi kami makahanap ng anumang tumutugma sa iyong paghahanap.",
+    "try_new": "Subukan ang ibang mga keyword o suriin para sa mga typo."
+  }
+}

@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Jatka vieraana",
+    "continue": "Jatka",
+    "apply": "KÄYTÄ SYÖTE",
+    "save": "Tallenna",
+    "scan": "Skannaa nyt",
+    "next": "Seuraava",
+    "powered": "Tehostettu by ",
+    "scan_qr_code": "Skannaa QR‑koodi",
+    "or": "tai",
+    "shop_now": "Osta nyt",
+    "dermis": "DERMIS",
+    "resend_code": "Lähetä koodi uudelleen",
+    "view_rewards": "Näytä palkinnot",
+    "change_icon": "Vaihda kuvake",
+    "reset_icon": "Palauta kuvake",
+    "my_points": "Katso pisteeni",
+    "see_more": "Näytä lisää",
+    "see_benifits": "Näytä edut",
+    "show_all": "Näytä kaikki",
+    "rewards": "Palkinnot",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Voidaan muuntaa ",
+    "clinic_cash": "{{clinic}} käteinen",
+    "checkout": "Maksamaan",
+    "save_address": "Tallenna osoite tilillesi",
+    "call_now": "Soita nyt",
+    "apply_filter": "Käytä",
+    "filter_by": "Suodata mukaan",
+    "reset_filter": "Palauta suodatin",
+    "unit_number": "{{quantity}} yksikkö",
+    "add_to_cart": "Lisää ostoskoriin",
+    "treatments": "Hoitoja",
+    "products": "Tuotteet",
+    "membership": "Jäsenyys",
+    "treat_today": "Hoida tänään. Maksa myöhemmin.",
+    "earn": " Ansaitse palkintoja.",
+    "search": "Haku",
+    "settings": "Asetukset",
+    "save_big": "Säästä paljon rahaa",
+    "browse_shop": "Selaa kauppaa",
+    "filter": "Suodata",
+    "sort": "Järjestä",
+    "referral": "Kutsukoodi",
+    "enter_referral": "Syötä kutsukoodisi",
+    "enter_referral_description": "Syötä kutsukoodisi saadaksesi erikoisedut",
+    "submit": "Lähetä",
+    "skip": "Ohita",
+    "have_referral": "Onko sinulla kutsukoodi?",
+    "ok": "OK",
+    "cancel": "Peruuta"
+  },
+  "deleteAccount": {
+    "title": "Poista tili",
+    "description": "Haluatko varmasti poistaa tilisi?",
+    "note": "Kaikki tietosi ja tilauksesi poistetaan pysyvästi.",
+    "yes": "Kyllä",
+    "no": "Ei"
+  },
+  "home": {
+    "last_visited": "{{name}}, et ole käynyt sitten",
+    "days_count": "{{days_count}}…",
+    "offer": "Joten teimme sinulle tarjouksen, josta et voi kieltäytyä!",
+    "unwrap": "Napauta avataksesi",
+    "recently_viewed": "Äskettäin katsottu",
+    "save": "Säästä {{amount}}",
+    "save2": " jäsenenä {{clinic}}",
+    "save_paragraph": "Ilmaisia hoitoja. Eksklusiivisia etuja.",
+    "ad_title": "Hoida tänään. Maksa myöhemmin. Ansaitse palkintoja.",
+    "ad_description": "Maksa kuukausittain ilman viivästysmaksuja",
+    "educate_yourself": "Kehitä itseäsi"
+  },
+  "language": {
+    "english": "Englanti",
+    "french": "Ranska"
+  },
+  "onboarding": {
+    "welcome": "Tervetuloa",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Ilmainen palkinto uusille jäsenille!",
+    "birthdays": "Ilmaiset syntymäpäivälahjat",
+    "events": "Vain jäsenille suunnatut tapahtumat ja tarjoukset",
+    "phone_request": "Saammeko puhelinnumerosi?",
+    "login_with_phone": "Kirjaudu sisään tai rekisteröidy puhelinnumerolla!",
+    "terms": {
+      "agree": "Hyväksyn ",
+      "terms_of_service": "Käyttöehdot ",
+      "and": "ja ",
+      "privacy": "Tietosuojakäytännön."
+    },
+    "closeApp": "Sulje sovellus",
+    "andReopen": "ja avaa se uudelleen",
+    "otp_title": "Syötä SMS:llä lähetetty OTP",
+    "sms_sent": "Lähetimme OTP:n numeroon {{phone_number}}",
+    "email_placeholder": "nimi@sähköposti.com",
+    "well_done": "Hyvin tehty!",
+    "email_request": "Entä sähköpostisi?",
+    "last_step": "Viimeinen vaihe",
+    "name_request": "Mikä on nimesi?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "PP / KK / VVVV",
+    "birthday_request": "Milloin syntymäpäiväsi on?",
+    "welcome_message2": "Tervetuloa, {{name}}! ",
+    "gift_message": "Saimme sinulle pienen lahjan skannaamalla ensimmäisen QR‑koodisi",
+    "find_spa": {
+      "find_medspa": "Löydä tarjouksesi",
+      "description": "Löydä sijaintisi nyt, shoppaile suosikkipalveluitasi ja ala ansaita palkintoja jokaisesta ostosta ja vierailusta!",
+      "search": "Etsi tarjousta nimellä",
+      "results_found": "{{quantity}} tulosta löytyi"
+    }
+  },
+  "personalInfo": {
+    "title": "Henkilötiedot",
+    "email_label": "Sähköposti",
+    "email_placeholder": "nimi@sähköposti.com",
+    "nickname_label": "Lempinimi",
+    "nickname_placeholer": "nimi",
+    "firstname_label": "Etunimi",
+    "firstname_placeholder": "John",
+    "lastname_label": "Sukunimi",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Skannaa toimistossa saadaksesi",
+    "points": "{{points}} pistettä",
+    "cant_scan": "Kuinka se toimii?"
+  },
+  "rewardModal": {
+    "horray": "Hurraa! ",
+    "you_earned": "Sait juuri",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} pistettä"
+  },
+  "banked_modal": {
+    "reward_banked": "PALKINTO TALLENNETTU!",
+    "cash": "{{clinic}} käteinen",
+    "view_rewards": "Näytä palkinnot"
+  },
+  "segment": {
+    "browse": "Selaa",
+    "treatments": "Hoitoja",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktiivinen",
+    "past": "Menneet",
+    "products": "Tuotteet"
+  },
+  "special_offers": {
+    "expire_in": "Vanhenee {{time_left}} ",
+    "title": "Erikoistarjous!",
+    "new_msg": "Sait viestin lähettäjältä {{sender}}!"
+  },
+  "shop": {
+    "title": "Shop",
+    "treatment": {
+      "learn_more": "Lue lisää tästä hoidosta",
+      "see_treatment": "Näytä hoito",
+      "included_treatments_title": "Sisältyvät hoidot",
+      "chose_treatment": "Valitse {{quantity}} alla olevaa joka {{month}}",
+      "chose_treatment2": "Valitse {{quantity}} alla joka {{month}}",
+      "chose_treatment3": "Saat seuraavat joka {{month}}",
+      "signUpBonus": "Rekisteröitymisbonus",
+      "from_price": "Alkaen {{price}}",
+      "members_price": "{{memberPrice}} jäsenille",
+      "treatment_fees": " palvelumaksu {{fees}} lisätään kassalla",
+      "results_title": "Lumoavat tulokset",
+      "results_description": "Miten muut kokivat tämän hoidon",
+      "select_plan": "Valitse hoitosuunnitelma",
+      "before_text": "Ennen hoitoasi",
+      "after_text": "Hoitosi jälkeen",
+      "members_results": "Jäsenet tulokset",
+      "customers_and_clients": "Mitä jäsenet ovat nähneet",
+      "expectations": "Mitä odottaa?",
+      "bundles_treatment_title": "Hoitokertojen määrä",
+      "variations_treatments_title": "Hoito‑tyypit",
+      "treatments_quantity": "{{quantity}} hoitoa",
+      "consultation_required": "Konsultaatio vaaditaan!",
+      "scheduling_link": "aikataululinkki : ",
+      "visit_button": "Vieraile linkissä",
+      "noBooking": "Tätä tuotetta ei tarvitse varata.",
+      "sessions_available": "{{quantity}} / {{remaining}} istunto{{plural}} jäljellä",
+      "sessions": "{{quantity}} istunto{{plural}}",
+      "expire_in": "Vanhenee ",
+      "search_result": "{{quantity}} tulosta{{plural}} löytyi",
+      "consultation": "Tämä hoito vaatii konsultoinnin",
+      "add_to_cart": "Oletko varma, että haluat lisätä sen ostoskoriin?"
+    },
+    "product": {
+      "learn_more": "Lue lisää tästä tuotteesta",
+      "see_product": "Näytä tuote",
+      "included_products_title": "Sisältyvät tuotteet",
+      "chose_product": "Valitse {{quantity}} alla olevaa joka {{month}}",
+      "chose_product2": "Valitse {{quantity}} alla joka {{month}}",
+      "chose_product3": "Saat seuraavat joka {{month}}",
+      "from_price": "Alkaen {{price}}",
+      "members_price": "{{memberPrice}} jäsenille",
+      "product_fees": " palvelumaksu {{fees}} lisätään kassalla",
+      "results_title": "Lumoavat tulokset",
+      "results_description": "Miten muut kokivat tämän tuotteen",
+      "select_plan": "Valitse tuotesuunnitelma",
+      "before_text": "Ennen tuotettasi",
+      "after_text": "Tuotteesi jälkeen",
+      "members_results": "Jäsenet tulokset",
+      "customers_and_clients": "Miten jäsenet kokivat tämän tuotteen",
+      "expectations": "Mitä odottaa?",
+      "bundles_product_title": "Tuotteiden määrä",
+      "variations_products_title": "Tuotetyypit",
+      "products_quantity": "{{quantity}} tuotetta",
+      "consultation_required": "Konsultaatio vaaditaan!",
+      "scheduling_link": "aikataululinkki : ",
+      "visit_button": "Vieraile linkissä",
+      "expire_in": "Vanhenee ",
+      "sessions_available": "{{quantity}} / {{remaining}} {{plural}} jäljellä",
+      "treatments": "{{quantity}} hoito{{plural}}"
+    },
+    "save_button": {
+      "text": "Säästä {{amount}} vuodessa",
+      "subscribe": "Tilaa nyt!"
+    },
+    "view_button": {
+      "text": "Näytä"
+    },
+    "bonus_card": {
+      "title": "Rekisteröidy välittömästi",
+      "title_bold": " lunasta ilmainen {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Kuka auttoi sinua tämän ostoksen kanssa?",
+      "not_Sure": "En ole varma"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Hoida tänään. Maksa myöhemmin. Ansaitse palkintoja.",
+      "free_treatments": "Ilmaisia hoitoja. Eksklusiiviset edut.",
+      "how_it_work": "Miten se toimii?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PISTEET",
+    "sinleReward": "Palkinto",
+    "title": "Palkinnot",
+    "win_points": {
+      "title": "Tarvitsetko lisää pisteitä?",
+      "refer_friend": "Suosittele ystävää",
+      "purshase_inApp": "Osto sovelluksessa",
+      "google_review": "Arvostele Google‑palvelussa",
+      "visit": "Vieraile klinikallamme",
+      "status": {
+        "points_added": "{{points}} pistettä lisätty",
+        "scan": "Skannaa ansaitaksesi",
+        "pending": "Odottaa hyväksyntää",
+        "plus_points": "+{{points}} pistettä",
+        "done": "Valmis"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Loyalty‑pisteet",
+        "cultPoints": "Cult‑pisteet",
+        "memberShip": "{{clinic}} jäsen",
+        "joinedOn": "Liitytty {{since}}",
+        "cash": "{{clinic}} käteinen"
+      },
+      "reviewSheet": {
+        "title": "Jätitkö arvostelun?",
+        "text": "Klinikkamme omistaja tarkistaa arvostelun lisätäkseen pisteesi.",
+        "yesButton": "Kyllä, tein!",
+        "noButton": "En vielä"
+      },
+      "reward_details": {
+        "expire_in": "Vanhenee {{time_left}} päivässä",
+        "redeem_button": "Lunasta palkinto nyt",
+        "bank_it": "Talleta {{amount}} {{clinic}}",
+        "redeemed": "Lunastettu",
+        "banked": "Talletettu",
+        "locked": "Lukittu",
+        "expired_at": "Vanhentunut ",
+        "consumed": "Kulutettu"
+      },
+      "bank_reward": {
+        "bank_title": "Talleta palkintosi {{clinic}} käteiseksi?",
+        "custom_bank_title": "Talleta palkintosi",
+        "bank_description": "Vaihdossa saat",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "arvon {{clinic}} käteisessä, jota voi käyttää sovelluksen kaupassa. Tällä tavalla menetät pääsyn itse palkintoon.",
+        "yes_button": "Kyllä, talleta palkinto",
+        "no_button": "Ei nyt"
+      },
+      "congratSheet": {
+        "title": "Onnittelut!",
+        "your_reward": "Palkintosi on lisätty ostoskoriin!",
+        "description": "Tutustu kauppaamme nyt lisätäksesi sen tilaukseesi tai katso ostoskoria maksaaksesi heti alennuksella.",
+        "explore_shop": "Tutustu kauppaan",
+        "view_cart": "Katso ostoskori"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Tili",
+    "logout": "Kirjaudu ulos",
+    "my‑treatment‑section": {
+      "my‑treatment": "Omat hoidot",
+      "used_treatments": "Käytetyt hoidot",
+      "empty_used": "Ei käytettyjä hoitoja",
+      "empty_purshased": "Ei ostettuja hoitoja",
+      "empty_treatment": "Ei hoitoja",
+      "remaining_treatments": "{{remaining}} / {{quantity}} hoitoa jäljellä",
+      "redeemed_on": "Lunastettu: {{date}}",
+      "scan": "Skannaa klinikalla lunastaaksesi",
+      "book": "Varaa aika",
+      "callClinic": "Soita klinikalle"
+    },
+    "my‑product‑section": {
+      "my‑product": "Omat tuotteet",
+      "used_products": "Käytetyt tuotteet",
+      "empty_used": "Ei käytettyjä tuotteita",
+      "empty_purshased": "Ei ostettuja tuotteita",
+      "empty_product": "Ei tuotteita",
+      "remaining_products": "{{remaining}} / {{quantity}} tuotetta jäljellä",
+      "redeemed_on": "Lunastettu: {{date}}",
+      "scan": "Skannaa klinikalla lunastaaksesi",
+      "book": "Varaa aika",
+      "callClinic": "Soita klinikalle"
+    },
+    "quantity_sheet": {
+      "select": "Valitse määrä",
+      "units_left": "{{quantity}} yksikkö(ä) saatavilla"
+    },
+    "redeem_modal": {
+      "redeemed": "Hoito lunastettu",
+      "description": "Näet nyt jäljellä olevat yksiköt ja voit suunnitella seuraavat istunnot.",
+      "got_it": "Ymmärretty!",
+      "cant_scan": "Et voi skannata?",
+      "fallback_description": "Tässä varakoodi. Syötä se verkkosovelluksessa:",
+      "time_remaining": "Aikaa jäljellä: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Tuote lunastettu",
+      "description": "Näet nyt jäljellä olevat yksiköt ja voit suunnitella seuraavat istunnot.",
+      "got_it": "Ymmärretty!",
+      "cant_scan": "Et voi skannata?",
+      "fallback_description": "Tässä varakoodi. Syötä se verkkosovelluksessa:",
+      "time_remaining": "Aikaa jäljellä: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Henkilötiedot",
+      "payment_methods": "Maksutavat",
+      "payment_method": "Maksutapa"
+    },
+    "payment_method_card": {
+      "visa": "Kortti",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Kortin numero",
+      "experation": "Voimassa",
+      "cvc": "CVC",
+      "select_country": "Valitse maa",
+      "select_country_placeholder": "Valitse maa…",
+      "contact_details": "Yhteystiedot",
+      "confirm_details": "Vahvista tietosi saadaksesi ostokuitin"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Liittynyt: {{date}}",
+    "cancled_on": " Peruutettu: {{date}}",
+    "empty_membership": "Ei tilausta täällä",
+    "browse_mebership": "Selaa jäsenyyksiä",
+    "active_membership": "Aktiivinen jäsenyys",
+    "paused_membership": "Jäsenyys tauolla",
+    "active_membership_count": "{{quantity}} aktiivista jäsenyyttä",
+    "next_payment_attempt": "Yritimme käsitellä jäsenmaksuasi, yritämme uudelleen {{date}}",
+    "update_payment_info": "Päivitä maksutapa",
+    "retry_payment": "Yritä maksutapa uudelleen",
+    "cancel_payment": "Peruuta jäsenyys",
+    "something_wrong": "Näyttää siltä, että jotain meni pieleen…",
+    "update_payment_method": "Päivitä maksu",
+    "you_saved": "Sait säästöä",
+    "treatments": "({{number}} Hoito(a))",
+    "products": "({{number}} Tuote(t))",
+    "equivalent": {
+      "title": "Vastaava",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel huulipuna(t)",
+      "bags": " Chanel laukku(t)",
+      "swimsuits": " Gucci uima‑asu(t)"
+    },
+    "memberShipPayFor": "Jäsenyys, joka maksaa itsensä takaisin",
+    "you_have": "Sinulla on {{quantity}} hoitoa käytettävissä",
+    "you_have_products": "Sinulla on {{quantity}} tuotetta käytettävissä",
+    "available_in": "Saatavilla {{days}} päivän kuluttua",
+    "available_in_products": "Seuraavat tuotteet saatavilla {{days}} päivän kuluttua",
+    "your_benefits": "Etusi",
+    "membership_benefits": "Jäsenedut",
+    "refresh_on": "Päivitetään: {{date}}",
+    "monthly_treatment_selection": "Kuukausittainen hoidovalinta",
+    "monthly_product_selection": "Kuukausittainen tuotepuoli",
+    "firstDay_treatment_selection": "Aloitetaan ensimmäisenä jäsenpäivänäsi",
+    "firstDay_product_selection": "Aloitetaan ensimmäisenä jäsenpäivänäsi",
+    "unknown_treatment_selection": "Aloitetaan jäsenyyden jälkeen {{period}}",
+    "unknown_product_selection": "Aloitetaan jäsenyyden jälkeen {{period}}",
+    "select_one": "Valitse 1 alla olevista hoidoista ilmaiseksi joka kuukausi",
+    "select_one_product": "Valitse 1 alla olevista tuotteista ilmaiseksi joka kuukausi",
+    "select_free_treatment": "Valitse ilmainen hoitosi",
+    "select_free_product": "Valitse ilmainen tuotteesi",
+    "are_you_sure": "Oletko varma, että haluat valita tämän hoidon?",
+    "are_you_sure_product": "Oletko varma, että haluat valita tämän tuotteen?",
+    "are_you_sure_cancel": "Oletko varma, että haluat peruuttaa jäsenyytesi?",
+    "sure": "Kyllä, varma",
+    "no": "Ei, erehdyin",
+    "number_updated": "Yksiköiden määrä päivitettiin onnistuneesti tälle hoidolle",
+    "number_updated_product": "Yksiköiden määrä päivitettiin onnistuneesti tälle tuotteelle",
+    "you_can_see": "Näet nyt jäljellä olevat yksiköt ja voit suunnitella seuraavat istunnot.",
+    "you_can_see_product": "Näet nyt jäljellä olevat yksiköt ja voit suunnitella seuraavat istunnot."
+  },
+  "cart_screen": {
+    "screen_title": "Ostoskori",
+    "clinic_price_applied": "{{clinic}} hinta käytössä",
+    "summury": "Yhteenveto",
+    "promo_code": "Kampanjakoodi",
+    "add_promo_code": "Lisää kampanjakoodi",
+    "order_summury": "TILAUKSEN YHTEENVETO",
+    "subtotal": "Välisumma",
+    "cash_wallet": "Käteiskoti",
+    "rewardDiscount": "Palkinto‑alennus",
+    "membership_discount": "Jäsenyysalennus",
+    "tax": "Verot & palvelumaksu",
+    "total": "Tilaussumma",
+    "totalMaj": "TILAUS YHTEENSÄ",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Maksamaan nyt",
+    "place_order": "Tee tilaus",
+    "order_confirmed": "Valmistaudu, tilauksesi on vahvistettu!",
+    "points_tracker": "Pisteiden seuranta",
+    "your_purchance": "Ostoksesi auttoi sinua ansaitsemaan seuraavaa palkintoasi!",
+    "reward_unlocked": "palkinto avattu",
+    "rewards_unlocked": "PALKINNOT AVATTU",
+    "amount_unlocked": "${{amount}} kohti ensimmäistä sovelluksen sisäistä ostosta",
+    "can_convert_amount": "Voidaan muuntaa ${{amount}} käteiseksi",
+    "edit_product": "Muokkaa tuotetta",
+    "delete": "Poista",
+    "empty_cart": "Ostoskori on tyhjä, lisää tuotetta",
+    "cashExceeds": "Valitettavasti käteisjäännös ei voi ylittää ({{allowedMerchantCashPercentage}} %) ostoskorin kokonaisarvosta",
+    "loseMoney": "Häviäisimme rahaa 😞",
+    "useOnly": "Voit lisätä ostoskoriin lisää hoitoja, tai käyttää vain {{amount}} käytettävissä olevasta käteisjäännöksestäsi tähän hoitoon nyt.",
+    "disallowed": "Valitettavasti käteisjäännöstäsi ei voi käyttää {{number}} hoitoon",
+    "removeFromCart": "Poista ostoskorista"
+  },
+  "dates": {
+    "minute": "minuutti",
+    "minutes": "minuuttia",
+    "hour": "tunti",
+    "hours": "tuntia",
+    "day": "päivä",
+    "days": "päivää",
+    "month": "kuukausi",
+    "months": "kuukautta",
+    "year": "vuosi",
+    "years": "vuotta",
+    "now": "nyt",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Tämä sähköposti on jo käytössä. Käytä toista sähköpostia.",
+    "login_error": "Sisäänkirjautuminen epäonnistui. Tarkista numerosi ja yritä uudelleen.",
+    "signup_error": "Rekisteröityminen epäonnistui. Varmista tietosi ja yritä taas.",
+    "undifined_error": "Oops! Jotain meni pieleen.",
+    "otp_not_valid": "Syöttämäsi koodi on väärä. Tarkista ja yritä uudelleen.",
+    "create_account": "Emme voineet luoda tiliäsi. Tarkista tietosi ja yritä uudelleen.",
+    "date": {
+      "invalid_date": "Päivämäärä on väärässä muodossa. Käytä PP/KK/VVVV.",
+      "invalid_month": "Valitse kelvollinen syntymäkuukausi.",
+      "invalid_day": "Valitse kelvollinen syntymäpäivä.",
+      "invalid_birthdate": "Syntymäpäiväsi ei voi olla tulevaisuudessa. Valitse kelvollinen päivämäärä."
+    }
+  },
+  "noDataFound": {
+    "treatment": "hoitoja ei ole saatavilla",
+    "treatmentSearch": "hoitoja ei ole saatavilla",
+    "product": "tuotteita ei ole saatavilla"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Tämä veloitetaan suoraan kortiltasi {{amount}}. Haluatko varmasti jatkaa?",
+    "add_card_note": "Huom: tililläsi on oltava maksutapa lisättynä",
+    "confirm_subscription": "Vahvista tilaaminen",
+    "yes": "Kyllä, jatka",
+    "no": "Ei, peruuta"
+  },
+  "taxSheet": {
+    "title": "2.5% Verot & Palvelumaksu",
+    "description": "Tämä maksu kattaa hoitoosi tai palveluusi liittyvät hallinnolliset kulut.",
+    "button": "Ok"
+  },
+  "payment": {
+    "retry_failed_title": "Maksu epäonnistui",
+    "retry_failed_message": "Emme voineet käsitellä maksuasi. Päivitä maksutapa jatkaaksesi."
+  },
+  "treatments": {
+    "redeem_multiple": "Lunasta {{count}} hoitoa"
+  },
+  "products": {
+    "redeem_multiple": "Lunasta {{count}} tuotetta"
+  },
+  "custom_plan": {
+    "delete_title": "Poista mukautettu suunnitelma",
+    "delete_description": "Haluatko varmasti poistaa tämän mukautetun suunnitelman?",
+    "delete": "Poista",
+    "cancel": "Peruuta"
+  },
+  "no_search_results": {
+    "title": "Ei tuloksia",
+    "description": "Näyttää siltä, ettemme löytäneet mitään hakemuksesi mukaisesti.",
+    "try_new": "Kokeile muita hakusanoja tai tarkista kirjoitusvirheet."
+  }
+}

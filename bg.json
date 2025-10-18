@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Продължи като гост",
+    "continue": "Продължи",
+    "apply": "ПРИЛОЖИ ВЪВЕЖДАНЕТО",
+    "save": "Запази",
+    "scan": "Сканирай сега",
+    "next": "Следващ",
+    "powered": "Задвижван от ",
+    "scan_qr_code": "Сканирай QR код",
+    "or": "или",
+    "shop_now": "Пазарувай сега",
+    "dermis": "DERMIS",
+    "resend_code": "Изпрати кода отново",
+    "view_rewards": "Виж моите награди",
+    "change_icon": "Смени иконата",
+    "reset_icon": "Нулирай иконата",
+    "my_points": "Виж моите точки",
+    "see_more": "Виж повече",
+    "see_benifits": "Виж предимствата",
+    "show_all": "Покажи всички",
+    "rewards": "Награди",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Може да се конвертира в ",
+    "clinic_cash": "{{clinic}} кеш",
+    "checkout": "Плащане",
+    "save_address": "Запази адрес в профила си",
+    "call_now": "Обади се сега",
+    "apply_filter": "Приложи",
+    "filter_by": "Филтрирай по",
+    "reset_filter": "Нулирай филтъра",
+    "unit_number": "{{quantity}} единица",
+    "add_to_cart": "Добави в количката",
+    "treatments": "Процедури",
+    "products": "Продукти",
+    "membership": "Членство",
+    "treat_today": "Процедирай днес. Плати по‑късно.",
+    "earn": " Спечели награди.",
+    "search": "Търси",
+    "settings": "Настройки",
+    "save_big": "Спести много пари",
+    "browse_shop": "Разгледай магазина",
+    "filter": "Филтър",
+    "sort": "Подреди",
+    "referral": "Реферален код",
+    "enter_referral": "Въведи своя реферален код",
+    "enter_referral_description": "Въведи своя реферален код, за да получиш специални предимства",
+    "submit": "Изпрати",
+    "skip": "Пропусни",
+    "have_referral": "Имаш реферален код?",
+    "ok": "ОК",
+    "cancel": "Отказ"
+  },
+  "deleteAccount": {
+    "title": "Изтриване на акаунт",
+    "description": "Сигурни ли сте, че искате да изтриете акаунта си?",
+    "note": "Всички ваши данни и абонамент ще бъдат изтрити завинаги.",
+    "yes": "Да",
+    "no": "Не"
+  },
+  "home": {
+    "last_visited": "{{name}}, не сте посещавали от",
+    "days_count": "{{days_count}}…",
+    "offer": "Затова ви подготвихме оферта, която не можете да откажете!",
+    "unwrap": "Докоснете, за да разопаковате",
+    "recently_viewed": "Наскоро разгледани",
+    "save": "Спестете {{amount}}",
+    "save2": " като член на {{clinic}}",
+    "save_paragraph": "Безплатни процедури. Ексклузивни предимства.",
+    "ad_title": "Процедирай днес. Плати по‑късно. Спечели награди.",
+    "ad_description": "Правете месечни плащания без такси за закъснение",
+    "educate_yourself": "Образовайте се"
+  },
+  "language": {
+    "english": "Английски",
+    "french": "Френски"
+  },
+  "onboarding": {
+    "welcome": "Добре дошли тук",
+    "welcome_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa",
+    "rewards": "Безплатна награда за нови членове!",
+    "birthdays": "Безплатни подаръци за рожден ден",
+    "events": "Събития и оферти само за членове",
+    "phone_request": "Можем ли да получим телефонния ви номер?",
+    "login_with_phone": "Регистрирайте се или влезте с телефонния си номер!",
+    "terms": {
+      "agree": "Съгласен съм с ",
+      "terms_of_service": "Общите условия ",
+      "and": "и ",
+      "privacy": "Политика за поверителност."
+    },
+    "closeApp": "Затворете приложението",
+    "andReopen": "и го отворете отново",
+    "otp_title": "Въведете OTP, изпратен чрез SMS",
+    "sms_sent": "Изпратихме OTP до {{phone_number}}",
+    "email_placeholder": "име@имейл.com",
+    "well_done": "Браво!",
+    "email_request": "А вашият имейл?",
+    "last_step": "Последната стъпка",
+    "name_request": "Как се казвате?",
+    "name_placeholder": "име фамилия",
+    "first_name_placeholder": "Име",
+    "last_name_placeholder": "Фамилия",
+    "birthday_placeholder": "ДД / ММ / YYYY",
+    "birthday_request": "Кога е рожденият ви ден?",
+    "welcome_message2": "Добре дошли {{name}}! ",
+    "gift_message": "Получихте малък подарък, като сканирахте първия си QR код",
+    "find_spa": {
+      "find_medspa": "Намерете своята оферта",
+      "description": "Намерете своята локация сега, за да закупите любимите си услуги и започнете да печелите награди с всяка покупка и посещение!",
+      "search": "Търсете оферта по име",
+      "results_found": "Намерени са {{quantity}} резултата"
+    }
+  },
+  "personalInfo": {
+    "title": "Лична информация",
+    "email_label": "Имейл",
+    "email_placeholder": "име@имейл.com",
+    "nickname_label": "Псевдоним",
+    "nickname_placeholer": "име",
+    "firstname_label": "Име",
+    "firstname_placeholder": "Име",
+    "lastname_label": "Фамилия",
+    "lastname_placeholder": "Фамилия"
+  },
+  "scan": {
+    "scan_text": "Сканирай в офис за",
+    "points": "{{points}} точки",
+    "cant_scan": "Как работи?"
+  },
+  "rewardModal": {
+    "horray": "Ура! ",
+    "you_earned": "Току‑що спечелихте",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} точки"
+  },
+  "banked_modal": {
+    "reward_banked": "НАГРАДАТА Е СЪХРАНЕНА!",
+    "cash": "{{clinic}} кеш",
+    "view_rewards": "Виж наградите"
+  },
+  "segment": {
+    "browse": "Разгледай",
+    "treatments": "Процедури",
+    "clinicName": "{{clinicName}}",
+    "active": "Активни",
+    "past": "Минали",
+    "products": "Продукти"
+  },
+  "special_offers": {
+    "expire_in": "Изтича след {{time_left}} ",
+    "title": "Специална оферта!",
+    "new_msg": "Получихте съобщение от {{sender}}!"
+  },
+  "shop": {
+    "title": "Магазин",
+    "treatment": {
+      "learn_more": "Научете повече за тази процедура",
+      "see_treatment": "Виж процедурата",
+      "included_treatments_title": "Включени процедури",
+      "chose_treatment": "Изберете {{quantity}} от следните всеки {{month}}",
+      "chose_treatment2": "Изберете {{quantity}} по‑долу всеки {{month}}",
+      "chose_treatment3": "Получете следното всеки {{month}}",
+      "signUpBonus": "Бонус при регистрация",
+      "from_price": "От {{price}}",
+      "members_price": "{{memberPrice}} за членове",
+      "treatment_fees": " при плащане се прилага такса за услуга от {{fees}}",
+      "results_title": "Очарователни резултати",
+      "results_description": "Как се почувстваха другите за тази процедура",
+      "select_plan": "Изберете план за процедура",
+      "before_text": "Преди вашата процедура",
+      "after_text": "След вашата процедура",
+      "members_results": "Резултати на членове",
+      "customers_and_clients": "Какво видяха членовете",
+      "expectations": "Какво да очаквате?",
+      "bundles_treatment_title": "Брой процедури",
+      "variations_treatments_title": "Типове процедури",
+      "treatments_quantity": "{{quantity}} процедури",
+      "consultation_required": "Изисква се консултация!",
+      "scheduling_link": "линк за график : ",
+      "visit_button": "Посети линка",
+      "noBooking": "Не е необходимо резервиране за този продукт.",
+      "sessions_available": "{{quantity}} от {{remaining}} сесия{{plural}} налични",
+      "sessions": "{{quantity}} сесия{{plural}}",
+      "expire_in": "Изтича след ",
+      "search_result": "Намерен(и) са {{quantity}} резултат(а)",
+      "consultation": "Тази процедура изисква консултация",
+      "add_to_cart": "Сигурни ли сте, че искате да го добавите към количката си?"
+    },
+    "product": {
+      "learn_more": "Научете повече за този продукт",
+      "see_product": "Виж продукта",
+      "included_products_title": "Включени продукти",
+      "chose_product": "Изберете {{quantity}} от следните всеки {{month}}",
+      "chose_product2": "Изберете {{quantity}} по‑долу всеки {{month}}",
+      "chose_product3": "Получете следното всеки {{month}}",
+      "from_price": "От {{price}}",
+      "members_price": "{{memberPrice}} за членове",
+      "product_fees": " при плащане се прилага такса за услуга от {{fees}}",
+      "results_title": "Очарователни резултати",
+      "results_description": "Как се почувстваха другите за този продукт",
+      "select_plan": "Изберете план за продукт",
+      "before_text": "Преди вашия продукт",
+      "after_text": "След вашия продукт",
+      "members_results": "Резултати на членове",
+      "customers_and_clients": "Как се почувстваха членовете за този продукт",
+      "expectations": "Какво да очаквате?",
+      "bundles_product_title": "Брой продукти",
+      "variations_products_title": "Типове продукти",
+      "products_quantity": "{{quantity}} продукта",
+      "consultation_required": "Изисква се консултация!",
+      "scheduling_link": "линк за график : ",
+      "visit_button": "Посети линка",
+      "expire_in": "Изтича след ",
+      "sessions_available": "{{quantity}} от {{remaining}} {{plural}} останали",
+      "treatments": "{{quantity}} процедура(и){{plural}}"
+    },
+    "save_button": {
+      "text": "Спестете {{amount}} годишно",
+      "subscribe": "Абонирайте се сега!"
+    },
+    "view_button": {
+      "text": "Виж"
+    },
+    "bonus_card": {
+      "title": "Регистрирайте се веднага",
+      "title_bold": " и поискайте безплатно {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Кой ви помогна с тази покупка?",
+      "not_Sure": "Не съм сигурен"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Процедирай днес. Плати по‑късно. Спечели награди.",
+      "free_treatments": "Безплатни процедури, ексклузивни предимства.",
+      "how_it_work": "Как работи?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} ТОЧКИ",
+    "sinleReward": "Награда",
+    "title": "Награди",
+    "win_points": {
+      "title": "Нуждаете се от още точки?",
+      "refer_friend": "Препоръчайте приятел",
+      "purshase_inApp": "Закупете в приложението",
+      "google_review": "Рецензия в Google",
+      "visit": "Посетете нашата клиника",
+      "status": {
+        "points_added": "{{points}} точки добавени",
+        "scan": "Сканирай за спечелване",
+        "pending": "Очаква одобрение",
+        "plus_points": "+{{points}} точки",
+        "done": "Готово"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Точки за лоялност",
+        "cultPoints": "Cult точки",
+        "memberShip": "Член на {{clinic}}",
+        "joinedOn": "Присъединил/а се на {{since}}",
+        "cash": "{{clinic}} кеш"
+      },
+      "reviewSheet": {
+        "title": "Оставихте ли рецензия?",
+        "text": "Собственикът на клиниката ще провери рецензията, за да ви добави точки.",
+        "yesButton": "Да, направих го!",
+        "noButton": "Не още"
+      },
+      "reward_details": {
+        "expire_in": "Изтича след {{time_left}} дни",
+        "redeem_button": "Осребри наградата сега",
+        "bank_it": "Банкирайте за {{amount}} {{clinic}}",
+        "redeemed": "Осребрена",
+        "banked": "Банкирана",
+        "locked": "Заключена",
+        "expired_at": "Изтекла на",
+        "consumed": "Използвана"
+      },
+      "bank_reward": {
+        "bank_title": "Банкирате ли наградата си за кеш {{clinic}}?",
+        "custom_bank_title": "Банкирайте наградата си за",
+        "bank_description": "Ще я обмените за",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "кеш {{clinic}}, който може да се използва в магазина в приложението. Като направите това губите достъп до самата награда.",
+        "yes_button": "Да, банкирай наградата",
+        "no_button": "Не сега"
+      },
+      "congratSheet": {
+        "title": "Поздравления!",
+        "your_reward": "Вашата награда е добавена в количката!",
+        "description": "Разгледайте нашия магазин сега, за да я добавите към поръчката си или вижте количката, за да платите с приложената отстъпка.",
+        "explore_shop": "Разгледай магазина",
+        "view_cart": "Виж количката"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Акаунт",
+    "logout": "Изход",
+    "my‑treatment‑section": {
+      "my‑treatment": "Моите процедури",
+      "used_treatments": "Използвани процедури",
+      "empty_used": "Няма използвани процедури",
+      "empty_purshased": "Няма закупени процедури",
+      "empty_treatment": "Няма процедури",
+      "remaining_treatments": "{{remaining}} от {{quantity}} процедури остават",
+      "redeemed_on": "Осребрено на: {{date}}",
+      "scan": "Сканирай в клиниката за осребряване",
+      "book": "Запази час",
+      "callClinic": "Обади се на клиниката"
+    },
+    "my‑product‑section": {
+      "my‐product": "Моите продукти",
+      "used_products": "Използвани продукти",
+      "empty_used": "Няма използвани продукти",
+      "empty_purshased": "Няма закупени продукти",
+      "empty_product": "Няма продукти",
+      "remaining_products": "{{remaining}} от {{quantity}} продукта остават",
+      "redeemed_on": "Осребрено на: {{date}}",
+      "scan": "Сканирай в клиниката за осребряване",
+      "book": "Запази час",
+      "callClinic": "Обади се на клиниката"
+    },
+    "quantity_sheet": {
+      "select": "Избери количество",
+      "units_left": "{{quantity}} {{units}} налични"
+    },
+    "redeem_modal": {
+      "redeemed": "Процедура осребрена",
+      "description": "Сега може да видите оставащите единици и да планирате следващите си сесии.",
+      "got_it": "Разбрах!",
+      "cant_scan": "Не може да се сканира?",
+      "fallback_description": "Ето резервния ви код. Въведете го в уеб приложението:",
+      "time_remaining": "Оставащо време: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Продукт осребрен",
+      "description": "Сега може да видите оставащите единици и да планирате следващите си сесии.",
+      "got_it": "Разбрах!",
+      "cant_scan": "Не може да се сканира?",
+      "fallback_description": "Ето резервния ви код. Въведете го в уеб приложението:",
+      "time_remaining": "Оставащо време: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Лична информация",
+      "payment_methods": "Начини на плащане",
+      "payment_method": "Начин на плащане"
+    },
+    "payment_method_card": {
+      "visa": "Карта",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Номер на картата",
+      "experation": "Изтичане",
+      "cvc": "CVC",
+      "select_country": "Изберете държава",
+      "select_country_placeholder": "Изберете държава…",
+      "contact_details": "Контактни данни",
+      "confirm_details": "Потвърдете данните за получаване на бележка"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Присъединил/а се на {{date}}",
+    "cancled_on": " Отменено на {{date}}",
+    "empty_membership": "Няма абонамент тук",
+    "browse_mebership": "Разгледайте членства",
+    "active_membership": "Активно членство",
+    "paused_membership": "Пауза на членство",
+    "active_membership_count": "{{quantity}} активни членства",
+    "next_payment_attempt": "Опитахме да обработим плащането ви, ще опитаме отново на {{date}}",
+    "update_payment_info": "Актуализирайте метода на плащане",
+    "retry_payment": "Повтори плащане",
+    "cancel_payment": "Откажи членство",
+    "something_wrong": "Изглежда, че нещо се обърка…",
+    "update_payment_method": "Актуализирайте плащане",
+    "you_saved": "Спестихте",
+    "treatments": "({{number}} Процедура(и))",
+    "products": "({{number}} Продукт(и))",
+    "equivalent": {
+      "title": "Еквивалент",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " червило Chanel",
+      "bags": " чанта Chanel",
+      "swimsuits": " бански Gucci"
+    },
+    "memberShipPayFor": "Членство, което се изплаща само",
+    "you_have": "Имате {{quantity}} процедури налични",
+    "you_have_products": "Имате {{quantity}} продукта налични",
+    "available_in": "{{days}} дни до следващия избор",
+    "available_in_products": "Следващите продукти ще са налични след {{days}} дни",
+    "your_benefits": "Вашите предимства",
+    "membership_benefits": "Предимства на членството",
+    "refresh_on": "Обновява се на {{date}}",
+    "monthly_treatment_selection": "Месечен избор на процедура",
+    "monthly_product_selection": "Месечен избор на продукт",
+    "firstDay_treatment_selection": "Започва в първия ден като член",
+    "firstDay_product_selection": "Започва в първия ден като член",
+    "unknown_treatment_selection": "Започва след {{period}} като член",
+    "unknown_product_selection": "Започва след {{period}} като член",
+    "select_one": "Изберете 1 от следващите процедури безплатно всеки месец",
+    "select_one_product": "Изберете 1 от следващите продукти безплатно всеки месец",
+    "select_free_treatment": "Изберете вашата безплатна процедура",
+    "select_free_product": "Изберете вашия безплатен продукт",
+    "are_you_sure": "Сигурни ли сте, че искате да изберете тази процедура?",
+    "are_you_sure_product": "Сигурни ли сте, че искате да изберете този продукт?",
+    "are_you_sure_cancel": "Сигурни ли сте, че искате да отмените членството си?",
+    "sure": "Да, сигурен/на съм",
+    "no": "Не, сгреших",
+    "number_updated": "Броят на единиците бе успешно актуализиран за тази процедура",
+    "number_updated_product": "Броят на единиците бе успешно актуализиран за този продукт",
+    "you_can_see": "Сега можете да видите оставащите единици и да планирате следващите си сесии.",
+    "you_can_see_product": "Сега можете да видите оставащите единици и да планирате следващите си сесии."
+  },
+  "cart_screen": {
+    "screen_title": "Количка за пазаруване",
+    "clinic_price_applied": "Цената на {{clinic}} е приложена",
+    "summury": "Резюме",
+    "promo_code": "Промо код",
+    "add_promo_code": "Добави промо код",
+    "order_summury": "РЕЗЮМЕ НА ПОРЪЧКА",
+    "subtotal": "Междинна сума",
+    "cash_wallet": "Кеш портфейл",
+    "rewardDiscount": "Отстъпка за награда",
+    "membership_discount": "Отстъпка за членство",
+    "tax": "Данък и такса услуга",
+    "total": "Обща сума на поръчката",
+    "totalMaj": "ОБЩО ЗА ПОРЪЧКАТА",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Плати сега",
+    "place_order": "Направи поръчка",
+    "order_confirmed": "Пригответе се, вашата поръчка е потвърдена!",
+    "points_tracker": "Проследяване на точки",
+    "your_purchance": "Вашата покупка помогна за следващата ви награда!",
+    "reward_unlocked": "награда отключена",
+    "rewards_unlocked": "НАГРАДИ ОТКЛЮЧЕНИ",
+    "amount_unlocked": "${{amount}} към първата им покупка в приложението",
+    "can_convert_amount": "Може да се конвертира в ${{amount}} кеш",
+    "edit_product": "Редактирай продукта",
+    "delete": "Изтрий",
+    "empty_cart": "Количката е празна, добавете някои продукти",
+    "cashExceeds": "Съжаляваме, кеш балансът не може да надвишава ({{allowedMerchantCashPercentage}}%) от общата стойност на количката",
+    "loseMoney": "Щяхме да загубим пари 😞",
+    "useOnly": "Можете да добавите повече процедури към количката, или да използвате само {{amount}} от наличния кеш баланс за тази процедура сега.",
+    "disallowed": "Съжаляваме, кеш балансът ви не може да се използва за {{number}} процедура(и)",
+    "removeFromCart": "Премахни от количката"
+  },
+  "dates": {
+    "minute": "минута",
+    "minutes": "минути",
+    "hour": "час",
+    "hours": "часа",
+    "day": "ден",
+    "days": "дни",
+    "month": "месец",
+    "months": "месеца",
+    "year": "година",
+    "years": "години",
+    "now": "сега",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Този имейл вече се използва. Моля, използвайте друг имейл.",
+    "login_error": "Неуспешен вход. Проверете своя номер и опитайте отново.",
+    "signup_error": "Неуспешна регистрация. Уверете се, че данните ви са верни и опитайте пак.",
+    "undifined_error": "Опа! Нещо се обърка.",
+    "otp_not_valid": "Кодът, който въведохте, е неправилен. Моля, проверете и опитайте отново.",
+    "create_account": "Не успяхме да създадем вашия акаунт. Моля, проверете данните и опитайте пак.",
+    "date": {
+      "invalid_date": "Дата в грешен формат. Използвайте ДД/ММ/ГГГГ.",
+      "invalid_month": "Моля изберете валидна дата на раждане.",
+      "invalid_day": "Моля изберете валидна дата на раждане.",
+      "invalid_birthdate": "Рожденият ви ден не може да е в бъдещето. Моля изберете валидна дата."
+    }
+  },
+  "noDataFound": {
+    "treatment": "няма налични процедури",
+    "treatmentSearch": "няма налични процедури",
+    "product": "няма налични продукти"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Това ще таксува {{amount}} директно от картата ви. Сигурни сте, че искате да продължите?",
+    "add_card_note": "Бележка: трябва да имате добавен метод на плащане в профила си",
+    "confirm_subscription": "Потвърдете абонамента",
+    "yes": "Да, продължи",
+    "no": "Не, откажи"
+  },
+  "taxSheet": {
+    "title": "2.5% Данък и такса услуга",
+    "description": "Тази такса се използва за покриване на административните разходи, свързани с вашата процедура или услуга.",
+    "button": "Разбрах"
+  },
+  "payment": {
+    "retry_failed_title": "Плащането не бе успешно",
+    "retry_failed_message": "Не успяхме да обработим вашето плащане. Моля, актуализирайте метода си на плащане, за да продължите."
+  },
+  "treatments": {
+    "redeem_multiple": "Осребри {{count}} процедури"
+  },
+  "products": {
+    "redeem_multiple": "Осребри {{count}} продукта"
+  },
+  "custom_plan": {
+    "delete_title": "Изтриване на персонализиран план",
+    "delete_description": "Сигурни ли сте, че искате да изтриете този персонализиран план?",
+    "delete": "Изтрий",
+    "cancel": "Откажи"
+  },
+  "no_search_results": {
+    "title": "Няма намерени резултати",
+    "description": "Изглежда, че не намерихме нищо, което да съвпада с търсенето ви.",
+    "try_new": "Опитайте различни ключови думи или проверете за правописни грешки."
+  }
+}

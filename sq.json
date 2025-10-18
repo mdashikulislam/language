@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Vazhdo si mysafir",
+    "continue": "Vazhdo",
+    "apply": "ZBATON HYRJEN",
+    "save": "Ruaj",
+    "scan": "Skanoni tani",
+    "next": "Tjetër",
+    "powered": "Funksionon me ",
+    "scan_qr_code": "Skanoni Kodin QR",
+    "or": "ose",
+    "shop_now": "Bli tani",
+    "dermis": "DERMIS",
+    "resend_code": "Ribëj kodin",
+    "view_rewards": "Shiko shpërblimet e mia",
+    "change_icon": "Ndrysho ikonën",
+    "reset_icon": "Rivendos ikonën",
+    "my_points": "Shiko pikat e mia",
+    "see_more": "Shiko më tepër",
+    "see_benifits": "Shiko përfitimet",
+    "show_all": "Trego të gjitha",
+    "rewards": "Shpërblime",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Mund të konvertohet në ",
+    "clinic_cash": "cash {{clinic}}",
+    "checkout": "Paguaj",
+    "save_address": "Ruaj adresën në llogarinë tënde",
+    "call_now": "Thirri tani",
+    "apply_filter": "Zbato",
+    "filter_by": "Filtro sipas",
+    "reset_filter": "Rivendos filtrin",
+    "unit_number": "{{quantity}} njësi",
+    "add_to_cart": "Shto në karrocë",
+    "treatments": "Trajtimet",
+    "products": "Produkte",
+    "membership": "Anëtarësi",
+    "treat_today": "Trajto sot. Paguaj më vonë.",
+    "earn": " Fitoni shpërblime.",
+    "search": "Kërko",
+    "settings": "Cilësimet",
+    "save_big": "Kuroni shumë para",
+    "browse_shop": "Shfleto dyqanin",
+    "filter": "Filtro",
+    "sort": "Rendit",
+    "referral": "Kodi i referimit",
+    "enter_referral": "Shkruani kodin tuaj të referimit",
+    "enter_referral_description": "Shkruani kodin tuaj të referimit për të marrë përfitime speciale",
+    "submit": "Dërgo",
+    "skip": "Kaloni",
+    "have_referral": "Keni një kod referimi?",
+    "ok": "OK",
+    "cancel": "Anulo"
+  },
+  "deleteAccount": {
+    "title": "Fshi llogarinë",
+    "description": "A je i sigurt që dëshiron të fshish llogarinë tënde?",
+    "note": "Të gjitha të dhënat dhe abonimi juaj do të fshihen përfundimisht.",
+    "yes": "Po",
+    "no": "Jo"
+  },
+  "home": {
+    "last_visited": "{{name}}, nuk ke vizituar që prej",
+    "days_count": "{{days_count}}…",
+    "offer": "Kështu që ju kemi përgatitur një ofertë që nuk mund ta refuzoni!",
+    "unwrap": "Trokit për të zbuluar",
+    "recently_viewed": "Së fundmi parë",
+    "save": "Kuroni {{amount}}",
+    "save2": " si anëtar i {{clinic}}",
+    "save_paragraph": "Trajtime falas. Përkrahje ekskluzive.",
+    "ad_title": "Trajto sot. Paguaj më vonë. Fitoni shpërblime.",
+    "ad_description": "Bëni pagesa mujore pa tarifa për vonesë",
+    "educate_yourself": "Informohu"
+  },
+  "language": {
+    "english": "Anglisht",
+    "french": "Frëngjisht"
+  },
+  "onboarding": {
+    "welcome": "Mirë se vini këtu",
+    "welcome_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa",
+    "rewards": "Shpërblim falas për anëtarët e rinj!",
+    "birthdays": "Dhëna falas ditëlindjeje",
+    "events": "Ngjarje dhe oferta vetëm për anëtarët",
+    "phone_request": "Mund të marrim numrin tënd të telefonit?",
+    "login_with_phone": "Regjistrohu ose identifikohu me numrin tënd të telefonit!",
+    "terms": {
+      "agree": "Unë pranoj ",
+      "terms_of_service": "Kushtet e Shërbimit ",
+      "and": "& ",
+      "privacy": "Politika e Privatësisë."
+    },
+    "closeApp": "Mbyll aplikacionin",
+    "andReopen": "dhe hapeni përsëri",
+    "otp_title": "Shkruaj OTP‑në të dërguar me SMS",
+    "sms_sent": "Kemi dërguar OTP në {{phone_number}}",
+    "email_placeholder": "emri@shembull.com",
+    "well_done": "Mirë bëre!",
+    "email_request": "Dhe, email‑i juaj?",
+    "last_step": "Hapi i fundit",
+    "name_request": "Si quhesh?",
+    "name_placeholder": "emri mbiemri",
+    "first_name_placeholder": "Emri",
+    "last_name_placeholder": "Mbiemri",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "Kur është ditëlindja juaj?",
+    "welcome_message2": "Mirë se vini {{name}}! ",
+    "gift_message": "Kemi përgatitur një dhuratë të vogël për ju duke skanuar kodin tuaj të parë QR",
+    "find_spa": {
+      "find_medspa": "Gjeni ofertën tuaj",
+      "description": "Gjeni vendndodhjen tuaj tani për të blerë shërbimet tuaja të preferuara, dhe filloni të fitoni shpërblime me çdo blerje dhe vizitë!",
+      "search": "Kërkoni ofertën sipas emrit",
+      "results_found": "{{quantity}} rezultate u gjetën"
+    }
+  },
+  "personalInfo": {
+    "title": "Informacione personale",
+    "email_label": "E‑mail",
+    "email_placeholder": "emri@shembull.com",
+    "nickname_label": "Pseudonimi",
+    "nickname_placeholer": "emri",
+    "firstname_label": "Emri",
+    "firstname_placeholder": "Emri",
+    "lastname_label": "Mbiemri",
+    "lastname_placeholder": "Mbiemri"
+  },
+  "scan": {
+    "scan_text": "Skanoni në zyrë për",
+    "points": "{{points}} pika",
+    "cant_scan": "Si funksionon?"
+  },
+  "rewardModal": {
+    "horray": "Urime! ",
+    "you_earned": "Sapo fitove",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} pika"
+  },
+  "banked_modal": {
+    "reward_banked": "SHPËRBLIMI U RUAN!",
+    "cash": "cash {{clinic}}",
+    "view_rewards": "Shiko shpërblimet"
+  },
+  "segment": {
+    "browse": "Shfleto",
+    "treatments": "Trajtimet",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktive",
+    "past": "Të kaluara",
+    "products": "Produkte"
+  },
+  "special_offers": {
+    "expire_in": "Skadon në {{time_left}} ",
+    "title": "Oferta e veçantë!",
+    "new_msg": "Mori një mesazh nga {{sender}}!"
+  },
+  "shop": {
+    "title": "Dyqan",
+    "treatment": {
+      "learn_more": "Mëso më tepër për këtë trajtim",
+      "see_treatment": "Shiko trajtimin",
+      "included_treatments_title": "Përfshihen trajtimet",
+      "chose_treatment": "Zgjidh {{quantity}} nga të mëposhtmet çdo {{month}}",
+      "chose_treatment2": "Zgjidh {{quantity}} më poshtë çdo {{month}}",
+      "chose_treatment3": "Merr të mëposhtmet çdo {{month}}",
+      "signUpBonus": "Bonus regjistrimi",
+      "from_price": "Nga {{price}}",
+      "members_price": "{{memberPrice}} për Anëtarët",
+      "treatment_fees": " tarifa shërbimi prej {{fees}} aplikuar gjatë pagesës",
+      "results_title": "Rezultate magjepsëse",
+      "results_description": "Si u ndjenë të tjerët për këtë trajtim",
+      "select_plan": "Zgjidh një plan trajtimi",
+      "before_text": "Para trajtimit tuaj",
+      "after_text": "Pas trajtimit tuaj",
+      "members_results": "Rezultate të anëtarëve",
+      "customers_and_clients": "Çfarë kanë parë anëtarët",
+      "expectations": "Çfarë të prisni?",
+      "bundles_treatment_title": "Numri i trajtimeve",
+      "variations_treatments_title": "Llojet e trajtimeve",
+      "treatments_quantity": "{{quantity}} trajtime",
+      "consultation_required": "Konsultimi është i nevojshëm!",
+      "scheduling_link": "lidhja e planifikimit: ",
+      "visit_button": "Vizito lidhjen",
+      "noBooking": "Nuk kërkohet prenotim për këtë produkt.",
+      "sessions_available": "{{quantity}} nga {{remaining}} seancë{{plural}}",
+      "sessions": "{{quantity}} seancë{{plural}}",
+      "expire_in": "Skadon në ",
+      "search_result": "{{quantity}} rezultat(e) u gjetën",
+      "consultation": "Ky trajtim kërkon një konsultim",
+      "add_to_cart": "A je i sigurt që dëshiron ta shtosh në karrocë?"
+    },
+    "product": {
+      "learn_more": "Mëso më tepër për këtë produkt",
+      "see_product": "Shiko produktin",
+      "included_products_title": "Produkte të përfshira",
+      "chose_product": "Zgjidh {{quantity}} nga të mëposhtmet çdo {{month}}",
+      "chose_product2": "Zgjidh {{quantity}} më poshtë çdo {{month}}",
+      "chose_product3": "Merr të mëposhtmet çdo {{month}}",
+      "from_price": "Nga {{price}}",
+      "members_price": "{{memberPrice}} për Anëtarët",
+      "product_fees": " tarifa shërbimi prej {{fees}} aplikuar gjatë pagesës",
+      "results_title": "Rezultate magjepsëse",
+      "results_description": "Si ndjehen të tjerët për këtë produkt",
+      "select_plan": "Zgjidh një plan produkti",
+      "before_text": "Para produktit tuaj",
+      "after_text": "Pas produktit tuaj",
+      "members_results": "Rezultate të anëtarëve",
+      "customers_and_clients": "Çfarë kanë ndjerë anëtarët për këtë produkt",
+      "expectations": "Çfarë të prisni?",
+      "bundles_product_title": "Numri i produkteve",
+      "variations_products_title": "Llojet e produkteve",
+      "products_quantity": "{{quantity}} produkte",
+      "consultation_required": "Konsultimi është i nevojshëm!",
+      "scheduling_link": "lidhja e planifikimit: ",
+      "visit_button": "Vizito lidhjen",
+      "expire_in": "Skadon në ",
+      "sessions_available": "{{quantity}} nga {{remaining}} {{plural}} mbetur{{plural}}",
+      "treatments": "{{quantity}} trajtim{{plural}}"
+    },
+    "save_button": {
+      "text": "Kuroni {{amount}} në vit",
+      "subscribe": "Abonohu tani!"
+    },
+    "view_button": {
+      "text": "Shiko"
+    },
+    "bonus_card": {
+      "title": "Regjistrohu për menjëherë",
+      "title_bold": " të kërkosh një {{gifts}} falas!"
+    },
+    "teamMember": {
+      "title": "Kush të ndihmoi me këtë blerje?",
+      "not_Sure": "Nuk jam i sigurt"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Trajto sot. Paguaj më vonë. Fitoni shpërblime.",
+      "free_treatments": "Trajtime falas, përfitime ekskluzive.",
+      "how_it_work": "Si funksionon?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} PIKA",
+    "sinleReward": "Shpërblim",
+    "title": "Shpërblime",
+    "win_points": {
+      "title": "Të duhen më shumë pika?",
+      "refer_friend": "Refero një mik",
+      "purshase_inApp": "Bëj blerje në aplikacion",
+      "google_review": "Vlerëso në Google",
+      "visit": "Vizito klinikën tonë",
+      "status": {
+        "points_added": "{{points}} pika u shtuan",
+        "scan": "Skanoni për të fituar",
+        "pending": "Në pritje për miratim",
+        "plus_points": "+{{points}} pika",
+        "done": "E bërë"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Pika besnikërie",
+        "cultPoints": "Pika Kult",
+        "memberShip": "Anëtar i {{clinic}}",
+        "joinedOn": "U bashkua më {{since}}",
+        "cash": "cash {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "A ke lënë një vlerësim?",
+        "text": "Pronar i klinikës do të verifikojë vlerësimin për t’i dhënë pikat.",
+        "yesButton": "Po, e bëra!",
+        "noButton": "Jo ende"
+      },
+      "reward_details": {
+        "expire_in": "Skadon në {{time_left}} ditë",
+        "redeem_button": "Zbato Shpërblimin tani",
+        "bank_it": "Depozito për {{amount}} {{clinic}}",
+        "redeemed": "Zbatuar",
+        "banked": "Depozituar",
+        "locked": "Bllokuar",
+        "expired_at": "Skaduar më",
+        "consumed": "Përdorur"
+      },
+      "bank_reward": {
+        "bank_title": "Depozito shpërblimin për cash {{clinic}}?",
+        "custom_bank_title": "Depozito shpërblimin për",
+        "bank_description": "Do ta shkëmbeni për",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "cash {{clinic}} që mund të shpenzohet në dyqan brenda aplikacionit. Duke bërë këtë ju humbisni aksesin në vetë shpërblimin.",
+        "yes_button": "Po, depozito shpërblimin",
+        "no_button": "Jo tani"
+      },
+      "congratSheet": {
+        "title": "Urime!",
+        "your_reward": "Shpërblimi yt është shtuar në karrocë!",
+        "description": "Shfleto dyqanin tonë tani për ta shtuar në porosinë tënde ose shiko karrocën për të paguar tani me zbritjen të aplikuar.",
+        "explore_shop": "Eksploro Dyqanin",
+        "view_cart": "Shiko Karrocën"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Llogaria",
+    "logout": "Dil",
+    "my-treatment-section": {
+      "my-treatment": "Trajtimet e mia",
+      "used_treatments": "Trajtimet e përdorura",
+      "empty_used": "Asnjë trajtim i përdorur",
+      "empty_purshased": "Asnjë trajtim i blerë",
+      "empty_treatment": "Asnjë trajtim",
+      "remaining_treatments": "{{remaining}} nga {{quantity}} trajtime kanë mbetur",
+      "redeemed_on": "Zbatuar më: {{date}}",
+      "scan": "Skanoni në zyrë për të zbatuar",
+      "book": "Rezervo takim",
+      "callClinic": "Thirri Klinikën"
+    },
+    "my-product-section": {
+      "my-product": "Produktet e mia",
+      "used_products": "Produktet e përdorura",
+      "empty_used": "Asnjë produkt i përdorur",
+      "empty_purshased": "Asnjë produkt i blerë",
+      "empty_product": "Asnjë produkt",
+      "remaining_products": "{{remaining}} nga {{quantity}} produkte kanë mbetur",
+      "redeemed_on": "Zbatuar më: {{date}}",
+      "scan": "Skanoni në zyrë për të zbatuar",
+      "book": "Rezervo takim",
+      "callClinic": "Thirri Klinikën"
+    },
+    "quantity_sheet": {
+      "select": "Zgjidh sasinë",
+      "units_left": "{{quantity}} {{units}} në dispozicion"
+    },
+    "redeem_modal": {
+      "redeemed": "Trajtim i zbatuar",
+      "description": "Tani mund të shikoni njësitë e mbetura dhe të planifikoni sesionet e ardhshme.",
+      "got_it": "Kuptova!",
+      "cant_scan": "Nuk mund ta skanosh?",
+      "fallback_description": "Këtu është kodi juaj rezervë. Futeni në aplikacionin web:",
+      "time_remaining": "Koha e mbetur: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produkti i zbatuar",
+      "description": "Tani mund të shikoni njësitë e mbetura dhe të planifikoni sesionet e ardhshme.",
+      "got_it": "Kuptova!",
+      "cant_scan": "Nuk mund ta skanosh?",
+      "fallback_description": "Këtu është kodi juaj rezervë. Futeni në aplikacionin web:",
+      "time_remaining": "Koha e mbetur: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Informacione personale",
+      "payment_methods": "Metodat e pagesës",
+      "payment_method": "Metoda e pagesës"
+    },
+    "payment_method_card": {
+      "visa": "Kartë",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "Numri i kartës",
+      "experation": "Skadimi",
+      "cvc": "CVC",
+      "select_country": "Zgjidh vendin",
+      "select_country_placeholder": "Zgjidh një vend…",
+      "contact_details": "Detajet e kontaktit",
+      "confirm_details": "Konfirmo detajet për të marrë faturën tuaj"
+    }
+  },
+  "membership_section": {
+    "joined_on": " U bashkua më {{date}}",
+    "cancled_on": " Anulluar më {{date}}",
+    "empty_membership": "Asnjë abonim këtu",
+    "browse_mebership": "Shfleto anëtarësitë",
+    "active_membership": "Anëtarësi aktive",
+    "paused_membership": "Anëtarësi në pauzë",
+    "active_membership_count": "{{quantity}} anëtarësi aktive",
+    "next_payment_attempt": "U përpiqëm të përpunonim pagesën tënde, do të provojmë përsëri më {{date}}",
+    "update_payment_info": "Përditëso metodën e pagesës",
+    "retry_payment": "Riprovo pagesën",
+    "cancel_payment": "Anullo abonimin",
+    "something_wrong": "Duket se diçka nuk shkoi mirë…",
+    "update_payment_method": "Përditëso pagesën",
+    "you_saved": "Ke kursyer",
+    "treatments": "({{number}} Trajtim(a))",
+    "products": "({{number}} Produkt(a))",
+    "equivalent": {
+      "title": "Ekuivalente",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " buzëkuq Chanel",
+      "bags": " çanta Chanel",
+      "swimsuits": " kostume banje Gucci"
+    },
+    "memberShipPayFor": "Anëtarësia që financon veten",
+    "you_have": "Ke {{quantity}} trajtime në dispozicion",
+    "you_have_products": "Ke {{quantity}} produkte në dispozicion",
+    "available_in": "Në {{days}} ditë deri te përzgjedhja tjetër",
+    "available_in_products": "Produkte të ardhshme në dispozicion në {{days}} ditë",
+    "your_benefits": "Përfitimet tuaja",
+    "membership_benefits": "Përfitimet e anëtarësisë",
+    "refresh_on": "Rifreskohet më {{date}}",
+    "monthly_treatment_selection": "Përzgjedhje trajtimesh mujore",
+    "monthly_product_selection": "Përzgjedhje produktesh mujore",
+    "firstDay_treatment_selection": "Fillon në ditën e parë si anëtar",
+    "firstDay_product_selection": "Fillon në ditën e parë si anëtar",
+    "unknown_treatment_selection": "Fillon pas {{period}} si anëtar",
+    "unknown_product_selection": "Fillon pas {{period}} si anëtar",
+    "select_one": "Zgjidh 1 nga trajtimet më poshtë falas çdo muaj",
+    "select_one_product": "Zgjidh 1 nga produktet më poshtë falas çdo muaj",
+    "select_free_treatment": "Zgjidh trajtimin tënd falas",
+    "select_free_product": "Zgjidh produktin tënd falas",
+    "are_you_sure": "A je i sigurt që dëshiron të zgjedhësh këtë trajtim?",
+    "are_you_sure_product": "A je i sigurt që dëshiron të zgjedhësh këtë produkt?",
+    "are_you_sure_cancel": "A je i sigurt që dëshiron të anullosh anëtarësinë?",
+    "sure": "Po, sigurisht",
+    "no": "Jo, u gabova",
+    "number_updated": "Numri i njësiteve u përditësua me sukses për këtë trajtim",
+    "number_updated_product": "Numri i njësiteve u përditësua me sukses për këtë produkt",
+    "you_can_see": "Tani mund të shikoni njësitë e mbetura dhe të planifikoni seancat e ardhshme.",
+    "you_can_see_product": "Tani mund të shikoni njësitë e mbetura dhe të planifikoni sesionet e ardhshme."
+  },
+  "cart_screen": {
+    "screen_title": "Karroca e blerjes",
+    "clinic_price_applied": "Çmimi {{clinic}} është aplikuar",
+    "summury": "Përmbledhje",
+    "promo_code": "Kodi promo",
+    "add_promo_code": "Shto një kod promo",
+    "order_summury": "PËRMBLEDHJË E POROSISË",
+    "subtotal": "Nëntotal",
+    "cash_wallet": "Portofoli Cash",
+    "rewardDiscount": "Zbritje Shpërblimi",
+    "membership_discount": "Zbritje Anëtarësie",
+    "tax": "Taksë & tarifë shërbimi",
+    "total": "Totali i porosisë",
+    "totalMaj": "TOTALI I POROSISË",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Paguaj tani",
+    "place_order": "Bëj porosinë",
+    "order_confirmed": "Gatuju, porosia juaj është konfirmuar!",
+    "points_tracker": "Ndjekësi i pikave",
+    "your_purchance": "Blerja juaj ndihmoi të fitoni për shpërblimin tuaj tjetër!",
+    "reward_unlocked": "shpërblim i zhbllokuar",
+    "rewards_unlocked": "SHPËRBLIME TË ZHBLLOKUARA",
+    "amount_unlocked": "${{amount}} drejt blerjes së tyre të parë në aplikacion",
+    "can_convert_amount": "Mund të konvertohet në ${{amount}} cash",
+    "edit_product": "Ndrysho produktin",
+    "delete": "Fshij",
+    "empty_cart": "Karroca është bosh, shto disa produkte",
+    "cashExceeds": "Më fal, bilanci cash nuk mund të kalojë (%{{allowedMerchantCashPercentage}}) të vlerës totale të karrocës",
+    "loseMoney": "Ne do të humbnim para 😞",
+    "useOnly": "Mund të shtosh më shumë trajtime në karrocë, ose të përdorësh vetëm {{amount}} të bilancit tënd cash për këtë trajtim tani.",
+    "disallowed": "Më fal, bilanci yt cash nuk mund të përdoret për {{number}} trajtim(a)",
+    "removeFromCart": "Hiq nga karroca"
+  },
+  "dates": {
+    "minute": "minutë",
+    "minutes": "minut(a)",
+    "hour": "orë",
+    "hours": "orë",
+    "day": "ditë",
+    "days": "ditë",
+    "month": "muaj",
+    "months": "muaj",
+    "year": "vit",
+    "years": "vite",
+    "now": "tani",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Ky email është përdorur tashmë. Ju lutem përdorni një tjetër.",
+    "login_error": "Hyrja dështoi. Kontrolloni numrin tuaj, pastaj provoni përsëri.",
+    "signup_error": "Regjistrimi dështoi. Sigurohuni që informacioni juaj është i saktë dhe provoni përsëri.",
+    "undifined_error": "Ups! Diçka shkoi gabim.",
+    "otp_not_valid": "Kodi që keni Futur është gabim. Ju lutem kontrolloni dhe provoni përsëri.",
+    "create_account": "Nuk mundëm të krijonim llogarinë tuaj. Ju lutem kontrolloni detajet dhe provoni përsëri.",
+    "date": {
+      "invalid_date": "Data ka format të gabuar. Përdor JJ/MM/AAAA.",
+      "invalid_month": "Ju lutem zgjidh datëlindje të vlefshme.",
+      "invalid_day": "Ju lutem zgjidh datëlindje të vlefshme.",
+      "invalid_birthdate": "Datëlindja juaj nuk mund të jetë në të ardhmen. Ju lutem zgjidh një datë të vlefshme."
+    }
+  },
+  "noDataFound": {
+    "treatment": "asnjë trajtim i disponueshëm",
+    "treatmentSearch": "asnjë trajtim i disponueshëm",
+    "product": "asnjë produkt i disponueshëm"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Kjo do të ngarkojë {{amount}} direkt nga karta juaj. A jeni i sigurt që dëshironi të vazhdoni?",
+    "add_card_note": "Shënim: duhet të keni një metodë pagesë të shtuar në llogarinë tuaj",
+    "confirm_subscription": "Konfirmo abonimin",
+    "yes": "Po, Vazhdoni",
+    "no": "Jo, Anullo"
+  },
+  "taxSheet": {
+    "title": "2.5% Taksë & tarifë shërbimi",
+    "description": "Kjo tarifë përdoret për të kompensuar kostot administrative lidhur me trajtimin ose shërbimin tuaj.",
+    "button": "Kuptova"
+  },
+  "payment": {
+    "retry_failed_title": "Pagesa dështoi",
+    "retry_failed_message": "Nuk arritëm të përpunojmë pagesën tuaj. Ju lutem përditësoni metodën e pagesës për të vazhduar."
+  },
+  "treatments": {
+    "redeem_multiple": "Zbato {{count}} trajtime"
+  },
+  "products": {
+    "redeem_multiple": "Zbato {{count}} produkte"
+  },
+  "custom_plan": {
+    "delete_title": "Fshi planin e personalizuar",
+    "delete_description": "A jeni i sigurt që dëshironi të fshini këtë plan të personalizuar?",
+    "delete": "Fshi",
+    "cancel": "Anullo"
+  },
+  "no_search_results": {
+    "title": "Asnjë rezultat i gjetur",
+    "description": "Duket se nuk kemi gjetur asgjë që korrespondon me kërkimin tuaj.",
+    "try_new": "Provoj fjalë kyçe të ndryshme ose kontrollo gabimet drejtshkrimore."
+  }
+}

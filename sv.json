@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Fortsätt som gäst",
+    "continue": "Fortsätt",
+    "apply": "TILLÄMPA INMATNING",
+    "save": "Spara",
+    "scan": "Skanna nu",
+    "next": "Nästa",
+    "powered": "Drivs av ",
+    "scan_qr_code": "Skanna QR‑kod",
+    "or": "eller",
+    "shop_now": "Handla nu",
+    "dermis": "DERMIS",
+    "resend_code": "Skicka kod igen",
+    "view_rewards": "Se mina belöningar",
+    "change_icon": "Byt ikon",
+    "reset_icon": "Återställ ikon",
+    "my_points": "Se mina poäng",
+    "see_more": "Se mer",
+    "see_benifits": "Se förmåner",
+    "show_all": "Visa alla",
+    "rewards": "Belöningar",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Kan omvandlas till ",
+    "clinic_cash": "{{clinic}} kontanter",
+    "checkout": "Till kassan",
+    "save_address": "Spara adress till ditt konto",
+    "call_now": "Ring nu",
+    "apply_filter": "Tillämpa",
+    "filter_by": "Filtrera efter",
+    "reset_filter": "Återställ filter",
+    "unit_number": "{{quantity}} enhet",
+    "add_to_cart": "Lägg till i kundvagn",
+    "treatments": "Behandlingar",
+    "products": "Produkter",
+    "membership": "Medlemskap",
+    "treat_today": "Behandla idag. Betala senare.",
+    "earn": " Tjäna belöningar.",
+    "search": "Sök",
+    "settings": "Inställningar",
+    "save_big": "Spara stora pengar",
+    "browse_shop": "Bläddra i butiken",
+    "filter": "Filter",
+    "sort": "Sortera",
+    "referral": "Referral‑kod",
+    "enter_referral": "Ange din referral‑kod",
+    "enter_referral_description": "Ange din referral‑kod för att få särskilda fördelar",
+    "submit": "Skicka",
+    "skip": "Hoppa över",
+    "have_referral": "Har du en referral‑kod?",
+    "ok": "OK",
+    "cancel": "Avbryt"
+  },
+  "deleteAccount": {
+    "title": "Radera konto",
+    "description": "Är du säker på att du vill radera ditt konto?",
+    "note": "All din data och prenumeration kommer att tas bort permanent.",
+    "yes": "Ja",
+    "no": "Nej"
+  },
+  "home": {
+    "last_visited": "{{name}}, du har inte besökt på",
+    "days_count": "{{days_count}}…",
+    "offer": "Så vi gav dig ett erbjudande du inte kan tacka nej till!",
+    "unwrap": "Tryck för att öppna",
+    "recently_viewed": "Senast visade",
+    "save": "Spara {{amount}}",
+    "save2": " som medlem i {{clinic}}",
+    "save_paragraph": "Gratis behandlingar. Exklusiva förmåner.",
+    "ad_title": "Behandla idag. Betala senare. Tjäna belöningar.",
+    "ad_description": "Gör månatliga betalningar utan avgifter för sen betalning",
+    "educate_yourself": "Lär dig mer"
+  },
+  "language": {
+    "english": "Engelska",
+    "french": "Franska"
+  },
+  "onboarding": {
+    "welcome": "Välkommen hit",
+    "welcome_message": "Welcome to Qonnect!",
+    "rewards": "Gratis belöning för nya medlemmar!",
+    "birthdays": "Gratis födelsedagspresenter",
+    "events": "Medlemserbjudanden och events",
+    "phone_request": "Kan vi få ditt telefonnummer?",
+    "login_with_phone": "Registrera dig eller logga in med ditt telefonnummer!",
+    "terms": {
+      "agree": "Jag godkänner ",
+      "terms_of_service": "Användarvillkor ",
+      "and": " & ",
+      "privacy": "Integritetspolicy."
+    },
+    "closeApp": "Stäng appen",
+    "andReopen": "och öppna den igen",
+    "otp_title": "Ange OTP skickad via SMS",
+    "sms_sent": "Vi har skickat OTP till {{phone_number}}",
+    "email_placeholder": "namn@epost.com",
+    "well_done": "Bra gjort!",
+    "email_request": "Och din e‑post?",
+    "last_step": "Sista steget",
+    "name_request": "Vad heter du?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "När fyller du år?",
+    "welcome_message2": "Välkommen {{name}}! ",
+    "gift_message": "Vi har en liten gåva till dig när du skannar din första QR‑kod",
+    "find_spa": {
+      "find_medspa": "Hitta ditt erbjudande",
+      "description": "Hitta din plats nu för att handla dina favorit­tjänster, och börja tjäna belöningar för varje köp och besök!",
+      "search": "Sök erbjudande efter namn",
+      "results_found": "{{quantity}} resultat hittades"
+    }
+  },
+  "personalInfo": {
+    "title": "Personlig info",
+    "email_label": "E‑post",
+    "email_placeholder": "namn@epost.com",
+    "nickname_label": "Smeknamn",
+    "nickname_placeholer": "namn",
+    "firstname_label": "Förnamn",
+    "firstname_placeholder": "John",
+    "lastname_label": "Efternamn",
+    "lastname_placeholder": "Doe"
+  },
+  "scan": {
+    "scan_text": "Skanna på plats för",
+    "points": "{{points}} poäng",
+    "cant_scan": "Hur fungerar det?"
+  },
+  "rewardModal": {
+    "horray": "Hurra! ",
+    "you_earned": "Du har just tjänat",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} poäng"
+  },
+  "banked_modal": {
+    "reward_banked": "BELÖNING INSATT!",
+    "cash": "{{clinic}} kontanter",
+    "view_rewards": "Visa belöningar"
+  },
+  "segment": {
+    "browse": "Bläddra",
+    "treatments": "Behandlingar",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktiva",
+    "past": "Tidigare",
+    "products": "Produkter"
+  },
+  "special_offers": {
+    "expire_in": "Upphör om {{time_left}} ",
+    "title": "Specialerbjudande!",
+    "new_msg": "Du fick ett meddelande från {{sender}}!"
+  },
+  "shop": {
+    "title": "Butik",
+    "treatment": {
+      "learn_more": "Läs mer om denna behandling",
+      "see_treatment": "Se behandling",
+      "included_treatments_title": "Inkluderade behandlingar",
+      "chose_treatment": "Välj {{quantity}} av följande varje {{month}}",
+      "chose_treatment2": "Välj {{quantity}} nedan varje {{month}}",
+      "chose_treatment3": "Få följande varje {{month}}",
+      "signUpBonus": "Registreringsbonus",
+      "from_price": "Från {{price}}",
+      "members_price": "{{memberPrice}} för medlemmar",
+      "treatment_fees": " serviceavgift {{fees}} tillämpad vid kassan",
+      "results_title": "Förtrollande resultat",
+      "results_description": "Hur andra kände för denna behandling",
+      "select_plan": "Välj behandlingsplan",
+      "before_text": "Före din behandling",
+      "after_text": "Efter din behandling",
+      "members_results": "Medlemsresultat",
+      "customers_and_clients": "Vad medlemmar sett",
+      "expectations": "Vad kan du förvänta dig?",
+      "bundles_treatment_title": "Antal behandlingar",
+      "variations_treatments_title": "Behandlingstyper",
+      "treatments_quantity": "{{quantity}} behandlingar",
+      "consultation_required": "Konsultation krävs!",
+      "scheduling_link": "bokningslänk : ",
+      "visit_button": "Besök länk",
+      "noBooking": "Ingen bokning krävs för denna produkt.",
+      "sessions_available": "{{quantity}} av {{remaining}} session{{plural}} kvar",
+      "sessions": "{{quantity}} session{{plural}}",
+      "expire_in": "Upphör om ",
+      "search_result": "{{quantity}} resultat{{plural}} hittades",
+      "consultation": "Denna behandling kräver konsultation",
+      "add_to_cart": "Är du säker på att du vill lägga till den i din kundvagn?"
+    },
+    "product": {
+      "learn_more": "Läs mer om denna produkt",
+      "see_product": "Se produkt",
+      "included_products_title": "Inkluderade produkter",
+      "chose_product": "Välj {{quantity}} av följande varje {{month}}",
+      "chose_product2": "Välj {{quantity}} nedan varje {{month}}",
+      "chose_product3": "Få följande varje {{month}}",
+      "from_price": "Från {{price}}",
+      "members_price": "{{memberPrice}} för medlemmar",
+      "product_fees": " serviceavgift {{fees}} tillämpad vid kassan",
+      "results_title": "Förtrollande resultat",
+      "results_description": "Hur andra kände för denna produkt",
+      "select_plan": "Välj produktplan",
+      "before_text": "Före din produkt",
+      "after_text": "Efter din produkt",
+      "members_results": "Medlemsresultat",
+      "customers_and_clients": "Hur medlemmar kände för denna produkt",
+      "expectations": "Vad kan du förvänta dig?",
+      "bundles_product_title": "Antal produkter",
+      "variations_products_title": "Produkttyper",
+      "products_quantity": "{{quantity}} produkter",
+      "consultation_required": "Konsultation krävs!",
+      "scheduling_link": "bokningslänk : ",
+      "visit_button": "Besök länk",
+      "expire_in": "Upphör om ",
+      "sessions_available": "{{quantity}} av {{remaining}} {{plural}} kvar",
+      "treatments": "{{quantity}} behandling{{plural}}"
+    },
+    "save_button": {
+      "text": "Spara {{amount}} årligen",
+      "subscribe": "Prenumerera nu!"
+    },
+    "view_button": {
+      "text": "Visa"
+    },
+    "bonus_card": {
+      "title": "Registrera dig för att omedelbart",
+      "title_bold": " hämta en gratis {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Vem hjälpte dig med detta köp?",
+      "not_Sure": "Inte säker"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Behandla idag. Betala senare. Tjäna belöningar.",
+      "free_treatments": "Gratis behandlingar. Exklusiva förmåner.",
+      "how_it_work": "Hur fungerar det?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} POÄNG",
+    "sinleReward": "Belöning",
+    "title": "Belöningar",
+    "win_points": {
+      "title": "Behöver du fler poäng?",
+      "refer_friend": "Rekommendera en vän",
+      "purshase_inApp": "Köp i appen",
+      "google_review": "Recensera på Google",
+      "visit": "Besök vår klinik",
+      "status": {
+        "points_added": "{{points}} poäng tillagda",
+        "scan": "Skanna för att tjäna",
+        "pending": "Väntar på godkännande",
+        "plus_points": "+{{points}} poäng",
+        "done": "Klar"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Lojalitets­poäng",
+        "cultPoints": "Cult poäng",
+        "memberShip": "Medlem i {{clinic}}",
+        "joinedOn": "Gick med {{since}}",
+        "cash": "{{clinic}} kontanter"
+      },
+      "reviewSheet": {
+        "title": "Har du lämnat en recension?",
+        "text": "Vår klinikägare kommer att verifiera recensionen för att ge dig poäng.",
+        "yesButton": "Ja, det gjorde jag!",
+        "noButton": "Inte än"
+      },
+      "reward_details": {
+        "expire_in": "Upphör om {{time_left}} dagar",
+        "redeem_button": "Lös in belöning nu",
+        "bank_it": "Insätt för {{amount}} {{clinic}}",
+        "redeemed": "Inlöst",
+        "banked": "Insatt",
+        "locked": "Låst",
+        "expired_at": "Utgick den",
+        "consumed": "Förbrukad"
+      },
+      "bank_reward": {
+        "bank_title": "Sätta in din belöning för {{clinic}} kontanter?",
+        "custom_bank_title": "Sätta in din belöning för",
+        "bank_description": "Du kommer att byta din belöning mot",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "värd {{clinic}} kontanter som kan spenderas i butiken i appen. Genom att göra detta förlorar du åtkomst till belöningen själv.",
+        "yes_button": "Ja, sätt in belöning",
+        "no_button": "Inte nu"
+      },
+      "congratSheet": {
+        "title": "Grattis!",
+        "your_reward": "Din belöning har lagts till i kundvagnen!",
+        "description": "Utforska vår butik nu för att lägga den till din beställning eller se kundvagnen för att checka ut nu med din rabatt applicerad.",
+        "explore_shop": "Utforska butik",
+        "view_cart": "Visa kundvagn"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Konto",
+    "logout": "Logga ut",
+    "my-treatment-section": {
+      "my-treatment": "Mina behandlingar",
+      "used_treatments": "Använda behandlingar",
+      "empty_used": "Ingen behandling använd",
+      "empty_purshased": "Ingen behandling köpt",
+      "empty_treatment": "Inga behandlingar",
+      "remaining_treatments": "{{remaining}} av {{quantity}} behandlingar kvar",
+      "redeemed_on": "Löst in den: {{date}}",
+      "scan": "Skanna på kliniken för att lösa in",
+      "book": "Boka tid",
+      "callClinic": "Ring kliniken"
+    },
+    "my-product-section": {
+      "my-product": "Mina produkter",
+      "used_products": "Använda produkter",
+      "empty_used": "Ingen produkt använd",
+      "empty_purshased": "Ingen produkt köpt",
+      "empty_product": "Inga produkter",
+      "remaining_products": "{{remaining}} av {{quantity}} produkter kvar",
+      "redeemed_on": "Löst in den: {{date}}",
+      "scan": "Skanna på kliniken för att lösa in",
+      "book": "Boka tid",
+      "callClinic": "Ring kliniken"
+    },
+    "quantity_sheet": {
+      "select": "Välj antal",
+      "units_left": "{{quantity}} {{units}} tillgängliga"
+    },
+    "redeem_modal": {
+      "redeemed": "Behandling löst in",
+      "description": "Du kan nu se de återstående enheterna och planera dina nästa sessioner.",
+      "got_it": "Förstått!",
+      "cant_scan": "Kan inte skanna?",
+      "fallback_description": "Här är din reservkod. Skriv in den i webb­appen:",
+      "time_remaining": "Tid kvar: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produkt löst in",
+      "description": "Du kan nu se de återstående enheterna och planera dina nästa sessioner.",
+      "got_it": "Förstått!",
+      "cant_scan": "Kan inte skanna?",
+      "fallback_description": "Här är din reservkod. Skriv in den i webb‑appen:",
+      "time_remaining": "Tid kvar: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Personlig info",
+      "payment_methods": "Betalnings­metoder",
+      "payment_method": "Betalningsmetod"
+    },
+    "payment_method_card": {
+      "visa": "Kort",
+      "apple": "Apple",
+      "affirm": "Affirm",
+      "card_number": "Kortnummer",
+      "experation": "Utgångsdatum",
+      "cvc": "CVC",
+      "select_country": "Välj land",
+      "select_country_placeholder": "Välj ett land…",
+      "contact_details": "Kontaktuppgifter",
+      "confirm_details": "Bekräfta dina uppgifter för att få ditt kvitto"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Ansökt den {{date}}",
+    "cancled_on": " Avbrutet den {{date}}",
+    "empty_membership": "Ingen prenumeration här",
+    "browse_mebership": "Bläddra bland medlemskap",
+    "active_membership": "Aktivt medlemskap",
+    "paused_membership": "Pausat medlemskap",
+    "active_membership_count": "{{quantity}} aktiva medlemskap",
+    "next_payment_attempt": "Vi försökte behandla din medlemskapsbetalning, vi försöker igen den {{date}}",
+    "update_payment_info": "Uppdatera betalningsmetod",
+    "retry_payment": "Försök betalningsmetod igen",
+    "cancel_payment": "Avsluta medlemskap",
+    "something_wrong": "Det verkar som om något gick fel…",
+    "update_payment_method": "Uppdatera betalning",
+    "you_saved": "Du har sparat",
+    "treatments": "({{number}} Behandling{{plural}})",
+    "products": "({{number}} Produkt{{plural}})",
+    "equivalent": {
+      "title": "Motsvarande",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel‑läppstift",
+      "bags": " Chanel‑väska",
+      "swimsuits": " Gucci‑baddräkt"
+    },
+    "memberShipPayFor": "Medlemskapet som betalar för sig självt",
+    "you_have": "Du har {{quantity}} behandlingar tillgängliga",
+    "you_have_products": "Du har {{quantity}} produkter tillgängliga",
+    "available_in": "{{days}} dagar kvar till nästa val",
+    "available_in_products": "Nästa produkter tillgängliga om {{days}} dagar",
+    "your_benefits": "Dina förmåner",
+    "membership_benefits": "Medlemskapsförmåner",
+    "refresh_on": "Uppdateras den {{date}}",
+    "monthly_treatment_selection": "Månatligt behandlingsval",
+    "monthly_product_selection": "Månatligt produktval",
+    "firstDay_treatment_selection": "Startar på din 1:a dag som medlem",
+    "firstDay_product_selection": "Startar på din 1:a dag som medlem",
+    "unknown_treatment_selection": "Startar efter {{period}} som medlem",
+    "unknown_product_selection": "Startar efter {{period}} som medlem",
+    "select_one": "Välj 1 av nedanstående behandlingar gratis varje månad",
+    "select_one_product": "Välj 1 av nedanstående produkter gratis varje månad",
+    "select_free_treatment": "Välj din gratis behandling",
+    "select_free_product": "Välj din gratis produkt",
+    "are_you_sure": "Är du säker på att du vill välja denna behandling?",
+    "are_you_sure_product": "Är du säker på att du vill välja denna produkt?",
+    "are_you_sure_cancel": "Är du säker på att du vill avsluta ditt medlemskap?",
+    "sure": "Ja, säkert",
+    "no": "Nej, jag hade fel",
+    "number_updated": "Antalet enheter har uppdaterats för denna behandling",
+    "number_updated_product": "Antalet enheter har uppdaterats för denna produkt",
+    "you_can_see": "Du kan nu se de återstående enheterna och planera dina nästa sessioner.",
+    "you_can_see_product": "Du kan nu se de återstående enheterna och planera dina nästa sessioner."
+  },
+  "cart_screen": {
+    "screen_title": "Kundvagn",
+    "clinic_price_applied": "Priser för {{clinic}} tillämpade",
+    "summury": "Sammanfattning",
+    "promo_code": "Rabattkod",
+    "add_promo_code": "Lägg till rabattkod",
+    "order_summury": "ORDER­SAMMANFATTNING",
+    "subtotal": "Delsumma",
+    "cash_wallet": "Kontant­plånbok",
+    "rewardDiscount": "Belönings­rabatt",
+    "membership_discount": "Medlems­rabatt",
+    "tax": "Skatt & serviceavgift",
+    "total": "Order­total",
+    "totalMaj": "BESTÄLLNING TOTALT",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Betala nu",
+    "place_order": "Lägg beställning",
+    "order_confirmed": "Förbered dig, din beställning är bekräftad!",
+    "points_tracker": "Poäng­spårare",
+    "your_purchance": "Ditt köp hjälpte dig att tjäna till din nästa belöning!",
+    "reward_unlocked": "belöning upplåst",
+    "rewards_unlocked": "BELÖNINGAR UPPLÅSTA",
+    "amount_unlocked": "${{amount}} mot deras första in‑app‑köp",
+    "can_convert_amount": "Kan omvandlas till ${{amount}} kontanter",
+    "edit_product": "Redigera produkt",
+    "delete": "Radera",
+    "empty_cart": "Kundvagnen är tom, lägg till några produkter",
+    "cashExceeds": "Tyvärr, kontantsaldo får inte överstiga ({{allowedMerchantCashPercentage}} %) av det totala värdet i kundvagnen",
+    "loseMoney": "Vi skulle förlora pengar 😞",
+    "useOnly": "Du kan lägga till fler behandlingar i din kundvagn, eller använda endast {{amount}} av ditt tillgängliga kontantsaldo för denna behandling just nu.",
+    "disallowed": "Tyvärr, ditt kontantsaldo får inte användas för {{number}} behandling(ar)",
+    "removeFromCart": "Ta bort från kundvagnen"
+  },
+  "dates": {
+    "minute": "minut",
+    "minutes": "minuter",
+    "hour": "timme",
+    "hours": "timmar",
+    "day": "dag",
+    "days": "dagar",
+    "month": "månad",
+    "months": "månader",
+    "year": "år",
+    "years": "år",
+    "now": "nu",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Denna e‑post används redan. Använd en annan e‑post.",
+    "login_error": "Inloggningen misslyckades. Verifiera ditt nummer och försök igen.",
+    "signup_error": "Registreringen misslyckades. Kontrollera att din information är korrekt och försök igen.",
+    "undifined_error": "Hoppsan! Något gick fel.",
+    "otp_not_valid": "Koden du angav är felaktig. Kontrollera den och försök igen.",
+    "create_account": "Vi kunde inte skapa ditt konto. Verifiera dina uppgifter och försök igen.",
+    "date": {
+      "invalid_date": "Datumet har fel format. Använd DD/MM/YYYY.",
+      "invalid_month": "Välj ett giltigt födelsedagsmånad.",
+      "invalid_day": "Välj en giltig födelsedag.",
+      "invalid_birthdate": "Ditt födelsedatum kan inte vara i framtiden. Välj ett giltigt datum."
+    }
+  },
+  "noDataFound": {
+    "treatment": "inga behandlingar tillgängliga",
+    "treatmentSearch": "inga behandlingar tillgängliga",
+    "product": "inga produkter tillgängliga"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Detta kommer att debitera {{amount}} direkt från ditt kort. Är du säker på att du vill fortsätta?",
+    "add_card_note": "Obs: du måste ha en betalningsmetod upplagd på ditt konto",
+    "confirm_subscription": "Bekräfta prenumeration",
+    "yes": "Ja, Fortsätt",
+    "no": "Nej, Avbryt"
+  },
+  "taxSheet": {
+    "title": "2.5% Skatt & Serviceavgift",
+    "description": "Denna avgift används för att täcka administrativa kostnader relaterade till din behandling eller tjänst.",
+    "button": "Förstått"
+  },
+  "payment": {
+    "retry_failed_title": "Betalningen misslyckades",
+    "retry_failed_message": "Vi kunde inte behandla din betalning. Uppdatera din betalningsmetod för att fortsätta."
+  },
+  "treatments": {
+    "redeem_multiple": "Lös in {{count}} behandling(ar)"
+  },
+  "products": {
+    "redeem_multiple": "Lös in {{count}} produkt(er)"
+  },
+  "custom_plan": {
+    "delete_title": "Ta bort anpassad plan",
+    "delete_description": "Är du säker på att du vill ta bort denna anpassade plan?",
+    "delete": "Ta bort",
+    "cancel": "Avbryt"
+  },
+  "no_search_results": {
+    "title": "Inga resultat hittades",
+    "description": "Det verkar som att vi inte kunde hitta något som matchar din sökning.",
+    "try_new": "Prova andra nyckelord eller kontrollera stavningen."
+  }
+}

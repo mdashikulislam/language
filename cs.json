@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "Pokračovat jako host",
+    "continue": "Pokračovat",
+    "apply": "POUŽÍT VSTUP",
+    "save": "Uložit",
+    "scan": "Skenovat nyní",
+    "next": "Další",
+    "powered": "Poháněno ",
+    "scan_qr_code": "Naskenujte QR kód",
+    "or": "nebo",
+    "shop_now": "Nakupujte nyní",
+    "dermis": "DERMIS",
+    "resend_code": "Odeslat kód znovu",
+    "view_rewards": "Zobrazit mé odměny",
+    "change_icon": "Změnit ikonu",
+    "reset_icon": "Resetovat ikonu",
+    "my_points": "Zobrazit mé body",
+    "see_more": "Zobrazit více",
+    "see_benifits": "Zobrazit výhody",
+    "show_all": "Zobrazit vše",
+    "rewards": "Odměny",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "Lze převést na ",
+    "clinic_cash": "{{clinic}} hotovost",
+    "checkout": "Pokladna",
+    "save_address": "Uložit adresu na váš účet",
+    "call_now": "Zavolejte nyní",
+    "apply_filter": "Použít",
+    "filter_by": "Filtrovat podle",
+    "reset_filter": "Resetovat filtr",
+    "unit_number": "{{quantity}} jednotka",
+    "add_to_cart": "Přidat do košíku",
+    "treatments": "Ošetření",
+    "products": "Produkty",
+    "membership": "Členství",
+    "treat_today": "Ošetřete dnes. Zaplaťte později.",
+    "earn": " Získejte odměny.",
+    "search": "Hledat",
+    "settings": "Nastavení",
+    "save_big": "Ušetřete velké peníze",
+    "browse_shop": "Prohlédnout obchod",
+    "filter": "Filtr",
+    "sort": "Řadit",
+    "referral": "Referenční kód",
+    "enter_referral": "Zadejte svůj referenční kód",
+    "enter_referral_description": "Zadejte svůj referenční kód a získejte speciální výhody",
+    "submit": "Odeslat",
+    "skip": "Přeskočit",
+    "have_referral": "Máte referenční kód?",
+    "ok": "OK",
+    "cancel": "Zrušit"
+  },
+  "deleteAccount": {
+    "title": "Smazat účet",
+    "description": "Opravdu chcete účet smazat?",
+    "note": "Všechny vaše údaje a předplatné budou trvale smazány.",
+    "yes": "Ano",
+    "no": "Ne"
+  },
+  "home": {
+    "last_visited": "{{name}}, nenavštívili jste od",
+    "days_count": "{{days_count}}…",
+    "offer": "Připravili jsme pro vás nabídku, které neodoláte!",
+    "unwrap": "Klepněte pro odhalení",
+    "recently_viewed": "Nedávno zobrazeno",
+    "save": "Ušetřete {{amount}}",
+    "save2": " jako člen {{clinic}}",
+    "save_paragraph": "Bezplatná ošetření. Exkluzivní výhody.",
+    "ad_title": "Ošetřete dnes. Zaplaťte později. Získejte odměny.",
+    "ad_description": "Provádějte měsíční platby bez poplatků za pozdní platbu",
+    "educate_yourself": "Informujte se"
+  },
+  "language": {
+    "english": "Angličtina",
+    "french": "Francouzština"
+  },
+  "onboarding": {
+    "welcome": "Vítejte",
+    "welcome_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa",
+    "rewards": "Bezplatná odměna pro nové členy!",
+    "birthdays": "Bezplatné dárky k narozeninám",
+    "events": "Události a nabídky jen pro členy",
+    "phone_request": "Můžeme získat vaše telefonní číslo?",
+    "login_with_phone": "Zaregistrujte se nebo se přihlaste pomocí telefonního čísla!",
+    "terms": {
+      "agree": "Souhlasím s ",
+      "terms_of_service": "Podmínkami služby ",
+      "and": "a ",
+      "privacy": "Zásadami ochrany osobních údajů."
+    },
+    "closeApp": "Zavřete aplikaci",
+    "andReopen": "a znovu ji otevřete",
+    "otp_title": "Zadejte OTP zaslané SMS",
+    "sms_sent": "OTP bylo odesláno na {{phone_number}}",
+    "email_placeholder": "jmeno@email.com",
+    "well_done": "Výborně!",
+    "email_request": "A váš e‑mail?",
+    "last_step": "Poslední krok",
+    "name_request": "Jak se jmenujete?",
+    "name_placeholder": "jhon doe",
+    "first_name_placeholder": "Jhon",
+    "last_name_placeholder": "Doe",
+    "birthday_placeholder": "DD / MM / YYYY",
+    "birthday_request": "Kdy máte narozeniny?",
+    "welcome_message2": "Vítejte {{name}}! ",
+    "gift_message": "Máme pro vás malý dárek za první naskenování QR kódu",
+    "find_spa": {
+      "find_medspa": "Najděte svou nabídku",
+      "description": "Najděte nyní svou polohu, zakupte své oblíbené služby a začněte získávat odměny za každou návštěvu i nákup!",
+      "search": "Hledejte nabídku podle názvu",
+      "results_found": "Nalezeno {{quantity}} výsledků"
+    }
+  },
+  "personalInfo": {
+    "title": "Osobní údaje",
+    "email_label": "E‑mail",
+    "email_placeholder": "jmeno@email.com",
+    "nickname_label": "Přezdívka",
+    "nickname_placeholer": "jméno",
+    "firstname_label": "Křestní jméno",
+    "firstname_placeholder": "Jméno",
+    "lastname_label": "Příjmení",
+    "lastname_placeholder": "Příjmení"
+  },
+  "scan": {
+    "scan_text": "Naskenujte v kanceláři pro",
+    "points": "{{points}} bodů",
+    "cant_scan": "Jak to funguje?"
+  },
+  "rewardModal": {
+    "horray": "Hurá! ",
+    "you_earned": "Právě jste získali",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} bodů"
+  },
+  "banked_modal": {
+    "reward_banked": "ODMĚNA ULOŽENA!",
+    "cash": "{{clinic}} hotovost",
+    "view_rewards": "Zobrazit odměny"
+  },
+  "segment": {
+    "browse": "Procházet",
+    "treatments": "Ošetření",
+    "clinicName": "{{clinicName}}",
+    "active": "Aktivní",
+    "past": "Minulé",
+    "products": "Produkty"
+  },
+  "special_offers": {
+    "expire_in": "Platí do {{time_left}} ",
+    "title": "Speciální nabídka!",
+    "new_msg": "Obdrželi jste zprávu od {{sender}}!"
+  },
+  "shop": {
+    "title": "Obchod",
+    "treatment": {
+      "learn_more": "Zjistit více o tomto ošetření",
+      "see_treatment": "Zobrazit ošetření",
+      "included_treatments_title": "Zahrnutá ošetření",
+      "chose_treatment": "Vyberte {{quantity}} z následujících každý {{month}}",
+      "chose_treatment2": "Vyberte {{quantity}} níže každý {{month}}",
+      "chose_treatment3": "Získejte následující každý {{month}}",
+      "signUpBonus": "Bonus za registraci",
+      "from_price": "Od {{price}}",
+      "members_price": "{{memberPrice}} pro členy",
+      "treatment_fees": " při platbě se uplatňuje servisní poplatek ve výši {{fees}}",
+      "results_title": "Ohromující výsledky",
+      "results_description": "Jak se ostatní cítili u tohoto ošetření",
+      "select_plan": "Vyberte plán ošetření",
+      "before_text": "Před ošetřením",
+      "after_text": "Po ošetření",
+      "members_results": "Výsledky členů",
+      "customers_and_clients": "Co viděli členové",
+      "expectations": "Co můžete očekávat?",
+      "bundles_treatment_title": "Počet ošetření",
+      "variations_treatments_title": "Typy ošetření",
+      "treatments_quantity": "{{quantity}} ošetření",
+      "consultation_required": "Konzultace je nutná!",
+      "scheduling_link": "odkaz na plánování : ",
+      "visit_button": "Navštivte odkaz",
+      "noBooking": "Na tento produkt není třeba rezervace.",
+      "sessions_available": "{{quantity}} ze {{remaining}} sezení{{plural}} dostupných",
+      "sessions": "{{quantity}} sezení{{plural}}",
+      "expire_in": "Platí do ",
+      "search_result": "Nalezeno {{quantity}} výsledek(ů)",
+      "consultation": "Toto ošetření vyžaduje konzultaci",
+      "add_to_cart": "Jste si jisti, že chcete přidat do košíku?"
+    },
+    "product": {
+      "learn_more": "Zjistit více o tomto produktu",
+      "see_product": "Zobrazit produkt",
+      "included_products_title": "Zahrnuté produkty",
+      "chose_product": "Vyberte {{quantity}} z následujících každý {{month}}",
+      "chose_product2": "Vyberte {{quantity}} níže každý {{month}}",
+      "chose_product3": "Získejte následující každý {{month}}",
+      "from_price": "Od {{price}}",
+      "members_price": "{{memberPrice}} pro členy",
+      "product_fees": " při platbě se uplatňuje servisní poplatek ve výši {{fees}}",
+      "results_title": "Ohromující výsledky",
+      "results_description": "Jak se ostatní cítili u tohoto produktu",
+      "select_plan": "Vyberte plán produktu",
+      "before_text": "Před produktem",
+      "after_text": "Po produktu",
+      "members_results": "Výsledky členů",
+      "customers_and_clients": "Jak se členové cítili ohledně tohoto produktu",
+      "expectations": "Co můžete očekávat?",
+      "bundles_product_title": "Počet produktů",
+      "variations_products_title": "Typy produktů",
+      "products_quantity": "{{quantity}} produktů",
+      "consultation_required": "Konzultace je nutná!",
+      "scheduling_link": "odkaz na plánování : ",
+      "visit_button": "Navštivte odkaz",
+      "expire_in": "Platí do ",
+      "sessions_available": "{{quantity}} ze {{remaining}} {{plural}} zbývá",
+      "treatments": "{{quantity}} ošetření{{plural}}"
+    },
+    "save_button": {
+      "text": "Ušetřete {{amount}} ročně",
+      "subscribe": "Přihlaste se nyní!"
+    },
+    "view_button": {
+      "text": "Zobrazit"
+    },
+    "bonus_card": {
+      "title": "Zaregistrujte se ihned",
+      "title_bold": " a vyžádejte si zdarma {{gifts}}!"
+    },
+    "teamMember": {
+      "title": "Kdo vám pomohl s tímto nákupem?",
+      "not_Sure": "Nejsem si jistý"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "Ošetřete dnes. Zaplaťte později. Získejte odměny.",
+      "free_treatments": "Bezplatná ošetření, exkluzivní výhody.",
+      "how_it_work": "Jak to funguje?"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} BODŮ",
+    "sinleReward": "Odměna",
+    "title": "Odměny",
+    "win_points": {
+      "title": "Potřebujete více bodů?",
+      "refer_friend": "Doporučte kamaráda",
+      "purshase_inApp": "Nákup v aplikaci",
+      "google_review": "Recenze na Google",
+      "visit": "Navštivte naši kliniku",
+      "status": {
+        "points_added": "{{points}} bodů přidáno",
+        "scan": "Skenovat pro získání",
+        "pending": "Čeká na schválení",
+        "plus_points": "+{{points}} bodů",
+        "done": "Hotovo"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "Body věrnosti",
+        "cultPoints": "Cult body",
+        "memberShip": "Člen { {clinic}}",
+        "joinedOn": "Připojeno dne {{since}}",
+        "cash": "{{clinic}} hotovost"
+      },
+      "reviewSheet": {
+        "title": "Zanechali jste recenzi?",
+        "text": "Majitel kliniky zkontroluje recenzi a přidá vám body.",
+        "yesButton": "Ano, udělal jsem to!",
+        "noButton": "Ještě ne"
+      },
+      "reward_details": {
+        "expire_in": "Vyprší za {{time_left}} dní",
+        "redeem_button": "Uplatnit odměnu nyní",
+        "bank_it": "Uložit na {{amount}} {{clinic}}",
+        "redeemed": "Uplatněno",
+        "banked": "Uloženo",
+        "locked": "Zamčeno",
+        "expired_at": "Vypršelo dne",
+        "consumed": "Spotřebováno"
+      },
+      "bank_reward": {
+        "bank_title": "Chcete uložit svou odměnu za hotovost {{clinic}}?",
+        "custom_bank_title": "Uložit svou odměnu za",
+        "bank_description": "Vyměníte ji za",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "hotovost {{clinic}}, kterou lze utratit v obchodě v aplikaci. Tím ztratíte přístup k samotné odměně.",
+        "yes_button": "Ano, uložit odměnu",
+        "no_button": "Ne teď"
+      },
+      "congratSheet": {
+        "title": "Gratulujeme!",
+        "your_reward": "Vaše odměna byla přidána do košíku!",
+        "description": "Prozkoumejte náš obchod, abyste ji přidali ke své objednávce nebo zobrazte košík k zaplacení s uplatněnou slevou.",
+        "explore_shop": "Prozkoumejte obchod",
+        "view_cart": "Zobrazit košík"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "Účet",
+    "logout": "Odhlásit se",
+    "my‑treatment‑section": {
+      "my‑treatment": "Moje ošetření",
+      "used_treatments": "Použitá ošetření",
+      "empty_used": "Žádná použitá ošetření",
+      "empty_purshased": "Žádná zakoupená ošetření",
+      "empty_treatment": "Žádná ošetření",
+      "remaining_treatments": "{{remaining}} z {{quantity}} ošetření zbývá",
+      "redeemed_on": "Uplatněno dne: {{date}}",
+      "scan": "Skenovat v klinice k uplatnění",
+      "book": "Rezervovat termín",
+      "callClinic": "Zavolejte klinice"
+    },
+    "my‑product‑section": {
+      "my‑product": "Moje produkty",
+      "used_products": "Použité produkty",
+      "empty_used": "Žádné použité produkty",
+      "empty_purshased": "Žádné zakoupené produkty",
+      "empty_product": "Žádné produkty",
+      "remaining_products": "{{remaining}} z {{quantity}} produktů zbývá",
+      "redeemed_on": "Uplatněno dne: {{date}}",
+      "scan": "Skenovat v klinice k uplatnění",
+      "book": "Rezervovat termín",
+      "callClinic": "Zavolejte klinice"
+    },
+    "quantity_sheet": {
+      "select": "Vyberte množství",
+      "units_left": "{{quantity}} jednotek dostupných"
+    },
+    "redeem_modal": {
+      "redeemed": "Ošetření uplatněno",
+      "description": "Nyní můžete vidět zbývající jednotky a naplánovat své další sezení.",
+      "got_it": "Rozumím!",
+      "cant_scan": "Nelze skenovat?",
+      "fallback_description": "Zde je váš záložní kód. Zadejte ho ve webové aplikaci:",
+      "time_remaining": "Zbývající čas: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "Produkt uplatněn",
+      "description": "Nyní můžete vidět zbývající jednotky a naplánovat své další sezení.",
+      "got_it": "Rozumím!",
+      "cant_scan": "Nelze skenovat?",
+      "fallback_description": "Zde je váš záložní kód. Zadejte ho ve webové aplikaci:",
+      "time_remaining": "Zbývající čas: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "Osobní údaje",
+      "payment_methods": "Způsoby platby",
+      "payment_method": "Způsob platby"
+    },
+    "payment_method_card": {
+      "visa": "Karta",
+      "apple": "Apple pay",
+      "affirm": "Affirm",
+      "card_number": "Číslo karty",
+      "experation": "Platnost",
+      "cvc": "CVC",
+      "select_country": "Vyberte zemi",
+      "select_country_placeholder": "Vyberte zemi…",
+      "contact_details": "Kontaktní údaje",
+      "confirm_details": "Potvrďte údaje pro obdržení účtenky"
+    }
+  },
+  "membership_section": {
+    "joined_on": " Připojeno dne {{date}}",
+    "cancled_on": " Zrušeno dne {{date}}",
+    "empty_membership": "Žádné členství zde",
+    "browse_mebership": "Prohlédnout členství",
+    "active_membership": "Aktivní členství",
+    "paused_membership": "Pozastavené členství",
+    "active_membership_count": "{{quantity}} aktivních členství",
+    "next_payment_attempt": "Pokoušeli jsme se zpracovat vaši platbu, zkusíme znovu dne {{date}}",
+    "update_payment_info": "Aktualizujte způsob platby",
+    "retry_payment": "Zkusit platbu znovu",
+    "cancel_payment": "Zrušit členství",
+    "something_wrong": "Zdá se, že se něco pokazilo…",
+    "update_payment_method": "Aktualizovat platbu",
+    "you_saved": "Ušetřili jste",
+    "treatments": "({{number}} Ošetření{{plural}})",
+    "products": "({{number}} Produktů{{plural}})",
+    "equivalent": {
+      "title": "Ekvivalent",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " Chanel rtěnka(y)",
+      "bags": " Chanel taška(y)",
+      "swimsuits": " Gucci plavky"
+    },
+    "memberShipPayFor": "Členství, které se vyplatí samo",
+    "you_have": "Máte k dispozici {{quantity}} ošetření",
+    "you_have_products": "Máte k dispozici {{quantity}} produktů",
+    "available_in": "K dispozici za {{days}} dní",
+    "available_in_products": "Další produkty budou k dispozici za {{days}} dní",
+    "your_benefits": "Vaše výhody",
+    "membership_benefits": "Výhody členství",
+    "refresh_on": "Obnoví se dne {{date}}",
+    "monthly_treatment_selection": "Měsíční výběr ošetření",
+    "monthly_product_selection": "Měsíční výběr produktů",
+    "firstDay_treatment_selection": "Začíná v první den jako člen",
+    "firstDay_product_selection": "Začíná v první den jako člen",
+    "unknown_treatment_selection": "Začíná po {{period}} jako člen",
+    "unknown_product_selection": "Začíná po {{period}} jako člen",
+    "select_one": "Vyberte 1 z níže uvedených ošetření zdarma každý měsíc",
+    "select_one_product": "Vyberte 1 z níže uvedených produktů zdarma každý měsíc",
+    "select_free_treatment": "Vyberte své bezplatné ošetření",
+    "select_free_product": "Vyberte svůj bezplatný produkt",
+    "are_you_sure": "Jste si jisti, že chcete vybrat toto ošetření?",
+    "are_you_sure_product": "Jste si jisti, že chcete vybrat tento produkt?",
+    "are_you_sure_cancel": "Jste si jisti, že chcete zrušit své členství?",
+    "sure": "Ano, jistě",
+    "no": "Ne, udělal jsem chybu",
+    "number_updated": "Počet jednotek byl úspěšně aktualizován pro toto ošetření",
+    "number_updated_product": "Počet jednotek byl úspěšně aktualizován pro tento produkt",
+    "you_can_see": "Nyní můžete vidět zbývající jednotky a naplánovat své další sezení.",
+    "you_can_see_product": "Nyní můžete vidět zbývající jednotky a naplánovat své další sezení."
+  },
+  "cart_screen": {
+    "screen_title": "Nákupní košík",
+    "clinic_price_applied": "Cena {{clinic}} byla uplatněna",
+    "summury": "Shrnutí",
+    "promo_code": "Promo kód",
+    "add_promo_code": "Přidat promo kód",
+    "order_summury": "PŘEHLED OBJEDNÁVKY",
+    "subtotal": "Mezisoučet",
+    "cash_wallet": "Hotovostní peněženka",
+    "rewardDiscount": "Sleva z odměny",
+    "membership_discount": "Sleva za členství",
+    "tax": "Daň a servisní poplatek",
+    "total": "Celková částka objednávky",
+    "totalMaj": "CELKEM OBJEDNÁVKY",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "Zaplatit nyní",
+    "place_order": "Zadat objednávku",
+    "order_confirmed": "Připravte se, vaše objednávka byla potvrzena!",
+    "points_tracker": "Sledování bodů",
+    "your_purchance": "Váš nákup vám pomohl získat další odměnu!",
+    "reward_unlocked": "odměna odemčena",
+    "rewards_unlocked": "ODMĚNY ODEMČENY",
+    "amount_unlocked": "${{amount}} k jejich prvnímu nákupu v aplikaci",
+    "can_convert_amount": "Lze převést na ${{amount}} hotovosti",
+    "edit_product": "Upravit produkt",
+    "delete": "Smazat",
+    "empty_cart": "Košík je prázdný, přidejte nějaké produkty",
+    "cashExceeds": "Omlouváme se, zůstatek hotovosti nemůže přesáhnout ({{allowedMerchantCashPercentage}} %) z celkové hodnoty košíku",
+    "loseMoney": "Přišli bychom o peníze 😞",
+    "useOnly": "Můžete přidat do košíku více ošetření nebo nyní použít pouze {{amount}} z vašeho dostupného hotovostního zůstatku pro toto ošetření.",
+    "disallowed": "Omlouváme se, váš hotovostní zůstatek nemůže být použit na {{number}} ošetření",
+    "removeFromCart": "Odebrat z košíku"
+  },
+  "dates": {
+    "minute": "minuta",
+    "minutes": "minuty",
+    "hour": "hodina",
+    "hours": "hodiny",
+    "day": "den",
+    "days": "dny",
+    "month": "měsíc",
+    "months": "měsíce",
+    "year": "rok",
+    "years": "roky",
+    "now": "teď",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "Tento e‑mail je již v použití. Prosím použijte jiný e‑mail.",
+    "login_error": "Přihlášení selhalo. Zkontrolujte své číslo a zkuste to znovu.",
+    "signup_error": "Registrace selhala. Ujistěte se, že jsou vaše údaje správné a zkuste to znovu.",
+    "undifined_error": "Ups! Něco se pokazilo.",
+    "otp_not_valid": "Zadaný kód je nesprávný. Zkontrolujte ho a zkuste to znovu.",
+    "create_account": "Nepodařilo se vytvořit váš účet. Zkontrolujte své údaje a zkuste to znovu.",
+    "date": {
+      "invalid_date": "Datum má nesprávný formát. Použijte DD/MM/YYYY.",
+      "invalid_month": "Vyberte platné datum narození.",
+      "invalid_day": "Vyberte platné datum narození.",
+      "invalid_birthdate": "Váš narozeninový den nemůže být v budoucnosti. Vyberte platné datum."
+    }
+  },
+  "noDataFound": {
+    "treatment": "žádná ošetření dostupná",
+    "treatmentSearch": "žádná ošetření dostupná",
+    "product": "žádné produkty dostupné"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "Toto bude účtováno ve výši {{amount}} přímo z vaší karty. Opravdu chcete pokračovat?",
+    "add_card_note": "Poznámka: musíte mít k účtu přidanou platební metodu",
+    "confirm_subscription": "Potvrdit předplatné",
+    "yes": "Ano, pokračovat",
+    "no": "Ne, zrušit"
+  },
+  "taxSheet": {
+    "title": "2.5% Daň & servisní poplatek",
+    "description": "Tento poplatek slouží na pokrytí administrativních nákladů spojených s vaším ošetřením nebo službou.",
+    "button": "Rozumím"
+  },
+  "payment": {
+    "retry_failed_title": "Platba selhala",
+    "retry_failed_message": "Nepodařilo se zpracovat vaši platbu. Aktualizujte prosím svůj způsob platby pro pokračování."
+  },
+  "treatments": {
+    "redeem_multiple": "Uplatnit {{count}} ošetření"
+  },
+  "products": {
+    "redeem_multiple": "Uplatnit {{count}} produkty"
+  },
+  "custom_plan": {
+    "delete_title": "Smazat vlastní plán",
+    "delete_description": "Jste si jisti, že chcete smazat tento vlastní plán?",
+    "delete": "Smazat",
+    "cancel": "Zrušit"
+  },
+  "no_search_results": {
+    "title": "Žádné výsledky",
+    "description": "Zdá se, že jsme nenašli nic odpovídajícího vašemu hledání.",
+    "try_new": "Zkuste jiná klíčová slova nebo zkontrolujte překlep."
+  }
+}

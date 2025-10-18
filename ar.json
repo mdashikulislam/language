@@ -1,0 +1,528 @@
+{
+  "common": {
+    "loginAsGuest": "المتابعة كضيف",
+    "continue": "متابعة",
+    "apply": "تطبيق الإدخال",
+    "save": "حفظ",
+    "scan": "امسح الآن",
+    "next": "التالي",
+    "powered": "مدعوم بواسطة ",
+    "scan_qr_code": "امسح رمز الاستجابة السريعة",
+    "or": "أو",
+    "shop_now": "تسوّق الآن",
+    "dermis": "الأدمة",
+    "resend_code": "إعادة إرسال الرمز",
+    "view_rewards": "عرض مكافآتي",
+    "change_icon": "تغيير الأيقونة",
+    "reset_icon": "إعادة ضبط الأيقونة",
+    "my_points": "عرض نقاطي",
+    "see_more": "شاهد المزيد",
+    "see_benifits": "رؤية المزايا",
+    "show_all": "عرض الكل",
+    "rewards": "المكافآت",
+    "cash": "{{amount}}",
+    "discount_cash": "-${{amount}}",
+    "can_convert": "يمكن تحويلها إلى ",
+    "clinic_cash": "نقد {{clinic}}",
+    "checkout": "الدفع",
+    "save_address": "حفظ العنوان في حسابك",
+    "call_now": "اتصل الآن",
+    "apply_filter": "تطبيق",
+    "filter_by": "تصفية حسب",
+    "reset_filter": "إعادة ضبط الفلتر",
+    "unit_number": "{{quantity}} وحدة",
+    "add_to_cart": "أضف إلى السلة",
+    "treatments": "العلاجات",
+    "products": "المنتجات",
+    "membership": "العضوية",
+    "treat_today": "عالج اليوم. ادفع لاحقاً.",
+    "earn": " اكسب مكافآت.",
+    "search": "بحث",
+    "settings": "الإعدادات",
+    "save_big": "وفر الكثير من المال",
+    "browse_shop": "تصفح المتجر",
+    "filter": "تصفية",
+    "sort": "ترتيب",
+    "referral": "رمز الإحالة",
+    "enter_referral": "أدخل رمز الإحالة الخاص بك",
+    "enter_referral_description": "أدخل رمز الإحالة لتحصل على فوائد خاصة",
+    "submit": "إرسال",
+    "skip": "تخطي",
+    "have_referral": "هل لديك رمز إحالة؟",
+    "ok": "موافق",
+    "cancel": "إلغاء"
+  },
+  "deleteAccount": {
+    "title": "حذف الحساب",
+    "description": "هل أنت متأكد أنك تريد حذف حسابك؟",
+    "note": "جميع بياناتك والاشتراك سيتم حذفها نهائيًا.",
+    "yes": "نعم",
+    "no": "لا"
+  },
+  "home": {
+    "last_visited": "{{name}}، لم تزُر منذ",
+    "days_count": "{{days_count}}…",
+    "offer": "لذلك جهزنا لك عرضاً لا يمكنك رفضه!",
+    "unwrap": "اضغط للكشف",
+    "recently_viewed": "تمت مشاهدتها مؤخراً",
+    "save": "وفر {{amount}}",
+    "save2": " كعضو في {{clinic}}",
+    "save_paragraph": "علاجات مجانية. مزايا حصرية.",
+    "ad_title": "عالج اليوم. ادفع لاحقاً. اكسب مكافآت.",
+    "ad_description": "قم بعمل دفعات شهرية بدون رسوم تأخير",
+    "educate_yourself": "ثقف نفسك"
+  },
+  "language": {
+    "english": "الإنجليزية",
+    "french": "الفرنسية"
+  },
+  "onboarding": {
+    "welcome": "مرحبًا بك هنا",
+    "welcome_message": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa",
+    "rewards": "مكافأة مجانية للأعضاء الجدد!",
+    "birthdays": "هدايا مجانية في عيد الميلاد",
+    "events": "فعاليات وعروض للأعضاء فقط",
+    "phone_request": "هل يمكننا الحصول على رقم هاتفك؟",
+    "login_with_phone": "سجل أو ادخل باستخدام رقم هاتفك!",
+    "terms": {
+      "agree": "أوافق على ",
+      "terms_of_service": "شروط الخدمة ",
+      "and": "& ",
+      "privacy": "سياسة الخصوصية."
+    },
+    "closeApp": "أغلق التطبيق",
+    "andReopen": "وأعد فتحه",
+    "otp_title": "أدخل رمز التحقق المرسل عبر الرسائل القصيرة",
+    "sms_sent": "تم إرسال الرمز إلى {{phone_number}}",
+    "email_placeholder": "name@email.com",
+    "well_done": "أحسنت!",
+    "email_request": "و، بريدك الإلكتروني؟",
+    "last_step": "الخطوة الأخيرة",
+    "name_request": "ما اسمك؟",
+    "name_placeholder": "الاسم الكامل",
+    "first_name_placeholder": "الاسم",
+    "last_name_placeholder": "اللقب",
+    "birthday_placeholder": "يوم / شهر / سنة",
+    "birthday_request": "متى هو تاريخ ميلادك؟",
+    "welcome_message2": "مرحبًا {{name}}! ",
+    "gift_message": "لقد حصلت على هدية صغيرة عند مسحك أول رمز QR",
+    "find_spa": {
+      "find_medspa": "ابحث عن عرضك",
+      "description": "اعثر على موقعك الآن لتشتري خدماتك المفضلة، وابدأ في كسب المكافآت مع كل عملية شراء وزيارة!",
+      "search": "ابحث عن عرض بالاسم",
+      "results_found": "{{quantity}} نتيجة تم العثور عليها"
+    }
+  },
+  "personalInfo": {
+    "title": "المعلومات الشخصية",
+    "email_label": "البريد الإلكتروني",
+    "email_placeholder": "name@email.com",
+    "nickname_label": "اللقب",
+    "nickname_placeholer": "الاسم",
+    "firstname_label": "الاسم الأول",
+    "firstname_placeholder": "الاسم الأول",
+    "lastname_label": "اسم العائلة",
+    "lastname_placeholder": "اسم العائلة"
+  },
+  "scan": {
+    "scan_text": "امسح في العيادة من أجل",
+    "points": "{{points}} نقاط",
+    "cant_scan": "كيف يعمل؟"
+  },
+  "rewardModal": {
+    "horray": "رائع! ",
+    "you_earned": "لقد حصلت على",
+    "points": "{{points}}",
+    "clinic_points": "{{clinic}} نقاط"
+  },
+  "banked_modal": {
+    "reward_banked": "تم ادخار المكافأة!",
+    "cash": "نقد {{clinic}}",
+    "view_rewards": "عرض المكافآت"
+  },
+  "segment": {
+    "browse": "تصفح",
+    "treatments": "العلاجات",
+    "clinicName": "{{clinicName}}",
+    "active": "نشط",
+    "past": "سابق",
+    "products": "المنتجات"
+  },
+  "special_offers": {
+    "expire_in": "تنتهي خلال {{time_left}} ",
+    "title": "عرض خاص!",
+    "new_msg": "لديك رسالة من {{sender}}!"
+  },
+  "shop": {
+    "title": "المتجر",
+    "treatment": {
+      "learn_more": "تعرّف أكثر على هذا العلاج",
+      "see_treatment": "عرض العلاج",
+      "included_treatments_title": "العلاجات المشمولة",
+      "chose_treatment": "اختر {{quantity}} مما يلي كل {{month}}",
+      "chose_treatment2": "اختر {{quantity}} أدناه كل {{month}}",
+      "chose_treatment3": "استلم ما يلي كل {{month}}",
+      "signUpBonus": "مكافأة التسجيل",
+      "from_price": "من {{price}}",
+      "members_price": "{{memberPrice}} للأعضاء",
+      "treatment_fees": " تُطبق رسوم خدمة قدرها {{fees}} عند الدفع",
+      "results_title": "نتائج ساحرة",
+      "results_description": "كيف شعر الآخرون بهذا العلاج",
+      "select_plan": "اختر خطة العلاج",
+      "before_text": "قبل علاجك",
+      "after_text": "بعد علاجك",
+      "members_results": "نتائج الأعضاء",
+      "customers_and_clients": "ما رآه الأعضاء",
+      "expectations": "ماذا تتوقع؟",
+      "bundles_treatment_title": "عدد العلاجات",
+      "variations_treatments_title": "أنواع العلاجات",
+      "treatments_quantity": "{{quantity}} علاج",
+      "consultation_required": "استشارة مطلوبة!",
+      "scheduling_link": "رابط الجدولة: ",
+      "visit_button": "زر الزيارة",
+      "noBooking": "لا حجز مطلوب لهذا المنتج.",
+      "sessions_available": "{{quantity}} من {{remaining}} جلسة{{plural}}",
+      "sessions": "{{quantity}} جلسة{{plural}}",
+      "expire_in": "تنتهي خلال ",
+      "search_result": "{{quantity}} نتيجة{{plural}} تم العثور عليها",
+      "consultation": "هذا العلاج يتطلب استشارة",
+      "add_to_cart": "هل أنت متأكد أنك تريد إضافته إلى سلتك؟"
+    },
+    "product": {
+      "learn_more": "تعرّف أكثر على هذا المنتج",
+      "see_product": "عرض المنتج",
+      "included_products_title": "المنتجات المشمولة",
+      "chose_product": "اختر {{quantity}} مما يلي كل {{month}}",
+      "chose_product2": "اختر {{quantity}} أدناه كل {{month}}",
+      "chose_product3": "استلم ما يلي كل {{month}}",
+      "from_price": "من {{price}}",
+      "members_price": "{{memberPrice}} للأعضاء",
+      "product_fees": " تُطبق رسوم خدمة قدرها {{fees}} عند الدفع",
+      "results_title": "نتائج ساحرة",
+      "results_description": "كيف شعر الآخرون بهذا المنتج",
+      "select_plan": "اختر خطة المنتج",
+      "before_text": "قبل منتجك",
+      "after_text": "بعد منتجك",
+      "members_results": "نتائج الأعضاء",
+      "customers_and_clients": "ما شعر به الأعضاء عن هذا المنتج",
+      "expectations": "ماذا تتوقع؟",
+      "bundles_product_title": "عدد المنتجات",
+      "variations_products_title": "أنواع المنتجات",
+      "products_quantity": "{{quantity}} منتج",
+      "consultation_required": "استشارة مطلوبة!",
+      "scheduling_link": "رابط الجدولة: ",
+      "visit_button": "زر الزيارة",
+      "expire_in": "تنتهي خلال ",
+      "sessions_available": "{{quantity}} من {{remaining}} {{plural}} متبقية",
+      "treatments": "{{quantity}} علاج{{plural}}"
+    },
+    "save_button": {
+      "text": "وفر {{amount}} سنوياً",
+      "subscribe": "اشترك الآن!"
+    },
+    "view_button": {
+      "text": "عرض"
+    },
+    "bonus_card": {
+      "title": "قم بالتسجيل فوراً",
+      "title_bold": " للمطالبة بـ{{gifts}} مجاني!"
+    },
+    "teamMember": {
+      "title": "من ساعدك في هذا الشراء؟",
+      "not_Sure": "لست متأكداً"
+    }
+  },
+  "browse": {
+    "gradient_card": {
+      "treat_today": "عالج اليوم. ادفع لاحقاً. اكسب مكافآت.",
+      "free_treatments": "علاجات مجانية، مزايا حصرية.",
+      "how_it_work": "كيف يعمل؟"
+    }
+  },
+  "rewards": {
+    "points": "{{points}} نقاط",
+    "sinleReward": "مكافأة",
+    "title": "المكافآت",
+    "win_points": {
+      "title": "هل تحتاج مزيداً من النقاط؟",
+      "refer_friend": "أحِل صديقاً",
+      "purshase_inApp": "شراء داخل التطبيق",
+      "google_review": "مراجعة على Google",
+      "visit": "زيارة عيادتنا",
+      "status": {
+        "points_added": "{{points}} نقاط أُضيفت",
+        "scan": "امسح لكسب",
+        "pending": "في انتظار الموافقة",
+        "plus_points": "+{{points}} نقاط",
+        "done": "تم"
+      },
+      "loyaltyCard": {
+        "loyaltyPoints": "نقاط الولاء",
+        "cultPoints": "نقاط Cult",
+        "memberShip": "عضو في {{clinic}}",
+        "joinedOn": "انضم في {{since}}",
+        "cash": "نقد {{clinic}}"
+      },
+      "reviewSheet": {
+        "title": "هل تركت مراجعة؟",
+        "text": "مالك العيادة سيتحقق من المراجعة لإضافة النقاط إليك.",
+        "yesButton": "نعم، فعلت!",
+        "noButton": "ليس بعد"
+      },
+      "reward_details": {
+        "expire_in": "تنتهي خلال {{time_left}} أيام",
+        "redeem_button": "استبدل المكافأة الآن",
+        "bank_it": "ادّخر مقابل {{amount}} {{clinic}}",
+        "redeemed": "تم الاستبدال",
+        "banked": "تم الادخار",
+        "locked": "مقفل",
+        "expired_at": "انتهت في",
+        "consumed": "تم استخدامها"
+      },
+      "bank_reward": {
+        "bank_title": "هل تريد ادخار مكافأتك مقابل نقد {{clinic}}؟",
+        "custom_bank_title": "ادخار مكافأتك مقابل",
+        "bank_description": "ستقوم بمبادلتها مقابل",
+        "bankWorth": " {{currency}}{{amount}} ",
+        "bank_description2": "نقد {{clinic}} يمكن إنفاقه في المتجر داخل التطبيق. عند القيام بذلك، ستفقد الوصول للمكافأة نفسها.",
+        "yes_button": "نعم، ادخر المكافأة",
+        "no_button": "ليس الآن"
+      },
+      "congratSheet": {
+        "title": "تهانينا!",
+        "your_reward": "تمت إضافة مكافأتك إلى السلة!",
+        "description": "استكشف متجرنا الآن لإضافتها إلى طلبك أو عرض السلة للدفع الآن مع الخصم المطبق.",
+        "explore_shop": "استكشاف المتجر",
+        "view_cart": "عرض السلة"
+      }
+    }
+  },
+  "emptyState": {
+    "rewards": {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum auctor massa"
+    }
+  },
+  "profile": {
+    "screen_title": "الحساب",
+    "logout": "تسجيل الخروج",
+    "my-treatment-section": {
+      "my-treatment": "علاجاتي",
+      "used_treatments": "العلاجات المستخدمة",
+      "empty_used": "لم يتم استخدام أي علاج",
+      "empty_purshased": "لم يتم شراء أي علاج",
+      "empty_treatment": "لا توجد علاجات",
+      "remaining_treatments": "{{remaining}} من {{quantity}} علاج متبقي",
+      "redeemed_on": "تم الاستبدال في: {{date}}",
+      "scan": "امسح في العيادة للاستبدال",
+      "book": "حجز موعد",
+      "callClinic": " اتصل بالعيادة"
+    },
+    "my-product-section": {
+      "my-product": "منتجاتي",
+      "used_products": "المنتجات المستخدمة",
+      "empty_used": "لم يتم استخدام أي منتج",
+      "empty_purshased": "لم يتم شراء أي منتج",
+      "empty_product": "لا توجد منتجات",
+      "remaining_products": "{{remaining}} من {{quantity}} منتج متبقي",
+      "redeemed_on": "تم الاستبدال في: {{date}}",
+      "scan": "امسح في العيادة للاستبدال",
+      "book": "حجز موعد",
+      "callClinic": " اتصل بالعيادة"
+    },
+    "quantity_sheet": {
+      "select": "اختر الكمية",
+      "units_left": "{{quantity}} {{units}} متوفرة"
+    },
+    "redeem_modal": {
+      "redeemed": "تم استبدال العلاج",
+      "description": "يمكنك الآن رؤية الوحدات المتبقية وتخطيط جلساتك القادمة.",
+      "got_it": "فهمت!",
+      "cant_scan": "لا يمكنك المسح؟",
+      "fallback_description": "إليك الكود الاحتياطي. أدخلها في تطبيق الويب:",
+      "time_remaining": "الوقت المتبقي: {{time}}"
+    },
+    "redeem_modal_product": {
+      "redeemed": "تم استبدال المنتج",
+      "description": "يمكنك الآن رؤية الوحدات المتبقية وتخطيط جلساتك القادمة.",
+      "got_it": "فهمت!",
+      "cant_scan": "لا يمكنك المسح؟",
+      "fallback_description": "إليك الكود الاحتياطي. أدخلها في تطبيق الويب:",
+      "time_remaining": "الوقت المتبقي: {{time}}"
+    },
+    "setting_section": {
+      "personal_infos": "المعلومات الشخصية",
+      "payment_methods": "طرق الدفع",
+      "payment_method": "طريقة الدفع"
+    },
+    "payment_method_card": {
+      "visa": "بطاقة",
+      "apple": "Apple Pay",
+      "affirm": "Affirm",
+      "card_number": "رقم البطاقة",
+      "experation": "تاريخ الانتهاء",
+      "cvc": "CVC",
+      "select_country": "اختر دولة",
+      "select_country_placeholder": "اختر دولة…",
+      "contact_details": "تفاصيل التواصل",
+      "confirm_details": "قم بتأكيد التفاصيل لتلقي إيصال البيع"
+    }
+  },
+  "membership_section": {
+    "joined_on": " انضم في {{date}}",
+    "cancled_on": " تم الإلغاء في {{date}}",
+    "empty_membership": "لا توجد عضويات",
+    "browse_mebership": "تصفح العضويات",
+    "active_membership": "عضوية نشطة",
+    "paused_membership": "عضوية موقوفة مؤقتًا",
+    "active_membership_count": "{{quantity}} عضوية نشطة",
+    "next_payment_attempt": "حاولنا معالجة دفعتك، سنحاول مرة أخرى في {{date}}",
+    "update_payment_info": "تحديث طريقة الدفع",
+    "retry_payment": "إعادة المحاولة",
+    "cancel_payment": "إلغاء العضوية",
+    "something_wrong": "يبدو أن هناك خطأ ما…",
+    "update_payment_method": "تحديث الدفع",
+    "you_saved": "لقد وفّرت",
+    "treatments": "({{number}} علاج{{plural}})",
+    "products": "({{number}} منتج{{plural}})",
+    "equivalent": {
+      "title": "مايعادل",
+      "quantity": {
+        "lipstick": "{{quantity}}💄",
+        "bags": "{{quantity}}👜",
+        "swimsuits": "{{quantity}}👙",
+        "cash": "{{quantity}}💰"
+      },
+      "amount": "",
+      "lipsticks": " أحمر شفاه شانيل",
+      "bags": " حقائب شانيل",
+      "swimsuits": " مايوهات غوتشي"
+    },
+    "memberShipPayFor": "العضوية التي تدفع عن نفسها",
+    "you_have": "لديك {{quantity}} علاجات متاحة",
+    "you_have_products": "لديك {{quantity}} منتجات متاحة",
+    "available_in": "متاحة بعد {{days}} أيام",
+    "available_in_products": "المنتجات التالية متاحة بعد {{days}} أيام",
+    "your_benefits": "مزاياك",
+    "membership_benefits": "مزايا العضوية",
+    "refresh_on": "تجدد في {{date}}",
+    "monthly_treatment_selection": "اختيار علاج شهري",
+    "monthly_product_selection": "اختيار منتج شهري",
+    "firstDay_treatment_selection": "يبدأ من يومك الأول كعضو",
+    "firstDay_product_selection": "يبدأ من يومك الأول كعضو",
+    "unknown_treatment_selection": "يبدأ بعد {{period}} كعضو",
+    "unknown_product_selection": "يبدأ بعد {{period}} كعضو",
+    "select_one": "اختر 1 من العلاجات أدناه مجاناً كل شهر",
+    "select_one_product": "اختر 1 من المنتجات أدناه مجاناً كل شهر",
+    "select_free_treatment": "اختر علاجك المجاني",
+    "select_free_product": "اختر منتجك المجاني",
+    "are_you_sure": "هل أنت متأكد أنك تريد اختيار هذا العلاج؟",
+    "are_you_sure_product": "هل أنت متأكد أنك تريد اختيار هذا المنتج؟",
+    "are_you_sure_cancel": "هل أنت متأكد أنك تريد إلغاء عضويتك؟",
+    "sure": "نعم، متأكد",
+    "no": "لا، أخطأت",
+    "number_updated": "تم تحديث عدد الوحدات لهذا العلاج بنجاح",
+    "number_updated_product": "تم تحديث عدد الوحدات لهذا المنتج بنجاح",
+    "you_can_see": "يمكنك الآن رؤية الوحدات المتبقية وتخطيط جلساتك القادمة.",
+    "you_can_see_product": "يمكنك الآن رؤية الوحدات المتبقية وتخطيط جلساتك القادمة."
+  },
+  "cart_screen": {
+    "screen_title": "سلة التسوق",
+    "clinic_price_applied": "تم تطبيق تسعير {{clinic}}",
+    "summury": "الملخص",
+    "promo_code": "رمز الترويج",
+    "add_promo_code": "أضف رمز ترويجي",
+    "order_summury": "ملخص الطلب",
+    "subtotal": "المجموع الفرعي",
+    "cash_wallet": "محفظة نقدية",
+    "rewardDiscount": "خصم من المكافأة",
+    "membership_discount": "خصم العضوية",
+    "tax": "الضريبة ورسوم الخدمة",
+    "total": "إجمالي الطلب",
+    "totalMaj": "إجمالي الطلب",
+    "clinic_cash": "{{amount}} {{clinic}}",
+    "checkout": "ادفع الآن",
+    "place_order": "قدم الطلب",
+    "order_confirmed": "استعد، تم تأكيد طلبك!",
+    "points_tracker": "متعقِّب النقاط",
+    "your_purchance": "مساعدتك في الشراء ساعدتك في كسب المكافأة التالية!",
+    "reward_unlocked": "مكافأة تم فتحها",
+    "rewards_unlocked": "مكافآت تم فتحها",
+    "amount_unlocked": "${{amount}} نحو أول عملية شراء داخل التطبيق",
+    "can_convert_amount": "يمكن تحويلها إلى ${{amount}} نقداً",
+    "edit_product": "تعديل المنتج",
+    "delete": "حذف",
+    "empty_cart": "السلة فارغة، أضف بعض المنتجات",
+    "cashExceeds": "عذراً، لا يمكن أن يتجاوز رصيد النقد ({{allowedMerchantCashPercentage}}٪) من قيمة السلة الإجمالية",
+    "loseMoney": "سنخسر المال 😞",
+    "useOnly": "يمكنك إضافة المزيد من العلاجات إلى سلتك، أو استخدام فقط {{amount}} من رصيدك النقدي المتاح لهذا العلاج الآن.",
+    "disallowed": "عذراً، لا يمكن استخدام رصيدك النقدي لـ {{number}} علاج(ات)",
+    "removeFromCart": "إزالة من السلة"
+  },
+  "dates": {
+    "minute": "دقيقة",
+    "minutes": "دقائق",
+    "hour": "ساعة",
+    "hours": "ساعات",
+    "day": "يوم",
+    "days": "أيام",
+    "month": "شهر",
+    "months": "أشهر",
+    "year": "سنة",
+    "years": "سنوات",
+    "now": "الآن",
+    "invalid": ""
+  },
+  "errors": {
+    "email_already_used": "هذا البريد الإلكتروني مستخدم بالفعل. يرجى استخدام بريد آخر.",
+    "login_error": "فشل تسجيل الدخول. تحقق من رقمك ثم أعد المحاولة.",
+    "signup_error": "فشل التسجيل. تأكد من صحة بياناتك ثم حاول مرة أخرى.",
+    "undifined_error": "عذراً! حدث خطأ ما.",
+    "otp_not_valid": "الرمز الذي أدخلته غير صحيح. يرجى التحقق وإعادة المحاولة.",
+    "create_account": "لم نتمكن من إنشاء حسابك. يرجى التحقق من بياناتك وإعادة المحاولة.",
+    "date": {
+      "invalid_date": "التاريخ بتنسيق خاطئ. استخدم يوم/شهر/سنة.",
+      "invalid_month": "يرجى اختيار تاريخ ميلاد صالح.",
+      "invalid_day": "يرجى اختيار تاريخ ميلاد صالح.",
+      "invalid_birthdate": "لا يمكن أن يكون تاريخ ميلادك من المستقبل. يرجى اختيار تاريخ صالح."
+    }
+  },
+  "noDataFound": {
+    "treatment": "لا توجد علاجات متاحة",
+    "treatmentSearch": "لا توجد علاجات متاحة",
+    "product": "لا توجد منتجات متاحة"
+  },
+  "subscription_confirmation": {
+    "this_will_charge": "سيتم خصم {{amount}} مباشرة من بطاقتك. هل أنت متأكد أنك تريد المتابعة؟",
+    "add_card_note": "ملاحظة: تحتاج إلى إضافة وسيلة دفع إلى حسابك",
+    "confirm_subscription": "تأكيد الاشتراك",
+    "yes": "نعم، متابعة",
+    "no": "لا، إلغاء"
+  },
+  "taxSheet": {
+    "title": "٢.٥٪ ضريبة ورسوم خدمة",
+    "description": "تستخدم هذه الرسوم لتعويض التكاليف الإدارية المرتبطة بعلاجك أو خدمتك.",
+    "button": "فهمت"
+  },
+  "payment": {
+    "retry_failed_title": "فشل الدفع",
+    "retry_failed_message": "لم نتمكن من معالجة دفعتك. يرجى تحديث وسيلة الدفع للمتابعة."
+  },
+  "treatments": {
+    "redeem_multiple": "استبدال {{count}} علاج"
+  },
+  "products": {
+    "redeem_multiple": "استبدال {{count}} منتج"
+  },
+  "custom_plan": {
+    "delete_title": "حذف الخطة المخصصة",
+    "delete_description": "هل أنت متأكد أنك تريد حذف هذه الخطة المخصصة؟",
+    "delete": "حذف",
+    "cancel": "إلغاء"
+  },
+  "no_search_results": {
+    "title": "لم يتم العثور على نتائج",
+    "description": "يبدو أننا لم نعثر على أي شيء يطابق بحثك.",
+    "try_new": "جرب كلمات مفتاحية مختلفة أو تحقق من الأخطاء الإملائية."
+  }
+}
